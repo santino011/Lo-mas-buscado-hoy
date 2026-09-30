@@ -11,6 +11,7 @@ import argparse, json, os, re, unicodedata, urllib.request
 from datetime import datetime, timezone, timedelta
 from html import escape as E
 from pathlib import Path
+from urllib.parse import quote
 import xml.etree.ElementTree as ET
 
 FEED = "https://trends.google.com/trending/rss?geo={geo}"
@@ -41,7 +42,9 @@ h1{font-size:2rem;line-height:1.15;margin:.2em 0;font-weight:800}h2{font-size:1.
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
 .card{display:block;background:var(--card);border:1px solid var(--ln);border-radius:16px;padding:16px;text-decoration:none;color:var(--fg);box-shadow:0 1px 2px rgba(20,22,31,.06);transition:transform .15s,box-shadow .15s}
 .card:hover{transform:translateY(-3px);box-shadow:0 8px 20px rgba(91,61,245,.15)}
-.card .top{display:flex;justify-content:space-between;align-items:center}.emo{font-size:28px}.rk{font-weight:800;font-size:20px;color:var(--ac)}
+.card .top{display:flex;justify-content:space-between;align-items:center}.tile{display:grid;place-items:center;width:44px;height:44px;border-radius:14px;background:color-mix(in srgb,var(--tc) 14%,transparent);color:var(--tc)}
+.rk{width:28px;height:28px;border-radius:50%;display:grid;place-items:center;font-weight:800;font-size:13px;background:var(--chip);color:var(--ac)}
+.rk.g1{background:#f5b301;color:#3b2a00}.rk.g2{background:#b8bfcc;color:#1e2530}.rk.g3{background:#d08a4f;color:#2e1800}
 .card h3{margin:6px 0 8px;font-size:1.1rem;line-height:1.25;text-transform:capitalize}
 .vol{display:inline-block;background:var(--chip);color:var(--ac);border-radius:99px;padding:2px 10px;font-size:12px;font-weight:700}
 .card p{margin:4px 0}
@@ -50,6 +53,14 @@ h1{font-size:2rem;line-height:1.15;margin:.2em 0;font-weight:800}h2{font-size:1.
 .link{display:block;background:var(--card);border:1px solid var(--ln);border-radius:14px;padding:12px 14px;text-decoration:none;color:var(--fg)}
 .link:hover{border-color:var(--ac)}.link b{display:block;margin-bottom:2px}
 .ad{margin:18px 0;min-height:100px;text-align:center}.ad small{display:block;color:var(--mu);font-size:11px;margin-bottom:4px}.ad.wide{grid-column:1/-1}
+.ic{flex:none;vertical-align:-3px}h2{display:flex;align-items:center;gap:8px}
+.logo{display:inline-flex;align-items:center}
+.mark{display:inline-grid;place-items:center;width:32px;height:32px;border-radius:10px;background:linear-gradient(135deg,var(--ac),var(--ac2));color:#fff;margin-right:8px}
+nav a{display:inline-flex;align-items:center;gap:6px}
+.cc{display:inline-block;margin-left:4px;padding:1px 7px;border-radius:99px;background:var(--chip);color:var(--ac);font-size:11px;font-weight:800;letter-spacing:.04em}
+nav .cc{margin:0}.hero .cc{background:rgba(255,255,255,.22);color:#fff}
+.hl{display:flex;align-items:center;gap:6px;flex-wrap:wrap}.card .m{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.more{display:inline-flex;align-items:center;gap:6px}
 footer{border-top:1px solid var(--ln);margin-top:32px;font-size:13px;line-height:1.7;color:var(--mu)}"""
 
 JS = """var q=document.getElementById('q');
@@ -135,24 +146,50 @@ def ai_text(term, news):
     return "" if text.upper().startswith("NADA") else text
 
 
-EMO = [(r"f[uú]tbol|boca|river|racing|independiente|selecci[oó]n|mundial|liga|copa|gol\b", "⚽"),
-       (r"\bvs\b|partido|nba|nfl|ufc|tenis|carrera|f1", "🏟️"),
-       (r"receta|comida|empanada|torta|pan dulce|salsa|cocina", "🍽️"),
-       (r"clima|tormenta|lluvia|alerta|temperatura|calor", "🌦️"),
-       (r"d[oó]lar|bolsa|inflaci[oó]n|banco|precio|cripto|bitcoin", "💸"),
-       (r"pel[ií]cula|serie|netflix|estreno|concierto|vmas|premios|cantante|festival", "🎬"),
-       (r"elecci|presidente|gobierno|congreso|milei|ley\b", "🏛️"),
-       (r"iphone|samsung|celular|chatgpt|tecnolog|juego|ps5", "📱"),
-       (r"salud|vacuna|gripe|hospital", "🩺")]
-MEDALS = ["🥇", "🥈", "🥉"]
+ICONS = {
+    "search": '<circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/>',
+    "trend": '<path d="M3 17l6-6 4 4 8-8"/><path d="M15 7h6v6"/>',
+    "sport": '<path d="M8 4h8v5a4 4 0 0 1-8 0z"/><path d="M8 6H5a3 3 0 0 0 3 4M16 6h3a3 3 0 0 1-3 4M12 13v4M9 20h6M10 17h4"/>',
+    "match": '<path d="M5 21V4"/><path d="M5 5h12l-2 4 2 4H5"/>',
+    "food": '<path d="M7 3v8M5 3v5a2 2 0 0 0 4 0V3M7 11v10"/><path d="M17 3c-2 2-3 5-3 8h3v10"/>',
+    "weather": '<path d="M7 16a4 4 0 0 1 .5-8 5 5 0 0 1 9.5 1.5A3.5 3.5 0 0 1 17 16z"/><path d="M9 19l-1 2M13 19l-1 2M17 19l-1 2"/>',
+    "money": '<path d="M5 20V12M12 20V5M19 20v-9"/><path d="M3 20h18"/>',
+    "film": '<rect x="3" y="6" width="18" height="14" rx="2"/><path d="M3 10h18M7 6l2 4M12 6l2 4M17 6l2 4"/>',
+    "gov": '<path d="M3 9l9-5 9 5"/><path d="M5 10v8M10 10v8M14 10v8M19 10v8M3 20h18"/>',
+    "tech": '<rect x="7" y="2.5" width="10" height="19" rx="2.5"/><path d="M11 18h2"/>',
+    "health": '<rect x="4" y="4" width="16" height="16" rx="4"/><path d="M12 8v8M8 12h8"/>',
+    "news": '<rect x="4" y="4" width="16" height="16" rx="2"/><path d="M8 9h8M8 13h8M8 17h5"/>',
+    "home": '<path d="M4 11l8-7 8 7"/><path d="M6 10v10h12V10"/>',
+    "cal": '<rect x="4" y="5" width="16" height="15" rx="2"/><path d="M4 10h16M9 3v4M15 3v4"/>',
+    "out": '<path d="M8 16L16 8M9 8h7v7"/>',
+}
+CATS = [(r"f[uú]tbol|boca|river|racing|independiente|selecci[oó]n|mundial|liga|copa|gol\b", "sport", "#16a34a"),
+        (r"\bvs\b|partido|nba|nfl|ufc|tenis|carrera|f1", "match", "#d97706"),
+        (r"receta|comida|empanada|torta|pan dulce|salsa|cocina", "food", "#ea580c"),
+        (r"clima|tormenta|lluvia|alerta|temperatura|calor", "weather", "#0284c7"),
+        (r"d[oó]lar|bolsa|inflaci[oó]n|banco|precio|cripto|bitcoin", "money", "#059669"),
+        (r"pel[ií]cula|serie|netflix|estreno|concierto|vmas|premios|cantante|festival", "film", "#db2777"),
+        (r"elecci|presidente|gobierno|congreso|milei|ley\b", "gov", "#4f46e5"),
+        (r"iphone|samsung|celular|chatgpt|tecnolog|juego|ps5", "tech", "#0891b2"),
+        (r"salud|vacuna|gripe|hospital", "health", "#e11d48")]
+FAVICON = "data:image/svg+xml," + quote(
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">'
+    '<stop offset="0" stop-color="#5b3df5"/><stop offset="1" stop-color="#00b8a9"/></linearGradient></defs>'
+    '<rect width="32" height="32" rx="8" fill="url(#g)"/><g fill="none" stroke="#fff" stroke-width="2.6" '
+    'stroke-linecap="round"><circle cx="14.5" cy="14.5" r="6.5"/><path d="M19.5 19.5l6 6"/></g></svg>')
 
 
-def emoji(term):
-    return next((e for pat, e in EMO if re.search(pat, term, re.I)), "🔥")
+def icon(name, size=20):
+    return (f'<svg class="ic" width="{size}" height="{size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" '
+            f'stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{ICONS[name]}</svg>')
 
 
-def flag(g):
-    return "".join(chr(0x1F1E6 + ord(ch) - 65) for ch in g.upper()) if len(g) == 2 else "🌎"
+def kind(term):
+    return next(((n, col) for pat, n, col in CATS if re.search(pat, term, re.I)), ("trend", "#5b3df5"))
+
+
+def cc(g):
+    return f'<span class="cc">{E(g.upper())}</span>'
 
 
 def ad(c, wide=False):
@@ -167,9 +204,9 @@ def ad(c, wide=False):
 
 def layout(c, title, desc, path, body, ld=None, top_ad=True):
     url = c["site"] + path
-    nav = f'<a href="{c["site"]}/">🏠 Inicio</a>' + "".join(
-        f'<a href="{c["site"]}/{g.lower()}/">{flag(g)} {COUNTRIES.get(g, g)}</a>' for g in c["geos"]) + \
-        f'<a href="{c["site"]}/historial/">🗓️ Historial</a>'
+    nav = (f'<a href="{c["site"]}/">{icon("home", 16)} Inicio</a>' + "".join(
+        f'<a href="{c["site"]}/{g.lower()}/">{cc(g)} {COUNTRIES.get(g, g)}</a>' for g in c["geos"]) +
+        f'<a href="{c["site"]}/historial/">{icon("cal", 16)} Historial</a>')
     foot = (f'<a href="{c["site"]}/quienes-somos.html">Quiénes somos</a> · '
             f'<a href="{c["site"]}/privacidad.html">Privacidad</a> · '
             f'<a href="{c["site"]}/terminos.html">Términos</a> · <a href="{c["site"]}/cookies.html">Cookies</a>' +
@@ -185,8 +222,8 @@ def layout(c, title, desc, path, body, ld=None, top_ad=True):
             f'<title>{E(title)}</title><meta name="description" content="{E(desc)}">'
             f'<link rel="canonical" href="{E(url)}"><meta property="og:title" content="{E(title)}">'
             f'<meta property="og:description" content="{E(desc)}"><meta property="og:type" content="website">'
-            f'<style>{CSS}</style>{ldt}{ana}{adjs}</head><body>'
-            f'<header><a class="logo" href="{c["site"]}/">🔎 {E(c["name"])}</a><nav>{nav}</nav></header>'
+            f'<link rel="icon" href="{FAVICON}"><style>{CSS}</style>{ldt}{ana}{adjs}</head><body>'
+            f'<header><a class="logo" href="{c["site"]}/"><span class="mark">{icon("search", 18)}</span>{E(c["name"])}</a><nav>{nav}</nav></header>'
             f'<main>{ad(c) if top_ad else ""}{body}</main><footer>{E(c["name"])} · Datos de Google Trends. Los enlaces '
             f'llevan a notas de otros medios.<br>{foot}</footer><script>{JS}</script></body></html>')
 
@@ -198,12 +235,13 @@ def cards(c, items, ranked=False):
     for i, (slug, t) in enumerate(items):
         if ranked and i == 6:
             out.append(ad(c, wide=True))
-        badge = (MEDALS[i] if i < 3 else f"#{i + 1}") if ranked else ""
-        flags = " ".join(flag(g) for g in t["geos"])
+        name, col = kind(t["term"])
+        badge = f'<span class="rk g{i + 1 if i < 3 else 0}">{i + 1}</span>' if ranked else ""
+        chips = "".join(cc(g) for g in t["geos"])
         out.append(f'<a class="card" data-t="{E(t["term"].lower())}" href="{c["site"]}/tema/{slug}.html">'
-                   f'<div class="top"><span class="emo">{emoji(t["term"])}</span><span class="rk">{badge}</span></div>'
+                   f'<div class="top"><span class="tile" style="--tc:{col}">{icon(name, 24)}</span>{badge}</div>'
                    f'<h3>{E(t["term"])}</h3><p><span class="vol">{E(human(volume(t["traffic"])) or "En tendencia")}</span></p>'
-                   f'<p class="m">📰 {len(t["news"])} notas · {flags}</p></a>')
+                   f'<p class="m">{icon("news", 13)} {len(t["news"])} notas {chips}</p></a>')
     return '<div class="grid">' + "".join(out) + "</div>"
 
 
@@ -275,12 +313,12 @@ def main():
     def index(geo, path):
         name = COUNTRIES.get(geo, geo)
         items = recent(geo)
-        body = (f'<section class="hero"><p class="m">🔎 Tendencias en vivo · {flag(geo)} {E(name)}</p>'
-                f'<h1>Lo más buscado hoy en {E(name)} 🔥</h1>'
+        body = (f'<section class="hero"><p class="m hl">{icon("search", 15)} Tendencias en vivo {cc(geo)}</p>'
+                f'<h1>Lo más buscado hoy en {E(name)}</h1>'
                 f'<p>Los temas que más crecieron en Google en las últimas 24 horas.</p>{upd}</section>'
                 f'{tools}{cards(c, items, True)}{ad(c)}')
         if len(days) > 1:
-            body += f'<p><a href="{c["site"]}/dia/{days[1]}.html">🗓️ Ver lo que se buscó ayer →</a></p>'
+            body += f'<p><a class="more" href="{c["site"]}/dia/{days[1]}.html">{icon("cal", 16)} Ver lo que se buscó ayer →</a></p>'
         return layout(c, f"Lo más buscado hoy en {name}: tendencias de Google",
                       f"Qué está buscando la gente hoy en {name}: los temas en tendencia de Google, actualizados cada 30 minutos.",
                       path, body)
@@ -295,17 +333,17 @@ def main():
         ai = (f'<div class="box"><p>{E(t["ai"])}</p><p class="m">Resumen generado automáticamente a partir de '
               f'los titulares de abajo.</p></div>') if t.get("ai") else ""
         links = "".join(f'<a class="link" href="{E(n["url"])}" target="_blank" rel="nofollow noopener noreferrer">'
-                        f'<b>{E(n["title"] or n["url"])}</b><span class="m">📰 Leer en {E(n["source"] or "el medio")} ↗</span></a>'
-                        for n in t["news"])
+                        f'<b>{E(n["title"] or n["url"])}</b><span class="m">Leer en {E(n["source"] or "el medio")} '
+                        f'{icon("out", 13)}</span></a>' for n in t["news"])
         nolinks = '<p class="m">Sin notas asociadas por ahora.</p>'
         rel = [(s2, x) for s2, x in recent() if s2 != slug][:6]
-        paises = ", ".join(f'{flag(g)} {COUNTRIES.get(g, g)}' for g in t["geos"])
-        meta = " · ".join(x for x in [human(volume(t["traffic"])), paises, f'Desde el {fdate(t["first"])}'] if x)
+        chips = "".join(cc(g) for g in t["geos"])
+        meta = E(" · ".join(x for x in [human(volume(t["traffic"])), f'Desde el {fdate(t["first"])}'] if x))
         body = (f'<p class="m"><a href="{c["site"]}/">← Lo más buscado hoy</a></p>'
-                f'<section class="hero"><p class="m">{emoji(t["term"])} Tendencia · {E(meta)}</p>'
+                f'<section class="hero"><p class="m hl">{icon(kind(t["term"])[0], 15)} Tendencia · {meta} {chips}</p>'
                 f'<h1>{E(t["term"])}: por qué es tendencia hoy</h1></section>{ai}{own}{ad(c)}'
-                f'<h2>📰 Qué dicen los medios</h2><div class="links">{links or nolinks}</div>{ad(c)}'
-                f'<h2>🔥 Otros temas del momento</h2>{cards(c, rel)}')
+                f'<h2>{icon("news", 20)} Qué dicen los medios</h2><div class="links">{links or nolinks}</div>{ad(c)}'
+                f'<h2>{icon("trend", 20)} Otros temas del momento</h2>{cards(c, rel)}')
         url = f'/tema/{slug}.html'
         ld = {"@context": "https://schema.org", "@type": "WebPage", "name": t["term"], "url": c["site"] + url,
               "dateModified": t["seen"], "datePublished": t["first"]}
