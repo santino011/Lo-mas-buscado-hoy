@@ -4,7 +4,7 @@
   python3 generate.py --geo AR,MX,CL --site https://tudominio.com --out ./public
 
 Variables de entorno opcionales:
-  GEO, SITE_NAME, CONTACT_EMAIL, PLAUSIBLE_DOMAIN, ANTHROPIC_API_KEY, AI_MODEL
+  GEO, SITE_NAME, OWNER_NAME, CONTACT_EMAIL, PLAUSIBLE_DOMAIN, ADSENSE_CLIENT, ADSENSE_SLOT, ANTHROPIC_API_KEY, AI_MODEL
 Texto propio por tema: extras/<slug>.txt (párrafos separados por línea en blanco).
 """
 import argparse, json, os, re, unicodedata, urllib.request
@@ -21,24 +21,36 @@ MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto
 SENSIBLE = re.compile(r"muri|muer|falleci|accident|tragedi|atentad|asesin|violaci|suicid|c[aá]ncer|"
                       r"medicament|retiro|recall|incendio|tiroteo|femicid|desaparec|abuso", re.I)
 
-CSS = """:root{--bg:#faf8f4;--fg:#1c1b19;--mu:#6b675f;--card:#fff;--ln:#e4dfd5;--ac:#c2410c;--chip:#efe9dd}
-@media(prefers-color-scheme:dark){:root{--bg:#161513;--fg:#f1eee8;--mu:#a09a8e;--card:#201f1c;--ln:#34312b;--ac:#fb923c;--chip:#2a2823}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 Georgia,serif}
+CSS = """:root{--bg:#f6f7fb;--fg:#14161f;--mu:#5b6072;--card:#fff;--ln:#e3e6f0;--ac:#5b3df5;--ac2:#00b8a9;--chip:#eceefb}
+@media(prefers-color-scheme:dark){:root{--bg:#0e1120;--fg:#eef0fa;--mu:#9aa1bd;--card:#171b2f;--ln:#262b47;--ac:#8b7bff;--ac2:#2dd4bf;--chip:#20264a}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 [hidden]{display:none!important}a{color:var(--ac)}
-header,main,footer{max-width:900px;margin:0 auto;padding:16px}
-header{display:flex;flex-wrap:wrap;gap:8px 20px;align-items:baseline;border-bottom:1px solid var(--ln)}
-.logo{font:700 20px system-ui,sans-serif;color:var(--fg);text-decoration:none}
-nav{display:flex;flex-wrap:wrap;gap:6px 14px;font:14px system-ui,sans-serif}
-h1{font-size:2rem;line-height:1.15;margin:.3em 0}h2{font-size:1.15rem;margin:1.4em 0 .4em}
-.m{color:var(--mu);font:13px/1.4 system-ui,sans-serif;margin:0}
-.bar{display:flex;gap:8px;margin:14px 0;font-family:system-ui,sans-serif}
-.bar input{flex:1;min-width:0;padding:9px 12px;border:1px solid var(--ln);border-radius:10px;background:var(--card);color:var(--fg);font-size:15px}
-.bar button{border:1px solid var(--ac);background:none;color:var(--ac);border-radius:10px;padding:9px 14px;cursor:pointer;font-size:14px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
-.card{display:block;background:var(--card);border:1px solid var(--ln);border-radius:12px;padding:14px;text-decoration:none;color:var(--fg)}
-.card:hover{border-color:var(--ac)}.card h3{margin:0 0 6px;font-size:1.1rem;line-height:1.25;text-transform:capitalize}
-.box{background:var(--card);border:1px solid var(--ln);border-radius:12px;padding:14px;margin:16px 0}
-li{margin:8px 0}footer{border-top:1px solid var(--ln);margin-top:32px;font:13px/1.6 system-ui,sans-serif;color:var(--mu)}"""
+header,main,footer{max-width:960px;margin:0 auto;padding:16px}
+header{display:flex;flex-wrap:wrap;gap:10px 20px;align-items:center}
+.logo{font-weight:800;font-size:20px;color:var(--fg);text-decoration:none}
+nav{display:flex;flex-wrap:wrap;gap:8px;font-size:14px}
+nav a{padding:6px 12px;border-radius:99px;background:var(--chip);color:var(--fg);text-decoration:none}
+nav a:hover{background:var(--ac);color:#fff}
+h1{font-size:2rem;line-height:1.15;margin:.2em 0;font-weight:800}h2{font-size:1.2rem;margin:1.6em 0 .6em;font-weight:800}
+.m{color:var(--mu);font-size:13px;line-height:1.4;margin:0}
+.hero{background:linear-gradient(135deg,var(--ac),var(--ac2));color:#fff;border-radius:20px;padding:22px;margin:8px 0 16px}
+.hero h1{color:#fff}.hero p{margin:6px 0 0}.hero .m{color:rgba(255,255,255,.88)}
+.bar{display:flex;gap:8px;margin:14px 0}
+.bar input{flex:1;min-width:0;padding:10px 14px;border:1px solid var(--ln);border-radius:12px;background:var(--card);color:var(--fg);font-size:15px}
+.bar button{border:0;background:var(--ac);color:#fff;border-radius:12px;padding:10px 16px;cursor:pointer;font-size:14px;font-weight:600}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.card{display:block;background:var(--card);border:1px solid var(--ln);border-radius:16px;padding:16px;text-decoration:none;color:var(--fg);box-shadow:0 1px 2px rgba(20,22,31,.06);transition:transform .15s,box-shadow .15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 8px 20px rgba(91,61,245,.15)}
+.card .top{display:flex;justify-content:space-between;align-items:center}.emo{font-size:28px}.rk{font-weight:800;font-size:20px;color:var(--ac)}
+.card h3{margin:6px 0 8px;font-size:1.1rem;line-height:1.25;text-transform:capitalize}
+.vol{display:inline-block;background:var(--chip);color:var(--ac);border-radius:99px;padding:2px 10px;font-size:12px;font-weight:700}
+.card p{margin:4px 0}
+.box{background:var(--card);border:1px solid var(--ln);border-left:4px solid var(--ac2);border-radius:14px;padding:14px 16px;margin:16px 0}
+.links{display:grid;gap:10px}
+.link{display:block;background:var(--card);border:1px solid var(--ln);border-radius:14px;padding:12px 14px;text-decoration:none;color:var(--fg)}
+.link:hover{border-color:var(--ac)}.link b{display:block;margin-bottom:2px}
+.ad{margin:18px 0;min-height:100px;text-align:center}.ad small{display:block;color:var(--mu);font-size:11px;margin-bottom:4px}.ad.wide{grid-column:1/-1}
+footer{border-top:1px solid var(--ln);margin-top:32px;font-size:13px;line-height:1.7;color:var(--mu)}"""
 
 JS = """var q=document.getElementById('q');
 if(q)q.addEventListener('input',function(){var v=q.value.toLowerCase();document.querySelectorAll('.card').forEach(function(c){c.hidden=c.dataset.t.indexOf(v)<0})});
@@ -123,16 +135,49 @@ def ai_text(term, news):
     return "" if text.upper().startswith("NADA") else text
 
 
-def layout(c, title, desc, path, body, ld=None):
+EMO = [(r"f[uú]tbol|boca|river|racing|independiente|selecci[oó]n|mundial|liga|copa|gol\b", "⚽"),
+       (r"\bvs\b|partido|nba|nfl|ufc|tenis|carrera|f1", "🏟️"),
+       (r"receta|comida|empanada|torta|pan dulce|salsa|cocina", "🍽️"),
+       (r"clima|tormenta|lluvia|alerta|temperatura|calor", "🌦️"),
+       (r"d[oó]lar|bolsa|inflaci[oó]n|banco|precio|cripto|bitcoin", "💸"),
+       (r"pel[ií]cula|serie|netflix|estreno|concierto|vmas|premios|cantante|festival", "🎬"),
+       (r"elecci|presidente|gobierno|congreso|milei|ley\b", "🏛️"),
+       (r"iphone|samsung|celular|chatgpt|tecnolog|juego|ps5", "📱"),
+       (r"salud|vacuna|gripe|hospital", "🩺")]
+MEDALS = ["🥇", "🥈", "🥉"]
+
+
+def emoji(term):
+    return next((e for pat, e in EMO if re.search(pat, term, re.I)), "🔥")
+
+
+def flag(g):
+    return "".join(chr(0x1F1E6 + ord(ch) - 65) for ch in g.upper()) if len(g) == 2 else "🌎"
+
+
+def ad(c, wide=False):
+    """Espacio publicitario de AdSense: solo se dibuja si configuraste ADSENSE_CLIENT y ADSENSE_SLOT."""
+    if not (c["ads"] and c["slot"]):
+        return ""
+    return (f'<div class="ad{" wide" if wide else ""}"><small>Publicidad</small><ins class="adsbygoogle" '
+            f'style="display:block" data-ad-client="{E(c["ads"])}" data-ad-slot="{E(c["slot"])}" '
+            f'data-ad-format="auto" data-full-width-responsive="true"></ins>'
+            f'<script>(adsbygoogle=window.adsbygoogle||[]).push({{}});</script></div>')
+
+
+def layout(c, title, desc, path, body, ld=None, top_ad=True):
     url = c["site"] + path
-    nav = f'<a href="{c["site"]}/">Inicio</a>' + "".join(
-        f'<a href="{c["site"]}/{g.lower()}/">{COUNTRIES.get(g, g)}</a>' for g in c["geos"]) + \
-        f'<a href="{c["site"]}/historial/">Historial</a>'
+    nav = f'<a href="{c["site"]}/">🏠 Inicio</a>' + "".join(
+        f'<a href="{c["site"]}/{g.lower()}/">{flag(g)} {COUNTRIES.get(g, g)}</a>' for g in c["geos"]) + \
+        f'<a href="{c["site"]}/historial/">🗓️ Historial</a>'
     foot = (f'<a href="{c["site"]}/quienes-somos.html">Quiénes somos</a> · '
-            f'<a href="{c["site"]}/privacidad.html">Privacidad</a>' +
+            f'<a href="{c["site"]}/privacidad.html">Privacidad</a> · '
+            f'<a href="{c["site"]}/terminos.html">Términos</a> · <a href="{c["site"]}/cookies.html">Cookies</a>' +
             (f' · <a href="{c["site"]}/contacto.html">Contacto</a>' if c["email"] else ""))
     ana = (f'<script defer data-domain="{E(c["plausible"])}" src="https://plausible.io/js/script.js"></script>'
            if c["plausible"] else "")
+    adjs = (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={E(c["ads"])}" '
+            f'crossorigin="anonymous"></script>' if c["ads"] else "")
     ldt = (f'<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False).replace("<", chr(92) + "u003c")}</script>'
            if ld else "")
     return (f'<!DOCTYPE html><html lang="es"><head><meta charset="utf-8">'
@@ -140,20 +185,25 @@ def layout(c, title, desc, path, body, ld=None):
             f'<title>{E(title)}</title><meta name="description" content="{E(desc)}">'
             f'<link rel="canonical" href="{E(url)}"><meta property="og:title" content="{E(title)}">'
             f'<meta property="og:description" content="{E(desc)}"><meta property="og:type" content="website">'
-            f'<style>{CSS}</style>{ldt}{ana}</head><body>'
-            f'<header><a class="logo" href="{c["site"]}/">{E(c["name"])}</a><nav>{nav}</nav></header>'
-            f'<main>{body}</main><footer>{E(c["name"])} · Datos de Google Trends. Los enlaces llevan a notas de '
-            f'otros medios.<br>{foot}</footer><script>{JS}</script></body></html>')
+            f'<style>{CSS}</style>{ldt}{ana}{adjs}</head><body>'
+            f'<header><a class="logo" href="{c["site"]}/">🔎 {E(c["name"])}</a><nav>{nav}</nav></header>'
+            f'<main>{ad(c) if top_ad else ""}{body}</main><footer>{E(c["name"])} · Datos de Google Trends. Los enlaces '
+            f'llevan a notas de otros medios.<br>{foot}</footer><script>{JS}</script></body></html>')
 
 
-def cards(c, items):
+def cards(c, items, ranked=False):
     if not items:
         return '<p class="m">Todavía no hay temas.</p>'
     out = []
-    for slug, t in items:
-        v = human(volume(t["traffic"]))
+    for i, (slug, t) in enumerate(items):
+        if ranked and i == 6:
+            out.append(ad(c, wide=True))
+        badge = (MEDALS[i] if i < 3 else f"#{i + 1}") if ranked else ""
+        flags = " ".join(flag(g) for g in t["geos"])
         out.append(f'<a class="card" data-t="{E(t["term"].lower())}" href="{c["site"]}/tema/{slug}.html">'
-                   f'<h3>{E(t["term"])}</h3><p class="m">{E(v)}</p><p class="m">{len(t["news"])} notas</p></a>')
+                   f'<div class="top"><span class="emo">{emoji(t["term"])}</span><span class="rk">{badge}</span></div>'
+                   f'<h3>{E(t["term"])}</h3><p><span class="vol">{E(human(volume(t["traffic"])) or "En tendencia")}</span></p>'
+                   f'<p class="m">📰 {len(t["news"])} notas · {flags}</p></a>')
     return '<div class="grid">' + "".join(out) + "</div>"
 
 
@@ -173,7 +223,8 @@ def main():
     a = ap.parse_args()
     geos = [g.strip().upper() for g in a.geo.split(",") if g.strip()]
     c = {"site": a.site.rstrip("/"), "geos": geos, "name": os.environ.get("SITE_NAME") or "Lo Más Buscado",
-         "email": os.environ.get("CONTACT_EMAIL", ""), "plausible": os.environ.get("PLAUSIBLE_DOMAIN", "")}
+         "email": os.environ.get("CONTACT_EMAIL", ""), "plausible": os.environ.get("PLAUSIBLE_DOMAIN", ""),
+         "ads": os.environ.get("ADSENSE_CLIENT", ""), "slot": os.environ.get("ADSENSE_SLOT", "")}
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
     now = datetime.now(timezone.utc)
@@ -222,12 +273,14 @@ def main():
     days = sorted({t["first"][:10] for t in db.values()}, reverse=True)
 
     def index(geo, path):
-        name = COUNTRIES.get(geo, geo) if geo else "el mundo hispano"
+        name = COUNTRIES.get(geo, geo)
         items = recent(geo)
-        body = (f'<h1>Lo más buscado hoy en {E(name)}</h1><p class="m">Los temas que más crecieron en Google en las '
-                f'últimas 24 horas.</p>{upd}{tools}{cards(c, items)}')
+        body = (f'<section class="hero"><p class="m">🔎 Tendencias en vivo · {flag(geo)} {E(name)}</p>'
+                f'<h1>Lo más buscado hoy en {E(name)} 🔥</h1>'
+                f'<p>Los temas que más crecieron en Google en las últimas 24 horas.</p>{upd}</section>'
+                f'{tools}{cards(c, items, True)}{ad(c)}')
         if len(days) > 1:
-            body += f'<p><a href="{c["site"]}/dia/{days[1]}.html">Ver lo que se buscó ayer →</a></p>'
+            body += f'<p><a href="{c["site"]}/dia/{days[1]}.html">🗓️ Ver lo que se buscó ayer →</a></p>'
         return layout(c, f"Lo más buscado hoy en {name}: tendencias de Google",
                       f"Qué está buscando la gente hoy en {name}: los temas en tendencia de Google, actualizados cada 30 minutos.",
                       path, body)
@@ -241,15 +294,18 @@ def main():
         own = "".join(f"<p>{E(p)}</p>" for p in extra.read_text("utf-8").split("\n\n")) if extra.exists() else ""
         ai = (f'<div class="box"><p>{E(t["ai"])}</p><p class="m">Resumen generado automáticamente a partir de '
               f'los titulares de abajo.</p></div>') if t.get("ai") else ""
-        links = "".join(f'<li><a href="{E(n["url"])}" rel="nofollow noopener">{E(n["title"] or n["url"])}</a> '
-                        f'<span class="m">{E(n["source"])}</span></li>' for n in t["news"])
-        rel = [(s, x) for s, x in recent() if s != slug][:6]
-        paises = ", ".join(COUNTRIES.get(g, g) for g in t["geos"])
+        links = "".join(f'<a class="link" href="{E(n["url"])}" target="_blank" rel="nofollow noopener noreferrer">'
+                        f'<b>{E(n["title"] or n["url"])}</b><span class="m">📰 Leer en {E(n["source"] or "el medio")} ↗</span></a>'
+                        for n in t["news"])
+        nolinks = '<p class="m">Sin notas asociadas por ahora.</p>'
+        rel = [(s2, x) for s2, x in recent() if s2 != slug][:6]
+        paises = ", ".join(f'{flag(g)} {COUNTRIES.get(g, g)}' for g in t["geos"])
         meta = " · ".join(x for x in [human(volume(t["traffic"])), paises, f'Desde el {fdate(t["first"])}'] if x)
         body = (f'<p class="m"><a href="{c["site"]}/">← Lo más buscado hoy</a></p>'
-                f'<h1>{E(t["term"])}: por qué es tendencia hoy</h1><p class="m">{E(meta)}</p>{ai}{own}'
-                f'<h2>Qué dicen los medios</h2><ul>{links or "<li>Sin notas asociadas por ahora.</li>"}</ul>'
-                f'<h2>Otros temas del momento</h2>{cards(c, rel)}')
+                f'<section class="hero"><p class="m">{emoji(t["term"])} Tendencia · {E(meta)}</p>'
+                f'<h1>{E(t["term"])}: por qué es tendencia hoy</h1></section>{ai}{own}{ad(c)}'
+                f'<h2>📰 Qué dicen los medios</h2><div class="links">{links or nolinks}</div>{ad(c)}'
+                f'<h2>🔥 Otros temas del momento</h2>{cards(c, rel)}')
         url = f'/tema/{slug}.html'
         ld = {"@context": "https://schema.org", "@type": "WebPage", "name": t["term"], "url": c["site"] + url,
               "dateModified": t["seen"], "datePublished": t["first"]}
@@ -267,28 +323,108 @@ def main():
                                               "/historial/", f"<h1>Historial</h1><ul>{lst}</ul>"))
 
     name = E(c["name"])
+    owner = E(os.environ.get("OWNER_NAME") or "el titular de este sitio")
+    hoy = fdate(now_iso)
+    mail = (f' Podés escribirnos a <a href="mailto:{E(c["email"])}">{E(c["email"])}</a>.' if c["email"] else "")
+    ads, ana_on = bool(c["ads"]), bool(c["plausible"])
+
+    def doc(title, *secs):
+        parts = "".join(f"<h2>{h}</h2>" + "".join(f"<p>{x}</p>" for x in ps) for h, ps in secs)
+        return f'<h1>{title}</h1><p class="m">Última actualización: {hoy}</p>{parts}'
+
+    terminos = doc("Términos y condiciones",
+        ("1. Aceptación", [f"Al usar {name} aceptás estos términos. Si no estás de acuerdo, te pedimos que no uses el sitio. "
+                           f"El sitio es operado por {owner}."]),
+        ("2. Qué es este sitio", ["Es un sitio informativo que muestra los temas más buscados en Google según Google Trends "
+                                  "y reúne enlaces a notas publicadas por otros medios. No es un medio de noticias ni "
+                                  "produce información periodística propia."]),
+        ("3. Contenido y enlaces de terceros", ["Los titulares, notas y marcas que se mencionan o enlazan pertenecen a sus "
+            "respectivos titulares. No controlamos esos sitios ni somos responsables de su contenido, disponibilidad o "
+            "políticas. Que enlacemos una nota no significa que la avalemos."]),
+        ("4. Resúmenes automáticos", ["Algunos resúmenes se generan automáticamente a partir de los titulares enlazados y "
+            "están señalados como tales. Pueden contener errores u omisiones: la fuente confiable es siempre la nota original."]),
+        ("5. Sin asesoramiento", ["La información del sitio es general y no constituye asesoramiento médico, legal, "
+            "financiero ni de ningún otro tipo profesional."]),
+        ("6. Propiedad intelectual", ["El diseño, el código y los textos propios del sitio están protegidos por la "
+            "legislación de propiedad intelectual. No está permitido copiarlos masivamente ni extraerlos de forma "
+            "automatizada sin autorización. Las marcas de terceros pertenecen a sus dueños."]),
+        ("7. Uso aceptable", ["Te comprometés a no interferir con el funcionamiento del sitio, no intentar acceder a "
+            "sistemas o datos que no sean públicos y no realizar un uso automatizado que genere una carga excesiva."]),
+        ("8. Publicidad", ["El sitio puede mostrar anuncios de terceros. No somos responsables de los productos, servicios "
+            "o promesas de los anunciantes. Más información en la política de cookies."]),
+        ("9. Disponibilidad y responsabilidad", ["El sitio se ofrece \"tal cual\", sin garantías de disponibilidad continua "
+            "ni de que la información esté completa, actualizada o libre de errores. En la medida permitida por la ley, "
+            "no respondemos por daños derivados del uso del sitio o de los sitios enlazados."]),
+        ("10. Contenido que consideres inapropiado", [f"Si sos titular de derechos y creés que algún contenido los afecta, "
+            f"o querés que retiremos un enlace, avisanos y lo revisamos.{mail}"]),
+        ("11. Cambios", ["Podemos modificar estos términos en cualquier momento. La versión vigente es la publicada "
+            "en esta página, con su fecha de actualización."]),
+        ("12. Ley aplicable", ["Estos términos se rigen por las leyes de la República Argentina. Cualquier controversia se "
+            "someterá a los tribunales competentes de ese país."]))
+
+    cookies = doc("Política de cookies",
+        ("Qué son las cookies", ["Son pequeños archivos que un sitio guarda en tu navegador para recordar información o "
+            "medir el uso."]),
+        ("Cookies propias", [f"{name} no usa cookies propias ni de seguimiento."]),
+        ("Estadísticas", [("Usamos Plausible Analytics, un servicio de estadísticas que no usa cookies ni recolecta datos "
+            "personales." if ana_on else "Este sitio no usa herramientas de estadísticas con cookies.")]),
+        ("Publicidad", [("Este sitio muestra anuncios de Google AdSense. Google y sus socios pueden usar cookies e "
+            "identificadores para mostrar anuncios, personalizarlos y medir su rendimiento. Si visitás el sitio desde el "
+            "Espacio Económico Europeo, el Reino Unido o Suiza, vas a ver un aviso de Google para elegir si aceptás "
+            "esas cookies. Podés administrar la personalización en "
+            "<a href=\"https://adssettings.google.com\">adssettings.google.com</a> y leer cómo Google usa los datos en "
+            "<a href=\"https://policies.google.com/technologies/ads\">policies.google.com/technologies/ads</a>."
+            if ads else "Hoy este sitio no muestra publicidad. Si la incorporamos, actualizaremos esta página.")]),
+        ("Sitios de terceros", ["Al abrir una nota de otro medio, ese sitio puede usar sus propias cookies, con sus "
+            "propias políticas."]),
+        ("Cómo controlarlas", ["Podés borrar o bloquear las cookies desde la configuración de tu navegador. Si las bloqueás, "
+            f"el sitio sigue funcionando.{mail}"]))
+
+    privacidad = doc("Política de privacidad",
+        ("Responsable", [f"{owner} es el responsable de {name}.{mail}"]),
+        ("Qué datos recolectamos", [f"{name} no requiere registro y no recolecta datos personales propios. Como en "
+            "cualquier sitio web, el proveedor de alojamiento puede registrar datos técnicos de la visita, como la "
+            "dirección IP, el navegador y la fecha de acceso, con fines de seguridad y funcionamiento."]),
+        ("Estadísticas", [("Usamos Plausible Analytics para medir visitas de forma agregada, sin cookies y sin "
+            "identificarte." if ana_on else "No usamos herramientas de análisis de visitas.")]),
+        ("Publicidad", [("Mostramos anuncios de Google AdSense. Google puede recolectar datos de tu navegación para "
+            "personalizarlos, según se explica en la política de cookies y en "
+            "<a href=\"https://policies.google.com/technologies/ads\">policies.google.com/technologies/ads</a>."
+            if ads else "Hoy no mostramos publicidad de terceros.")]),
+        ("Si nos escribís", [("Si nos enviás un mensaje, usamos tus datos únicamente para responderte y no los cedemos a "
+            "terceros." if c["email"] else "Por ahora no ofrecemos un canal de contacto que recolecte datos.")]),
+        ("Enlaces a terceros", ["Los sitios que enlazamos tienen sus propias políticas de privacidad, que no controlamos."]),
+        ("Menores", ["El sitio no está dirigido a menores de 13 años ni recolecta datos de ellos a sabiendas."]),
+        ("Tus derechos", ["Podés pedir el acceso, la rectificación o la supresión de los datos personales que tengamos "
+            "sobre vos. En Argentina, la Ley 25.326 de Protección de los Datos Personales te reconoce esos derechos, y "
+            "la Agencia de Acceso a la Información Pública es el órgano de control ante el que podés presentar "
+            f"reclamos.{mail}"]),
+        ("Transferencias internacionales", ["Proveedores como el alojamiento, Google o Plausible pueden procesar datos "
+            "en servidores fuera de Argentina, bajo sus propias políticas."]),
+        ("Cambios", ["Podemos actualizar esta política. La versión vigente es la publicada aquí, con su fecha."]))
+
     static = {
         "quienes-somos.html": ("Quiénes somos", f"<h1>Quiénes somos</h1><p>{name} muestra qué está buscando la gente en "
             "Google en cada momento. Los temas salen de Google Trends y cada página reúne enlaces a notas de otros "
             "medios. Algunos resúmenes se generan automáticamente a partir de esos titulares y están señalados como "
             "tales. Ante cualquier duda, la fuente original es la nota enlazada.</p>"),
-        "privacidad.html": ("Política de privacidad", f"<h1>Política de privacidad</h1><p>{name} no pide registro ni "
-            "recolecta datos personales propios."
-            + (" Usamos Plausible Analytics, que mide visitas sin cookies ni datos personales." if c["plausible"] else "")
-            + " Los enlaces salen a sitios de terceros, que tienen sus propias políticas. Esta página es un modelo "
-            "general y conviene revisarla si agregás publicidad u otras herramientas.</p>"),
+        "privacidad.html": ("Política de privacidad", privacidad),
+        "terminos.html": ("Términos y condiciones", terminos),
+        "cookies.html": ("Política de cookies", cookies),
     }
     if c["email"]:
         static["contacto.html"] = ("Contacto", f'<h1>Contacto</h1><p>Escribinos a <a href="mailto:{E(c["email"])}">'
                                    f'{E(c["email"])}</a>.</p>')
     for f, (ttl, b) in static.items():
-        write(out, f, layout(c, f"{ttl} · {c['name']}", ttl, "/" + f, b))
+        write(out, f, layout(c, f"{ttl} · {c['name']}", ttl, "/" + f, b, top_ad=False))
 
     urls = [("/", now_iso)] + [(f"/{g.lower()}/", now_iso) for g in geos] + [("/historial/", now_iso)] + \
            [(f"/dia/{d}.html", now_iso) for d in days] + [(f"/tema/{s}.html", t["seen"]) for s, t in db.items()] + \
            [("/" + f, now_iso) for f in static]
     write(out, "sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
           + "".join(f"<url><loc>{E(c['site'] + u)}</loc><lastmod>{m[:10]}</lastmod></url>" for u, m in urls) + "</urlset>")
+    if c["ads"]:  # ads.txt solo sirve si el sitio está en la raíz de un dominio propio
+        write(out, "ads.txt", f"google.com, {c['ads'].replace('ca-', '')}, DIRECT, f08c47fec0942fa0\n")
     write(out, "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {c['site']}/sitemap.xml\n")
     db_path.write_text(json.dumps(db, ensure_ascii=False, indent=1), "utf-8")
     print(f"OK: {len(db)} temas, {len(urls)} URLs, países: {','.join(geos)}")
