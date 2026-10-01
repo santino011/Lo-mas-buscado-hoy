@@ -11,6 +11,7 @@ import argparse, json, os, re, unicodedata, urllib.request
 from datetime import datetime, timezone, timedelta
 from html import escape as E
 from pathlib import Path
+from email.utils import format_datetime
 from urllib.parse import quote
 import xml.etree.ElementTree as ET
 
@@ -61,10 +62,23 @@ nav a{display:inline-flex;align-items:center;gap:6px}
 nav .cc{margin:0}.hero .cc{background:rgba(255,255,255,.22);color:#fff}
 .hl{display:flex;align-items:center;gap:6px;flex-wrap:wrap}.card .m{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
 .more{display:inline-flex;align-items:center;gap:6px}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px}
+.chips button{border:1px solid var(--ln);background:var(--card);color:var(--fg);border-radius:99px;padding:6px 12px;font-size:13px;cursor:pointer;display:inline-flex;gap:6px;align-items:center}
+.chips button.on{background:var(--ac);border-color:var(--ac);color:#fff}
+.share{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}
+.btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--ln);background:var(--card);color:var(--fg);border-radius:12px;padding:8px 14px;font-size:14px;font-weight:600;text-decoration:none;cursor:pointer}
+.btn.wa{background:#25d366;border-color:#25d366;color:#083b1a}
+.how{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px}
+.how>div{background:var(--card);border:1px solid var(--ln);border-radius:14px;padding:14px;color:var(--ac)}
+.how b{display:block;color:var(--fg);margin:6px 0 2px}
 footer{border-top:1px solid var(--ln);margin-top:32px;font-size:13px;line-height:1.7;color:var(--mu)}"""
 
 JS = """var q=document.getElementById('q');
-if(q)q.addEventListener('input',function(){var v=q.value.toLowerCase();document.querySelectorAll('.card').forEach(function(c){c.hidden=c.dataset.t.indexOf(v)<0})});
+function apply(){var v=q?q.value.toLowerCase():'',k=window._k||'';document.querySelectorAll('.card').forEach(function(c){c.hidden=c.dataset.t.indexOf(v)<0||(k&&c.dataset.k!==k)})}
+if(q)q.addEventListener('input',apply);
+document.querySelectorAll('.chips button').forEach(function(b){b.addEventListener('click',function(){window._k=b.dataset.k;document.querySelectorAll('.chips button').forEach(function(x){x.classList.toggle('on',x===b)});apply()})});
+function ago(m){return m<1?'ahora':m<60?'hace '+m+' min':m<1440?'hace '+Math.round(m/60)+' h':'hace '+Math.round(m/1440)+' d'}
+document.querySelectorAll('.since').forEach(function(e){e.textContent='Detectado '+ago(Math.round((Date.now()-new Date(e.dataset.t0))/60000))});
 var u=document.getElementById('upd');
 if(u){var m=Math.round((Date.now()-new Date(u.getAttribute('datetime')))/60000);u.textContent=m<1?'ahora':m<60?'hace '+m+' min':m<1440?'hace '+Math.round(m/60)+' h':'hace '+Math.round(m/1440)+' d'}
 var s=document.getElementById('share');
@@ -162,7 +176,11 @@ ICONS = {
     "home": '<path d="M4 11l8-7 8 7"/><path d="M6 10v10h12V10"/>',
     "cal": '<rect x="4" y="5" width="16" height="15" rx="2"/><path d="M4 10h16M9 3v4M15 3v4"/>',
     "out": '<path d="M8 16L16 8M9 8h7v7"/>',
+    "clock": '<circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/>',
+    "chat": '<path d="M4 5h16v11H9l-5 4z"/>',
 }
+LABELS = {"sport": "Fútbol", "match": "Partidos", "food": "Recetas", "weather": "Clima", "money": "Economía",
+          "film": "Espectáculos", "gov": "Política", "tech": "Tecnología", "health": "Salud", "trend": "Otros"}
 CATS = [(r"f[uú]tbol|boca|river|racing|independiente|selecci[oó]n|mundial|liga|copa|gol\b", "sport", "#16a34a"),
         (r"\bvs\b|partido|nba|nfl|ufc|tenis|carrera|f1", "match", "#d97706"),
         (r"receta|comida|empanada|torta|pan dulce|salsa|cocina", "food", "#ea580c"),
@@ -222,7 +240,8 @@ def layout(c, title, desc, path, body, ld=None, top_ad=True):
             f'<title>{E(title)}</title><meta name="description" content="{E(desc)}">'
             f'<link rel="canonical" href="{E(url)}"><meta property="og:title" content="{E(title)}">'
             f'<meta property="og:description" content="{E(desc)}"><meta property="og:type" content="website">'
-            f'<link rel="icon" href="{FAVICON}"><style>{CSS}</style>{ldt}{ana}{adjs}</head><body>'
+            f'<link rel="icon" href="{FAVICON}"><link rel="alternate" type="application/rss+xml" title="{E(c["name"])}" '
+            f'href="{c["site"]}/feed.xml"><style>{CSS}</style>{ldt}{ana}{adjs}</head><body>'
             f'<header><a class="logo" href="{c["site"]}/"><span class="mark">{icon("search", 18)}</span>{E(c["name"])}</a><nav>{nav}</nav></header>'
             f'<main>{ad(c) if top_ad else ""}{body}</main><footer>{E(c["name"])} · Datos de Google Trends. Los enlaces '
             f'llevan a notas de otros medios.<br>{foot}</footer><script>{JS}</script></body></html>')
@@ -238,10 +257,11 @@ def cards(c, items, ranked=False):
         name, col = kind(t["term"])
         badge = f'<span class="rk g{i + 1 if i < 3 else 0}">{i + 1}</span>' if ranked else ""
         chips = "".join(cc(g) for g in t["geos"])
-        out.append(f'<a class="card" data-t="{E(t["term"].lower())}" href="{c["site"]}/tema/{slug}.html">'
+        out.append(f'<a class="card" data-t="{E(t["term"].lower())}" data-k="{name}" href="{c["site"]}/tema/{slug}.html">'
                    f'<div class="top"><span class="tile" style="--tc:{col}">{icon(name, 24)}</span>{badge}</div>'
                    f'<h3>{E(t["term"])}</h3><p><span class="vol">{E(human(volume(t["traffic"])) or "En tendencia")}</span></p>'
-                   f'<p class="m">{icon("news", 13)} {len(t["news"])} notas {chips}</p></a>')
+                   f'<p class="m">{icon("news", 13)} {len(t["news"])} {"nota" if len(t["news"]) == 1 else "notas"} {chips}</p>'
+                   f'<p class="m since" data-t0="{E(t["first"])}"></p></a>')
     return '<div class="grid">' + "".join(out) + "</div>"
 
 
@@ -313,19 +333,50 @@ def main():
     def index(geo, path):
         name = COUNTRIES.get(geo, geo)
         items = recent(geo)
+        cats = []
+        for _, t in items:
+            k = kind(t["term"])[0]
+            if k not in cats:
+                cats.append(k)
+        chips = ('<div class="chips"><button type="button" class="on" data-k="">Todos</button>' + "".join(
+            f'<button type="button" data-k="{k}">{icon(k, 15)} {LABELS[k]}</button>' for k in cats) + "</div>"
+                 if len(cats) > 1 else "")
+        how = ('<h2>Cómo funciona</h2><div class="how">'
+               f'<div>{icon("trend", 22)}<b>Detectamos lo que sube</b><p class="m">Miramos qué temas crecen más en Google Trends.</p></div>'
+               f'<div>{icon("news", 22)}<b>Reunimos las notas</b><p class="m">Cada tema enlaza a lo que publicaron los medios.</p></div>'
+               f'<div>{icon("clock", 22)}<b>Actualizamos seguido</b><p class="m">La lista se renueva cada 30 minutos, aproximadamente.</p></div></div>')
+        hero_upd = upd.replace("Actualizado", f"{len(items)} temas en 24 h · Actualizado")
         body = (f'<section class="hero"><p class="m hl">{icon("search", 15)} Tendencias en vivo {cc(geo)}</p>'
                 f'<h1>Lo más buscado hoy en {E(name)}</h1>'
-                f'<p>Los temas que más crecieron en Google en las últimas 24 horas.</p>{upd}</section>'
-                f'{tools}{cards(c, items, True)}{ad(c)}')
+                f'<p>Los temas que más crecieron en Google en las últimas 24 horas.</p>{hero_upd}</section>'
+                f'{tools}{chips}{cards(c, items, True)}{ad(c)}{how}')
         if len(days) > 1:
             body += f'<p><a class="more" href="{c["site"]}/dia/{days[1]}.html">{icon("cal", 16)} Ver lo que se buscó ayer →</a></p>'
+        ld = {"@context": "https://schema.org", "@type": "ItemList", "itemListElement": [
+            {"@type": "ListItem", "position": i + 1, "name": t["term"], "url": f'{c["site"]}/tema/{sl}.html'}
+            for i, (sl, t) in enumerate(items[:20])]}
         return layout(c, f"Lo más buscado hoy en {name}: tendencias de Google",
                       f"Qué está buscando la gente hoy en {name}: los temas en tendencia de Google, actualizados cada 30 minutos.",
-                      path, body)
+                      path, body, ld)
+
+    def feed(geo):
+        its = "".join(
+            f'<item><title>{E(t["term"])}</title><link>{c["site"]}/tema/{sl}.html</link>'
+            f'<guid>{c["site"]}/tema/{sl}.html</guid><pubDate>{format_datetime(datetime.fromisoformat(t["first"]))}</pubDate>'
+            f'<description>{E(t.get("ai") or human(volume(t["traffic"])) or "Tema en tendencia")}</description></item>'
+            for sl, t in recent(geo)[:30])
+        return ('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel>'
+                f'<title>{E(c["name"])} · {E(COUNTRIES.get(geo, geo))}</title><link>{c["site"]}/</link>'
+                f'<description>Lo más buscado hoy en Google</description>{its}</channel></rss>')
 
     write(out, "index.html", index(geos[0], "/"))
     for g in geos:
         write(out, f"{g.lower()}/index.html", index(g, f"/{g.lower()}/"))
+        write(out, f"{g.lower()}/feed.xml", feed(g))
+    write(out, "feed.xml", feed(geos[0]))
+    write(out, "404.html", layout(c, "Página no encontrada", "La página que buscás no existe.", "/404.html",
+          f'<h1>No encontramos esa página</h1><p>Puede que el tema ya no esté en tendencia.</p>'
+          f'<p><a class="more" href="{c["site"]}/">{icon("home", 16)} Volver a lo más buscado</a></p>', top_ad=False))
 
     for slug, t in db.items():
         extra = Path(a.extras, slug + ".txt")
@@ -339,9 +390,14 @@ def main():
         rel = [(s2, x) for s2, x in recent() if s2 != slug][:6]
         chips = "".join(cc(g) for g in t["geos"])
         meta = E(" · ".join(x for x in [human(volume(t["traffic"])), f'Desde el {fdate(t["first"])}'] if x))
+        turl = f'{c["site"]}/tema/{slug}.html'
+        msg = quote(f'{t["term"]}: por qué es tendencia hoy {turl}', safe="")
+        share = (f'<div class="share"><a class="btn wa" href="https://wa.me/?text={msg}" target="_blank" rel="noopener">'
+                 f'{icon("chat", 16)} WhatsApp</a><a class="btn" href="https://twitter.com/intent/tweet?text={msg}" '
+                 f'target="_blank" rel="noopener">X</a><button class="btn" id="share" type="button">Compartir</button></div>')
         body = (f'<p class="m"><a href="{c["site"]}/">← Lo más buscado hoy</a></p>'
                 f'<section class="hero"><p class="m hl">{icon(kind(t["term"])[0], 15)} Tendencia · {meta} {chips}</p>'
-                f'<h1>{E(t["term"])}: por qué es tendencia hoy</h1></section>{ai}{own}{ad(c)}'
+                f'<h1>{E(t["term"])}: por qué es tendencia hoy</h1></section>{share}{ai}{own}{ad(c)}'
                 f'<h2>{icon("news", 20)} Qué dicen los medios</h2><div class="links">{links or nolinks}</div>{ad(c)}'
                 f'<h2>{icon("trend", 20)} Otros temas del momento</h2>{cards(c, rel)}')
         url = f'/tema/{slug}.html'
