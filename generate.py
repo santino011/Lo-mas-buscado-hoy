@@ -2,12 +2,12 @@
 """Generador de sitio de tendencias de Google (v2).
 
   python3 generate.py --geo AR,MX,CL --site https://tudominio.com --out ./public
-  
+
 Variables de entorno opcionales:
   GEO, SITE_NAME, OWNER_NAME, CONTACT_EMAIL, PLAUSIBLE_DOMAIN, ADSENSE_CLIENT, ADSENSE_SLOT, ANTHROPIC_API_KEY, AI_MODEL
 Texto propio por tema: extras/<slug>.txt (párrafos separados por línea en blanco).
 """
-import argparse, json, os, re, unicodedata, urllib.request
+import argparse, json, os, re, shutil, unicodedata, urllib.request
 from datetime import datetime, timezone, timedelta
 from html import escape as E, unescape
 from pathlib import Path
@@ -790,6 +790,14 @@ def main():
         write(out, "ads.txt", f"google.com, {c['ads'].replace('ca-', '')}, DIRECT, f08c47fec0942fa0\n")
     write(out, "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {c['site']}/sitemap.xml\n")
     db_path.write_text(json.dumps(db, ensure_ascii=False, indent=1), "utf-8")
+    st = Path("static")  # archivos tal cual (verificación de Search Console, ads.txt propio, etc.)
+    if st.is_dir():
+        for f in st.rglob("*"):
+            if f.is_file():
+                dest = out / f.relative_to(st)
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(f, dest)
+                print(f"Archivo estático publicado: /{f.relative_to(st).as_posix()}")
     print(f"OK: {len(db)} temas, {len(urls)} URLs, países: {','.join(geos)}")
 
 
