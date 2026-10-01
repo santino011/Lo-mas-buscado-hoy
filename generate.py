@@ -79,6 +79,14 @@ nav .cc{margin:0}.hero .cc{background:rgba(255,255,255,.22);color:#fff}
 .cn a{white-space:nowrap;border:1px solid var(--ln);background:var(--card);color:var(--fg);border-radius:99px;padding:6px 12px;font-size:13px;text-decoration:none}
 .cn a.on{background:var(--ac);border-color:var(--ac);color:#fff}
 .cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:20px}
+.fxg{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.fxc{background:var(--card);border:1px solid var(--ln);border-radius:14px;padding:14px}
+.fxc b{display:block;font-size:14px;color:var(--mu);font-weight:600}
+.fxc .big{font-size:1.5rem;font-weight:800;line-height:1.25;margin:2px 0}
+.fxc .row{display:flex;justify-content:space-between;gap:8px;font-size:13px;color:var(--mu)}
+.up{color:#16a34a;font-weight:700}.dn{color:#dc2626;font-weight:700}
+.tick{display:flex;gap:18px;overflow-x:auto;padding:10px 14px;margin:0 0 14px;background:var(--card);border:1px solid var(--ln);border-radius:12px;font-size:14px;white-space:nowrap;text-decoration:none;color:var(--fg)}
+.tick b{color:var(--ac)}
 footer{border-top:1px solid var(--ln);margin-top:32px;font-size:13px;line-height:1.7;color:var(--mu)}"""
 
 JS = """var q=document.getElementById('q');
@@ -270,6 +278,111 @@ def fetch_news(urls, limit, news_file=None):
     return out[:limit]
 
 
+CRIPTO = [("bitcoin", "Bitcoin", "BTC"), ("ethereum", "Ethereum", "ETH"), ("tether", "Tether", "USDT"),
+          ("binancecoin", "BNB", "BNB"), ("solana", "Solana", "SOL"), ("ripple", "XRP", "XRP"),
+          ("cardano", "Cardano", "ADA"), ("dogecoin", "Dogecoin", "DOGE")]
+CASAS = [("oficial", "Oficial"), ("blue", "Blue"), ("bolsa", "MEP (Bolsa)"), ("contadoconliqui", "CCL"),
+         ("mayorista", "Mayorista"), ("cripto", "Cripto"), ("tarjeta", "Tarjeta")]
+MONEDAS = [("EUR", "Euro"), ("BRL", "Real"), ("GBP", "Libra")]
+
+FXJS = """(function(){
+if(!document.querySelector('[data-fx]'))return;
+function f(v){var b=v>=100,s=v.toLocaleString('en-US',{minimumFractionDigits:b?0:2,maximumFractionDigits:b?0:2});return s.replace(/,/g,'X').replace('.',',').replace(/X/g,'.')}
+function set(k,v){if(typeof v!=='number'||isNaN(v))return;document.querySelectorAll('[data-fx="'+k+'"]').forEach(function(e){e.textContent=(e.dataset.pre||'')+f(v)})}
+function chg(k,v){if(typeof v!=='number'||isNaN(v))return;document.querySelectorAll('[data-fx="'+k+'"]').forEach(function(e){e.textContent=(v>=0?'+':'')+v.toFixed(2).replace('.',',')+'%';e.className=v>=0?'up':'dn'})}
+function j(u){return fetch(u).then(function(r){if(!r.ok)throw 0;return r.json()})}
+var CG='bitcoin,ethereum,tether,binancecoin,solana,ripple,cardano,dogecoin',er=null,ok=false;
+function run(){
+  j('https://dolarapi.com/v1/dolares').then(function(a){var base=null;a.forEach(function(x){set(x.casa+':c',x.compra);set(x.casa+':v',x.venta);if(x.casa==='oficial')base=x.venta});ok=true;return base}).catch(function(){return null}).then(function(base){
+    var got={};
+    return j('https://dolarapi.com/v1/cotizaciones').then(function(a){a.forEach(function(x){if(!got[x.moneda]&&x.venta){got[x.moneda]=1;set(x.moneda+':v',x.venta);set(x.moneda+':c',x.compra)}})}).catch(function(){}).then(function(){
+      var go=function(){if(!base||!er)return;['EUR','BRL','GBP'].forEach(function(c){if(!got[c]&&er[c])set(c+':v',base/er[c])})};
+      if(er)return go();
+      return j('https://open.er-api.com/v6/latest/USD').then(function(d){er=d.rates;go()}).catch(function(){});
+    });
+  });
+  j('https://api.coingecko.com/api/v3/simple/price?ids='+CG+'&vs_currencies=usd,ars&include_24hr_change=true').then(function(d){ok=true;Object.keys(d).forEach(function(id){set('cg:'+id+':usd',d[id].usd);set('cg:'+id+':ars',d[id].ars);chg('chg:'+id,d[id].usd_24h_change)})}).catch(function(){});
+  setTimeout(function(){if(ok){var u=document.getElementById('upd');if(u){u.setAttribute('datetime',new Date().toISOString());u.textContent='ahora'}}},4000);
+}
+run();setInterval(function(){if(!document.hidden)run()},60000);
+})();"""
+
+
+def jget(url):
+    return json.load(urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}), timeout=15))
+
+
+def load_fx(fx_file=None):
+    """Foto de cotizaciones al generar el sitio (el navegador las refresca en vivo)."""
+    raw = {}
+    if fx_file:
+        raw = json.loads(Path(fx_file).read_text("utf-8"))
+    else:
+        ids = ",".join(i for i, _, _ in CRIPTO)
+        for k, u in (("dolares", "https://dolarapi.com/v1/dolares"), ("cotizaciones", "https://dolarapi.com/v1/cotizaciones"),
+                     ("er", "https://open.er-api.com/v6/latest/USD"),
+                     ("cg", f"https://api.coingecko.com/api/v3/simple/price?ids={ids}&vs_currencies=usd,ars&include_24hr_change=true")):
+            try:
+                raw[k] = jget(u)
+            except Exception as e:
+                print(f"Cotizaciones: no se pudo leer {k}: {e}")
+    lst = lambda v: [x for x in v if isinstance(x, dict)] if isinstance(v, list) else []
+    dol = {x["casa"]: x for x in lst(raw.get("dolares")) if "casa" in x}
+    got = {}
+    for x in lst(raw.get("cotizaciones")):
+        if x.get("venta"):
+            got.setdefault(x.get("moneda"), x)
+    rates = (raw.get("er") or {}).get("rates", {}) if isinstance(raw.get("er"), dict) else {}
+    base = dol.get("oficial", {}).get("venta")
+    mon = {}
+    for cur, _ in MONEDAS:
+        if cur in got:
+            mon[cur] = {"v": got[cur]["venta"], "c": got[cur].get("compra"), "ref": False}
+        elif base and rates.get(cur):
+            mon[cur] = {"v": base / rates[cur], "c": None, "ref": True}
+    return dol, mon, raw.get("cg") if isinstance(raw.get("cg"), dict) else {}
+
+
+def fmt(v):
+    s = f"{v:,.0f}" if v >= 100 else f"{v:,.2f}"
+    return s.replace(",", "X").replace(".", ",").replace("X", ".")
+
+
+def px(key, v, pre=""):
+    return f'<span data-fx="{key}" data-pre="{pre}">{pre}{fmt(v) if isinstance(v, (int, float)) else "—"}</span>'
+
+
+def fx_ticker(c, dol, mon, cg):
+    it = [("Dólar blue", "blue:v", dol.get("blue", {}).get("venta"), "$ "),
+          ("Oficial", "oficial:v", dol.get("oficial", {}).get("venta"), "$ "),
+          ("Euro", "EUR:v", mon.get("EUR", {}).get("v"), "$ "), ("Real", "BRL:v", mon.get("BRL", {}).get("v"), "$ "),
+          ("Libra", "GBP:v", mon.get("GBP", {}).get("v"), "$ "),
+          ("Bitcoin", "cg:bitcoin:usd", cg.get("bitcoin", {}).get("usd"), "US$ ")]
+    return f'<a class="tick" href="{c["site"]}/cotizaciones/">' + "".join(
+        f'<span>{l} <b>{px(k, v, pre)}</b></span>' for l, k, v, pre in it) + "</a>"
+
+
+def fx_sections(dol, mon, cg):
+    d = "".join(
+        f'<div class="fxc"><b>{n}</b><div class="big">{px(k + ":v", dol.get(k, {}).get("venta"), "$ ")}</div>'
+        f'<div class="row"><span>Compra {px(k + ":c", dol.get(k, {}).get("compra"), "$ ")}</span></div></div>'
+        for k, n in CASAS)
+    m = "".join(
+        f'<div class="fxc"><b>{n}</b><div class="big">{px(k + ":v", mon.get(k, {}).get("v"), "$ ")}</div>'
+        f'<div class="row"><span>{"Compra " + px(k + ":c", mon[k]["c"], "$ ") if mon.get(k, {}).get("c") else "Valor de referencia"}'
+        f'</span></div></div>' for k, n in MONEDAS)
+    cr = ""
+    for i, n, sym in CRIPTO:
+        e = cg.get(i, {})
+        ch = e.get("usd_24h_change")
+        chs = f'{ch:+.2f}'.replace(".", ",") + "%" if isinstance(ch, (int, float)) else "—"
+        cr += (f'<div class="fxc"><b>{n} <span class="cc">{sym}</span></b>'
+               f'<div class="big">{px(f"cg:{i}:usd", e.get("usd"), "US$ ")}</div>'
+               f'<div class="row"><span data-fx="chg:{i}" class="{"dn" if isinstance(ch, (int, float)) and ch < 0 else "up"}">{chs}</span>'
+               f'<span>≈ {px(f"cg:{i}:ars", e.get("ars"), "$ ")}</span></div></div>')
+    return d, m, cr
+
+
 def ad(c, wide=False):
     """Espacio publicitario de AdSense: solo se dibuja si configuraste ADSENSE_CLIENT y ADSENSE_SLOT."""
     if not (c["ads"] and c["slot"]):
@@ -280,12 +393,13 @@ def ad(c, wide=False):
             f'<script>(adsbygoogle=window.adsbygoogle||[]).push({{}});</script></div>')
 
 
-def layout(c, title, desc, path, body, ld=None, top_ad=True):
+def layout(c, title, desc, path, body, ld=None, top_ad=True, js=""):
     url = c["site"] + path
     multi = len(c["geos"]) > 1
     nav = (f'<a href="{c["site"]}/">{icon("home", 16)} Inicio</a>'
            f'<a href="{c["site"]}/noticias/">{icon("news", 16)} Noticias</a>'
-           f'<a href="{c["site"]}/mundo/">{icon("globe", 16)} Mundo</a>' +
+           f'<a href="{c["site"]}/mundo/">{icon("globe", 16)} Mundo</a>'
+           f'<a href="{c["site"]}/cotizaciones/">{icon("money", 16)} Cotizaciones</a>' +
            (f'<a href="{c["site"]}/america/">{icon("trend", 16)} América</a>'
             f'<a href="{c["site"]}/paises/">{icon("pin", 16)} Países</a>' if multi else "") +
            f'<a href="{c["site"]}/historial/">{icon("cal", 16)} Historial</a>')
@@ -308,7 +422,7 @@ def layout(c, title, desc, path, body, ld=None, top_ad=True):
             f'href="{c["site"]}/feed.xml"><style>{CSS}</style>{ldt}{ana}{adjs}</head><body>'
             f'<header><a class="logo" href="{c["site"]}/"><span class="mark">{icon("search", 18)}</span>{E(c["name"])}</a><nav>{nav}</nav></header>'
             f'<main>{ad(c) if top_ad else ""}{body}</main><footer>{E(c["name"])} · Datos de Google Trends. Los enlaces '
-            f'llevan a notas de otros medios.<br>{foot}</footer><script>{JS}</script></body></html>')
+            f'llevan a notas de otros medios.<br>{foot}</footer><script>{JS}{js}</script></body></html>')
 
 
 def strip(c, current):
@@ -350,6 +464,7 @@ def main():
     ap.add_argument("--site", required=True)
     ap.add_argument("--out", default="public")
     ap.add_argument("--feed-file")
+    ap.add_argument("--fx-file", help="JSON local de cotizaciones, para pruebas")
     ap.add_argument("--news-file", help="RSS local de noticias, para pruebas")
     ap.add_argument("--extras", default="extras")
     a = ap.parse_args()
@@ -437,6 +552,25 @@ def main():
     write(out, "mundo/index.html", news_page("mundo", "Las noticias más importantes del mundo",
           "Los titulares internacionales del momento, con enlace a cada medio.", "/mundo/"))
 
+    dol, mon, cg = load_fx(a.fx_file)
+    ticker = fx_ticker(c, dol, mon, cg)
+    d_html, m_html, c_html = fx_sections(dol, mon, cg)
+    fx_body = (f'<section class="hero"><p class="m hl">{icon("money", 15)} Cotizaciones {cc("AR")}</p>'
+               f'<h1>Dólar, monedas y criptomonedas hoy</h1>'
+               f'<p>Precios en pesos argentinos, con actualización automática mientras tenés la página abierta.</p>{upd}</section>'
+               f'<h2>{icon("money", 20)} Dólares</h2><div class="fxg">{d_html}</div>{ad(c)}'
+               f'<h2>{icon("globe", 20)} Otras monedas</h2><div class="fxg">{m_html}</div>'
+               f'<h2>{icon("trend", 20)} Criptomonedas</h2><div class="fxg">{c_html}</div>{ad(c)}'
+               '<p class="m">Cotizaciones informativas y de referencia: pueden tener demora y diferir de las de tu banco o casa de cambio. '
+               'La libra, y el euro o el real cuando falta el dato directo, se calculan con el dólar oficial y el tipo de cambio '
+               'internacional. Las criptomonedas son muy volátiles. Esto no es asesoramiento financiero. Fuentes: '
+               '<a href="https://dolarapi.com" rel="noopener">DolarAPI</a>, '
+               '<a href="https://www.exchangerate-api.com" rel="noopener">ExchangeRate-API</a> y '
+               '<a href="https://www.coingecko.com" rel="noopener">CoinGecko</a>.</p>')
+    write(out, "cotizaciones/index.html", layout(
+        c, "Dólar hoy, euro, real, libra y criptomonedas en Argentina", "Cotización del dólar oficial, blue, MEP y CCL, del euro, "
+        "real y libra, y de las criptomonedas más conocidas, en pesos argentinos.", "/cotizaciones/", fx_body, js=FXJS))
+
     def index(geo, path):
         name = "América" if geo is None else COUNTRIES.get(geo, geo)
         items = recent(geo)
@@ -457,7 +591,7 @@ def main():
         body = (f'<section class="hero"><p class="m hl">{icon("search", 15)} Tendencias en vivo {label}</p>'
                 f'<h1>Lo más buscado hoy en {E(name)}</h1>'
                 f'<p>Los temas que más crecieron en Google en las últimas 24 horas.</p>{hero_upd}</section>'
-                f'{strip(c, "america" if geo is None else geo.lower())}'
+                f'{ticker if geo == "AR" else ""}{strip(c, "america" if geo is None else geo.lower())}'
                 f'{tools}{chips}{cards(c, items, True)}{ad(c)}{how}')
         if len(days) > 1:
             body += f'<p><a class="more" href="{c["site"]}/dia/{days[1]}.html">{icon("cal", 16)} Ver lo que se buscó ayer →</a></p>'
@@ -466,7 +600,7 @@ def main():
             for i, (sl, t) in enumerate(items[:20])]}
         return layout(c, f"Lo más buscado hoy en {name}: tendencias de Google",
                       f"Qué está buscando la gente hoy en {name}: los temas en tendencia de Google, actualizados cada 30 minutos.",
-                      path, body, ld)
+                      path, body, ld, js=FXJS if geo == "AR" else "")
 
     def feed(geo):
         its = "".join(
@@ -567,7 +701,8 @@ def main():
         ("4. Resúmenes automáticos", ["Algunos resúmenes se generan automáticamente a partir de los titulares enlazados y "
             "están señalados como tales. Pueden contener errores u omisiones: la fuente confiable es siempre la nota original."]),
         ("5. Sin asesoramiento", ["La información del sitio es general y no constituye asesoramiento médico, legal, "
-            "financiero ni de ningún otro tipo profesional."]),
+            "financiero ni de ningún otro tipo profesional. Las cotizaciones de monedas y criptomonedas son referenciales, "
+            "pueden tener demora y no deben usarse como única base para operar."]),
         ("6. Propiedad intelectual", ["El diseño, el código y los textos propios del sitio están protegidos por la "
             "legislación de propiedad intelectual. No está permitido copiarlos masivamente ni extraerlos de forma "
             "automatizada sin autorización. Las marcas de terceros pertenecen a sus dueños."]),
@@ -614,6 +749,9 @@ def main():
             "personalizarlos, según se explica en la política de cookies y en "
             "<a href=\"https://policies.google.com/technologies/ads\">policies.google.com/technologies/ads</a>."
             if ads else "Hoy no mostramos publicidad de terceros.")]),
+        ("Cotizaciones", ["En las páginas con cotizaciones, tu navegador consulta directamente a DolarAPI, ExchangeRate-API "
+            "y CoinGecko para mostrar valores actualizados. Esos servicios pueden registrar tu dirección IP según sus "
+            "propias políticas."]),
         ("Si nos escribís", [("Si nos enviás un mensaje, usamos tus datos únicamente para responderte y no los cedemos a "
             "terceros." if c["email"] else "Por ahora no ofrecemos un canal de contacto que recolecte datos.")]),
         ("Enlaces a terceros", ["Los sitios que enlazamos tienen sus propias políticas de privacidad, que no controlamos."]),
@@ -642,7 +780,7 @@ def main():
         write(out, f, layout(c, f"{ttl} · {c['name']}", ttl, "/" + f, b, top_ad=False))
 
     urls = [("/", now_iso)] + [(f"/{g.lower()}/", now_iso) for g in geos] + [("/historial/", now_iso)] + \
-           [("/noticias/", now_iso), ("/mundo/", now_iso)] + \
+           [("/noticias/", now_iso), ("/mundo/", now_iso), ("/cotizaciones/", now_iso)] + \
            ([("/america/", now_iso), ("/paises/", now_iso)] if len(geos) > 1 else []) + \
            [(f"/dia/{d}.html", now_iso) for d in days] + [(f"/tema/{s}.html", t["seen"]) for s, t in db.items()] + \
            [("/" + f, now_iso) for f in static]
