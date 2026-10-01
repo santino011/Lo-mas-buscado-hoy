@@ -16,8 +16,11 @@ from urllib.parse import quote
 import xml.etree.ElementTree as ET
 
 FEED = "https://trends.google.com/trending/rss?geo={geo}"
-COUNTRIES = {"AR": "Argentina", "MX": "México", "CL": "Chile", "ES": "España", "CO": "Colombia",
-             "UY": "Uruguay", "PE": "Perú", "US": "Estados Unidos", "BR": "Brasil"}
+COUNTRIES = {"AR": "Argentina", "BR": "Brasil", "CL": "Chile", "CO": "Colombia", "PE": "Perú", "UY": "Uruguay",
+             "EC": "Ecuador", "VE": "Venezuela", "BO": "Bolivia", "PY": "Paraguay",
+             "US": "Estados Unidos", "MX": "México", "CA": "Canadá", "ES": "España"}
+REGIONS = [("Sudamérica", ["AR", "BR", "CL", "CO", "PE", "UY", "EC", "VE", "BO", "PY"]),
+           ("Norteamérica", ["US", "MX", "CA"])]
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre",
          "octubre", "noviembre", "diciembre"]
 SENSIBLE = re.compile(r"muri|muer|falleci|accident|tragedi|atentad|asesin|violaci|suicid|c[aá]ncer|"
@@ -71,6 +74,9 @@ nav .cc{margin:0}.hero .cc{background:rgba(255,255,255,.22);color:#fff}
 .how{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px}
 .how>div{background:var(--card);border:1px solid var(--ln);border-radius:14px;padding:14px;color:var(--ac)}
 .how b{display:block;color:var(--fg);margin:6px 0 2px}
+.cn{display:flex;gap:8px;overflow-x:auto;padding-bottom:6px;margin:0 0 12px}
+.cn a{white-space:nowrap;border:1px solid var(--ln);background:var(--card);color:var(--fg);border-radius:99px;padding:6px 12px;font-size:13px;text-decoration:none}
+.cn a.on{background:var(--ac);border-color:var(--ac);color:#fff}
 footer{border-top:1px solid var(--ln);margin-top:32px;font-size:13px;line-height:1.7;color:var(--mu)}"""
 
 JS = """var q=document.getElementById('q');
@@ -178,6 +184,8 @@ ICONS = {
     "out": '<path d="M8 16L16 8M9 8h7v7"/>',
     "clock": '<circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/>',
     "chat": '<path d="M4 5h16v11H9l-5 4z"/>',
+    "globe": '<circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17M12 3.5c3 3 3 14 0 17M12 3.5c-3 3-3 14 0 17"/>',
+    "pin": '<path d="M12 21s6-5.500 6-11a6 6 0 0 0-12 0c0 5.500 6 11 6 11z"/><circle cx="12" cy="10" r="2"/>',
 }
 LABELS = {"sport": "Fútbol", "match": "Partidos", "food": "Recetas", "weather": "Clima", "money": "Economía",
           "film": "Espectáculos", "gov": "Política", "tech": "Tecnología", "health": "Salud", "trend": "Otros"}
@@ -222,9 +230,11 @@ def ad(c, wide=False):
 
 def layout(c, title, desc, path, body, ld=None, top_ad=True):
     url = c["site"] + path
-    nav = (f'<a href="{c["site"]}/">{icon("home", 16)} Inicio</a>' + "".join(
-        f'<a href="{c["site"]}/{g.lower()}/">{cc(g)} {COUNTRIES.get(g, g)}</a>' for g in c["geos"]) +
-        f'<a href="{c["site"]}/historial/">{icon("cal", 16)} Historial</a>')
+    multi = len(c["geos"]) > 1
+    nav = (f'<a href="{c["site"]}/">{icon("home", 16)} Inicio</a>' +
+           (f'<a href="{c["site"]}/america/">{icon("globe", 16)} América</a>'
+            f'<a href="{c["site"]}/paises/">{icon("pin", 16)} Países</a>' if multi else "") +
+           f'<a href="{c["site"]}/historial/">{icon("cal", 16)} Historial</a>')
     foot = (f'<a href="{c["site"]}/quienes-somos.html">Quiénes somos</a> · '
             f'<a href="{c["site"]}/privacidad.html">Privacidad</a> · '
             f'<a href="{c["site"]}/terminos.html">Términos</a> · <a href="{c["site"]}/cookies.html">Cookies</a>' +
@@ -247,6 +257,14 @@ def layout(c, title, desc, path, body, ld=None, top_ad=True):
             f'llevan a notas de otros medios.<br>{foot}</footer><script>{JS}</script></body></html>')
 
 
+def strip(c, current):
+    if len(c["geos"]) < 2:
+        return ""
+    opts = [("america", "América")] + [(g.lower(), COUNTRIES.get(g, g)) for g in c["geos"]]
+    return '<div class="cn">' + "".join(
+        f'<a href="{c["site"]}/{k}/"{" class=\"on\"" if k == current else ""}>{E(n)}</a>' for k, n in opts) + "</div>"
+
+
 def cards(c, items, ranked=False):
     if not items:
         return '<p class="m">Todavía no hay temas.</p>'
@@ -256,7 +274,8 @@ def cards(c, items, ranked=False):
             out.append(ad(c, wide=True))
         name, col = kind(t["term"])
         badge = f'<span class="rk g{i + 1 if i < 3 else 0}">{i + 1}</span>' if ranked else ""
-        chips = "".join(cc(g) for g in t["geos"])
+        gl = list(t["geos"])
+        chips = "".join(cc(g) for g in gl[:3]) + (f'<span class="cc">+{len(gl) - 3}</span>' if len(gl) > 3 else "")
         out.append(f'<a class="card" data-t="{E(t["term"].lower())}" data-k="{name}" href="{c["site"]}/tema/{slug}.html">'
                    f'<div class="top"><span class="tile" style="--tc:{col}">{icon(name, 24)}</span>{badge}</div>'
                    f'<h3>{E(t["term"])}</h3><p><span class="vol">{E(human(volume(t["traffic"])) or "En tendencia")}</span></p>'
@@ -296,6 +315,9 @@ def main():
             del db[s]
             continue
         t.setdefault("geos", {"AR": t.get("seen", now_iso)})
+    cut = (now - timedelta(days=90)).isoformat()  # evita que el historial crezca sin límite
+    for k in [k for k, t in db.items() if t.get("seen", now_iso) < cut]:
+        del db[k]
 
     for g in geos:
         try:
@@ -306,9 +328,12 @@ def main():
         for t in trends:
             slug = slugify(t["term"])
             old = db.get(slug, {})
+            tr = t["traffic"] or old.get("traffic", "")
+            if old.get("seen") == now_iso and volume(old.get("traffic", "")) > volume(tr):
+                tr = old["traffic"]  # mismo ciclo, otro país: nos quedamos con el mayor volumen
             geo_map = dict(old.get("geos", {}))
             geo_map[g] = now_iso
-            db[slug] = {"term": t["term"], "traffic": t["traffic"] or old.get("traffic", ""),
+            db[slug] = {"term": t["term"], "traffic": tr,
                         "news": t["news"] or old.get("news", []), "first": old.get("first", now_iso),
                         "seen": now_iso, "geos": geo_map, **({"ai": old["ai"]} if "ai" in old else {})}
 
@@ -331,7 +356,7 @@ def main():
     days = sorted({t["first"][:10] for t in db.values()}, reverse=True)
 
     def index(geo, path):
-        name = COUNTRIES.get(geo, geo)
+        name = "América" if geo is None else COUNTRIES.get(geo, geo)
         items = recent(geo)
         cats = []
         for _, t in items:
@@ -346,9 +371,11 @@ def main():
                f'<div>{icon("news", 22)}<b>Reunimos las notas</b><p class="m">Cada tema enlaza a lo que publicaron los medios.</p></div>'
                f'<div>{icon("clock", 22)}<b>Actualizamos seguido</b><p class="m">La lista se renueva cada 30 minutos, aproximadamente.</p></div></div>')
         hero_upd = upd.replace("Actualizado", f"{len(items)} temas en 24 h · Actualizado")
-        body = (f'<section class="hero"><p class="m hl">{icon("search", 15)} Tendencias en vivo {cc(geo)}</p>'
+        label = cc(geo) if geo else ""
+        body = (f'<section class="hero"><p class="m hl">{icon("search", 15)} Tendencias en vivo {label}</p>'
                 f'<h1>Lo más buscado hoy en {E(name)}</h1>'
                 f'<p>Los temas que más crecieron en Google en las últimas 24 horas.</p>{hero_upd}</section>'
+                f'{strip(c, "america" if geo is None else geo.lower())}'
                 f'{tools}{chips}{cards(c, items, True)}{ad(c)}{how}')
         if len(days) > 1:
             body += f'<p><a class="more" href="{c["site"]}/dia/{days[1]}.html">{icon("cal", 16)} Ver lo que se buscó ayer →</a></p>'
@@ -374,6 +401,26 @@ def main():
         write(out, f"{g.lower()}/index.html", index(g, f"/{g.lower()}/"))
         write(out, f"{g.lower()}/feed.xml", feed(g))
     write(out, "feed.xml", feed(geos[0]))
+    if len(geos) > 1:
+        write(out, "america/index.html", index(None, "/america/"))
+        secs = ""
+        listed = [g for _, cs in REGIONS for g in cs]
+        for reg, codes in REGIONS + [("Otros países", [g for g in geos if g not in listed])]:
+            cs = [g for g in codes if g in geos]
+            if not cs:
+                continue
+            box = ""
+            for g in cs:
+                its = recent(g)
+                tops = "".join(f'<p class="m">{icon("trend", 13)} {E(t["term"])}</p>' for _, t in its[:3]) or \
+                    '<p class="m">Sin datos por ahora.</p>'
+                box += (f'<a class="card" data-t="{E(COUNTRIES.get(g, g).lower())}" data-k="" href="{c["site"]}/{g.lower()}/">'
+                        f'<h3>{E(COUNTRIES.get(g, g))} {cc(g)}</h3>{tops}<p class="m">{len(its)} temas hoy</p></a>')
+            secs += f'<h2>{reg}</h2><div class="grid">{box}</div>'
+        write(out, "paises/index.html", layout(
+            c, "Lo más buscado por país en América", "Los temas en tendencia de Google en cada país de América.",
+            "/paises/", f'<h1>Lo más buscado por país</h1><p class="m">Elegí un país para ver sus tendencias de hoy.</p>'
+                        f'{strip(c, "")}{secs}'))
     write(out, "404.html", layout(c, "Página no encontrada", "La página que buscás no existe.", "/404.html",
           f'<h1>No encontramos esa página</h1><p>Puede que el tema ya no esté en tendencia.</p>'
           f'<p><a class="more" href="{c["site"]}/">{icon("home", 16)} Volver a lo más buscado</a></p>', top_ad=False))
@@ -513,6 +560,7 @@ def main():
         write(out, f, layout(c, f"{ttl} · {c['name']}", ttl, "/" + f, b, top_ad=False))
 
     urls = [("/", now_iso)] + [(f"/{g.lower()}/", now_iso) for g in geos] + [("/historial/", now_iso)] + \
+           ([("/america/", now_iso), ("/paises/", now_iso)] if len(geos) > 1 else []) + \
            [(f"/dia/{d}.html", now_iso) for d in days] + [(f"/tema/{s}.html", t["seen"]) for s, t in db.items()] + \
            [("/" + f, now_iso) for f in static]
     write(out, "sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
