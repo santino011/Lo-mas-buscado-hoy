@@ -324,10 +324,10 @@
    }
   ],
   "first": "2026-09-30T03:51:30.060246+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "MX": "2026-10-01T03:45:13.337015+00:00",
-   "VE": "2026-10-01T03:45:13.337015+00:00"
+   "MX": "2026-10-01T03:58:38.715800+00:00",
+   "VE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "mateo-chavez": {
@@ -940,12 +940,28 @@
  },
  "la-casa-de-los-famosos": {
   "term": "la casa de los famosos",
-  "traffic": "2000+",
-  "news": [],
+  "traffic": "10000+",
+  "news": [
+   {
+    "title": "Ve aquí EN VIVO la gala del séptimo finalista de La Casa de los Famosos México 2026",
+    "url": "https://www.lacasadelosfamososmexico.tv/ve-aqui-en-vivo-la-gala-del-septimo-finalista-de-la-casa-de-los-famosos-mexico-2026",
+    "source": "https://www.lacasadelosfamososmexico.tv/"
+   },
+   {
+    "title": "¿Quién se convertirá en el séptimo finalista de La Casa de los Famosos México 2026? Descúbrelo EN VIVO",
+    "url": "https://www.lacasadelosfamososmexico.tv/quien-se-convertira-en-el-septimo-finalista-de-la-casa-de-los-famosos-mexico-2026-descubrelo-en-vivo",
+    "source": "https://www.lacasadelosfamososmexico.tv/"
+   },
+   {
+    "title": "De una exOV7 a un famoso exacadémico: ellos son los 7 finalistas de “La casa de los famosos México”",
+    "url": "https://www.eluniversal.com.mx/espectaculos/de-una-exov7-a-un-famoso-exacademico-ellos-son-los-7-finalistas-de-la-casa-de-los-famosos-mexico/",
+    "source": "El Universal"
+   }
+  ],
   "first": "2026-09-30T10:20:33.150218+00:00",
-  "seen": "2026-09-30T10:20:33.150218+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "MX": "2026-09-30T10:20:33.150218+00:00"
+   "MX": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "santiago-gimenez": {
@@ -995,10 +1011,10 @@
    }
   ],
   "first": "2026-09-30T10:20:33.150218+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
    "CL": "2026-09-30T16:28:47.566170+00:00",
-   "BO": "2026-10-01T03:45:13.337015+00:00"
+   "BO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "clima-hoy": {
@@ -1048,10 +1064,10 @@
    }
   ],
   "first": "2026-09-30T10:20:33.150218+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
    "CL": "2026-09-30T16:28:47.566170+00:00",
-   "BO": "2026-10-01T03:45:13.337015+00:00"
+   "BO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "providencia": {
@@ -1215,6 +1231,11 @@
   "traffic": "200+",
   "news": [
    {
+    "title": "Novak Djokovic: Former world No 1 lands his first win since Wimbledon with victory over Nuno Borges at the China Open",
+    "url": "https://www.skysports.com/tennis/news/13593587/novak-djokovic-former-world-no-1-lands-his-first-win-since-wimbledon-with-victory-over-nuno-borges-at-the-china-open",
+    "source": "Sky Sports"
+   },
+   {
     "title": "Serbian tennis star Novak Djokovic wins opening match at the 2026 China Open",
     "url": "https://www.globaltimes.cn/galleries/6361.html",
     "source": "Global Times"
@@ -1223,20 +1244,15 @@
     "title": "ATP roundup: Novak Djokovic still perfect in Beijing",
     "url": "https://wtaq.com/2026/09/30/atp-roundup-novak-djokovic-still-perfect-in-beijing/",
     "source": "WTAQ"
-   },
-   {
-    "title": "Goosebumps with the welcome for Djokovic on his return to China",
-    "url": "https://www.puntodebreak.com/en/2026/09/30/goosebumps-with-the-welcome-for-djokovic-on-his-return-to-china",
-    "source": "Puntodebreak"
    }
   ],
   "first": "2026-09-30T16:28:47.566170+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
    "AR": "2026-09-30T20:57:40.415107+00:00",
    "MX": "2026-09-30T16:28:47.566170+00:00",
    "CL": "2026-09-30T20:57:40.415107+00:00",
-   "EC": "2026-10-01T03:45:13.337015+00:00"
+   "EC": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "andrea-chavez-trevino": {
@@ -1676,10 +1692,10 @@
    }
   ],
   "first": "2026-09-30T20:57:40.415107+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
    "AR": "2026-09-30T20:57:40.415107+00:00",
-   "PE": "2026-10-01T03:45:13.337015+00:00"
+   "PE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "el-financiero": {
@@ -1703,9 +1719,9 @@
    }
   ],
   "first": "2026-09-30T20:57:40.415107+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "MX": "2026-10-01T03:45:13.337015+00:00"
+   "MX": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "carls-junior": {
@@ -1729,9 +1745,9 @@
    }
   ],
   "first": "2026-09-30T20:57:40.415107+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "MX": "2026-10-01T03:45:13.337015+00:00"
+   "MX": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "30-de-septiembre": {
@@ -1807,10 +1823,10 @@
    }
   ],
   "first": "2026-09-30T20:57:40.415107+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
    "MX": "2026-10-01T00:28:47.912649+00:00",
-   "VE": "2026-10-01T03:45:13.337015+00:00"
+   "VE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "ticketmaster": {
@@ -1844,27 +1860,27 @@
   "traffic": "10000+",
   "news": [
    {
-    "title": "Eight Years On, Cambridge Analytica Scandal Catches Up With Meta in Santa Fe",
-    "url": "https://www.techpolicy.press/eight-years-on-cambridge-analytica-scandal-catches-up-with-meta-in-santa-fe/",
-    "source": "Tech Policy Press"
+    "title": "I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time.",
+    "url": "https://www.wsj.com/tech/personal-tech/meta-muse-ai-agent-review-ab956101",
+    "source": "WSJ"
    },
    {
-    "title": "New Mexico jury finds Facebook liable for over 43 million violations of consumer protection law",
-    "url": "https://fortune.com/2026/09/26/facebook-liable-violations-new-mexico-consumer-protection-lawand-meta-200-billion-penalties/",
-    "source": "Fortune"
+    "title": "Meta’s Muse Is Misbehaving in Mysterious Ways With Your Privacy",
+    "url": "https://www.cnet.com/tech/services-and-software/metas-muse-agentic-ai-privacy-violations-security-data/",
+    "source": "CNET"
    },
    {
-    "title": "Meta misled users about Facebook data practices, New Mexico jury finds",
-    "url": "https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/",
-    "source": "Reuters"
+    "title": "YouTuber says Muse gave his address to a Facebook Marketplace buyer after a button click: 'A guy just showed up'",
+    "url": "https://www.businessinsider.com/meta-muse-facebook-marketplace-address-story-matt-robb-2026-9",
+    "source": "Business Insider"
    }
   ],
   "first": "2026-09-30T20:57:40.415107+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
    "MX": "2026-09-30T20:57:40.415107+00:00",
-   "PE": "2026-10-01T03:45:13.337015+00:00",
-   "BO": "2026-10-01T03:45:13.337015+00:00"
+   "PE": "2026-10-01T03:58:38.715800+00:00",
+   "BO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "union-san-felipe-san-luis": {
@@ -1882,15 +1898,15 @@
     "source": "La Tercera"
    },
    {
-    "title": "San Luis batió a San Felipe y encendió la pelea por el liderato del Ascenso",
-    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/san-luis-batio-a-san-felipe-y-encendio-la-pelea-por-el-liderato-del/2026-09-30/204443.html",
-    "source": "Cooperativa"
+    "title": "Tabla de posiciones: San Luis vence a San Felipe y deja al rojo vivo la lucha por el ascenso en la Primera B",
+    "url": "https://redgol.cl/chile/primera-b-san-luis-vence-a-san-felipe-y-enciende-con-todo-el-ascenso",
+    "source": "RedGol"
    }
   ],
   "first": "2026-09-30T20:57:40.415107+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CL": "2026-10-01T03:45:13.337015+00:00"
+   "CL": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "linea-2-del-metro": {
@@ -1914,9 +1930,9 @@
    }
   ],
   "first": "2026-09-30T20:57:40.415107+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CL": "2026-10-01T03:45:13.337015+00:00"
+   "CL": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "resultados-loto": {
@@ -1940,9 +1956,9 @@
    }
   ],
   "first": "2026-09-30T20:57:40.415107+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CL": "2026-10-01T03:45:13.337015+00:00"
+   "CL": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "club-de-deportes-union-la-calera": {
@@ -1966,9 +1982,9 @@
    }
   ],
   "first": "2026-09-30T20:57:40.415107+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CL": "2026-10-01T03:45:13.337015+00:00"
+   "CL": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "tomas-barrios": {
@@ -1992,9 +2008,9 @@
    }
   ],
   "first": "2026-09-30T20:57:40.415107+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CL": "2026-10-01T03:45:13.337015+00:00"
+   "CL": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "prestianni": {
@@ -2018,9 +2034,9 @@
    }
   ],
   "first": "2026-10-01T00:28:47.912649+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "AR": "2026-10-01T03:45:13.337015+00:00"
+   "AR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "mi-telefe-en-vivo": {
@@ -2054,25 +2070,25 @@
   "traffic": "20000+",
   "news": [
    {
-    "title": "Román Vega, el último: los 66 jugadores que Scaloni hizo debutar en la Selección Argentina",
-    "url": "https://www.tycsports.com/seleccion-argentina/roman-vega-lista-debutantes-scaloni-seleccion-argentina-id763685.html",
+    "title": "Renovación lateral: así salió la primera prueba en un puesto sensible para la nueva Selección Argentina",
+    "url": "https://www.tycsports.com/seleccion-argentina/renovacion-lateral-asi-salio-la-primera-prueba-en-un-puesto-sensible-para-la-nueva-seleccion-argentina-id763720.html",
     "source": "TyC Sports"
+   },
+   {
+    "title": "Román Vega, Simón, Valentín Gómez, Leo Flores y Equi Fernández, los nuevos debutantes de la era Scaloni en la Selección Argentina",
+    "url": "https://www.clarin.com/deportes/roman-vega-simon-valentin-gomez-leo-flores-equi-fernandez-nuevos-debutantes-scaloni-seleccion-argentina_0_eipCTvVbpc.html",
+    "source": "Clarin.com"
    },
    {
     "title": "Quién es Román Vega, la sorpresa de Lionel Scaloni en la primera lista de la Selección Argentina tras el Mundial",
     "url": "https://radiomitre.cienradios.com/deportes/quien-es-roman-vega-la-sorpresa-de-lionel-scaloni-en-la-primera-lista-de-la-seleccion-argentina-tras-el-mundial/",
     "source": "Radio Mitre"
-   },
-   {
-    "title": "Quién es Román Vega, la sorpresa de Lionel Scaloni en la formación de Argentina contra Bolivia",
-    "url": "https://bolavip.com/ar/seleccion/quien-es-roman-vega-la-sorpresa-de-lionel-scaloni-en-la-formacion-de-argentina-contra-bolivia",
-    "source": "Bolavip Argentina"
    }
   ],
   "first": "2026-10-01T00:28:47.912649+00:00",
-  "seen": "2026-10-01T03:08:24.770580+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "AR": "2026-10-01T03:08:24.770580+00:00"
+   "AR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "mi-telefe": {
@@ -2132,63 +2148,64 @@
   "traffic": "200000+",
   "news": [
    {
-    "title": "Argentina golea a Bolivia con nuevas caras y buen juego en primer duelo sin Messi",
-    "url": "https://www.france24.com/es/minuto-a-minuto/20261001-argentina-golea-a-bolivia-con-nuevas-caras-y-buen-juego-en-primer-duelo-sin-messi",
-    "source": "France 24"
+    "title": "Cuti Romero: debut como capitán y gol para Argentina en Córdoba",
+    "url": "https://www.espn.com.mx/futbol/mundial/nota/_/id/17322758/video-gol-cuti-romero-capitan-cordoba-argentina-bolivia",
+    "source": "ESPN México"
    },
    {
-    "title": "Así fue el gol de Lautaro Martínez para abrir el marcador ante Bolivia",
-    "url": "https://www.minutouno.com/deportes/asi-fue-el-gol-lautaro-martinez-abrir-el-marcador-bolivia-n6328703",
-    "source": "MinutoUno"
+    "title": "Gran asistencia de Palacios y brillante definición de Nico Paz",
+    "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17322673/video-gran-asistencia-palacios-brillante-definicion-nico-paz-argentina-2-0-bolivia",
+    "source": "ESPN Deportes"
    },
    {
-    "title": "¿Por qué no juega Lionel Messi en el amistoso entre Argentina y Bolivia?",
-    "url": "https://bolavip.com/cl/internacional/por-que-no-juega-lionel-messi-en-el-amistoso-entre-argentina-y-bolivia",
-    "source": "Bolavip Chile"
+    "title": "Arranca bien la era post Messi: dos cracks de la Serie A encaminan la goleada de Argentina ante Bolivia",
+    "url": "https://www.telemundo.com/deportes/mas-deporte/arranca-bien-la-era-post-messi-dos-cracks-de-la-serie-a-encaminan-la-g-rcna600853",
+    "source": "Telemundo"
    }
   ],
   "first": "2026-10-01T00:28:47.912649+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
    "AR": "2026-10-01T00:28:47.912649+00:00",
-   "MX": "2026-10-01T03:45:13.337015+00:00",
-   "CL": "2026-10-01T03:45:13.337015+00:00",
-   "BR": "2026-10-01T03:45:13.337015+00:00",
-   "CO": "2026-10-01T03:45:13.337015+00:00",
-   "PE": "2026-10-01T03:45:13.337015+00:00",
-   "UY": "2026-10-01T03:45:13.337015+00:00",
-   "EC": "2026-10-01T03:45:13.337015+00:00",
-   "VE": "2026-10-01T03:45:13.337015+00:00",
-   "BO": "2026-10-01T03:45:13.337015+00:00",
-   "PY": "2026-10-01T03:45:13.337015+00:00",
+   "MX": "2026-10-01T03:58:38.715800+00:00",
+   "CL": "2026-10-01T03:58:38.715800+00:00",
+   "BR": "2026-10-01T03:58:38.715800+00:00",
+   "CO": "2026-10-01T03:58:38.715800+00:00",
+   "PE": "2026-10-01T03:58:38.715800+00:00",
+   "UY": "2026-10-01T03:58:38.715800+00:00",
+   "EC": "2026-10-01T03:58:38.715800+00:00",
+   "VE": "2026-10-01T03:58:38.715800+00:00",
+   "BO": "2026-10-01T03:58:38.715800+00:00",
+   "PY": "2026-10-01T03:58:38.715800+00:00",
    "CA": "2026-10-01T03:45:13.337015+00:00"
   }
  },
  "torque-penarol": {
   "term": "torque - peñarol",
-  "traffic": "10000+",
+  "traffic": "50000+",
   "news": [
    {
-    "title": "Diego Aguirre comentó qué rescató del empate de Peñarol contra Montevideo City Torque",
-    "url": "https://www.espn.com.ar/futbol/uruguay/nota/_/id/17323037/penarol-diego-aguirre-vs-montevideo-city-torque-conferencia-empate-torneo-clausura",
-    "source": "ESPN Argentina"
+    "title": "Clausura: Peñarol y Montevideo City Torque están empatando 1-1 en el Centenario",
+    "url": "https://www.montevideo.com.uy/Deportes/Clausura-Penarol-y-Montevideo-City-Torque-estan-empatando-1-1-en-el-Centenario-uc977077",
+    "source": "Montevideo Portal"
    },
    {
-    "title": "Pronóstico Montevideo City Torque Peñarol - Primera División, Apertura 30/09/26",
-    "url": "https://www.sportytrader.com/es/pronosticos/torque-ca-penarol-375818/",
-    "source": "SportyTrader"
+    "title": "La razón del curioso doble cambio de Peñarol a los 30' del 1T contra MC Torque: sacó a los dos laterales",
+    "url": "https://www.elpais.com.uy/ovacion/futbol/la-razon-del-curioso-doble-cambio-de-penarol-a-los-30-minutos-del-partido-con-mc-torque-saco-a-los-dos-laterales",
+    "source": "EL PAÍS Uruguay"
    },
    {
-    "title": "«CUANDO NO PODES GANAR, EMPATAR NO ES UN DRAMA»",
-    "url": "https://laoraldeportiva.com.uy/2026/10/01/cuando-no-podes-ganar-empatar-no-es-un-drama/",
-    "source": "La oral deportiva -"
+    "title": "Una final anticipada: Montevideo City Torque y Peñarol juegan su partido pendiente",
+    "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/una-final-anticipada-montevideo-city-torque-y-penarol-juegan-su-partido-pendiente/",
+    "source": "la diaria"
    }
   ],
   "first": "2026-10-01T00:28:47.912649+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
    "AR": "2026-10-01T00:28:47.912649+00:00",
-   "PE": "2026-10-01T03:45:13.337015+00:00"
+   "PE": "2026-10-01T03:58:38.715800+00:00",
+   "UY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "graciela-borges": {
@@ -2245,28 +2262,28 @@
  },
  "yankees-red-sox": {
   "term": "yankees - red sox",
-  "traffic": "5000+",
+  "traffic": "10000+",
   "news": [
    {
-    "title": "Red Sox-Yankees AL Wild Card Series Game 2: LIVE on NBC, Peacock",
-    "url": "https://www.mlb.com/news/red-sox-vs-yankees-al-wild-card-series-game-2-starting-lineups-pitching-matchup-2026",
+    "title": "Yanks ride Massachusetts natives Schlittler, Rice to Game 1 win over Sox",
+    "url": "https://www.mlb.com/news/yankees-win-al-wild-card-game-1-2026",
     "source": "MLB.com"
    },
    {
-    "title": "MLB Wild Card playoffs Game 2 score, live updates: Phillies beat Braves, White Sox extend lead over Astros",
-    "url": "https://www.nytimes.com/athletic/live-blogs/mlb-playoffs-live-scores-updates-results-news-highlights/oZ8GurdgZ1sc/",
-    "source": "The New York Times"
+    "title": "Yankees send Red Sox home again, move on to face Rays in ALDS",
+    "url": "https://www.espn.com/mlb/story/_/id/50074123/yankees-send-red-sox-home-again-move-face-rays-alds",
+    "source": "ESPN"
    },
    {
-    "title": "Who are pitching for the NY Yankees and Red Sox today in Game 2 of 2026 MLB Wild Card?",
-    "url": "https://bolavip.com/en/mlb/who-are-pitching-for-the-ny-yankees-and-red-sox-today-in-game-2-of-2026-mlb-wild-card",
-    "source": "Bolavip US"
+    "title": "The Opener: Rice, Anthony, Musgrove",
+    "url": "https://www.mlbtraderumors.com/2026/09/the-opener-rice-anthony-musgrove.html",
+    "source": "MLB Trade Rumors"
    }
   ],
   "first": "2026-10-01T00:28:47.912649+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "MX": "2026-10-01T03:45:13.337015+00:00"
+   "MX": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "zoe-robledo-aburto": {
@@ -2290,9 +2307,9 @@
    }
   ],
   "first": "2026-10-01T00:28:47.912649+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "MX": "2026-10-01T03:45:13.337015+00:00"
+   "MX": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "aeropuerto": {
@@ -2300,26 +2317,26 @@
   "traffic": "2000+",
   "news": [
    {
-    "title": "Tramo aeropuerto – El Palotal convertido en una «boca de lobo»",
-    "url": "https://lanacionweb.com/frontera/tramo-aeropuerto-el-palotal-convertido-en-una-boca-de-lobo/",
-    "source": "Diario La Nación – Lo dice siempre"
+    "title": "Incautan 6,6 kilos de cocaína ocultos en productos capilares que iban a Europa",
+    "url": "https://www.larepublica.ec/blog/2026/09/30/incautan-66-kilos-de-cocaina-ocultos-en-productos-capilares-que-iban-a-europa/",
+    "source": "La República EC"
    },
    {
-    "title": "Dudas y escepticismo en torno al ambicioso proyecto para transformar al Aeropuerto de La Plata",
-    "url": "https://www.aviacionnews.com/2026/09/dudas-y-escepticismo-en-torno-al-ambicioso-proyecto-para-transformar-al-aeropuerto-de-la-plata/",
-    "source": "Aviación News"
+    "title": "Becky, la can policía que frenó el envío de cocaína oculta en chocolate a Europa",
+    "url": "https://www.elcomercio.com/actualidad/seguridad/becky-can-policia-freno-envio-cocaina-oculta-chocolate-europa/",
+    "source": "El Comercio"
    },
    {
-    "title": "Un jefe peronista, de gira por China en busca de inversiones",
-    "url": "https://www.clarin.com/zonales/jefe-peronista-gira-china-busca-inversiones_0_zFSXlvOt5T.html",
-    "source": "Clarin.com"
+    "title": "Cocaína en chocolate: Policía frustra en Quito un envío de 4,2 kilos hacia Europa",
+    "url": "https://www.expreso.ec/quito/cocaina-chocolate-policia-frustra-quito-envio-4-2-kilos-europa-297669.html",
+    "source": "expreso.ec"
    }
   ],
   "first": "2026-10-01T00:28:47.912649+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CL": "2026-10-01T03:45:13.337015+00:00",
-   "VE": "2026-10-01T03:45:13.337015+00:00"
+   "CL": "2026-10-01T03:58:38.715800+00:00",
+   "VE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "concepcion-o-higgins": {
@@ -2343,10 +2360,10 @@
    }
   ],
   "first": "2026-10-01T00:28:47.912649+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CL": "2026-10-01T03:45:13.337015+00:00",
-   "CO": "2026-10-01T03:45:13.337015+00:00"
+   "CL": "2026-10-01T03:58:38.715800+00:00",
+   "CO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "crimen": {
@@ -2370,9 +2387,9 @@
    }
   ],
   "first": "2026-10-01T00:28:47.912649+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CL": "2026-10-01T03:45:13.337015+00:00"
+   "CL": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "flaco-lopez": {
@@ -2380,8 +2397,8 @@
   "traffic": "5000+",
   "news": [
    {
-    "title": "Jugadón de Flores y golazo del Flaco López para Argentina ante Bolivia",
-    "url": "https://www.tycsports.com/video/seleccion-argentina/jugadon-de-flores-y-golazo-del-flaco-lopez-para-argentina-ante-bolivia-id991842.html",
+    "title": "Gol en offside del Flaco López en la Selección Argentina",
+    "url": "https://www.tycsports.com/video/seleccion-argentina/gol-en-offside-del-flaco-lopez-en-la-seleccion-argentina-id991841.html",
     "source": "TyC Sports"
    },
    {
@@ -2396,9 +2413,9 @@
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "AR": "2026-10-01T03:45:13.337015+00:00"
+   "AR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "enzo-fernandez": {
@@ -2422,9 +2439,9 @@
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "AR": "2026-10-01T03:45:13.337015+00:00"
+   "AR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "santiago-simon": {
@@ -2448,9 +2465,9 @@
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "AR": "2026-10-01T03:45:13.337015+00:00"
+   "AR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "burkina-faso": {
@@ -2474,9 +2491,9 @@
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "AR": "2026-10-01T03:45:13.337015+00:00"
+   "AR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "exequiel-palacios": {
@@ -2500,9 +2517,9 @@
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "AR": "2026-10-01T03:45:13.337015+00:00"
+   "AR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "leonel-flores": {
@@ -2526,9 +2543,9 @@
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "AR": "2026-10-01T03:45:13.337015+00:00"
+   "AR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "cuti-romero": {
@@ -2552,9 +2569,9 @@
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "AR": "2026-10-01T03:45:13.337015+00:00"
+   "AR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "benin": {
@@ -2578,14 +2595,14 @@
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "AR": "2026-10-01T03:45:13.337015+00:00"
+   "AR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "america-vs-cruz-azul": {
   "term": "américa vs cruz azul",
-  "traffic": "2000+",
+  "traffic": "5000+",
   "news": [
    {
     "title": "Corregir y rotar, prioridades de Cruz Azul en Fecha FIFA",
@@ -2593,20 +2610,20 @@
     "source": "Yahoo"
    },
    {
-    "title": "Cruz Azul va por el honor ante América y Galaxy; para Joel Huiqui no existen los amistosos",
-    "url": "https://www.eluniversal.com.mx/deportes/cruz-azul-va-por-el-honor-ante-america-y-galaxy-para-joel-huiqui-no-existen-los-amistosos/",
-    "source": "El Universal"
-   },
-   {
     "title": "¿Santiago Ramos Mingo y Santiago Bueno tendrán que esperar más para debutar con América?",
     "url": "https://www.record.com.mx/historia/santiago-ramos-mingo-y-santiago-bueno-debut-2026093021413751401",
     "source": "Récord"
+   },
+   {
+    "title": "Cruz Azul va por el honor ante América y Galaxy; para Joel Huiqui no existen los amistosos",
+    "url": "https://www.eluniversal.com.mx/deportes/cruz-azul-va-por-el-honor-ante-america-y-galaxy-para-joel-huiqui-no-existen-los-amistosos/",
+    "source": "El Universal"
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "MX": "2026-10-01T03:45:13.337015+00:00"
+   "MX": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "meteored": {
@@ -2630,14 +2647,14 @@
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "MX": "2026-10-01T03:45:13.337015+00:00"
+   "MX": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "yankees": {
   "term": "yankees",
-  "traffic": "2000+",
+  "traffic": "1000+",
   "news": [
    {
     "title": "Yanks sweep rival Sox behind another offensive onslaught to punch ticket to ALDS",
@@ -2645,26 +2662,26 @@
     "source": "MLB.com"
    },
    {
-    "title": "Yankees send Red Sox home again, move on to face Rays in ALDS",
-    "url": "https://www.espn.com/mlb/story/_/id/50074123/yankees-send-red-sox-home-again-move-face-rays-alds",
-    "source": "ESPN"
+    "title": "Fried, Bellinger and García lead Yankees over Red Sox 9-2 for 2-game Wild Card Series sweep",
+    "url": "https://www.thestar.com/sports/baseball/fried-bellinger-and-garc-a-lead-yankees-over-red-sox-9-2-for-2-game-wild-card-series-sweep/article_f46e7b20-a276-5baf-aa52-ba43bd1664bf.html",
+    "source": "Toronto Star"
    },
    {
-    "title": "Ben Rice torments hometown Red Sox with historic Yankees playoff night",
-    "url": "https://www.dazn.com/en-CA/news/baseball/ben-rice-torments-red-sox-historic-yankees-playoff-mlb/1cbson91q669o1tp2fyy07ozih",
-    "source": "DAZN"
+    "title": "MLB Game 2 Highlights: Yankees 9, Red Sox 2",
+    "url": "https://www.sportsnet.ca/mlb/video/mlb-game-2-highlights-yankees-9-red-sox-2/",
+    "source": "Sportsnet.ca"
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
    "MX": "2026-10-01T03:45:13.337015+00:00",
-   "CA": "2026-10-01T03:45:13.337015+00:00"
+   "CA": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "jovenes-construyendo-el-futuro": {
   "term": "jovenes construyendo el futuro",
-  "traffic": "5000+",
+  "traffic": "10000+",
   "news": [
    {
     "title": "¿Habrá pago de Jóvenes Escribiendo el Futuro en octubre 2026? Cuándo esperar el próximo depósito",
@@ -2683,9 +2700,9 @@
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "MX": "2026-10-01T03:45:13.337015+00:00"
+   "MX": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "atletico-nacional-junior": {
@@ -2693,8 +2710,8 @@
   "traffic": "500000+",
   "news": [
    {
-    "title": "¿James desde el inicio vs. Junior? La formación titular de Atlético Nacional",
-    "url": "https://www.espn.com.ve/futbol/colombia/nota/_/id/17322516/la-formacion-titular-de-atletico-nacional-vs-junior-james-rodriguez",
+    "title": "Cómo fue el partido de James en Nacional vs Junior",
+    "url": "https://www.espn.com.ve/futbol/colombia/nota/_/id/17322883/como-fue-partido-james-rodriguez-nacional-vs-junior-liga-betplay",
     "source": "ESPN Venezuela"
    },
    {
@@ -2709,13 +2726,13 @@
    }
   ],
   "first": "2026-10-01T02:48:45.177551+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CL": "2026-10-01T03:45:13.337015+00:00",
-   "CO": "2026-10-01T03:45:13.337015+00:00",
-   "PE": "2026-10-01T03:45:13.337015+00:00",
-   "EC": "2026-10-01T03:45:13.337015+00:00",
-   "VE": "2026-10-01T03:45:13.337015+00:00"
+   "CL": "2026-10-01T03:58:38.715800+00:00",
+   "CO": "2026-10-01T03:58:38.715800+00:00",
+   "PE": "2026-10-01T03:58:38.715800+00:00",
+   "EC": "2026-10-01T03:58:38.715800+00:00",
+   "VE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "mastantuono": {
@@ -2765,9 +2782,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BR": "2026-10-01T03:45:13.337015+00:00"
+   "BR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "acidente-aereo": {
@@ -2791,14 +2808,14 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BR": "2026-10-01T03:45:13.337015+00:00"
+   "BR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "pagamento": {
   "term": "pagamento",
-  "traffic": "5000+",
+  "traffic": "10000+",
   "news": [
    {
     "title": "Calendário BPC/Loas outubro 2026: veja datas de pagamento",
@@ -2817,9 +2834,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BR": "2026-10-01T03:45:13.337015+00:00"
+   "BR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "atletico-nacional-x-junior": {
@@ -2843,9 +2860,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BR": "2026-10-01T03:45:13.337015+00:00"
+   "BR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "antonio-tabet": {
@@ -2869,9 +2886,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BR": "2026-10-01T03:45:13.337015+00:00"
+   "BR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "argentina-x-bolivia": {
@@ -2895,9 +2912,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BR": "2026-10-01T03:45:13.337015+00:00"
+   "BR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "debate-presidencial-2026": {
@@ -2905,14 +2922,14 @@
   "traffic": "10000+",
   "news": [
    {
-    "title": "Brasília Hoje: Lula repete estratégia e confirma entrevista a podcast Flow em horário de debate na TV",
-    "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-repete-estrategia-e-confirma-entrevista-a-podcast-flow-em-horario-de-debate-na-tv.shtml",
-    "source": "Folha de S.Paulo"
-   },
-   {
     "title": "Eleições 2026: TV Globo promove debate com candidatos à Presidência",
     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/eleicoes-2026-tv-globo-promove-debate-com-candidatos-a-presidencia-nesta-quinta.ghtml",
     "source": "G1"
+   },
+   {
+    "title": "Brasília Hoje: Lula repete estratégia e confirma entrevista a podcast Flow em horário de debate na TV",
+    "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-repete-estrategia-e-confirma-entrevista-a-podcast-flow-em-horario-de-debate-na-tv.shtml",
+    "source": "Folha de S.Paulo"
    },
    {
     "title": "Circo da direita, Janja e fake news: por que Lula decidiu não ir ao debate da Globo",
@@ -2921,9 +2938,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BR": "2026-10-01T03:45:13.337015+00:00"
+   "BR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "glicemia": {
@@ -2947,9 +2964,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BR": "2026-10-01T03:45:13.337015+00:00"
+   "BR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "torque-x-penarol": {
@@ -2999,9 +3016,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CO": "2026-10-01T03:45:13.337015+00:00"
+   "CO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "edad-de-jubilacion": {
@@ -3025,9 +3042,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CO": "2026-10-01T03:45:13.337015+00:00"
+   "CO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "senado-de-la-republica-de-colombia": {
@@ -3051,9 +3068,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CO": "2026-10-01T03:45:13.337015+00:00"
+   "CO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "nicolas-petro": {
@@ -3077,20 +3094,15 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CO": "2026-10-01T03:45:13.337015+00:00"
+   "CO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "tasa-de-interes": {
   "term": "tasa de interés",
   "traffic": "500+",
   "news": [
-   {
-    "title": "“Voté a favor de subir la tasa”: MinHacienda reveló su respaldo a la decisión del Banco de la República | El Colombiano",
-    "url": "https://www.elcolombiano.com/negocios/minhacienda-miguel-gomez-voto-a-favor-subir-tasa-interes-banco-republica-GG41744882",
-    "source": "El Colombiano"
-   },
    {
     "title": "La Junta Directiva del Banco de la República decidió por mayoría aumentar en 25 puntos básicos (pbs) la tasa de interés de política monetaria a 12,25%",
     "url": "https://www.banrep.gov.co/es/noticias/junta-directiva/junta-directiva-septiembre-2026",
@@ -3100,12 +3112,17 @@
     "title": "En primera junta de Miguel Gómez, Banrep sube tasa de interés en 25 puntos",
     "url": "https://www.lasillavacia.com/en-vivo/en-primera-junta-de-miguel-gomez-banrep-sube-tasa-de-interes-en-25-puntos/",
     "source": "La Silla Vacía"
+   },
+   {
+    "title": "Banco de la República aumenta las tasas de interés en Colombia en septiembre de 2026",
+    "url": "https://www.valoraanalitik.com/banco-de-la-republica-aumenta-tasas-de-interes-septiembre-2026/",
+    "source": "Valora Analitik"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CO": "2026-10-01T03:45:13.337015+00:00"
+   "CO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "carlos-pizarro-leongomez": {
@@ -3129,9 +3146,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CO": "2026-10-01T03:45:13.337015+00:00"
+   "CO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "grupo-gilinski": {
@@ -3181,9 +3198,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PE": "2026-10-01T03:45:13.337015+00:00"
+   "PE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "cienciano-chankas-cyc": {
@@ -3207,9 +3224,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PE": "2026-10-01T03:45:13.337015+00:00"
+   "PE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "cristiano-ronaldo": {
@@ -3233,9 +3250,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PE": "2026-10-01T03:45:13.337015+00:00"
+   "PE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "que-se-celebra-hoy": {
@@ -3259,9 +3276,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PE": "2026-10-01T03:45:13.337015+00:00"
+   "PE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "5-de-oro": {
@@ -3285,35 +3302,35 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "UY": "2026-10-01T03:45:13.337015+00:00"
+   "UY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "posiciones-de-montevideo-city-torque-contra-penarol": {
   "term": "posiciones de montevideo city torque contra peñarol",
-  "traffic": "50000+",
+  "traffic": "5000+",
   "news": [
    {
-    "title": "Clausura: Peñarol y Montevideo City Torque están empatando 1-1 en el Centenario",
-    "url": "https://www.montevideo.com.uy/Deportes/Clausura-Penarol-y-Montevideo-City-Torque-estan-empatando-1-1-en-el-Centenario-uc977077",
+    "title": "Clausura: las tres tablas de posiciones al cabo de la fecha 8 y detalles de las 9 y 10",
+    "url": "https://www.montevideo.com.uy/Deportes/Clausura-las-tres-tablas-de-posiciones-al-cabo-de-la-fecha-8-y-detalles-de-las-9-y-10-uc976845",
     "source": "Montevideo Portal"
    },
    {
-    "title": "La razón del curioso doble cambio de Peñarol a los 30' del 1T contra MC Torque: sacó a los dos laterales",
-    "url": "https://www.elpais.com.uy/ovacion/futbol/la-razon-del-curioso-doble-cambio-de-penarol-a-los-30-minutos-del-partido-con-mc-torque-saco-a-los-dos-laterales",
-    "source": "EL PAÍS Uruguay"
+    "title": "Así quedaron las posiciones del Torneo Clausura, la Tabla Anual y el descenso tras el final de la octava fecha",
+    "url": "https://www.elobservador.com.uy/futbol/asi-quedaron-las-posiciones-del-torneo-clausura-la-tabla-anual-y-el-descenso-el-final-la-octava-fecha-n6058775",
+    "source": "El Observador"
    },
    {
-    "title": "Una final anticipada: Montevideo City Torque y Peñarol juegan su partido pendiente",
-    "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/una-final-anticipada-montevideo-city-torque-y-penarol-juegan-su-partido-pendiente/",
-    "source": "la diaria"
+    "title": "Así quedaron las tablas del Clausura, Anual y Descenso de la Liga AUF Uruguaya tras el triunfo de Wanderers",
+    "url": "https://www.elpais.com.uy/ovacion/futbol/asi-quedaron-las-tablas-del-clausura-anual-y-descenso-de-la-liga-auf-uruguaya-tras-el-triunfo-de-wanderers",
+    "source": "EL PAÍS Uruguay"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "UY": "2026-10-01T03:45:13.337015+00:00"
+   "UY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "estafa": {
@@ -3337,9 +3354,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "UY": "2026-10-01T03:45:13.337015+00:00"
+   "UY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "banco-de-prevision-social": {
@@ -3363,9 +3380,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "UY": "2026-10-01T03:45:13.337015+00:00"
+   "UY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "instituto-uruguayo-de-meteorologia": {
@@ -3389,9 +3406,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "UY": "2026-10-01T03:45:13.337015+00:00"
+   "UY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "chad-lowe": {
@@ -3415,9 +3432,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "UY": "2026-10-01T03:45:13.337015+00:00"
+   "UY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "2026": {
@@ -3441,9 +3458,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "UY": "2026-10-01T03:45:13.337015+00:00"
+   "UY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "john-reimberg": {
@@ -3467,20 +3484,15 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "EC": "2026-10-01T03:45:13.337015+00:00"
+   "EC": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "allanamiento": {
   "term": "allanamiento",
   "traffic": "2000+",
   "news": [
-   {
-    "title": "Tenía una orden judicial pendiente: fue detenido durante un allanamiento en Santo Domingo",
-    "url": "https://www.eldiario.ec/seguridad/tenia-una-orden-judicial-pendiente-fue-detenido-durante-un-allanamiento-en-santo-domingo-30092026/",
-    "source": "El Diario Ecuador"
-   },
    {
     "title": "Hallaron siete granadas, explosivos y un arsenal de armas durante un allanamiento en Salta",
     "url": "https://www.gentedesalta.com/policiales/hallaron-siete-granadas-explosivos-arsenal-armas-durante-allanamiento-salta-n12433",
@@ -3490,12 +3502,17 @@
     "title": "Un allanamiento por una disputa entre hermanos terminó con el secuestro de un arsenal en Villa Las Rosas",
     "url": "https://www.eltribuno.com/policiales/2026-9-30-13-28-0-allanamiento-por-una-disputa-entre-hermanos-termino-con-el-secuestro-de-un-arsenal-en-villa-las-rosas",
     "source": "El Tribuno"
+   },
+   {
+    "title": "Allanaron una casa por una computadora y se toparon con un arsenal de armas",
+    "url": "https://informatesalta.com.ar/policiales/allanaron-una-casa-por-una-computadora-y-se-toparon-con-un-arsenal-de-armas_a6abd3bbc488955bbb781e384",
+    "source": "Informate Salta"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "EC": "2026-10-01T03:45:13.337015+00:00"
+   "EC": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "salario": {
@@ -3519,9 +3536,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "EC": "2026-10-01T03:45:13.337015+00:00"
+   "EC": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "ecuador-vs-japon": {
@@ -3545,9 +3562,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "EC": "2026-10-01T03:45:13.337015+00:00"
+   "EC": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "peru": {
@@ -3555,25 +3572,25 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "Ecuador entrega a Perú la presidencia de Comunidad Andina para \"atender desafíos comunes\"",
-    "url": "https://www.expreso.ec/economia-y-negocios/ecuador-entrega-peru-presidencia-comunidad-andina-atender-desafios-comunes-297732.html",
+    "title": "Perú asume la presidencia pro tempore de la Comunidad Andina",
+    "url": "https://www.expreso.ec/politica/peru-asume-presidencia-pro-tempore-comunidad-andina-297715.html",
     "source": "expreso.ec"
-   },
-   {
-    "title": "Canciller Espá arriba a Quito para reunión del Consejo Andino de Ministros de Relaciones Exteriores",
-    "url": "https://elperuano.pe/noticia/305742-canciller-espa-arriba-a-quito-para-reunion-del-consejo-andino-de-ministros-de-relaciones-exteriores",
-    "source": "El Peruano"
    },
    {
     "title": "CANCILLER Y MINISTRO DE COMERCIO EXTERIOR VIAJARÁN A QUITO PARA FORTALECER LA AGENDA BILATERAL CON ECUADOR",
     "url": "https://www.rcrperu.com/canciller-y-ministro-de-comercio-exterior-viajaran-a-quito-para-fortalecer-la-agenda-bilateral-con-ecuador/",
     "source": "RCR Peru"
+   },
+   {
+    "title": "Ecuador entrega a Perú la presidencia de la CAN; la seguridad regional está entre los retos",
+    "url": "https://www.primicias.ec/politica/ecuador-comunidad-andina-entrega-presidencia-peru-seguridad-retos-133845/",
+    "source": "Primicias"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "EC": "2026-10-01T03:45:13.337015+00:00"
+   "EC": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "atropellamiento": {
@@ -3581,25 +3598,25 @@
   "traffic": "200+",
   "news": [
    {
+    "title": "“Le dije: ‘para, para, para’, más de 200 veces”, declaró procesado por el atropellamiento de Mónica Martinich, en Samborondón",
+    "url": "https://www.primicias.ec/seguridad/monica-martinich-accidente-transito-muerte-samborondon-atropellamiento-prision-conductor-juicios-empresas-133749/",
+    "source": "Primicias"
+   },
+   {
+    "title": "Caso Mónica Martinich: insólitas declaraciones de procesados por caso de atropellamiento en Samborondón",
+    "url": "https://www.eltelegrafo.com.ec/noticias/locales/232/caso-monica-martinich-insolitas-declaraciones-de-procesados-por-caso-de-atropellamiento-en-samborondon",
+    "source": "eltelegrafo.com.ec"
+   },
+   {
     "title": "Caso Mónica Martinich: la justicia busca dentro y fuera del país al conductor de la camioneta",
     "url": "https://www.ecuavisa.com/guayaquil/monica-martinich-conductor-camioneta-orden-captura-20260930-0062.html",
     "source": "Ecuavisa"
-   },
-   {
-    "title": "Juez ordena prisión preventiva para conductor señalado por la muerte de Mónica Martinich",
-    "url": "https://www.elcomercio.com/actualidad/seguridad/juez-ordena-prision-preventiva-para-conductor-senalado-por-la-muerte-de-monica-martinich/",
-    "source": "El Comercio"
-   },
-   {
-    "title": "Prisión preventiva para el acusado de la muerte de Mónica Martinich en Samborondón",
-    "url": "https://www.extra.ec/noticia/justicia/dictan-prision-preventiva-senalado-conductor-atropello-monica-martinich-163543.html",
-    "source": "Diario Extra"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "EC": "2026-10-01T03:45:13.337015+00:00"
+   "EC": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "tren-de-aragua": {
@@ -3607,14 +3624,14 @@
   "traffic": "2000+",
   "news": [
    {
-    "title": "EE.UU. sanciona a nueve personas y dos entidades por presuntamente financiar al Tren de Aragua",
-    "url": "https://cnnespanol.cnn.com/2026/09/30/eeuu/sancionan-personas-entidades-financiamiento-tren-aragua-orix",
-    "source": "CNN en Español"
-   },
-   {
     "title": "Estados Unidos impone sanciones a una red que financia la organización criminal Tren de Aragua",
     "url": "https://elpais.com/america/2026-09-30/estados-unidos-impone-sanciones-a-una-red-que-financia-la-organizacion-criminal-tren-de-aragua.html",
     "source": "EL PAÍS"
+   },
+   {
+    "title": "EE.UU. sanciona a nueve personas y dos entidades por presuntamente financiar al Tren de Aragua",
+    "url": "https://cnnespanol.cnn.com/2026/09/30/eeuu/sancionan-personas-entidades-financiamiento-tren-aragua-orix",
+    "source": "CNN en Español"
    },
    {
     "title": "Ofac sanciona red financiera del Tren de Aragua por robo a bancos estadounidenses",
@@ -3623,9 +3640,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "VE": "2026-10-01T03:45:13.337015+00:00"
+   "VE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "astros-white-sox": {
@@ -3633,25 +3650,25 @@
   "traffic": "2000+",
   "news": [
    {
-    "title": "Houston? No problem! White Sox end 21-year wait with sweep",
-    "url": "https://www.mlb.com/news/white-sox-win-al-wild-card-series-2026",
-    "source": "MLB.com"
-   },
-   {
-    "title": "White Sox 6-3 Astros (Sep 29, 2026) Final Score",
-    "url": "https://www.espn.com/mlb/game/_/gameId/401907896/white-sox-astros",
-    "source": "ESPN"
+    "title": "Resumen White Sox @ Astros, Resultados/Jugadas destacadas - 29/09/2026",
+    "url": "https://www.mlb.com/es/stories/game/849849?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849849",
+    "source": "MLB"
    },
    {
     "title": "MLB Playoffs: White Sox Crush Astros in ALWC Game 1, Houston on the Brink",
     "url": "https://en.albat.com/thebigs/mlb-playoffs-white-sox-crush-astros-in-alwc-game-1-houston-on-the-brink-20260929-0047.html",
     "source": "Al Bat"
+   },
+   {
+    "title": "Meidroth blasts White Sox through, Phillies survive in MLB playoffs",
+    "url": "https://www.afp.com/en/meidroth-blasts-white-sox-through-phillies-survive-mlb-playoffs",
+    "source": "AFP.com"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "VE": "2026-10-01T03:45:13.337015+00:00"
+   "VE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "paso-de-cebra": {
@@ -3675,9 +3692,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "VE": "2026-10-01T03:45:13.337015+00:00"
+   "VE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "luis-reyes-reyes": {
@@ -3701,9 +3718,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "VE": "2026-10-01T03:45:13.337015+00:00"
+   "VE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "israel": {
@@ -3753,9 +3770,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BO": "2026-10-01T03:45:13.337015+00:00"
+   "BO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "unitel": {
@@ -3763,9 +3780,9 @@
   "traffic": "2000+",
   "news": [],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BO": "2026-10-01T03:45:13.337015+00:00"
+   "BO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "chatgpt": {
@@ -3783,15 +3800,15 @@
     "source": "NBC News"
    },
    {
-    "title": "Why OpenAI’s DevDay Looked Like Catch-Up",
-    "url": "https://www.theinformation.com/newsletters/ai-agenda/openais-devday-looked-like-catch-up",
-    "source": "The Information"
+    "title": "OpenAI’s New Agent Delivers a Reality Check for the Enterprise",
+    "url": "https://www.wsj.com/cio-journal/openais-new-agent-delivers-a-reality-check-for-the-enterprise-0370ea8a",
+    "source": "WSJ"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BO": "2026-10-01T03:45:13.337015+00:00"
+   "BO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "clima-santa-cruz": {
@@ -3815,9 +3832,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BO": "2026-10-01T03:45:13.337015+00:00"
+   "BO": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "energia-electrica": {
@@ -3841,9 +3858,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PY": "2026-10-01T03:45:13.337015+00:00"
+   "PY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "cerro": {
@@ -3867,9 +3884,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PY": "2026-10-01T03:45:13.337015+00:00"
+   "PY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "club-olimpia": {
@@ -3877,9 +3894,9 @@
   "traffic": "2000+",
   "news": [],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PY": "2026-10-01T03:45:13.337015+00:00"
+   "PY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "tormenta": {
@@ -3887,25 +3904,25 @@
   "traffic": "2000+",
   "news": [
    {
-    "title": "El huracán ‘Rachel’ y el frente frío 1 activan alerta por lluvias intensas en 17 Estados de México",
-    "url": "https://elpais.com/mexico/2026-09-30/el-huracan-rachel-y-el-frente-frio-1-activan-alerta-por-lluvias-intensas-en-17-estados-de-mexico.html",
-    "source": "EL PAÍS"
+    "title": "¿Fue un tornado lo de Caaguazú? Meteorología analiza rastros de destrucción",
+    "url": "https://www.abc.com.py/nacionales/2026/09/30/un-tornado-en-caaguazu-meteorologia-analiza-rastros-de-destruccion/",
+    "source": "ABC Color"
    },
    {
-    "title": "SEP: Lista de municipios que regresan a clases en Jalisco el 1 de octubre",
-    "url": "https://www.informador.mx/jalisco/sep-lista-de-municipios-que-regresan-a-clases-en-jalisco-el-1-de-octubre-20260930-0187.html",
-    "source": "El Informador"
+    "title": "Temporal dejó destrozos y animales muertos en varias ciudades del país",
+    "url": "https://www.lanacion.com.py/pais/2026/09/30/temporal-dejo-destrozos-y-animales-muertos-en-varias-ciudades-del-pais/",
+    "source": "La Nación"
    },
    {
-    "title": "Huracán Rachel ya causa inundaciones en algunas zonas de Michoacán",
-    "url": "https://www.infobae.com/video/mexico/huracan-rachel-ya-causa-inundaciones-en-algunas-zonas-de-michoacan/wnArOmPq/",
-    "source": "Infobae"
+    "title": "Tormenta provocó cuantiosos destrozos en Hernandarias",
+    "url": "https://www.hoy.com.py/nacionales/2026/09/30/tormenta-provoco-cuantiosos-destrozos-en-hernandarias",
+    "source": "Diario HOY – En Paraguay y el Mundo"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PY": "2026-10-01T03:45:13.337015+00:00"
+   "PY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "senado": {
@@ -3918,20 +3935,20 @@
     "source": "G1"
    },
    {
-    "title": "Qual é o número de Túlio de Amorim Pfuetzenreiter (Missão) para o Senado em Santa Catarina?",
-    "url": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-tulio-de-amorim-pfuetzenreiter-missao-para-o-senado-em-santa-catarina.ghtml",
+    "title": "Qual é o número de Antônio José Lira (Avante) para o Senado no Piauí?",
+    "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-antonio-jose-lira-avante-para-o-senado-no-piaui.ghtml",
     "source": "G1"
    },
    {
-    "title": "Qual é o número de Sanderson (PL) para o Senado no Rio Grande do Sul?",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-sanderson-pl-para-o-senado-no-rio-grande-do-sul.ghtml",
+    "title": "Qual é o número de Afrânio Boppré (PSOL) para o Senado em Santa Catarina?",
+    "url": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-afranio-boppre-psol-para-o-senado-em-santa-catarina.ghtml",
     "source": "G1"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PY": "2026-10-01T03:45:13.337015+00:00"
+   "PY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "clima-de-hoy": {
@@ -3939,9 +3956,9 @@
   "traffic": "100+",
   "news": [],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PY": "2026-10-01T03:45:13.337015+00:00"
+   "PY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "rogelio-delgado": {
@@ -3965,9 +3982,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PY": "2026-10-01T03:45:13.337015+00:00"
+   "PY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "pronostico-del-tiempo": {
@@ -3991,9 +4008,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PY": "2026-10-01T03:45:13.337015+00:00"
+   "PY": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "manny-machado": {
@@ -4017,9 +4034,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "US": "2026-10-01T03:45:13.337015+00:00"
+   "US": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "azzi-fudd": {
@@ -4043,9 +4060,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "US": "2026-10-01T03:45:13.337015+00:00"
+   "US": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "kai-cenat-stream": {
@@ -4069,9 +4086,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "US": "2026-10-01T03:45:13.337015+00:00"
+   "US": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "marco-rubio": {
@@ -4095,9 +4112,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "US": "2026-10-01T03:45:13.337015+00:00"
+   "US": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "cook-islands-vs-tahiti": {
@@ -4258,7 +4275,7 @@
  },
  "twitch": {
   "term": "twitch",
-  "traffic": "1000+",
+  "traffic": "2000+",
   "news": [
    {
     "title": "Mars takes “feeding the trolls” literally by telling hangry Twitch chat users to grab a Snickers",
@@ -4277,9 +4294,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CA": "2026-10-01T03:45:13.337015+00:00"
+   "CA": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "christina-pike": {
@@ -4287,9 +4304,9 @@
   "traffic": "1000+",
   "news": [
    {
-    "title": "Tennessee inmate still alive after being administered two lethal injections, her lawyer says",
-    "url": "https://www.nbcnews.com/news/us-news/ahead-rare-execution-lone-woman-tennessee-death-row-says-peace-rcna600279",
-    "source": "NBC News"
+    "title": "Tennessee Woman Still Alive After Attempts to Execute Her, Lawyers Say",
+    "url": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html",
+    "source": "The New York Times"
    },
    {
     "title": "Christa Pike Remains ‘Alive and Snoring’ After 2 Lethal Injections, Her Lawyer Says",
@@ -4303,9 +4320,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CA": "2026-10-01T03:45:13.337015+00:00"
+   "CA": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "colorado-avalanche": {
@@ -4355,15 +4372,20 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CA": "2026-10-01T03:45:13.337015+00:00"
+   "CA": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "filip-hallander": {
   "term": "filip hållander",
   "traffic": "1000+",
   "news": [
+   {
+    "title": "Höjdpunkter: PHI-PIT 0-7",
+    "url": "https://www.nhl.com/sv/video/topic/game-recaps/pit-at-phi-recap-6405995453112",
+    "source": "NHL.com"
+   },
    {
     "title": "Pittsburgh Penguins 2026/27 – trupp, svenskar och nyckelspelare",
     "url": "https://hurbra.se/pittsburgh-penguins-2026-2027/",
@@ -4373,17 +4395,12 @@
     "title": "Hållander med i Pittsburghs trupp",
     "url": "https://www.st.nu/sport/hallander-med-i-pittsburghs-trupp/",
     "source": "Sundsvalls Tidning"
-   },
-   {
-    "title": "Höjdpunkter: PHI-PIT 0-7",
-    "url": "https://www.nhl.com/sv/video/topic/game-recaps/pit-at-phi-recap-6405995453112",
-    "source": "NHL.com"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CA": "2026-10-01T03:45:13.337015+00:00"
+   "CA": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "nato": {
@@ -4407,9 +4424,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CA": "2026-10-01T03:45:13.337015+00:00"
+   "CA": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "john-chayka": {
@@ -4417,9 +4434,9 @@
   "traffic": "500+",
   "news": [
    {
-    "title": "Insider Trading: Maple Leafs look to remain aggressive",
-    "url": "https://www.tsn.ca/nhl/article/insider-trading-maple-leafs-look-to-remain-aggressive/",
-    "source": "TSN"
+    "title": "Marchenko shows glimpses of promise in whirlwind Maple Leafs debut",
+    "url": "https://www.sportsnet.ca/nhl/article/marchenko-shows-glimpses-of-promise-in-whirlwind-maple-leafs-debut/",
+    "source": "Sportsnet.ca"
    },
    {
     "title": "NHL EDGE stats impact of Marchenko-Knies trade",
@@ -4427,15 +4444,15 @@
     "source": "NHL.com"
    },
    {
-    "title": "Maple Leafs acquire Kirill Marchenko in blockbuster trade with Jackets",
-    "url": "https://www.espn.com/nhl/story/_/id/50054787/maple-leafs-trade-jackets-kirill-marchenko-source-says",
-    "source": "ESPN"
+    "title": "Insider Trading: Maple Leafs look to remain aggressive",
+    "url": "https://www.tsn.ca/nhl/article/insider-trading-maple-leafs-look-to-remain-aggressive/",
+    "source": "TSN"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CA": "2026-10-01T03:45:13.337015+00:00"
+   "CA": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "red-sox-vs-yankees": {
@@ -4459,9 +4476,9 @@
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "CA": "2026-10-01T03:45:13.337015+00:00"
+   "CA": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "anthony-head": {
@@ -4516,13 +4533,13 @@
   "traffic": "1000+",
   "news": [
    {
-    "title": "Enquete A Fazenda 18: Votação aponta quem sai e mostra favorito em parcial",
-    "url": "https://noticiasdatv.uol.com.br/noticia/a-fazenda/enquete-a-fazenda-18-votacao-aponta-quem-sai-e-mostra-favorito-em-parcial-157431",
-    "source": "Notícias da TV"
+    "title": "A Fazenda 18: Adryana, Daniel e Maíra estão na roça; vote na enquete",
+    "url": "https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/09/a-fazenda-18-adryana-daniel-e-maira-estao-na-roca-vote-na-enquete.shtml",
+    "source": "UOL"
    },
    {
-    "title": "Prova do Fazendeiro desta quarta (30) é inspirada no jogo Tangran",
-    "url": "https://record.r7.com/a-fazenda/a-fazenda-18/novidades/prova-do-fazendeiro-desta-quarta-30-e-inspirada-no-jogo-tangran-30092026/",
+    "title": "Novo mandachuva! Serginho Hondjakoff é o novo Fazendeiro",
+    "url": "https://record.r7.com/a-fazenda/a-fazenda-18/novidades/novo-mandachuva-serginho-hondjakoff-e-o-novo-fazendeiro-01102026/",
     "source": "R7"
    },
    {
@@ -4532,9 +4549,9 @@
    }
   ],
   "first": "2026-10-01T03:39:58.633072+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "BR": "2026-10-01T03:45:13.337015+00:00"
+   "BR": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "golden-state-valkyries-vs-dallas-wings-match-player-stats": {
@@ -4558,9 +4575,9 @@
    }
   ],
   "first": "2026-10-01T03:39:58.633072+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "US": "2026-10-01T03:45:13.337015+00:00"
+   "US": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "gavin-sheets": {
@@ -4568,25 +4585,25 @@
   "traffic": "2000+",
   "news": [
    {
+    "title": "Padres' Gavin Sheets: On bench for Game 2",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/padres-gavin-sheets-on-bench-for-game-2/",
+    "source": "CBS Sports"
+   },
+   {
+    "title": "Gavin Sheets could see limited Wild Card role for Padres against Cubs' lefties",
+    "url": "https://friarsonbase.com/gavin-sheets-could-see-limited-wild-card-role-for-padres-against-cubs-lefties",
+    "source": "Friars on Base"
+   },
+   {
     "title": "Why Diamondbacks Missed The Playoffs",
     "url": "https://www.azsnakepit.com/arizona-diamondbacks-analysis/98076/why-diamondbacks-missed-the-playoffs",
     "source": "AZ Snake Pit"
-   },
-   {
-    "title": "Padres 9-4 Diamondbacks (Sep 27, 2026) Game Recap",
-    "url": "https://www.espn.com/mlb/recap/_/gameId/401817114",
-    "source": "ESPN"
-   },
-   {
-    "title": "D-backs push postseason fight to Game 162, but battle ends there",
-    "url": "https://www.mlb.com/news/diamondbacks-eliminated-from-2026-postseason-contention",
-    "source": "MLB.com"
    }
   ],
   "first": "2026-10-01T03:39:58.633072+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "US": "2026-10-01T03:45:13.337015+00:00"
+   "US": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "aroldis-chapman": {
@@ -4636,35 +4653,192 @@
    }
   ],
   "first": "2026-10-01T03:45:13.337015+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "PE": "2026-10-01T03:45:13.337015+00:00"
+   "PE": "2026-10-01T03:58:38.715800+00:00"
   }
  },
  "joey-porter-jr": {
   "term": "joey porter jr",
-  "traffic": "5000+",
+  "traffic": "20000+",
   "news": [
    {
-    "title": "Steelers rule Joey Porter out again; Jalen Ramsey questionable",
-    "url": "https://www.espn.com/nfl/story/_/id/50070581/steelers-rule-joey-porter-again-jalen-ramsey-questionable",
-    "source": "ESPN"
+    "title": "Steelers trade CB Joey Porter Jr. to Cowboys after failed contract negotiations",
+    "url": "https://sports.yahoo.com/nfl/breaking-news/article/steelers-trade-cb-joey-porter-jr-to-cowboys-after-failed-contract-negotiations-033816524.html",
+    "source": "Yahoo Sports"
    },
    {
-    "title": "NFL Week 4 injuries: Steelers' Joey Porter Jr. ruled out, Rams' Aaron Donald sits out of practice",
-    "url": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-updates-joey-porter-baker-mayfield/",
+    "title": "Joey Porter Jr. to Cowboys in New NFL Trade Rumors Following Steelers Contract Standoff",
+    "url": "https://bleacherreport.com/articles/25366332-joey-porter-jr-cowboys-new-nfl-trade-rumors-following-steelers-contract-standoff",
+    "source": "Bleacher Report"
+   },
+   {
+    "title": "Joey Porter Jr. trade: Steelers deal cornerback to Cowboys, per report",
+    "url": "https://www.cbssports.com/nfl/news/steelers-joey-porter-jr-traded-to-cowboys/",
     "source": "CBS Sports"
-   },
-   {
-    "title": "Joey Porter Jr. ruled out for Steelers-Browns game on Thursday night",
-    "url": "https://www.wtae.com/article/joey-porter-jr-out-steelers-browns/73951241",
-    "source": "WTAE"
    }
   ],
   "first": "2026-10-01T03:45:13.337015+00:00",
-  "seen": "2026-10-01T03:45:13.337015+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
   "geos": {
-   "US": "2026-10-01T03:45:13.337015+00:00"
+   "US": "2026-10-01T03:58:38.715800+00:00"
+  }
+ },
+ "sinuano-noche-hoy": {
+  "term": "sinuano noche hoy",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Ya salieron los resultados de El Sinuano Día y Noche de este 30 de septiembre: números ganadores",
+    "url": "https://www.semana.com/loterias/articulo/ya-salieron-los-resultados-de-el-sinuano-dia-y-noche-de-este-30-de-septiembre-numeros-ganadores/202611/",
+    "source": "Revista Semana"
+   },
+   {
+    "title": "Sinuano Noche, resultado del último sorteo hoy miércoles 30 de septiembre de 2026",
+    "url": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-ultimo-sorteo-hoy-miercoles-30-de-septiembre-de-2026-so35",
+    "source": "Blu Radio"
+   },
+   {
+    "title": "Último sorteo del Sinuano Día hoy, martes 29 de septiembre: números ganadores",
+    "url": "https://www.noticiascaracol.com/economia/ultimo-sorteo-del-sinuano-dia-hoy-martes-29-de-septiembre-numeros-ganadores-so35",
+    "source": "Noticias Caracol"
+   }
+  ],
+  "first": "2026-10-01T03:58:38.715800+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
+  "geos": {
+   "CO": "2026-10-01T03:58:38.715800+00:00"
+  }
+ },
+ "argentina-vs-bolivia": {
+  "term": "argentina vs bolivia",
+  "traffic": "2000+",
+  "news": [
+   {
+    "title": "Licensable picture: International Friendly - Argentina v Bolivia",
+    "url": "https://www.reutersconnect.com/item/international-friendly-argentina-v-bolivia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQTEwMUNCSFo",
+    "source": "Reuters Connect"
+   },
+   {
+    "title": "Argentina vs Bolivia match lineup | Friendlies · 1 Oct 2026",
+    "url": "https://www.ysscores.com/en/lineup/6266052/Argentina-vs-Bolivia",
+    "source": "YSscores"
+   },
+   {
+    "title": "Why Is Lionel Messi Not Playing Tonight for Argentina vs. Bolivia?",
+    "url": "https://www.yardbarker.com/soccer/articles/why_is_lionel_messi_not_playing_tonight_for_argentina_vs_bolivia/s1_17615_44370608",
+    "source": "Yardbarker"
+   }
+  ],
+  "first": "2026-10-01T03:58:38.715800+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
+  "geos": {
+   "VE": "2026-10-01T03:58:38.715800+00:00"
+  }
+ },
+ "ind-vs-sl": {
+  "term": "ind vs sl",
+  "traffic": "5000+",
+  "news": [
+   {
+    "title": "India vs Sri Lanka, 2nd Semi-Final, Asian Games 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+    "url": "https://www.cricbuzz.com/live-cricket-scores/171060/ind-vs-sl-2nd-semi-final-asian-games-2026",
+    "source": "Cricbuzz"
+   },
+   {
+    "title": "Pakistan meet Bangladesh, India meet Sri Lanka in Asian Games men's semi-finals",
+    "url": "https://www.cricinfo.com/story/asian-games-2026-pakistan-meet-bangladesh-india-meet-sri-lanka-in-mens-semi-finals-1556088",
+    "source": "Cricinfo"
+   },
+   {
+    "title": "India vs Sri Lanka, Asian Games 2026 cricket semi-finals: Schedule and watch IND vs SL live streaming and telecast",
+    "url": "https://www.olympics.com/en/news/asian-games-2026-cricket-india-vs-sri-lanka-semi-final-live-streaming-telecast",
+    "source": "Olympics"
+   }
+  ],
+  "first": "2026-10-01T03:58:38.715800+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
+  "geos": {
+   "US": "2026-10-01T03:58:38.715800+00:00",
+   "CA": "2026-10-01T03:58:38.715800+00:00"
+  }
+ },
+ "tiffany-hayes": {
+  "term": "tiffany hayes",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Why WNBA playoff veteran Tiffany Hayes thinks Valkyries could win it all",
+    "url": "https://www.sfchronicle.com/sports/article/wnba-playoff-vet-tiffany-hayes-thinks-valkyries-22455392.php",
+    "source": "San Francisco Chronicle"
+   },
+   {
+    "title": "Tiffany Hayes nails the 3",
+    "url": "https://www.espn.com/video/clip/_/id/50049153/tiffany-hayes-nails-3",
+    "source": "ESPN"
+   },
+   {
+    "title": "‘She’s just unguardable’: Why Tiffany Hayes is the Valkyries’ playoff X factor",
+    "url": "https://sfstandard.com/2026/09/30/tiffany-hayes-golden-state-valkyries-playoffs/",
+    "source": "The San Francisco Standard"
+   }
+  ],
+  "first": "2026-10-01T03:58:38.715800+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
+  "geos": {
+   "US": "2026-10-01T03:58:38.715800+00:00"
+  }
+ },
+ "robert-de-niro": {
+  "term": "robert de niro",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Actor Chazz Palminteri rips Sonny Gray, recalls 'surreal' Robert De Niro story on 'The Craig Carton Show'",
+    "url": "https://www.foxnews.com/outkick-sports/actor-chazz-palminteri-rips-sonny-gray-recalls-surreal-robert-de-niro-story-craig-carton-show",
+    "source": "Fox News"
+   },
+   {
+    "title": "Chazz Palminteri On Turning Down $1 Million Dollars To Create \"A Bronx Tale\" His Way",
+    "url": "https://www.yahoo.com/news/videos/chazz-palminteri-turning-down-1-214530063.html",
+    "source": "Yahoo"
+   },
+   {
+    "title": "Chazz Palminteri Criticizes Sonny Gray and Backs JJ McCarthy",
+    "url": "https://suaragarut.id/en/chazz-palminteri-sonny-gray-jj-mccarthy",
+    "source": "SuaraGarut.ID"
+   }
+  ],
+  "first": "2026-10-01T03:58:38.715800+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
+  "geos": {
+   "US": "2026-10-01T03:58:38.715800+00:00"
+  }
+ },
+ "nicholas-robertson": {
+  "term": "nicholas robertson",
+  "traffic": "2000+",
+  "news": [
+   {
+    "title": "Some Flyers fans want money back after blowout loss to Penguins: \"I want a refund\"",
+    "url": "https://www.cbsnews.com/philadelphia/video/some-flyers-fans-want-money-back-after-blowout-loss-to-penguins-i-want-a-refund/",
+    "source": "CBS News"
+   },
+   {
+    "title": "Nick Robertson cheap-shots a former teammate as Pennsylvania mayhem ensues and Player Safety could get involve",
+    "url": "https://www.markerzone.com/news/index.php?no=606948",
+    "source": "Markerzone.com"
+   },
+   {
+    "title": "Humiliating scene unfolds in Philadelphia before the end vs. Pittsburgh, leaving fans stunned",
+    "url": "https://www.markerzone.com/news/index.php?no=606955",
+    "source": "Markerzone.com"
+   }
+  ],
+  "first": "2026-10-01T03:58:38.715800+00:00",
+  "seen": "2026-10-01T03:58:38.715800+00:00",
+  "geos": {
+   "CA": "2026-10-01T03:58:38.715800+00:00"
   }
  }
 }
