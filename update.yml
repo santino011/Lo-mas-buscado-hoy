@@ -2,7 +2,6 @@ name: Actualizar tendencias
 on:
   schedule:
     - cron: "*/30 * * * *"
-    <meta name="google-site-verification" content="rt6e2agjJWdAgoi8UXD96xLaBfIlFI-25pQ_5nx9IgE" />
   workflow_dispatch:
 permissions:
   contents: write
