@@ -2,7 +2,7 @@
 """Generador de sitio de tendencias de Google (v2).
 
   python3 generate.py --geo AR,MX,CL --site https://tudominio.com --out ./public
-
+<meta name="google-site-verification" content="rt6e2agjJWdAgoi8UXD96xLaBfIlFI-25pQ_5nx9IgE" />
 Variables de entorno opcionales:
   GEO, SITE_NAME, OWNER_NAME, CONTACT_EMAIL, PLAUSIBLE_DOMAIN, ADSENSE_CLIENT, ADSENSE_SLOT, ANTHROPIC_API_KEY, AI_MODEL
 Texto propio por tema: extras/<slug>.txt (párrafos separados por línea en blanco).
