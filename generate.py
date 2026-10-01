@@ -9,9 +9,9 @@ Texto propio por tema: extras/<slug>.txt (párrafos separados por línea en blan
 """
 import argparse, json, os, re, unicodedata, urllib.request
 from datetime import datetime, timezone, timedelta
-from html import escape as E
+from html import escape as E, unescape
 from pathlib import Path
-from email.utils import format_datetime
+from email.utils import format_datetime, parsedate_to_datetime
 from urllib.parse import quote
 import xml.etree.ElementTree as ET
 
@@ -19,6 +19,7 @@ FEED = "https://trends.google.com/trending/rss?geo={geo}"
 COUNTRIES = {"AR": "Argentina", "BR": "Brasil", "CL": "Chile", "CO": "Colombia", "PE": "Perú", "UY": "Uruguay",
              "EC": "Ecuador", "VE": "Venezuela", "BO": "Bolivia", "PY": "Paraguay",
              "US": "Estados Unidos", "MX": "México", "CA": "Canadá", "ES": "España"}
+DEFAULT_GEOS = "AR,BR,CL,CO,PE,UY,EC,VE,BO,PY,US,MX,CA"
 REGIONS = [("Sudamérica", ["AR", "BR", "CL", "CO", "PE", "UY", "EC", "VE", "BO", "PY"]),
            ("Norteamérica", ["US", "MX", "CA"])]
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre",
@@ -77,6 +78,7 @@ nav .cc{margin:0}.hero .cc{background:rgba(255,255,255,.22);color:#fff}
 .cn{display:flex;gap:8px;overflow-x:auto;padding-bottom:6px;margin:0 0 12px}
 .cn a{white-space:nowrap;border:1px solid var(--ln);background:var(--card);color:var(--fg);border-radius:99px;padding:6px 12px;font-size:13px;text-decoration:none}
 .cn a.on{background:var(--ac);border-color:var(--ac);color:#fff}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:20px}
 footer{border-top:1px solid var(--ln);margin-top:32px;font-size:13px;line-height:1.7;color:var(--mu)}"""
 
 JS = """var q=document.getElementById('q');
@@ -85,6 +87,7 @@ if(q)q.addEventListener('input',apply);
 document.querySelectorAll('.chips button').forEach(function(b){b.addEventListener('click',function(){window._k=b.dataset.k;document.querySelectorAll('.chips button').forEach(function(x){x.classList.toggle('on',x===b)});apply()})});
 function ago(m){return m<1?'ahora':m<60?'hace '+m+' min':m<1440?'hace '+Math.round(m/60)+' h':'hace '+Math.round(m/1440)+' d'}
 document.querySelectorAll('.since').forEach(function(e){e.textContent='Detectado '+ago(Math.round((Date.now()-new Date(e.dataset.t0))/60000))});
+document.querySelectorAll('.ago').forEach(function(e){if(e.dataset.t0)e.textContent=ago(Math.round((Date.now()-new Date(e.dataset.t0))/60000))});
 var u=document.getElementById('upd');
 if(u){var m=Math.round((Date.now()-new Date(u.getAttribute('datetime')))/60000);u.textContent=m<1?'ahora':m<60?'hace '+m+' min':m<1440?'hace '+Math.round(m/60)+' h':'hace '+Math.round(m/1440)+' d'}
 var s=document.getElementById('share');
@@ -218,6 +221,55 @@ def cc(g):
     return f'<span class="cc">{E(g.upper())}</span>'
 
 
+NEWS_DEFAULT = [
+    {"name": "Argentina", "page": "noticias", "limit": 12,
+     "urls": ["https://news.google.com/rss?hl=es-419&gl=AR&ceid=AR:es-419"]},
+    {"name": "Estados Unidos", "page": "noticias", "limit": 12,
+     "urls": ["https://news.google.com/rss?hl=es-419&gl=US&ceid=US:es-419"]},
+    {"name": "Mundo", "page": "mundo", "limit": 24,
+     "urls": ["https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-419&gl=AR&ceid=AR:es-419"]},
+]
+
+
+def load_news_sources():
+    """Fuentes de noticias: news_sources.json (opcional) o las de Google News por defecto."""
+    f = Path("news_sources.json")
+    if f.exists():
+        try:
+            return json.loads(f.read_text("utf-8"))
+        except Exception as e:
+            print("news_sources.json inválido, uso las fuentes por defecto:", e)
+    return NEWS_DEFAULT
+
+
+def fetch_news(urls, limit, news_file=None):
+    out, seen = [], set()
+    for u in urls:
+        try:
+            if news_file:
+                data = Path(news_file).read_bytes()
+            else:
+                req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"})
+                data = urllib.request.urlopen(req, timeout=20).read()
+            for it in ET.fromstring(data).iter("item"):
+                link = (it.findtext("link") or "").strip()
+                src = (it.findtext("source") or "").strip()
+                title = unescape((it.findtext("title") or "").strip())
+                if src and title.endswith(" - " + src):
+                    title = title[: -len(src) - 3]
+                if not link.startswith("http") or not title or title in seen:
+                    continue
+                seen.add(title)
+                try:
+                    iso = parsedate_to_datetime(it.findtext("pubDate")).isoformat()
+                except Exception:
+                    iso = ""
+                out.append({"title": title, "link": link, "source": src, "iso": iso})
+        except Exception as e:
+            print(f"No se pudieron leer las noticias de {u[:60]}…: {e}")
+    return out[:limit]
+
+
 def ad(c, wide=False):
     """Espacio publicitario de AdSense: solo se dibuja si configuraste ADSENSE_CLIENT y ADSENSE_SLOT."""
     if not (c["ads"] and c["slot"]):
@@ -231,8 +283,10 @@ def ad(c, wide=False):
 def layout(c, title, desc, path, body, ld=None, top_ad=True):
     url = c["site"] + path
     multi = len(c["geos"]) > 1
-    nav = (f'<a href="{c["site"]}/">{icon("home", 16)} Inicio</a>' +
-           (f'<a href="{c["site"]}/america/">{icon("globe", 16)} América</a>'
+    nav = (f'<a href="{c["site"]}/">{icon("home", 16)} Inicio</a>'
+           f'<a href="{c["site"]}/noticias/">{icon("news", 16)} Noticias</a>'
+           f'<a href="{c["site"]}/mundo/">{icon("globe", 16)} Mundo</a>' +
+           (f'<a href="{c["site"]}/america/">{icon("trend", 16)} América</a>'
             f'<a href="{c["site"]}/paises/">{icon("pin", 16)} Países</a>' if multi else "") +
            f'<a href="{c["site"]}/historial/">{icon("cal", 16)} Historial</a>')
     foot = (f'<a href="{c["site"]}/quienes-somos.html">Quiénes somos</a> · '
@@ -292,12 +346,16 @@ def write(out, rel, text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--geo", default=os.environ.get("GEO") or "AR", help="Países separados por coma")
+    ap.add_argument("--geo", default=os.environ.get("GEO") or DEFAULT_GEOS, help="Países separados por coma")
     ap.add_argument("--site", required=True)
     ap.add_argument("--out", default="public")
     ap.add_argument("--feed-file")
+    ap.add_argument("--news-file", help="RSS local de noticias, para pruebas")
     ap.add_argument("--extras", default="extras")
     a = ap.parse_args()
+    if a.geo.upper().replace(" ", "") in ("AR", "AR,MX,CL"):  # valores de versiones viejas del workflow
+        print(f"GEO={a.geo} es la lista antigua: uso la lista completa de América.")
+        a.geo = DEFAULT_GEOS
     geos = [g.strip().upper() for g in a.geo.split(",") if g.strip()]
     c = {"site": a.site.rstrip("/"), "geos": geos, "name": os.environ.get("SITE_NAME") or "Lo Más Buscado",
          "email": os.environ.get("CONTACT_EMAIL", ""), "plausible": os.environ.get("PLAUSIBLE_DOMAIN", ""),
@@ -354,6 +412,30 @@ def main():
              '<button id="share" type="button">Compartir</button></div>')
     upd = f'<p class="m">Actualizado <time id="upd" datetime="{now_iso}">{now_iso[:16]}</time></p>'
     days = sorted({t["first"][:10] for t in db.values()}, reverse=True)
+
+    sections = load_news_sources()
+    news = {sec["name"]: fetch_news(sec["urls"], sec.get("limit", 12), a.news_file) for sec in sections}
+
+    def news_page(page, title, intro, path):
+        cols = ""
+        for sec in sections:
+            if sec["page"] != page:
+                continue
+            lis = "".join(
+                f'<a class="link" href="{E(n["link"])}" target="_blank" rel="nofollow noopener noreferrer"><b>{E(n["title"])}</b>'
+                f'<span class="m">{E(n["source"] or "Medio")} · <span class="ago" data-t0="{E(n["iso"])}"></span> '
+                f'{icon("out", 13)}</span></a>' for n in news.get(sec["name"], [])) or \
+                '<p class="m">No pudimos cargar estas noticias ahora. Se actualizan en la próxima corrida.</p>'
+            cols += f'<div><h2>{icon("news", 20)} {E(sec["name"])}</h2><div class="links">{lis}</div></div>'
+        body = (f'<section class="hero"><p class="m hl">{icon("globe", 15)} Noticias</p><h1>{E(title)}</h1>'
+                f'<p>{E(intro)}</p>{upd}</section><div class="cols">{cols}</div>{ad(c)}'
+                f'<p class="m">Titulares y enlaces provistos por Google News. El contenido pertenece a cada medio.</p>')
+        return layout(c, f"{title} · {c['name']}", intro, path, body)
+
+    write(out, "noticias/index.html", news_page("noticias", "Noticias de Argentina y Estados Unidos",
+          "Los titulares principales de Argentina y de Estados Unidos, con enlace a cada medio.", "/noticias/"))
+    write(out, "mundo/index.html", news_page("mundo", "Las noticias más importantes del mundo",
+          "Los titulares internacionales del momento, con enlace a cada medio.", "/mundo/"))
 
     def index(geo, path):
         name = "América" if geo is None else COUNTRIES.get(geo, geo)
@@ -560,6 +642,7 @@ def main():
         write(out, f, layout(c, f"{ttl} · {c['name']}", ttl, "/" + f, b, top_ad=False))
 
     urls = [("/", now_iso)] + [(f"/{g.lower()}/", now_iso) for g in geos] + [("/historial/", now_iso)] + \
+           [("/noticias/", now_iso), ("/mundo/", now_iso)] + \
            ([("/america/", now_iso), ("/paises/", now_iso)] if len(geos) > 1 else []) + \
            [(f"/dia/{d}.html", now_iso) for d in days] + [(f"/tema/{s}.html", t["seen"]) for s, t in db.items()] + \
            [("/" + f, now_iso) for f in static]
