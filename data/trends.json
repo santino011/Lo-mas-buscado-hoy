@@ -1115,33 +1115,33 @@
  },
  "lluvia": {
   "term": "lluvia",
-  "traffic": "5000+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Precipitaciones persistirán en Valparaíso este martes y miércoles: \"la actividad se concentrará\" en estas comunas",
-    "url": "https://www.megatiempo.cl/pronostico/14707-pronostico-lluvias-valparaiso-martes-13-octubre-1ab.html",
-    "source": "Megatiempo"
+    "title": "Fuertes lluvias e inundaciones en Estambul obligan a cerrar escuelas",
+    "url": "https://www.expressnews.com/news/world/article/fuertes-lluvias-e-inundaciones-en-estambul-22477239.php",
+    "source": "San Antonio Express-News"
    },
    {
-    "title": "Volvieron las lluvias a la zona central chilena: habrá tormentas eléctricas",
-    "url": "https://www.infobae.com/america/america-latina/2026/10/12/volvieron-las-lluvias-a-la-zona-central-chilena-habra-tormentas-electricas/",
-    "source": "Infobae"
+    "title": "Fuertes lluvias paralizan Estambul, causan inundaciones y tres muertos",
+    "url": "https://www.mcall.com/2026/10/15/fuertes-lluvias-paralizan-estambul-causan-inundaciones-y-tres-muertos/",
+    "source": "The Morning Call"
    },
    {
-    "title": "Estos son los horarios en que lloverá con mayor intensidad en la zona central",
-    "url": "https://www.t13.cl/noticia/el-tiempo/estos-son-horarios-llovera-mayor-intensidad-zona-central",
-    "source": "Teletrece"
+    "title": "Fuertes lluvias paralizan Estambul, causan inundaciones y dos muertos",
+    "url": "https://www.courant.com/2026/10/15/fuertes-lluvias-paralizan-estambul-causan-inundaciones-y-dos-muertos/",
+    "source": "Hartford Courant"
    }
   ],
   "first": "2026-09-30T10:20:33.150218+00:00",
-  "seen": "2026-10-12T18:43:12.263203+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "CL": "2026-09-30T16:28:47.566170+00:00",
    "VE": "2026-10-07T20:28:07.001690+00:00",
    "PY": "2026-10-06T09:16:35.987137+00:00",
    "CO": "2026-10-07T20:28:07.001690+00:00",
-   "PE": "2026-10-07T20:28:07.001690+00:00",
-   "US": "2026-10-07T20:28:07.001690+00:00",
+   "PE": "2026-10-15T12:46:52.766319+00:00",
+   "US": "2026-10-15T12:46:52.766319+00:00",
    "BO": "2026-10-08T00:22:24.690471+00:00",
    "UY": "2026-10-12T18:43:12.263203+00:00"
   }
@@ -1446,28 +1446,28 @@
  },
  "clima-nuevo-laredo": {
   "term": "clima nuevo laredo",
-  "traffic": "500+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "DPS de Texas lanza alerta; lluvia pondrá en riesgo a conductores",
-    "url": "https://elmanana.com.mx/laredo-texas/2026/10/1/dps-de-texas-lanza-alerta-lluvia-pondra-en-riesgo-a-conductores-181635.html",
-    "source": "El Mañana de Nuevo Laredo"
+    "title": "Confirmado. Frente frío 2 traerá lluvias y evento de norte a Tamaulipas según SMN",
+    "url": "https://www.milenio.com/el-clima/frente-frio-2-tamaulipas-traera-lluvias-vientos-fuertes",
+    "source": "MILENIO"
    },
    {
-    "title": "Coordina Alcaldesa Carmen Lilia Canturosas reunión operativa",
-    "url": "https://www.laprensa.mx/notas.asp?id=813539",
-    "source": "La Prensa.mx"
+    "title": "Alertan en Reynosa por llegada del frente frío número 2",
+    "url": "https://info7.mx/tamaulipas/alertan-en-reynosa-por-llegada-del-frente-frio-numero-2/7657613144",
+    "source": "INFO7"
    },
    {
-    "title": "Se alista Nuevo Laredo con operativo de prevención ante pronóstico de fuertes lluvias",
-    "url": "https://www.notigape.com/se-alista-nuevo-laredo-con-operativo-de-prevencion-ante-pronostico-de-fuertes-lluvias/298035",
-    "source": "NotiGAPE"
+    "title": "La Lluvia Llega A La Feria El Viernes",
+    "url": "https://eldiariomx.com/2026/10/14/la-lluvia-llega-a-la-feria-el-viernes/",
+    "source": "El Diario de Ciudad Victoria"
    }
   ],
   "first": "2026-09-30T16:28:47.566170+00:00",
-  "seen": "2026-10-01T17:14:23.256439+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "MX": "2026-10-01T17:14:23.256439+00:00"
+   "MX": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "inapam": {
@@ -1609,28 +1609,28 @@
  },
  "radio-online": {
   "term": "radio online",
-  "traffic": "1000+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "RadioCult Breaks Down How to Choose Online Radio Software by Station Type",
-    "url": "https://natlawreview.com/press-releases/radiocult-breaks-down-how-choose-online-radio-software-station-type",
-    "source": "The National Law Review"
+    "title": "RadioCult Outlines What Student and University Radio Needs From a Platform",
+    "url": "https://www.einnews.com/pr_news/949354841/radiocult-outlines-what-student-and-university-radio-needs-from-a-platform",
+    "source": "EIN News"
    },
    {
-    "title": "BIA Identifies Key Radio Advertising Opportunities For 2027.",
-    "url": "https://www.insideradio.com/free/bia-identifies-key-radio-advertising-opportunities-for-2027/article_08f60871-e609-439e-9d94-e8ac594b1498.html",
+    "title": "HBCU Radio Preservation Project Lands Ford Foundation Funding.",
+    "url": "https://www.insideradio.com/free/hbcu-radio-preservation-project-lands-ford-foundation-funding/article_f039d9b7-2e8a-466e-bf27-9bf25d38dce0.html",
     "source": "Insideradio.com"
    },
    {
-    "title": "Radio Sees Election-Year Ad Gain, Sales Projected To Decline In 2027 10/09/2026",
-    "url": "https://www.mediapost.com/publications/article/418622/radio-sees-election-year-ad-gain-sales-projected.html?edition=144099",
-    "source": "MediaPost"
+    "title": "HBCU Stations Receive $750K Support",
+    "url": "https://ramp247.com/programming/hbcu-stations-receive-750k-support/",
+    "source": "RAMP - Radio and Music Pros"
    }
   ],
   "first": "2026-09-30T16:28:47.566170+00:00",
-  "seen": "2026-10-09T14:31:55.196780+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CL": "2026-10-09T14:31:55.196780+00:00"
+   "CL": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "meteorologia": {
@@ -2371,28 +2371,28 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "Detienen a Naim Darrechi en aeropuerto de Madrid tras denuncia de la mamá de Abelito: Esto se sabe del caso",
-    "url": "https://www.elfinanciero.com.mx/espectaculos/2026/10/14/detienen-a-naim-darrechi-en-aeropuerto-de-madrid-tras-denuncia-de-la-mama-de-abelito-esto-se-sabe-del-caso/",
-    "source": "El Financiero"
+    "title": "Suspenden vuelos del 17 al 19 de noviembre en el Aeropuerto Jorge Wilstermann",
+    "url": "https://www.opinion.com.bo/pais/suspenden-vuelos-17-19-noviembre-aeropuerto-internacional-jorge-wilstermann-cochabamba/20261014145227997620.html",
+    "source": "Opinión Bolivia"
    },
    {
-    "title": "¿Naim está detenido? Derek habló de lo que les pasó en el Aeropuerto",
-    "url": "https://ovaciones.com/deportes/general/naim-detenido-derek-hablo-de-lo-que-les-paso-en-el-aeropuerto/1012538",
-    "source": "Ovaciones"
+    "title": "Tome previsiones: Naabol suspende por dos días los vuelos en el aeropuerto Jorge Wilstermann de Cochabamba",
+    "url": "https://unitel.bo/noticias/sociedad/tome-previsiones-naabol-suspende-por-dos-dias-los-vuelos-en-el-aeropuerto-jorge-wilstermann-de-cochabamba-OE24135597",
+    "source": "unitel.bo"
    },
    {
-    "title": "¿Quién es Naim Darrechi? El influencer detenido en Madrid tras la polémica con la mamá de Abelito",
-    "url": "https://www.viveusa.mx/showbiz/quien-es-naim-darrechi-el-influencer-detenido-en-madrid-tras-la-polemica-con-la-mama-de-abelito/",
-    "source": "ViveUSA.mx"
+    "title": "Aeropuerto de Cochabamba suspenderá salidas del del 17 al 19 de noviembre",
+    "url": "https://larazon.bo/ciudades/2026/10/14/aeropuerto-de-cochabamba-suspendera-salidas-del-del-17-al-19-de-noviembre/",
+    "source": "La Razón Digital Bolivia"
    }
   ],
   "first": "2026-10-01T00:28:47.912649+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "CL": "2026-10-01T06:27:25.409626+00:00",
    "VE": "2026-10-01T06:27:25.409626+00:00",
    "AR": "2026-10-09T20:01:06.222727+00:00",
-   "BO": "2026-10-15T07:06:47.150759+00:00"
+   "BO": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "concepcion-o-higgins": {
@@ -3404,32 +3404,33 @@
  },
  "estafa": {
   "term": "estafa",
-  "traffic": "1000+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Una diócesis de España alerta de estafas telefónicas que clonan la voz del obispo",
-    "url": "https://www.infobae.com/america/agencias/2026/10/13/una-diocesis-de-espana-alerta-de-estafas-telefonicas-que-clonan-la-voz-del-obispo/",
-    "source": "Infobae"
+    "title": "Arrestan en Toledo a una sospechosa de blanqueo denunciada en Valladolid",
+    "url": "https://www.andaluciainformacion.es/articulo/sociedad/arrestan-toledo-sospechosa-blanqueo-denunciada-valladolid/202610151033553507026.html",
+    "source": "Andalucía Información"
    },
    {
-    "title": "La Diócesis de Coria-Cáceres advierte de una estafa con voces clonadas del obispo y el vicario",
-    "url": "https://www.hoy.es/caceres/diocesis-coriacaceres-advierte-estafa-voces-clonadas-obispo-20261013150938-nt.html",
-    "source": "Hoy"
+    "title": "Una falsa llamada del banco le cuesta 3.000 euros a un vecino de Valladolid",
+    "url": "https://www.tribunavalladolid.com/noticias/462692/una-falsa-llamada-del-banco-le-cuesta-3-000-euros-a-un-vecino-de-valladolid",
+    "source": "Tribuna de Valladolid."
    },
    {
-    "title": "Clonan la voz del obispo de Coria-Cáceres con IA para estafar dinero a asociaciones",
-    "url": "https://www.eldiario.es/extremadura/sociedad/clonan-voz-obispo-coria-caceres-ia-estafar-dinero-asociaciones_1_13582720.html",
-    "source": "elDiario.es"
+    "title": "Detenida \"una mula bancaria\" que propició una estafa de 3.000 euros a un vallisoletano",
+    "url": "https://www.larazon.es/castilla-y-leon/detenida-mula-bancaria-que-propicio-estafa-3000-euros-vallisoletano_202610156ad09620cfd4076f0c7baea5.html",
+    "source": "La Razón"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-10-14T00:30:58.481099+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "UY": "2026-10-14T00:30:58.481099+00:00",
    "VE": "2026-10-05T15:39:20.400432+00:00",
    "EC": "2026-10-11T22:18:10.329424+00:00",
    "BO": "2026-10-12T08:47:36.516748+00:00",
-   "PY": "2026-10-12T08:47:36.516748+00:00"
+   "PY": "2026-10-12T08:47:36.516748+00:00",
+   "MX": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "banco-de-prevision-social": {
@@ -5858,36 +5859,36 @@
  },
  "alexander-zverev": {
   "term": "alexander zverev",
-  "traffic": "200+",
+  "traffic": "1000+",
   "news": [
    {
-    "title": "Zverev clinches ATP Year-End No. 1 presented by PIF honours",
-    "url": "https://www.atptour.com/en/news/alexander-zverev-clinches-year-end-no-1-2026",
-    "source": "ATP Tour"
+    "title": "Zverev wins in straight sets against de Minaur for Shanghai Masters semifinal spot",
+    "url": "https://infonews.ca/news/7954744/zverev-wins-in-straight-sets-against-de-minaur-for-shanghai-masters-semifinal-spot/",
+    "source": "iNFOnews.ca"
    },
    {
-    "title": "Jessica Pegula and Madison Keys totally disagree with what's been said about Alexander Zverev recently",
-    "url": "https://tennishead.net/jessica-pegula-and-madison-keys-totally-disagree-with-whats-been-said-about-alexander-zverev-recently/",
-    "source": "Tennishead"
+    "title": "(FrEE) Alexander Zverev vs Alex De Minaur LIVE",
+    "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2p1bnRlc3RhY2Njb3VudC5naXRodWIuaW8vbmV3cy9ic3BuL3Rlc3QvYS54bWwiLz48L2tycGFubz4=&id=video-free-alexander-zvere-liv-en-tv",
+    "source": "Universidad de Córdoba (UCO)"
    },
    {
-    "title": "“A dream come true”: Zverev ascends to the tennis throne",
-    "url": "https://www.deutschland.de/en/news/dream-come-true-zverev-ascends-to-tennis-throne",
-    "source": "deutschland.de"
+    "title": "Zverev cruises past De Minaur to reach Shanghai semi-finals",
+    "url": "https://www.france24.com/en/live-news/20261015-zverev-cruises-past-de-minaur-to-reach-shanghai-semi-finals",
+    "source": "France 24"
    }
   ],
   "first": "2026-10-01T13:48:14.259987+00:00",
-  "seen": "2026-10-13T16:16:43.865876+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "AR": "2026-10-03T15:04:46.387990+00:00",
-   "CL": "2026-10-03T15:04:46.387990+00:00",
-   "CO": "2026-10-04T13:47:43.740708+00:00",
+   "AR": "2026-10-15T12:46:52.766319+00:00",
+   "CL": "2026-10-15T12:46:52.766319+00:00",
+   "CO": "2026-10-15T12:46:52.766319+00:00",
    "CA": "2026-10-03T15:04:46.387990+00:00",
-   "PE": "2026-10-11T13:17:50.245833+00:00",
-   "MX": "2026-10-11T13:17:50.245833+00:00",
-   "EC": "2026-10-13T16:16:43.865876+00:00",
-   "VE": "2026-10-04T18:01:38.518389+00:00",
-   "PY": "2026-10-13T16:16:43.865876+00:00"
+   "PE": "2026-10-15T12:46:52.766319+00:00",
+   "MX": "2026-10-15T12:46:52.766319+00:00",
+   "EC": "2026-10-15T12:46:52.766319+00:00",
+   "VE": "2026-10-15T12:46:52.766319+00:00",
+   "PY": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "quini6": {
@@ -7698,27 +7699,28 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "Exclusivo: Nicolás Maduro y su esposa podrían enfrentar nuevos cargos por la presunta tortura de estadounidenses",
-    "url": "https://cnnespanol.cnn.com/2026/10/07/venezuela/exclusivo-nicolas-maduro-cargos-tortura-estadounidenses-trax",
+    "title": "Exclusivo: Estados Unidos considera usar la \"madre de todas las bombas\" contra Irán, según fuentes",
+    "url": "https://cnnespanol.cnn.com/2026/10/15/mundo/exclusivo-estados-unidos-bombas-iran-trax",
     "source": "CNN en Español"
    },
    {
-    "title": "Fiscalía de Nueva York lista para imputar a Maduro por tortura de estadounidenses, según CNN",
-    "url": "https://efectococuyo.com/internacionales/fiscalia-de-nueva-york-lista-para-imputar-a-maduro-por-tortura-de-estadounidenses-segun-cnn/",
-    "source": "Efecto Cocuyo"
+    "title": "Donald Trump afirmó que la guerra con Irán “terminará pronto” y reiteró que nunca tendrán un arma nuclear",
+    "url": "https://www.infobae.com/america/mundo/2026/10/15/donald-trump-afirmo-que-la-guerra-con-iran-terminara-pronto-y-reitero-que-nunca-tendran-un-arma-nuclear/",
+    "source": "Infobae"
    },
    {
-    "title": "CNN: Nicolás Maduro y Cilia Flores podrían enfrentar nuevos cargos por detención y tortura de estadounidenses",
-    "url": "https://elestimulo.com/de-interes/2026-10-07/cnn-nicolas-maduro-cilia-flores-nuevos-cargos/",
-    "source": "El Estímulo"
+    "title": "Nuevas amenazas de Estados Unidos a Irán",
+    "url": "https://www.juventudrebelde.cu/internacionales/2026-10-14/nuevas-amenazas-de-estados-unidos-a-iran-1",
+    "source": "Juventud Rebelde"
    }
   ],
   "first": "2026-10-01T17:10:12.959585+00:00",
-  "seen": "2026-10-08T00:22:24.690471+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "BR": "2026-10-01T17:14:23.256439+00:00",
    "US": "2026-10-05T06:37:48.689341+00:00",
-   "VE": "2026-10-08T00:22:24.690471+00:00"
+   "VE": "2026-10-08T00:22:24.690471+00:00",
+   "CO": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "stf": {
@@ -8914,54 +8916,54 @@
  },
  "cotizacion": {
   "term": "cotización",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Precio del euro hoy en Guatemala: cotización de apertura del 13 de octubre",
-    "url": "https://www.infobae.com/noticias/2026/10/13/precio-del-euro-hoy-en-guatemala-cotizacion-de-apertura-del-13-de-octubre/",
+    "title": "Euro hoy en Bolivia: precio y cotización de la divisa este domingo 11 de octubre de 2026",
+    "url": "https://fmdelcondado.com.ar/euro-hoy-en-bolivia-precio-y-cotizacion-de-la-divisa-este-domingo-11-de-octubre-de-2026",
+    "source": "FM Del Condado"
+   },
+   {
+    "title": "Precio del euro hoy en Bolivia: cotización de apertura del 15 de octubre",
+    "url": "https://www.infobae.com/noticias/2026/10/15/precio-del-euro-hoy-en-bolivia-cotizacion-de-apertura-del-15-de-octubre/",
     "source": "Infobae"
    },
    {
-    "title": "Euro hoy en Guatemala: cotización de cierre del 12 de octubre",
-    "url": "https://www.infobae.com/noticias/2026/10/12/euro-hoy-en-guatemala-cotizacion-de-cierre-del-12-de-octubre/",
-    "source": "Infobae"
-   },
-   {
-    "title": "Euro hoy en Guatemala: cotización de apertura del 9 de octubre",
-    "url": "https://www.infobae.com/noticias/2026/10/09/euro-hoy-en-guatemala-cotizacion-de-apertura-del-9-de-octubre/",
-    "source": "Infobae"
+    "title": "El dólar oficial registra una nueva caída para este jueves 15 de octubre",
+    "url": "https://www.reduno.com.bo/economia/el-dolar-oficial-registra-una-nueva-caida-para-este-jueves-15-de-octubre-20261014233210",
+    "source": "Red Uno"
    }
   ],
   "first": "2026-10-01T19:19:31.910181+00:00",
-  "seen": "2026-10-13T16:16:43.865876+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "VE": "2026-10-10T21:18:30.202743+00:00",
-   "BO": "2026-10-13T16:16:43.865876+00:00",
+   "BO": "2026-10-15T12:46:52.766319+00:00",
    "CO": "2026-10-07T20:28:07.001690+00:00"
   }
  },
  "terremoto": {
   "term": "terremoto",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Se registraron dos terremotos de magnitud 6,9 y 6,7 en el océano Atlántico en menos de siete horas",
-    "url": "https://radiomitre.cienradios.com/internacionales/dos-terremotos-de-magnitud-69-y-67-sacudieron-el-oceano-atlantico-en-menos-de-siete-horas/",
-    "source": "Radio Mitre"
+    "title": "Busca Panamá mantener la confianza turística y recuperar conectividad tras terremoto",
+    "url": "https://elcomentario.ucol.mx/?p=359676",
+    "source": "El Comentario"
    },
    {
-    "title": "Dos fuertes sismos de magnitud 6.7 y 6.8 remecieron el océano Atlántico",
-    "url": "https://rpp.pe/mundo/actualidad/dos-fuertes-sismos-de-magnitud-67-y-68-remecieron-el-oceano-atlantico-noticia-1712379",
-    "source": "RPP Noticias"
+    "title": "Panamá confirma la primera muerte a causa del sismo que el viernes sacudió al país",
+    "url": "https://cnnespanol.cnn.com/2026/10/14/latinoamerica/panama-confirma-primera-muerte-fuerte-sismo-orix",
+    "source": "CNN en Español"
    },
    {
-    "title": "Fuerte terremoto magnitud 5.3 - Southern Mid-Atlantic Ridge, Tuesday 13 Oct 2026 a las 08:38 (Tiempo Universal)",
-    "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23433987/mag5quake-Oct-13-2026-St-Helena-Southern-Mid-Atlantic-Ridge.html",
-    "source": "Volcano Discovery"
+    "title": "Hospital queda parcialmente destruido por terremoto y médicos atienden pacientes en carpas",
+    "url": "https://es-us.vida-estilo.yahoo.com/hospital-queda-parcialmente-destruido-terremoto-202610412.html",
+    "source": "Yahoo en Español Vida y Estilo"
    }
   ],
   "first": "2026-10-01T19:19:31.910181+00:00",
-  "seen": "2026-10-14T11:24:56.678881+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "VE": "2026-10-06T21:08:12.709654+00:00",
    "EC": "2026-10-06T16:09:30.246103+00:00",
@@ -8969,7 +8971,7 @@
    "PE": "2026-10-04T21:48:02.638212+00:00",
    "CL": "2026-10-02T23:57:24.176414+00:00",
    "CO": "2026-10-05T15:39:20.400432+00:00",
-   "MX": "2026-10-05T15:39:20.400432+00:00",
+   "MX": "2026-10-15T12:46:52.766319+00:00",
    "UY": "2026-10-09T20:01:06.222727+00:00",
    "BO": "2026-10-10T06:13:33.409139+00:00",
    "AR": "2026-10-14T11:24:56.678881+00:00"
@@ -10391,58 +10393,60 @@
  },
  "juez": {
   "term": "juez",
-  "traffic": "200+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Declaran duelo judicial laborable por el sensible fallecimiento de ex juez supremo [RA 000110-2026-P-CE-PJ]",
-    "url": "https://lpderecho.pe/declaran-duelo-judicial-laborable-sensible-fallecimiento-ex-juez-supremo-ra-000110-2026-p-ce-pj/",
-    "source": "LP | Pasión por el Derecho"
+    "title": "Un juzgado de Madrid ordena investigar las filtraciones del 'caso Zapatero'",
+    "url": "https://cadenaser.com/nacional/2026/10/15/un-juzgado-de-madrid-ordena-investigar-las-filtraciones-del-caso-zapatero-cadena-ser/",
+    "source": "Cadena SER"
    },
    {
-    "title": "EL JUEZ DE INVESTIGAIÓN PREPARATORIA COMO JUEZ DE GARANTÍAS, columna de Juan José Albán Parra",
-    "url": "https://diariocorreo.pe/opinion/el-juez-de-investigaion-preparatoria-como-juez-de-garantias-columna-de-juan-jose-alban-parra-noticia/",
-    "source": "Diario Correo"
+    "title": "Una jueza investiga las filtraciones sobre las agendas y los mensajes personales de Zapatero en el 'caso Plus Ultra'",
+    "url": "https://www.publico.es/politica/tribunales/jueza-investiga-filtraciones-sobre-agendas-mensajes-personales-zapatero-caso-plus-ultra.html",
+    "source": "Diario Público"
    },
    {
-    "title": "El juez interrogará este viernes al supuesto cerebro financiero del caso Plus Ultra",
-    "url": "https://www.democrata.es/tribunales/el-juez-interrogara-este-viernes-al-supuesto-cerebro-financiero-del-caso-plus-ultra/",
-    "source": "Demócrata"
+    "title": "La Justicia abre otra causa alrededor de Zapatero: ahora investiga quién filtró sus agendas",
+    "url": "https://www.esdiario.com/nacional/261015/200348/justicia-abre-causa-alrededor-zapatero-investiga-filtro-agendas.html",
+    "source": "ESdiario"
    }
   ],
   "first": "2026-10-01T23:01:06.416205+00:00",
-  "seen": "2026-10-11T13:17:50.245833+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "BO": "2026-10-02T20:06:42.396774+00:00",
    "MX": "2026-10-08T14:26:02.176142+00:00",
    "PE": "2026-10-11T13:17:50.245833+00:00",
-   "EC": "2026-10-08T20:03:05.072479+00:00"
+   "EC": "2026-10-08T20:03:05.072479+00:00",
+   "CL": "2026-10-15T12:46:52.766319+00:00",
+   "UY": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "pension": {
   "term": "pensión",
-  "traffic": "200+",
+  "traffic": "10000+",
   "news": [
    {
-    "title": "Este es el único requisito que debes cumplir para acceder a la compensación que ofrece la ONP a sus afiliado",
-    "url": "https://elcomercio.pe/respuestas/tramites/este-es-el-unico-requisito-que-debes-cumplir-para-acceder-a-la-compensacion-que-ofrece-la-onp-a-sus-afiliados-tdpe-noticia/",
-    "source": "El Comercio Perú"
+    "title": "Pensión IMSS e ISSSTE: Calendario de pagos de noviembre 2026",
+    "url": "https://www.informador.mx/mexico/pension-imss-e-issste-calendario-de-pagos-de-noviembre-2026-20261013-0160.html",
+    "source": "El Informador"
    },
    {
-    "title": "ONP paga hasta S/1.000 por enfermedad o discapacidad",
-    "url": "https://www.apnoticias.pe/onp-paga-hasta-s1000-por-enfermedad-o-discapacidad-1519515",
-    "source": "AP Noticias"
+    "title": "¿Se RETRASA el aguinaldo de la Pensión IMSS 2026? Esta es la fecha en que depositarán el pago",
+    "url": "https://www.mediotiempo.com/actualidad/comunidad/pension-imss-retrasa-pago-del-aguinaldo-2026-esta-sera-la-fecha-del-deposito-y-quienes-lo-reciben",
+    "source": "Mediotiempo"
    },
    {
-    "title": "ONP otorgará pensión de hasta S/ 1.000: conoce los requisitos y cómo solicitarla",
-    "url": "https://www.exitosanoticias.pe/actualidad/onp-otorgara-pension-s-1000-conoce-requisitos-como-solicitarla-n185741",
-    "source": "Exitosa Noticias"
+    "title": "Se retrasa fecha del pago del aguinaldo para pensionados del IMSS: estos son los motivos y el nuevo día de pago",
+    "url": "https://www.infobae.com/mexico/2026/10/13/se-retrasa-fecha-del-pago-del-aguinaldo-para-pensionados-del-imss-estos-son-los-motivos-y-el-nuevo-dia-de-pago/",
+    "source": "Infobae"
    }
   ],
   "first": "2026-10-01T23:01:06.416205+00:00",
-  "seen": "2026-10-14T11:24:56.678881+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "PY": "2026-10-02T15:29:54.938233+00:00",
-   "MX": "2026-10-02T04:54:09.351629+00:00",
+   "MX": "2026-10-15T12:46:52.766319+00:00",
    "CL": "2026-10-03T22:01:54.225774+00:00",
    "AR": "2026-10-13T21:25:53.298335+00:00",
    "PE": "2026-10-14T11:24:56.678881+00:00"
@@ -14493,32 +14497,33 @@
  },
  "weather": {
   "term": "weather",
-  "traffic": "100+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Akron weather brings wind, frost. What's the forecast for Guardians home games?",
-    "url": "https://www.kentucky.com/news/nation-world/national/article317620155.html",
-    "source": "Lexington Herald Leader"
+    "title": "Advancing subseasonal forecasting with machine learning",
+    "url": "https://www.nature.com/articles/s41586-026-11126-x",
+    "source": "Nature"
    },
    {
-    "title": "Cleveland Guardians vs the weather",
-    "url": "https://www.wkyc.com/video/news/guardians-vs-the-weather/95-ddb7c235-ba80-486b-95e7-3506596881f2",
-    "source": "WKYC"
+    "title": "New AI framework bridges a critical gap in mid-range weather forecasts",
+    "url": "https://www.microsoft.com/en-us/research/story/new-ai-framework-bridges-a-critical-gap-in-mid-range-weather-forecasts/",
+    "source": "Microsoft"
    },
    {
-    "title": "Severe weather issues could affect MLB ALDS Game 5",
-    "url": "https://sports.yahoo.com/articles/severe-weather-issues-could-affect-001705081.html",
-    "source": "Yahoo Sports"
+    "title": "Microsoft Research Publishes AI Weather Forecasting Study in Nature",
+    "url": "https://www.unite.ai/microsoft-research-publishes-ai-weather-forecasting-study-in-nature/",
+    "source": "Unite.AI"
    }
   ],
   "first": "2026-10-02T15:29:54.938233+00:00",
-  "seen": "2026-10-14T15:55:21.616769+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "CL": "2026-10-07T14:39:37.828976+00:00",
    "UY": "2026-10-07T14:39:37.828976+00:00",
    "EC": "2026-10-09T14:31:55.196780+00:00",
    "PY": "2026-10-08T14:26:02.176142+00:00",
-   "VE": "2026-10-14T15:55:21.616769+00:00"
+   "VE": "2026-10-14T15:55:21.616769+00:00",
+   "AR": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "meteo": {
@@ -15281,28 +15286,28 @@
  },
  "clima-torreon": {
   "term": "clima torreon",
-  "traffic": "1000+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Clima en Torreón: Lluvias ligeras y ambiente templado este viernes 2 de octubre",
-    "url": "https://heraldodemexico.com.mx/nacional/2026/10/1/clima-en-torreon-lluvias-ligeras-ambiente-templado-este-viernes-de-octubre-899696.html",
+    "title": "Clima en Torreón: miércoles 14 de octubre con cielo despejado y ambiente templado",
+    "url": "https://heraldodemexico.com.mx/nacional/2026/10/13/clima-en-torreon-miercoles-14-de-octubre-con-cielo-despejado-ambiente-templado-907874.html",
     "source": "El Heraldo de México"
    },
    {
-    "title": "¡Considéralo! Primer frente frío mantendrá lluvias y bajas temperaturas en Coahuila y Durango este viernes",
-    "url": "https://www.milenio.com/estados/clima-en-coahuila-y-durango-viernes-2-octubre-pronostico-lluvias",
-    "source": "Milenio"
+    "title": "Clima y pronóstico en Torreón: jueves 15 de octubre con cielo despejado y ambiente templado",
+    "url": "https://heraldodemexico.com.mx/nacional/2026/10/14/clima-pronostico-en-torreon-jueves-15-de-octubre-con-cielo-despejado-ambiente-templado-908675.html",
+    "source": "El Heraldo de México"
    },
    {
-    "title": "¿Cuántos frentes fríos llegarán en octubre 2026 a México? Consulta calendario y afectaciones",
-    "url": "https://www.mediotiempo.com/actualidad/comunidad/cuantos-frentes-frios-llegaran-en-octubre-2026-a-mexico-consulta-calendario-y-afectaciones",
-    "source": "Mediotiempo"
+    "title": "Clima en Torreón: Martes 13 de octubre con cielo despejado y ambiente templado",
+    "url": "https://heraldodemexico.com.mx/nacional/2026/10/12/clima-en-torreon-martes-13-de-octubre-con-cielo-despejado-ambiente-templado-907073.html",
+    "source": "El Heraldo de México"
    }
   ],
   "first": "2026-10-02T15:29:54.938233+00:00",
-  "seen": "2026-10-02T15:29:54.938233+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "MX": "2026-10-02T15:29:54.938233+00:00"
+   "MX": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "clima-cancun": {
@@ -15310,25 +15315,25 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "Clima en Cancún hoy: el pronóstico para el viernes 2 de octubre de 2026",
-    "url": "https://www.informador.mx/mexico/clima-en-cancun-hoy-el-pronostico-para-el-viernes-2-de-octubre-de-2026-20261002-0003.html",
+    "title": "Clima en Cancún hoy: el pronóstico para el miércoles 14 de octubre de 2026",
+    "url": "https://www.informador.mx/mexico/clima-en-cancun-hoy-el-pronostico-para-el-miercoles-14-de-octubre-de-2026-20261014-0002.html",
     "source": "El Informador"
    },
    {
-    "title": "Arrecia onda tropical 42 con lluvias y viento en Quintana Roo",
-    "url": "https://quintanaroo.quadratin.com.mx/arrecia-onda-tropical-42-con-lluvias-y-viento-en-quintana-roo/",
+    "title": "Prevén chubascos y rachas de hasta 50 km/h en Quintana Roo",
+    "url": "https://quintanaroo.quadratin.com.mx/preven-chubascos-y-rachas-de-hasta-50-km-h-en-quintana-roo/",
     "source": "Quadratin Quintana Roo"
    },
    {
-    "title": "Pronóstico del clima en Cancún para este jueves 1 de octubre: lluvias ligeras y calor",
-    "url": "https://heraldodemexico.com.mx/nacional/2026/9/30/pronostico-del-clima-en-cancun-para-este-jueves-de-octubre-lluvias-ligeras-calor-898949.html",
-    "source": "El Heraldo de México"
+    "title": "PRONÓSTICO DEL TIEMPO: Prevén chubascos y ambiente caluroso para Quintana Roo este miércoles",
+    "url": "https://noticaribe.com.mx/2026/10/14/pronostico-del-tiempo-preven-chubascos-y-ambiente-caluroso-para-quintana-roo-este-miercoles/",
+    "source": "Noticaribe"
    }
   ],
   "first": "2026-10-02T15:29:54.938233+00:00",
-  "seen": "2026-10-02T15:29:54.938233+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "MX": "2026-10-02T15:29:54.938233+00:00"
+   "MX": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "clima-queretaro": {
@@ -17378,28 +17383,28 @@
  },
  "jorge-quiroz": {
   "term": "jorge quiroz",
-  "traffic": "5000+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Quiroz pone en la mira la gratuidad universitaria: \"La viveza del chileno la vamos a ir eliminando\"",
-    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/02/quiroz-anuncia-revision-de-gratuidad-universitaria-la-viveza-del-chileno-la-vamos-a-ir-eliminando.shtml",
-    "source": "BioBioChile"
+    "title": "Ministros Rincón y Mas se desmarcan de Quiroz tras dichos por uso de parafina y “recesión minera”",
+    "url": "https://www.latercera.com/politica/noticia/ministros-rincon-y-mas-se-desmarcan-de-quiroz-tras-dichos-por-uso-de-parafina-y-recesion-minera/",
+    "source": "La Tercera"
    },
    {
-    "title": "Ministro Quiroz adelanta revisión a beneficio de la gratuidad universitaria: \"La viveza del chileno la vamos a ir chequeando\"",
-    "url": "https://www.t13.cl/noticia/politica/ministro-quiroz-adelanta-revision-beneficio-gratuidad-universitaria-2-10-2026",
-    "source": "Teletrece"
+    "title": "A propósito de la parafina: el mal ojo climático de Jorge Quiroz",
+    "url": "https://www.elmostrador.cl/noticias/sin-editar/2026/10/14/a-proposito-de-la-parafina-el-mal-ojo-climatico-de-jorge-quiroz/",
+    "source": "El Mostrador"
    },
    {
-    "title": "Gratuidad también entre las medidas a evaluar por el Gobierno: \"La viveza del chileno la vamos a ir chequeando\"",
-    "url": "https://www.24horas.cl/actualidad/politica/gratuidad-entre-las-medidas-a-evaluar-ministro-quiroz",
-    "source": "24horas"
+    "title": "“No es una frase que ayude en este contexto”: Rincón aborda dichos de Quiroz sobre el uso de la parafina",
+    "url": "https://www.eldinamo.cl/pais/2026/10/14/no-es-una-frase-que-ayude-en-este-contexto-rincon-aborda-dichos-de-quiroz-sobre-el-uso-de-la-parafina/",
+    "source": "El Dínamo"
    }
   ],
   "first": "2026-10-02T23:57:24.176414+00:00",
-  "seen": "2026-10-02T23:57:24.176414+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CL": "2026-10-02T23:57:24.176414+00:00"
+   "CL": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "colombia-fc": {
@@ -19111,28 +19116,28 @@
  },
  "epicentro": {
   "term": "epicentro",
-  "traffic": "100+",
+  "traffic": "1000+",
   "news": [
    {
-    "title": "Sismo de 2,1 grados se registró en Pelileo",
-    "url": "https://www.elcomercio.com/actualidad/ecuador/sismo-de-21-grados-se-registro-en-pelileo/",
-    "source": "El Comercio"
+    "title": "Temblor en Venezuela: reportes de los últimos sismos del miércoles 14 de octubre",
+    "url": "https://elcomercio.pe/respuestas/venezuela/temblor-hoy-en-venezuela-en-vivo-ultimos-sismos-del-13-y-14-de-octubre-hora-exacta-epicentro-y-magnitud-segun-el-funvisis-proteccion-civil-caracas-la-guaira-lbposting-noticia/",
+    "source": "El Comercio Perú"
    },
    {
-    "title": "Temblor de 4,3 grados se registra frente a las costas de Manabí la tarde de este 14 de octubre",
-    "url": "https://www.primicias.ec/sucesos/temblor-sismo-ecuador-costas-jama-manabi-14octubre-instituto-geofisico-134923/",
-    "source": "Primicias"
+    "title": "Sismo de magnitud 3,6 al noreste de Macuro",
+    "url": "https://lapatilla.com/2026/10/13/sismo-de-magnitud-36-al-noreste-de-macuro/",
+    "source": "LaPatilla.com"
    },
    {
-    "title": "Temblor hoy en Ecuador, 13 de octubre: ¿dónde se registró y de cuánto fue?",
-    "url": "https://www.expreso.ec/ecuador/temblor-hoy-ecuador-13-octubre-registro-cuanto-299117.html",
-    "source": "expreso.ec"
+    "title": "Funvisis registró dos eventos sísmicos entre Miranda y Aragua este 8-Oct",
+    "url": "https://radioamerica.com.ve/funvisis-registro-dos-eventos-sismicos-entre-miranda-y-aragua-este-8-oct/",
+    "source": "Radio America"
    }
   ],
   "first": "2026-10-03T05:06:03.761147+00:00",
-  "seen": "2026-10-15T01:41:38.009881+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "VE": "2026-10-03T15:04:46.387990+00:00",
+   "VE": "2026-10-15T12:46:52.766319+00:00",
    "CO": "2026-10-13T16:16:43.865876+00:00",
    "AR": "2026-10-08T20:03:05.072479+00:00",
    "CL": "2026-10-14T11:24:56.678881+00:00",
@@ -20077,28 +20082,28 @@
  },
  "jurisdiccion-especial-para-la-paz": {
   "term": "jurisdicción especial para la paz",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "“Hay que reconocer que la JEP ha cometido errores”: Humberto de la Calle, tras 10 años del plebiscito | El Colombiano",
-    "url": "https://www.elcolombiano.com/colombia/humberto-de-la-calle-jep-ajuste-fiscal-plebiscito-paz-CK41875520",
-    "source": "El Colombiano"
-   },
-   {
-    "title": "La justicia transicional, recursos y resultados",
-    "url": "https://www.eltiempo.com/opinion/cartas/la-justicia-transicional-recursos-y-resultados-3590600",
+    "title": "Presupuesto de la JEP para 2027 sigue bajo escrutinio: Centro Democrático, Liberales, Conservadores y Salvación Nacional defienden los recortes",
+    "url": "https://www.eltiempo.com/politica/partidos-politicos/presupuesto-de-la-jep-para-2027-sigue-bajo-escrutinio-centro-democratico-liberales-conservadores-y-salvacion-nacional-defienden-los-recortes-3593491",
     "source": "El Tiempo"
    },
    {
-    "title": "¿JEP o no JEP? Esa es la cuestión",
-    "url": "https://elmeridiano.co/sucre/opinion/jep-o-no-jep-esa-es-la-cuestion-o985xb",
-    "source": "El Meridiano"
+    "title": "El cuestionado camino de la JEP",
+    "url": "https://www.semana.com/opinion/articulo/el-cuestionado-camino-de-la-jep/202634/",
+    "source": "Revista Semana"
+   },
+   {
+    "title": "El pasado sanguinario se opone a la JEP",
+    "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-pasado-sanguinario-se-opone-a-la-jep/",
+    "source": "El Espectador"
    }
   ],
   "first": "2026-10-03T10:32:00.499154+00:00",
-  "seen": "2026-10-03T10:32:00.499154+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CO": "2026-10-03T10:32:00.499154+00:00"
+   "CO": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "ejercito-del-ecuador": {
@@ -20389,28 +20394,29 @@
  },
  "iva-jovic": {
   "term": "iva jovic",
-  "traffic": "200+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Jovic pulls away from Yastremska in Wuhan second round",
-    "url": "https://www.wtatennis.com/videos/4592132/jovic-pulls-away-from-yastremska-in-wuhan-second-round",
-    "source": "WTA Tennis"
+    "title": "Maja Chwalińska to play Iva Jović in Wuhan WTA round of 16 — Interia Sport",
+    "url": "https://ua.news/en/sport/maia-khvalinska-zigraie-z-ivoiu-iovich-u-1-8-finalu-wta-v-ukhani-interia-sport",
+    "source": "UA.NEWS"
    },
    {
-    "title": "WTA Wuhan Round of 16 Best Bets Including Iva Jovic vs Maja Chwalinska",
-    "url": "https://lastwordonsports.com/tennis/2026/10/14/wta-wuhan-jovic-chwalinska/",
-    "source": "Last Word On Sports"
+    "title": "Wuhan: Maja Chwalinska routs Iva Jovic to earn biggest win and first WTA 1000 QF",
+    "url": "https://www.tennisworldusa.org/tennis/news/On_the_WTA_results_with/170567/wuhan-maja-chwalinska-routs-iva-jovic-to-earn-biggest-win-and-first-wta-1000-qf/",
+    "source": "Tennis World USA"
    },
    {
-    "title": "Iva Jovic vs Maja Chwalinska Prediction & Picks - WTA Wuhan Open",
-    "url": "https://www.sportytrader.com/us/picks/iva-jovic-maja-chwalinska-379335/",
-    "source": "SportyTrader"
+    "title": "Video : Maja Chwalińska defeats Iva Jovic at Wuhan Open 2026 – Round 3",
+    "url": "https://en.tennistemple.com/video/maja-chwali%C5%84ska-defeats-iva-jovic-at-wuhan-open/K5qlG",
+    "source": "TennisTemple"
    }
   ],
   "first": "2026-10-03T10:32:00.499154+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "US": "2026-10-15T07:06:47.150759+00:00"
+   "US": "2026-10-15T07:06:47.150759+00:00",
+   "MX": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "cybersecurity-tips": {
@@ -29696,28 +29702,28 @@
  },
  "explosivo": {
   "term": "explosivo",
-  "traffic": "500+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Hombres armados detonaron un explosivo contra un carro de valores en una carretera de Nariño: ¿cómo se frustró el millonario robo?",
-    "url": "https://www.eltiempo.com/colombia/cali/hombres-armados-detonaron-un-explosivo-contra-un-carro-de-valores-en-una-carretera-de-narino-como-se-frustro-el-millonario-robo-3590798",
-    "source": "El Tiempo"
+    "title": "Rama judicial pide mayor protección para los trabajadores del Inpec",
+    "url": "https://caracol.com.co/2026/10/14/rama-judicial-pide-mayor-proteccion-para-los-trabajadores-del-inpec/",
+    "source": "Caracol Radio"
    },
    {
-    "title": "En la vía Buesaco–San Pedro de Cartago, Nariño; verifican existencia de explosivos tras asalto a carros de valores",
-    "url": "https://www.elpais.com.co/judicial/en-la-via-buesacosan-pedro-de-cartago-narino-verifican-existencia-de-explosivos-tras-asalto-a-carros-de-valores-0242.html",
-    "source": "El País"
+    "title": "Noche violenta en Cúcuta: atacaron a bala a un policía y a otro hombre en hechos aislados",
+    "url": "https://laopinion.co/judicial/noche-violenta-en-cucuta-atacaron-bala-un-policia-y-otro-hombre-en-hechos-aislados",
+    "source": "La Opinión Cúcuta"
    },
    {
-    "title": "Investigan posible atraco a vehículo de transporte de valores en la vía Buesaco-San Pedro de Cartago",
-    "url": "https://informativodelguaico.com/investigan-posible-atraco-a-vehiculo-de-transporte-de-valores-en-la-via-buesaco-san-pedro-de-cartago/",
-    "source": "informativo del guaico"
+    "title": "Cámaras de seguridad serían clave para identificar al sicario que asesinó a un dragoneante del Inpec en Cúcuta",
+    "url": "https://www.noticiasrcn.com/colombia/video-del-asesinato-a-un-dragonenante-del-inpec-en-cucuta-1071199",
+    "source": "Noticias RCN"
    }
   ],
   "first": "2026-10-04T18:01:38.518389+00:00",
-  "seen": "2026-10-04T18:01:38.518389+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CO": "2026-10-04T18:01:38.518389+00:00"
+   "CO": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "yahir-acuna": {
@@ -33103,33 +33109,35 @@
  },
  "weather-tomorrow": {
   "term": "weather tomorrow",
-  "traffic": "500+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "India Weather Forecast Today, October 15, 2026: Will It Rain In Your City Today? Check IMD Alerts, State-Wise Rain Forecast, Snowfall Chances And Temperatures Across India",
-    "url": "https://sundayguardianlive.com/india/india-weather-forecast-today-october-15-2026-will-it-rain-in-your-city-today-check-imd-alerts-state-wise-rain-forecast-snowfall-chances-and-temperatures-across-india-305954/",
-    "source": "The Sunday Guardian"
+    "title": "Rains likely in Telugu states",
+    "url": "https://www.metroindia.net/news/articlenews/rains-likely-in-telugu-states-46082",
+    "source": "https://www.metroindia.net/"
    },
    {
-    "title": "IMD forecasts heavy rainfall over J&K, Ladakh, Tamil Nadu, Puducherry & Karaikal for today",
-    "url": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-jk-ladakh-tamil-nadu-puducherry-karaikal-for-today/",
-    "source": "News On AIR"
+    "title": "Lightning alerts issued for several districts in AP in three hours",
+    "url": "https://www.thehansindia.com/andhra-pradesh/lightning-alerts-issued-for-several-districts-in-ap-in-three-hours-1132707",
+    "source": "The Hans India"
    },
    {
-    "title": "Orange alert issued in Delhi; rain, thunderstorms likely as western disturbance moves in | Hindustan Times",
-    "url": "https://www.hindustantimes.com/cities/delhi-weather-orange-alert-imd-rain-today-thursday-forecast-temperature-aqi-101792041647983.html",
-    "source": "Hindustan Times"
+    "title": "Telangana weather: Isolated rains likely from October 15 as northeast monsoon begins",
+    "url": "https://hyderabadmail.com/telangana-weather-forecast-october-15-2026-rainfall/",
+    "source": "Hyderabad Mail"
    }
   ],
   "first": "2026-10-05T00:31:57.531734+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "CL": "2026-10-13T01:08:51.978276+00:00",
    "PY": "2026-10-08T06:30:29.402853+00:00",
-   "PE": "2026-10-09T14:31:55.196780+00:00",
+   "PE": "2026-10-15T12:46:52.766319+00:00",
    "CA": "2026-10-13T01:08:51.978276+00:00",
    "BR": "2026-10-15T07:06:47.150759+00:00",
-   "CO": "2026-10-15T07:06:47.150759+00:00"
+   "CO": "2026-10-15T12:46:52.766319+00:00",
+   "EC": "2026-10-15T12:46:52.766319+00:00",
+   "VE": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "costa-rica-haiti": {
@@ -35089,29 +35097,31 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "Świątek, Fręch i Chwalińska grają w Wuhan Open 2026",
-    "url": "https://polski-tenis.pl/pl/779_wta/259032_swiatek-frech-i-chwalinska-graja-w-wuhan-open-2026.html",
-    "source": "Polski Tenis"
+    "title": "WTA w Wuhan: Ashlyn Krueger - Iga Świątek [RELACJA NA ŻYWO]",
+    "url": "https://przegladsportowy.onet.pl/tenis/ashlyn-krueger-iga-swiatek-relacja-na-zywo/7dw7gc8",
+    "source": "Przegląd Sportowy"
    },
    {
-    "title": "Dawid Góra: Polski mecz w Chinach mógł nas zaskoczyć [Opinia]",
-    "url": "https://sportowefakty.wp.pl/tenis/1279097/dawid-gora-polski-mecz-w-chinach-mogl-nas-zaskoczyc-opinia",
+    "title": "Świątek dołączy do Chwalińskiej? Gra o ćwierćfinał w Wuhan [NA ŻYWO]",
+    "url": "https://www.sport.pl/tenis/14,64987,33080101.html",
+    "source": "Sport.pl"
+   },
+   {
+    "title": "Od 2:2 Świątek odjechała. Zobacz skrót \"polskiego\" meczu w Wuhan",
+    "url": "https://sportowefakty.wp.pl/tenis/wideo/52066/od-22-swiatek-odjechala-zobacz-skrot-polskiego-meczu-w-wuhan",
     "source": "SportoweFakty"
-   },
-   {
-    "title": "Demolka w meczu Świątek z Fręch, ale co się stało potem. WTA reaguje",
-    "url": "https://sport.interia.pl/iga-swiatek/news-demolka-w-meczu-swiatek-z-frech-blyskawiczna-reakcja-wta-jes,nId,23557928",
-    "source": "Interia Sport"
    }
   ],
   "first": "2026-10-05T06:37:48.689341+00:00",
-  "seen": "2026-10-14T05:54:28.262121+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "US": "2026-10-05T06:37:48.689341+00:00",
    "AR": "2026-10-09T14:31:55.196780+00:00",
    "CL": "2026-10-09T14:31:55.196780+00:00",
    "CO": "2026-10-09T14:31:55.196780+00:00",
-   "MX": "2026-10-14T05:54:28.262121+00:00"
+   "MX": "2026-10-14T05:54:28.262121+00:00",
+   "BR": "2026-10-15T12:46:52.766319+00:00",
+   "CA": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "saints-vs-falcons": {
@@ -47660,28 +47670,28 @@
  },
  "william-contreras": {
   "term": "william contreras",
-  "traffic": "500+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Contreras pone a Brewers a medio camino de Serie Mundial",
-    "url": "https://www.espn.com.ve/beisbol/nota/_/id/17374286/mlb-playoffs-2026-contreras-brewers-medio-camino-serie-mundial",
-    "source": "ESPN Venezuela"
-   },
-   {
-    "title": "Luis Lara le dio el primero a Cerveceros de Milwaukee",
-    "url": "https://www.beisbolplay.com/video/luis-lara-le-dio-el-primero-a-cerveceros-de-milwaukee-130044",
+    "title": "William Contreras y Jackson Chourio en la historia de Milwaukee",
+    "url": "https://www.beisbolplay.com/video/william-contreras-y-jackson-chourio-en-la-historia-de-milwaukee-130087",
     "source": "BeisbolPlay"
    },
    {
-    "title": "Cerveceros vencieron a los Dodgers en el inicio de la Serie de Campeonato",
-    "url": "https://www.globovision.com/deportes/63003/cerveceros-vencieron-a-los-dodgers-en-el-inicio-de-la-serie-de-campeonato",
-    "source": "Globovisión"
+    "title": "El paseo más lento de la Postemporada MLB: William Contreras logra insólito récord con Milwaukee",
+    "url": "https://meridiano.net/beisbol/beisbol-grandes-ligas/el-paseo-mas-lento-de-la-postemporada-mlb-william-contreras-logra-insolito-record-con-milwaukee-202610139520",
+    "source": "Meridiano.net"
+   },
+   {
+    "title": "William Contreras hizo historia con el bate y dicta ley detrás del plato",
+    "url": "https://soynuevaprensadigital.com/npd/william-contreras-hizo-historia-con-el-bate-y-dicta-ley-detras-del-plato/",
+    "source": "Soy Nueva Prensa Digital"
    }
   ],
   "first": "2026-10-07T07:01:54.260533+00:00",
-  "seen": "2026-10-13T08:11:28.087406+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "VE": "2026-10-13T08:11:28.087406+00:00"
+   "VE": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "lvbp": {
@@ -54915,28 +54925,29 @@
  },
  "ministro-de-justicia": {
   "term": "ministro de justicia",
-  "traffic": "200+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "MinJusticia acepta la renuncia de ocho integrantes de la Comisión Asesora de Política Criminal",
-    "url": "https://www.semana.com/nacion/articulo/minjusticia-acepta-la-renuncia-de-ocho-integrantes-de-la-comision-asesora-de-politica-criminal/202621/",
-    "source": "Revista Semana"
+    "title": "Ministro de Justicia reitera que no se ha evaluado salida del Perú de la Corte IDH: \"Es un problema muy complejo\"",
+    "url": "https://rpp.pe/politica/gobierno/ministro-de-justicia-reitera-que-no-se-ha-evaluado-salida-del-peru-de-la-corte-idh-es-un-problema-muy-complejo-noticia-1712610",
+    "source": "RPP Noticias"
    },
    {
-    "title": "Minjusticia oficializa salida de ocho integrantes de la Comisión Asesora de Política Criminal",
-    "url": "https://www.elheraldo.co/politica/2026/10/07/minjusticia-oficializa-salida-de-ocho-integrantes-de-la-comision-asesora-de-politica-criminal/",
-    "source": "ELHERALDO.CO"
+    "title": "Petro reaccionó a la decisión de Eva Ferrer de no presentarse ante la Fiscalía: el expresidente señaló que Vicky Dávila y Gabriel Gilinski son los que deben responder penalmente",
+    "url": "https://www.infobae.com/colombia/2026/10/14/petro-reacciono-a-la-decision-de-eva-ferrer-de-no-presentarse-ante-la-fiscalia-el-expresidente-senalo-que-vicky-davila-y-gabriel-gilinski-son-los-que-deben-responder-penalmente/",
+    "source": "Infobae"
    },
    {
-    "title": "MinJusticia oficializa salida de 10 integrantes de la Comisión de Política Criminal",
-    "url": "https://www.elnuevosiglo.com.co/politica/minjusticia-oficializa-salida-de-10-integrantes-de-la-comision-de-politica-criminal",
-    "source": "El Nuevo Siglo"
+    "title": "Así fue el polémico viaje de Verónica Alcocer a Caracas en enero de 2023",
+    "url": "https://elpais.com/america-colombia/2026-10-14/asi-fue-el-polemico-viaje-de-veronica-alcocer-a-caracas-en-enero-de-2023.html",
+    "source": "EL PAÍS"
    }
   ],
   "first": "2026-10-08T06:30:29.402853+00:00",
-  "seen": "2026-10-08T06:30:29.402853+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CO": "2026-10-08T06:30:29.402853+00:00"
+   "CO": "2026-10-08T06:30:29.402853+00:00",
+   "PE": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "paola-turbay": {
@@ -56759,29 +56770,29 @@
  },
  "embalse": {
   "term": "embalse",
-  "traffic": "500+",
+  "traffic": "1000+",
   "news": [
    {
-    "title": "Las reservas de agua embalsada en Galicia siguen bajando y pierden más de 70 hectómetros cúbicos en una semana",
-    "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/10/14/reservas-agua-embalsada-galicia-siguen-bajando-pierden-70-hectometros-cubicos-semana/00031791977313500502539.htm",
-    "source": "La Voz de Galicia"
+    "title": "Mazar necesita al menos un mes de lluvias constantes para recuperar su nivel",
+    "url": "https://www.expreso.ec/economia-y-negocios/mazar-necesita-mes-lluvias-constantes-recuperar-nivel-299249.html",
+    "source": "expreso.ec"
    },
    {
-    "title": "Los pantanos de la cuenca del Segura pierden 5 hectómetros cúbicos en la última semana",
-    "url": "https://www.europapress.es/murcia/noticia-pantanos-cuenca-segura-pierden-hectometros-cubicos-ultima-semana-20261014134505.html",
-    "source": "Europa Press"
+    "title": "Proponen cortes de luz de hasta cinco horas para salvar el embalse Mazar",
+    "url": "https://www.lahora.com.ec/economia/proponen-cortes-de-luz-de-hasta-cinco-horas-para-salvar-el-embalse-mazar-20261014-0024.html",
+    "source": "Diario La Hora"
    },
    {
-    "title": "La reserva hídrica española se encuentra al 57,8 % de su capacidad",
-    "url": "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/octubre/la-reserva-hidrica-espanola-se-encuentra-al-57-8---de-su-capacid.html",
-    "source": "Ministerio de Transición Ecológica"
+    "title": "Consulta aquí la cota de Mazar, Coca Codo Sinclair y de las hidroeléctricas de Ecuador, actualizada cada ho...",
+    "url": "https://www.ecuavisa.com/ecuador/estado-hidroelectricas-ecuador-14-de-octubre-mazar-molino-coca-codo-sinclair-20261014-0057.html",
+    "source": "Ecuavisa"
    }
   ],
   "first": "2026-10-08T14:26:02.176142+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "CO": "2026-10-08T14:26:02.176142+00:00",
-   "EC": "2026-10-15T07:06:47.150759+00:00"
+   "EC": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "loterias-de-colombia": {
@@ -59124,27 +59135,27 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "De Sevilla a Montreal y Estados Unidos: qué visitar y a qué ciudades viajar con la nueva conexión aérea",
-    "url": "https://www.diariodesevilla.es/vivirensevilla/sevilla-montreal-estados-unidos-visitar_0_2008242936.html",
-    "source": "Diario de Sevilla"
+    "title": "Arrestan a la actriz Selma Blair por golpes a tripulantes e intentar abrir la puerta de un avión en el aire",
+    "url": "https://www.elpais.com.uy/tvshow/personajes/arrestan-a-la-actriz-selma-blair-por-golpes-a-tripulantes-e-intentar-abrir-la-puerta-de-un-avion-en-el-aire",
+    "source": "EL PAÍS Uruguay"
    },
    {
-    "title": "La Diputación valora las nuevas oportunidades turísticas y económicas que abre la conexión directa Sevilla-Montreal",
-    "url": "https://www.diarioavanza.es/provincia/diputacion-valora-nuevas-oportunidades-turisticas-economicas-que-abre-conexion-directa-sevilla-montreal/20261014171402028839.html",
-    "source": "Diario Avanza"
+    "title": "El pedido público del novio de Selma Blair tras el violento episodio de la actriz en un avión: “Recen por ella”",
+    "url": "https://www.lanacion.com.ar/espectaculos/personajes/el-pedido-publico-del-novio-de-selma-blair-tras-el-violento-episodio-de-la-actriz-en-un-avion-recen-nid14102026/",
+    "source": "La Nación"
    },
    {
-    "title": "Sevilla tendrá por primera vez un vuelo directo a Norteamérica con una ruta a Montreal",
-    "url": "https://cadenaser.com/andalucia/2026/10/15/sevilla-tendra-por-primera-vez-un-vuelo-directo-a-norteamerica-con-una-ruta-a-montreal-radio-sevilla/",
-    "source": "Cadena SER"
+    "title": "Selma Blair, Melendi, Liam Gallagher y otros famosos que perdieron los nervios en un avión",
+    "url": "https://elpais.com/gente/2026-10-15/selma-blair-melendi-liam-gallagher-y-otros-famosos-que-perdieron-los-nervios-en-un-avion.html",
+    "source": "EL PAÍS"
    }
   ],
   "first": "2026-10-08T20:03:05.072479+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "VE": "2026-10-08T20:03:05.072479+00:00",
    "MX": "2026-10-10T06:13:33.409139+00:00",
-   "UY": "2026-10-15T07:06:47.150759+00:00"
+   "UY": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "caribes-de-anzoategui": {
@@ -71179,28 +71190,29 @@
  },
  "terremoto-sismo-temblor-hoy-epicentro": {
   "term": "terremoto sismo temblor hoy epicentro",
-  "traffic": "100+",
+  "traffic": "2000+",
   "news": [
    {
-    "title": "Sismo de magnitud 5,2 se registra en la región de Tarapacá",
-    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-tarapaca/2026/10/09/sismo-de-magnitud-51-se-registra-en-la-region-de-tarapaca.shtml",
-    "source": "BioBioChile"
+    "title": "Temblor hoy en Perú EN VIVO: últimos sismos, epicentro y reporte del IGP del miércoles 14 de octubre de 2026",
+    "url": "https://www.infobae.com/peru/2026/10/14/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-miercoles-14-de-octubre-de-2026/",
+    "source": "Infobae"
    },
    {
-    "title": "Temblor hoy, viernes 9 de octubre en Chile: consulta epicentro y magnitud",
-    "url": "https://www.latercera.com/servicios/noticia/temblor-hoy-viernes-9-de-octubre-en-chile-consulta-epicentro-y-magnitud/",
-    "source": "La Tercera"
+    "title": "IGP Temblor en Perú Lima hoy 15 de octubre magnitud y epicentro último sismo",
+    "url": "https://rpp.pe/lima/desastres-naturales/temblor-en-peru-hoy-13-de-octubre-magnitud-y-epicentro-del-sismo-segun-igp-live-3660",
+    "source": "RPP Noticias"
    },
    {
-    "title": "Sismo de mediana intensidad se registra la mañana de este viernes cerca de Colchane: ¿Cuál fue su magnitud?",
-    "url": "https://www.cnnchile.com/pais/sismo-de-mediana-intensidad-se-registra-la-manana-de-este-viernes-cerca-de-colchane-cual-fue-su-magnitud/",
-    "source": "CNN Chile"
+    "title": "SISMO remece el Perú, HOY, martes 13 de octubre: conoce el epicentro y magnitud, según el IGP",
+    "url": "https://www.exitosanoticias.pe/exitosa-peru/sismo-remece-peru-hoy-martes-13-octubre-conoce-epicentro-magnitud-igp-n185865",
+    "source": "Exitosa Noticias"
    }
   ],
   "first": "2026-10-10T12:54:07.968114+00:00",
-  "seen": "2026-10-10T12:54:07.968114+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CL": "2026-10-10T12:54:07.968114+00:00"
+   "CL": "2026-10-10T12:54:07.968114+00:00",
+   "PE": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "augsburgo-bayern": {
@@ -74674,31 +74686,31 @@
  },
  "mls": {
   "term": "mls",
-  "traffic": "2000+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "(LIVESTREAMs!FREE)! Austin FC VS Los Angeles FC Match Preview",
-    "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3Rob21hc3NyaXZlcmEuZ2l0aHViLmlvL2Rob3BhL3FhLnhtbCIvPjwva3JwYW5vPg==&id=austin-fc-vs-los-angeles-cbs-sports-f7bqv",
-    "source": "Universidad de Córdoba (UCO)"
+    "title": "Son Heung-min powers LA past Austin with 1 goal and 2 assists",
+    "url": "https://www.sofascore.com/news/son-heung-min-powers-la-past-austin-with-1-goal-and-2-assists",
+    "source": "Sofascore"
    },
    {
-    "title": "Denis Bouanga and Son Heung-min propel LAFC to 3-1 victory over Austin",
-    "url": "https://www.cbsnews.com/losangeles/news/denis-bouanga-and-son-heung-min-propel-lafc-to-3-1-victory-over-austin/",
-    "source": "CBS News"
-   },
-   {
-    "title": "Highlights: Los Angeles Football Club 3-1 Austin FC (MLS)",
-    "url": "https://onefootball.com/en/video/highlights-los-angeles-football-club-3-1-austin-fc-mls-43614197",
+    "title": "Highlights MLS: Los Angeles Football Club 3-1 Austin FC",
+    "url": "https://onefootball.com/it/video/highlights-mls-los-angeles-football-club-3-1-austin-fc-43614203",
     "source": "OneFootball"
+   },
+   {
+    "title": "Los Angeles vs Austin FC match lineup | Major League Soccer · 15 Oct 2026",
+    "url": "https://www.ysscores.com/en/lineup/5071421/Los-Angeles-FC-vs-Austin-FC",
+    "source": "YSscores"
    }
   ],
   "first": "2026-10-10T21:18:30.202743+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "EC": "2026-10-15T07:06:47.150759+00:00",
    "UY": "2026-10-11T13:17:50.245833+00:00",
-   "BO": "2026-10-15T07:06:47.150759+00:00",
-   "PY": "2026-10-15T07:06:47.150759+00:00",
+   "BO": "2026-10-15T12:46:52.766319+00:00",
+   "PY": "2026-10-15T12:46:52.766319+00:00",
    "CL": "2026-10-15T01:41:38.009881+00:00",
    "VE": "2026-10-15T01:41:38.009881+00:00"
   }
@@ -75148,30 +75160,31 @@
  },
  "inter-miami": {
   "term": "inter miami",
-  "traffic": "2000+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "¡EN VIVO! El Inter Miami de Messi enfrenta en casa a New York City",
-    "url": "https://www.espn.com.ve/futbol/mls/nota/_/id/17373931/inter-miami-vs-new-york-city-por-la-mls-equipo-fecha-hora-y-tv-en-vivo",
-    "source": "ESPN Venezuela"
-   },
-   {
-    "title": "MATCH PREVIEW: Inter Miami CF Set to Host New York City FC on Wednesday",
-    "url": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-set-to-host-new-york-city-fc-on-wednesday",
+    "title": "Secure Your Spot: Inter Miami CF Clinches Audi 2026 MLS Cup Playoffs Spot!",
+    "url": "https://www.intermiamicf.com/news/secure-your-spot-inter-miami-cf-clinches-audi-2026-mls-cup-playoffs-spot",
     "source": "Inter Miami CF"
    },
    {
-    "title": "Is Lionel Messi playing today? Projected lineups for Inter Miami vs NYCFC in 2026 MLS season Matchday 30",
-    "url": "https://worldsoccertalk.com/news/is-lionel-messi-playing-today-projected-lineups-for-inter-miami-vs-nycfc-in-2026-mls-season-matchday-30/",
-    "source": "World Soccer Talk"
+    "title": "Inter Miami Prop Bets vs. Atlanta as Messi and Co Clinch Playoff Spot",
+    "url": "https://www.gambling911.com/inter-miami-vs-atlanta-united-prop-bets",
+    "source": "Gambling911.com"
+   },
+   {
+    "title": "FC Dallas clinch Audi 2026 MLS Cup Playoffs spot",
+    "url": "https://www.mlssoccer.com/news/fc-dallas-clinch-audi-2026-mls-cup-playoffs-spot",
+    "source": "MLSsoccer.com"
    }
   ],
   "first": "2026-10-10T21:18:30.202743+00:00",
-  "seen": "2026-10-15T01:41:38.009881+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "US": "2026-10-10T21:18:30.202743+00:00",
    "PE": "2026-10-15T01:41:38.009881+00:00",
-   "VE": "2026-10-15T01:41:38.009881+00:00"
+   "VE": "2026-10-15T01:41:38.009881+00:00",
+   "PY": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "gran-premio-de-singapur": {
@@ -78982,29 +78995,29 @@
   }
  },
  "tema": {
-  "term": "李嘉诚",
-  "traffic": "500+",
+  "term": "إلهان عمر",
+  "traffic": "100+",
   "news": [
    {
-    "title": "长实集团就“李嘉诚去世”传闻发出声明",
-    "url": "https://news.sina.cn/gn/2026-10-15/detail-inivhtui7366329.d.html?vt=4&pos=108",
-    "source": "新浪新闻"
+    "title": "\"لن تكون الأخيرة\".. مساعي ترحيل إلهان عمر تثير مخاوف معارضي سياسات ترمب",
+    "url": "https://www.aljazeera.net/news/2026/10/15/%D9%84%D9%86-%D8%AA%D9%83%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-%D9%85%D8%B3%D8%A7%D8%B9%D9%8A-%D8%AA%D8%B1%D8%AD%D9%8A%D9%84-%D8%A5%D9%84%D9%87%D8%A7%D9%86-%D8%B9%D9%85%D8%B1",
+    "source": "الجزيرة نت"
    },
    {
-    "title": "长实回应李嘉诚逝世：绝无其事",
-    "url": "https://original.ifeng.com/c/8xEvX57OGlX",
-    "source": "凤凰网"
+    "title": "بعد تفتيش منزلها.. السلطات الأميركية تحقق مع أقارب إلهان عمر",
+    "url": "https://www.skynewsarabia.com/world/1898234-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%B2%D9%84%D9%87%D8%A7-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%AD%D9%82%D9%82-%D8%A3%D9%82%D8%A7%D8%B1%D8%A8-%D8%A5%D9%84%D9%87%D8%A7%D9%86-%D8%B9%D9%85%D8%B1",
+    "source": "سكاي نيوز عربية"
    },
    {
-    "title": "后续！长实否认李嘉诚去世，网友：现在的小道消息准的吓人",
-    "url": "https://m.sohu.com/a/1088041994_121977860?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-    "source": "搜狐"
+    "title": "ترامب متورط في ترهيب إلهان عمر… علم بتفتيش منزلها أم لم يعلم؟",
+    "url": "https://www.alquds.co.uk/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%85%D8%AA%D9%88%D8%B1%D8%B7-%D9%81%D9%8A-%D8%AA%D8%B1%D9%87%D9%8A%D8%A8-%D8%A5%D9%84%D9%87%D8%A7%D9%86-%D8%B9%D9%85%D8%B1-%D8%B9%D9%84%D9%85-%D8%A8%D8%AA%D9%81/",
+    "source": "القدس العربي"
    }
   ],
   "first": "2026-10-11T06:12:49.295325+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CA": "2026-10-15T07:06:47.150759+00:00"
+   "CA": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "crystal-palace-nottingham-forest": {
@@ -88656,20 +88669,20 @@
     "source": "ABC Color"
    },
    {
-    "title": "Presunto feminicidio en Villarrica: joven de 20 años confesó el crimen",
-    "url": "https://www.telefuturo.com.py/presunto-feminicidio-en-villarrica-joven-de-20-anos-confeso-el-crimen",
-    "source": "Telefuturo"
-   },
-   {
     "title": "“Ella tenía asma, yo no le apreté mucho tiempo”: la indignante declaración del sospechoso de matar a una joven",
     "url": "https://www.lanacion.com.py/pais/2026/10/14/ella-tenia-asma-yo-no-le-aprete-mucho-tiempo-la-indignante-declaracion-del-sospechoso-de-matar-a-una-joven/",
     "source": "La Nación"
+   },
+   {
+    "title": "Presunto feminicidio en Villarrica: joven de 20 años confesó el crimen",
+    "url": "https://www.telefuturo.com.py/presunto-feminicidio-en-villarrica-joven-de-20-anos-confeso-el-crimen",
+    "source": "Telefuturo"
    }
   ],
   "first": "2026-10-12T18:43:12.263203+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "PY": "2026-10-15T07:06:47.150759+00:00"
+   "PY": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "desague": {
@@ -93974,28 +93987,28 @@
  },
  "bcp": {
   "term": "bcp",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Caso Ueno: plantean instar a Peña a destituir a Carlos Carvallo del BCP",
-    "url": "https://www.abc.com.py/politica/2026/10/12/intentaran-manana-en-diputados-instar-a-destituir-a-carvallo-de-bcp-por-caso-ueno/",
+    "title": "Acta del directorio del BCP observa situación de solvencia de Ueno Bank",
+    "url": "https://www.abc.com.py/politica/2026/10/15/acta-del-directorio-del-bcp-observa-situacion-de-solvencia-de-ueno-bank/",
     "source": "ABC Color"
    },
    {
-    "title": "Presentan proyecto que insta a destituir al presidente del BCP",
-    "url": "https://www.ultimahora.com/presentan-pedido-para-destituir-a-presidente-del-bcp",
-    "source": "Última Hora"
+    "title": "Leite insta a cambiar directivos del BCP por informe “incompleto”",
+    "url": "https://www.lanacion.com.py/politica/2026/10/14/leite-insta-a-cambiar-directivos-del-bcp-por-informe-incompleto/",
+    "source": "La Nación"
    },
    {
-    "title": "Diputado Diosnel Aguilera pide una “cirugía mayor” en el BCP por el caso Ueno Bank: “Caiga quien caiga” - Política",
-    "url": "https://www.abc.com.py/politica/2026/10/09/diputado-diosnel-aguilera-pide-una-cirugia-mayor-en-el-bcp-por-el-caso-ueno-bank-caiga-quien-caiga/",
-    "source": "ABC Color"
+    "title": "Leite pide cambiar a todo el directorio del Banco Central",
+    "url": "https://www.hoy.com.py/politica/2026/10/14/leite-pide-cambiar-a-todo-el-directorio-del-banco-central",
+    "source": "Diario HOY – En Paraguay y el Mundo"
    }
   ],
   "first": "2026-10-13T16:16:43.865876+00:00",
-  "seen": "2026-10-13T16:16:43.865876+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "PY": "2026-10-13T16:16:43.865876+00:00"
+   "PY": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "anna-faris": {
@@ -96675,28 +96688,29 @@
  },
  "copa-libertadores-2026": {
   "term": "copa libertadores 2026",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Pulgar va por la gloria: A qué hora y cómo ver en vivo a Flamengo vs. Estudiantes por semis de Libertadores",
-    "url": "https://www.t13.cl/noticia/deportes13/pulgar-hora-como-ver-vivo-flamengo-vs-estudiantes-semis-libertadores-13-10-2026",
-    "source": "Teletrece"
+    "title": "La Libertadores vuelve con semifinales y dos ecuatorianos en la pelea por la final",
+    "url": "https://www.elcomercio.com/deportes/futbol/libertadores-semifinales-flamengo-palmeiras-ecuatorianos-horarios/",
+    "source": "El Comercio"
    },
    {
-    "title": "Cuándo juegan Estudiantes vs. Flamengo por la semifinal de Libertadores: equipo, fecha, hora y TV en vivo",
-    "url": "https://www.espn.cl/futbol/copa-libertadores/nota/_/id/17372136/estudiantes-vs-flamengo-semifinal-ida-libertadores-equipo-fecha-hora-y-tv-en-vivo",
-    "source": "ESPN Chile"
+    "title": "El último bastión contra Brasil",
+    "url": "https://as.com/futbol/internacional/el-ultimo-bastion-contra-brasil-f202610-n/",
+    "source": "Diario AS"
    },
    {
-    "title": "Telefe emite el partido de ida de las semifinales de la CONMEBOL Libertadores 2026",
-    "url": "https://television.com.ar/noticias/ratings/telefe-emite-el-partido-de-ida-de-las-semifinales-de-la-conmebol-libertadores-2026/",
-    "source": "Inicio - Television"
+    "title": "El 'Pincha', otro capitulo entre los cuartos mejores del continente",
+    "url": "https://www.vavel.com/ar/futbol-argentino/2026/10/14/estudiantes/1275249-el-pincha-otro-capitulo-entre-los-cuartos-mejores-del-continente.html",
+    "source": "VAVEL.com"
    }
   ],
   "first": "2026-10-14T00:30:58.481099+00:00",
-  "seen": "2026-10-14T00:30:58.481099+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CL": "2026-10-14T00:30:58.481099+00:00"
+   "CL": "2026-10-14T00:30:58.481099+00:00",
+   "EC": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "netinho": {
@@ -96779,7 +96793,7 @@
  },
  "tiempo-temuco": {
   "term": "tiempo temuco",
-  "traffic": "500+",
+  "traffic": "100+",
   "news": [
    {
     "title": "Vuelve la lluvia a Temuco luego de una pausa: Pronóstico oficial de la región de La Araucanía para los próximos 4 días",
@@ -96798,9 +96812,9 @@
    }
   ],
   "first": "2026-10-14T00:30:58.481099+00:00",
-  "seen": "2026-10-14T00:30:58.481099+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CL": "2026-10-14T00:30:58.481099+00:00"
+   "CL": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "rio-mapocho": {
@@ -96883,28 +96897,29 @@
  },
  "camion": {
   "term": "camión",
-  "traffic": "500+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Incorpora Cuautlancingo camión de volteo de 40 toneladas para atender drenajes y canales pluviales",
-    "url": "https://oem.com.mx/elsoldepuebla/local/incorpora-cuautlancingo-camion-de-volteo-de-40-toneladas-para-atender-drenajes-y-canales-pluviales-32584962",
-    "source": "El Sol de México"
+    "title": "Uno atrás del otro: las imágenes del múltiple choque en avenida Italia",
+    "url": "https://www.montevideo.com.uy/Noticias/Uno-atras-del-otro-las-imagenes-del-multiple-choque-en-avenida-Italia-uc978628",
+    "source": "Montevideo Portal"
    },
    {
-    "title": "Presenta Omar Muñoz nuevo camión de desazolve en Cuautlancingo",
-    "url": "https://hipocritalector.com/portada/omar-munoz-entrega-unidad-de-desazolve-en-cuautlancingo/",
-    "source": "Hipócrita Lector"
+    "title": "Choque múltiple y en cadena dejó a pasajeras de un taxi con lesiones leves, en avenida Italia y ex Propios",
+    "url": "https://www.subrayado.com.uy/choque-multiple-y-cadena-dejo-pasajeras-un-taxi-lesiones-leves-avenida-italia-y-expropios-n1020819",
+    "source": "subrayado.com.uy"
    },
    {
-    "title": "Cuautlancingo refuerza su parque vehicular con camión de volteo de 40 toneladas",
-    "url": "https://heraldodepuebla.com/2026/10/13/cuautlancingo-refuerza-su-parque-vehicular-con-camion-de-volteo-de-40-toneladas/",
-    "source": "El Heraldo de Puebla"
+    "title": "Un camión se quedó sin frenos en Avenida Italia y Batlle y Ordóñez y provocó un choque múltiple",
+    "url": "https://www.telenoche.com.uy/sociedad/un-camion-se-quedo-frenos-avenida-italia-y-batlle-y-ordonez-y-provoco-un-choque-multiple-n5406009",
+    "source": "Telenoche"
    }
   ],
   "first": "2026-10-14T00:30:58.481099+00:00",
-  "seen": "2026-10-14T00:30:58.481099+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CO": "2026-10-14T00:30:58.481099+00:00"
+   "CO": "2026-10-14T00:30:58.481099+00:00",
+   "UY": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "tupac-shakur": {
@@ -96963,12 +96978,12 @@
  },
  "julio-cesar-gonzalez": {
   "term": "julio césar gonzález",
-  "traffic": "2000+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Fiscalía abrió indagación contra ‘Matador’ por publicaciones contra la primera dama, Ana Lucía Pineda",
-    "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-abrio-indagacion-contra-matador-por-publicaciones-contra-la-esposa-del-presidente-3593238",
-    "source": "El Tiempo"
+    "title": "No todo se vale en el debate público",
+    "url": "https://www.elespectador.com/opinion/editorial/no-todo-se-vale-en-el-debate-publico/",
+    "source": "El Espectador"
    },
    {
     "title": "Caricaturista ‘Matador’ advirtió que su esquema de seguridad recibió la orden de la UNP de no estar junto a él: “Dejo constancia”",
@@ -96976,15 +96991,15 @@
     "source": "Infobae"
    },
    {
-    "title": "Presidente y ministros en pleno piden investigar a 'Matador' por ataques a primera dama",
-    "url": "https://www.asuntoslegales.com.co/actualidad/gobierno-pide-a-la-fiscalia-investigar-comentarios-de-matador-contra-la-primera-dama-4501361",
-    "source": "Asuntos Legales"
+    "title": "Matador del respeto y la decencia",
+    "url": "https://www.semana.com/opinion/articulo/matador-del-respeto-y-la-decencia/202622/",
+    "source": "Revista Semana"
    }
   ],
   "first": "2026-10-14T00:30:58.481099+00:00",
-  "seen": "2026-10-14T00:30:58.481099+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CO": "2026-10-14T00:30:58.481099+00:00"
+   "CO": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "athletic-mg-londrina": {
@@ -98549,25 +98564,26 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "PDG analiza posibilidad de presentar proyecto para nuevo retiro de AFP y técnicos advierten que sería muy perjudicial",
-    "url": "https://www.latercera.com/pulso/noticia/pdg-analiza-posibilidad-de-presentar-proyecto-para-nuevo-retiro-de-afp-y-tecnicos-advierten-que-seria-muy-perjudicial/",
-    "source": "La Tercera"
+    "title": "AFP: cuatro fechas a tener en cuenta sobre próximos cambios para los afiliados",
+    "url": "https://gestion.pe/tu-dinero/afp-cuatro-fechas-a-tener-en-cuenta-sobre-proximos-cambios-para-los-afiliados-noticia/",
+    "source": "Gestión"
    },
    {
-    "title": "\"No fueron una buena política\": Ministro Rau rechaza propuesta de retiro de fondos de pensiones para cesantes",
-    "url": "https://www.emol.com/noticias/Economia/2026/10/13/1214017/pdg-ministro-rau-fondos-previsionales.html",
-    "source": "Emol"
+    "title": "Pensión por consumo iniciará en enero: ¿cuánto podría recibir el afiliado al jubilarse?",
+    "url": "https://gestion.pe/tu-dinero/pension-por-consumo-iniciara-en-enero-cuanto-podria-recibir-el-afiliado-al-jubilarse-noticia/",
+    "source": "Gestión"
    },
    {
-    "title": "¿Un nuevo retiro de fondos de las AFP? La alternativa que se puso sobre la mesa en el PDG ante la crisis de empleo y el portazo del Gobierno",
-    "url": "https://www.theclinic.cl/2026/10/13/un-nuevo-retiro-de-fondos-de-las-afp-la-alternativa-que-se-puso-sobre-la-mesa-en-el-pdg-ante-la-crisis-de-empleo-y-el-portazo-del-gobierno/",
-    "source": "The Clinic"
+    "title": "Noveno retiro de la AFP: qué falta para pensar en una posible aprobación y cuál es el sustento para hacerlo",
+    "url": "https://www.infobae.com/peru/2026/10/12/noveno-retiro-de-la-afp-que-falta-para-pensar-en-una-posible-aprobacion-y-cual-es-el-sustento-para-hacerlo/",
+    "source": "Infobae"
    }
   ],
   "first": "2026-10-14T05:54:28.262121+00:00",
-  "seen": "2026-10-14T05:54:28.262121+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CL": "2026-10-14T05:54:28.262121+00:00"
+   "CL": "2026-10-14T05:54:28.262121+00:00",
+   "PE": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "salud-sexual": {
@@ -98729,17 +98745,17 @@
  },
  "conmebol-libertadores": {
   "term": "conmebol libertadores",
-  "traffic": "2000+",
+  "traffic": "1000+",
   "news": [
+   {
+    "title": "Licensable picture: Copa Libertadores - Semi Final - First Leg - Fluminense v Palmeiras",
+    "url": "https://www.reutersconnect.com/item/copa-libertadores-semi-final-first-leg-fluminense-v-palmeiras/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQUYwMVlZWjI",
+    "source": "Reuters Connect"
+   },
    {
     "title": "Palmeiras beat Fluminense 2-1 away in Copa Libertadores semifinal",
     "url": "https://www.washingtonpost.com/sports/soccer/2026/10/14/fluminense-palmeiras-libertadores-flaco-lopez/a2af41e6-c842-11f1-aefb-abe4112d087e_story.html",
     "source": "The Washington Post"
-   },
-   {
-    "title": "How and Where to Watch Fluminense vs Palmeiras in Copa Libertadores on beIN SPORTS",
-    "url": "https://www.beinsports.com/en-us/soccer/conmebol-libertadores/articles/how-and-where-to-watch-fluminense-vs-palmeiras-in-copa-libertadores-on-bein-sports-2026-10-14",
-    "source": "beIN SPORTS"
    },
    {
     "title": "Fluminense vs Palmeiras Highlights: López, Marlon Freitas and Wesley Natã Score | Copa Libertadores",
@@ -98748,14 +98764,14 @@
    }
   ],
   "first": "2026-10-14T05:54:28.262121+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "CO": "2026-10-15T01:41:38.009881+00:00",
    "PY": "2026-10-15T01:41:38.009881+00:00",
    "CL": "2026-10-15T01:41:38.009881+00:00",
    "UY": "2026-10-15T01:41:38.009881+00:00",
    "EC": "2026-10-15T07:06:47.150759+00:00",
-   "BO": "2026-10-15T07:06:47.150759+00:00",
+   "BO": "2026-10-15T12:46:52.766319+00:00",
    "VE": "2026-10-15T07:06:47.150759+00:00"
   }
  },
@@ -100056,24 +100072,29 @@
   }
  },
  "dia-del-profesor": {
-  "term": "dia del profesor",
+  "term": "día del profesor",
   "traffic": "200+",
   "news": [
+   {
+    "title": "¿Feliz día profesor?",
+    "url": "https://www.latercera.com/cartas-al-director/noticia/feliz-dia-profesor/",
+    "source": "La Tercera"
+   },
+   {
+    "title": "Día del Profesor 2026: cuándo se celebra y por qué no hay clases",
+    "url": "https://www.elmostrador.cl/datos-utiles/2026/10/14/dia-del-profesor-2026-cuando-se-celebra-y-por-que-no-hay-clases/",
+    "source": "El Mostrador"
+   },
    {
     "title": "Cuándo es el Día del Profesor en Chile y por qué los colegios no tendrán clases esa jornada",
     "url": "https://www.biobiochile.cl/noticias/servicios/explicado/2026/10/13/cuando-es-el-dia-del-profesor-en-chile-y-por-que-los-colegios-no-tendran-clases-esa-jornada.shtml",
     "source": "BioBioChile"
-   },
-   {
-    "title": "El día del profesor y la vocación",
-    "url": "https://ellibero.cl/columnas-de-opinion/el-dia-del-profesor-y-la-vocacion/",
-    "source": "El Líbero"
    }
   ],
   "first": "2026-10-14T11:24:56.678881+00:00",
-  "seen": "2026-10-14T11:24:56.678881+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CL": "2026-10-14T11:24:56.678881+00:00"
+   "CL": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "anegamiento": {
@@ -104258,26 +104279,26 @@
  },
  "inter-miami-nyc-fc": {
   "term": "inter miami - nyc fc",
-  "traffic": "5000+",
+  "traffic": "10000+",
   "news": [
    {
-    "title": "PLAY@~ Inter Miami v New York City Live Soccer Match",
-    "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbGVvZ29hdHMuZ2l0aHViLmlvL2JmLmVkdS91am0ueG1sIi8+PC9rcnBhbm8+&id=video-inter-miami-v-new-york-city-lie-en-qkevhct",
-    "source": "Universidad de Córdoba (UCO)"
+    "title": "A magia de Messi faz o Inter Miami ampliar a vantagem contra o NYCFC",
+    "url": "https://onefootball.com/en/video/a-magia-de-messi-faz-o-inter-miami-ampliar-a-vantagem-contra-o-nycfc-43615259",
+    "source": "OneFootball"
    },
    {
-    "title": "Live Inter Miami vs New York City FC: Inter Miami opens the scoring.",
-    "url": "https://baonghean.vn/en/truc-tiep-inter-miami-vs-new-york-city-fc-inter-miami-mo-ty-so-10353489.html",
-    "source": "Báo Nghệ An"
+    "title": "Licensable picture: MLS: New York City FC at Inter Miami CF",
+    "url": "https://www.reutersconnect.com/item/mls-new-york-city-fc-at-inter-miami-cf/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAwODYyMDQ",
+    "source": "Reuters Connect"
    },
    {
-    "title": "MATCH RECAP: Inter Miami CF Secures Audi 2026 MLS Cup Playoffs with 2-1 Home Win Against NYCFC",
-    "url": "https://www.intermiamicf.com/news/match-recap-inter-miami-cf-secures-audi-2026-mls-cup-playoffs-with-2-1-home-win-against-nycfc",
-    "source": "Inter Miami CF"
+    "title": "Messi lifts Inter Miami vs NYCFC: 7.6 Sofascore Rating",
+    "url": "https://www.sofascore.com/news/messi-lifts-inter-miami-vs-nycfc-7-6-on-sofascore",
+    "source": "Sofascore"
    }
   ],
   "first": "2026-10-14T23:22:02.858576+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "AR": "2026-10-14T23:22:02.858576+00:00",
    "CL": "2026-10-14T23:22:02.858576+00:00",
@@ -104286,8 +104307,8 @@
    "UY": "2026-10-15T07:06:47.150759+00:00",
    "EC": "2026-10-15T01:41:38.009881+00:00",
    "VE": "2026-10-14T23:22:02.858576+00:00",
-   "BO": "2026-10-15T07:06:47.150759+00:00",
-   "PY": "2026-10-15T07:06:47.150759+00:00",
+   "BO": "2026-10-15T12:46:52.766319+00:00",
+   "PY": "2026-10-15T12:46:52.766319+00:00",
    "MX": "2026-10-14T23:22:02.858576+00:00"
   }
  },
@@ -104691,22 +104712,22 @@
     "source": "Universidad de Córdoba (UCO)"
    },
    {
+    "title": "Giuliano Galoppo, Lucas Hoyos propel Atlanta United to 3-0 victory over Montreal",
+    "url": "https://abcnews.com/Sports/wireStory/giuliano-galoppo-lucas-hoyos-propel-atlanta-united-3-137276235",
+    "source": "ABC News - Breaking News, Latest News and Videos"
+   },
+   {
     "title": "Highlights MLS: CF Montréal 0-3 Atlanta United",
     "url": "https://onefootball.com/it/video/highlights-mls-cf-montreal-0-3-atlanta-united-43613648",
     "source": "OneFootball"
-   },
-   {
-    "title": "Giuliano Galoppo, Lucas Hoyos propel Atlanta United to 3-0 victory over Montreal",
-    "url": "https://www.washingtonpost.com/sports/soccer/2026/10/14/atlanta-united-cf-montreal-score-mls/c61b2c7a-c83e-11f1-aefb-abe4112d087e_story.html",
-    "source": "The Washington Post"
    }
   ],
   "first": "2026-10-14T23:22:02.858576+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "CL": "2026-10-14T23:22:02.858576+00:00",
    "AR": "2026-10-15T01:41:38.009881+00:00",
-   "PY": "2026-10-15T07:06:47.150759+00:00"
+   "PY": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "allison-gohler": {
@@ -105239,9 +105260,9 @@
    }
   ],
   "first": "2026-10-14T23:22:02.858576+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "BO": "2026-10-15T07:06:47.150759+00:00"
+   "BO": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "santiago-salcedo": {
@@ -105265,9 +105286,9 @@
    }
   ],
   "first": "2026-10-14T23:22:02.858576+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "PY": "2026-10-15T07:06:47.150759+00:00"
+   "PY": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "concurso": {
@@ -105977,31 +105998,31 @@
  },
  "chicago-fire-philadelphia": {
   "term": "chicago fire - philadelphia",
-  "traffic": "1000+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "[[FREE-TV!] Chicago Fire vs Philadelphia Union 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ MLS Ｃｈａｎｎｅｌ HD26",
-    "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3Rob21hc3NyaXZlcmEuZ2l0aHViLmlvL2Rob3BhL3FhLnhtbCIvPjwva3JwYW5vPg==&id=chicago-fire-vs-philadelphia-union-espn-c7iho",
+    "title": "☑️!+! [ＬＩＶＥ ＭＡＴＣＨ] ☑️ Chicago vs. Philadelphia: Match Preview & Start Time for 2026",
+    "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3Rob21hc3NyaXZlcmEuZ2l0aHViLmlvL2Rob3BhL3FhLnhtbCIvPjwva3JwYW5vPg==&id=chicago-philadelphia-match-preview-start-time-cbs-sports-jmarp",
     "source": "Universidad de Córdoba (UCO)"
    },
    {
-    "title": "Union win eighth straight, unbeaten in 14 with win over 10-men Fire",
-    "url": "https://www.delcotimes.com/2026/10/15/union-win-eighth-straight-unbeaten-in-14-with-win-over-10-men-fire/",
-    "source": "Delco Times"
+    "title": "Union top Fire 3-1 for 8th straight victory during club-record 14-match unbeaten streak",
+    "url": "https://abcnews.com/Sports/wireStory/union-top-fire-3-1-8th-straight-victory-137276946",
+    "source": "ABC News - Breaking News, Latest News and Videos"
    },
    {
-    "title": "Matchday | Chicago Fire FC Celebrates Oktoberfest against the Philadelphia Union",
-    "url": "https://www.chicagofirefc.com/news/matchday-chicago-fire-fc-celebrates-oktoberfest-at-soldier-field-against-the-philadelphia-union",
-    "source": "Chicago Fire"
+    "title": "The Union earned a statement win in Chicago, but Ryan Richter is as level-headed as ever",
+    "url": "https://www.inquirer.com/soccer/ryan-richter-philadelphia-union-bruno-damiani-chicago-fire-20261015.html",
+    "source": "Inquirer.com"
    }
   ],
   "first": "2026-10-15T01:41:38.009881+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "AR": "2026-10-15T07:06:47.150759+00:00",
    "CO": "2026-10-15T01:41:38.009881+00:00",
    "PE": "2026-10-15T07:06:47.150759+00:00",
-   "EC": "2026-10-15T07:06:47.150759+00:00",
+   "EC": "2026-10-15T12:46:52.766319+00:00",
    "VE": "2026-10-15T07:06:47.150759+00:00",
    "CL": "2026-10-15T07:06:47.150759+00:00"
   }
@@ -106478,7 +106499,7 @@
  },
  "fluminense-palmeiras": {
   "term": "fluminense - palmeiras",
-  "traffic": "10000+",
+  "traffic": "20000+",
   "news": [
    {
     "title": "Fluminense 1 x 2 Palmeiras | Taça Conmebol Libertadores: melhores momentos",
@@ -106486,26 +106507,26 @@
     "source": "ge"
    },
    {
-    "title": "Auxiliar de Abel nega falta de atenção do Palmeiras e cita desgaste do elenco",
-    "url": "https://www.lance.com.br/palmeiras/auxiliar-de-abel-nega-falta-de-atencao-do-palmeiras-e-cita-desgaste-do-elenco.html",
-    "source": "Lance!"
+    "title": "Auxiliar de Abel evitar cravar data para retorno de Vitor Roque no Palmeiras: “Avaliar dia a dia”",
+    "url": "https://www.gazetaesportiva.com/times/palmeiras/auxiliar-de-abel-evitar-cravar-data-para-retorno-de-vitor-roque-no-palmeiras-avaliar-dia-a-dia/",
+    "source": "Gazeta Esportiva"
    },
    {
-    "title": "Arias volta a ser hostilizado pela torcida do Fluminense no Maracanã",
-    "url": "https://www.terra.com.br/esportes/fluminense/arias-volta-a-ser-hostilizado-pela-torcida-do-fluminense-no-maracana,0cda180bbf9aeaf9f662eac3bf4f68cduxa782ve.html",
-    "source": "Terra"
+    "title": "Auxiliar do Palmeiras culpa desgaste físico por gol sofrido no fim contra o Fluminense",
+    "url": "https://tmc.com.br/esporte/castanheira-palmeiras-desgaste-gol-fluminense-libertadores/",
+    "source": "tmc.com.br"
    }
   ],
   "first": "2026-10-15T01:41:38.009881+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "CL": "2026-10-15T01:41:38.009881+00:00",
    "CO": "2026-10-15T01:41:38.009881+00:00",
    "UY": "2026-10-15T07:06:47.150759+00:00",
    "EC": "2026-10-15T07:06:47.150759+00:00",
    "VE": "2026-10-15T01:41:38.009881+00:00",
-   "BO": "2026-10-15T07:06:47.150759+00:00",
-   "PY": "2026-10-15T07:06:47.150759+00:00"
+   "BO": "2026-10-15T12:46:52.766319+00:00",
+   "PY": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "setlist-bts": {
@@ -106622,21 +106643,21 @@
     "source": "CBS News"
    },
    {
-    "title": "Red Bull New York Seeks to Extend Audi Field Dominance in 93rd Clash With D.C. United",
-    "url": "https://foxsportsradionewjersey.com/2026/10/14/red-bull-new-york-seeks-to-extend-audi-field-dominance-in-93rd-clash-with-d-c-united/",
-    "source": "FOX Sports Radio New Jersey"
+    "title": "STARTING XI, pres. by OANDA: Red Bulls Take on D.C. at Audi Field",
+    "url": "https://www.newyorkredbulls.com/news/starting-xi-pres-by-oanda-red-bulls-take-on-d-c-at-audi-field",
+    "source": "Red Bull New York"
    },
    {
-    "title": "D.C. United hope to hunt down Red Bulls in East standings",
-    "url": "https://www.miamiherald.com/sports/mls/article317611370.html",
-    "source": "Miami Herald"
+    "title": "Licensable picture: MLS: Red Bull New York at D.C. United",
+    "url": "https://www.reutersconnect.com/item/mls-red-bull-new-york-at-dc-united/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAwODUwNDU",
+    "source": "Reuters Connect"
    }
   ],
   "first": "2026-10-15T01:41:38.009881+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "PE": "2026-10-15T01:41:38.009881+00:00",
-   "EC": "2026-10-15T07:06:47.150759+00:00"
+   "EC": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "eduardo-lust": {
@@ -106644,9 +106665,9 @@
   "traffic": "200+",
   "news": [],
   "first": "2026-10-15T01:41:38.009881+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "UY": "2026-10-15T07:06:47.150759+00:00"
+   "UY": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "pobreza": {
@@ -106690,25 +106711,25 @@
   "traffic": "1000+",
   "news": [
    {
+    "title": "Gobierno descarta cortes de luz en Ecuador de siete días a industrias",
+    "url": "https://www.elcomercio.com/actualidad/ecuador/nuevas-medidas-horarios-cortes-de-luz-en-ecuador-industrias-2026/",
+    "source": "El Comercio"
+   },
+   {
     "title": "Empresas de alto y medio consumo de electricidad ya no se desconectarán por siete días consecutivos, dice el Gobierno",
     "url": "https://www.primicias.ec/economia/empresas-cortes-luz-siete-dias-electricidad-ecuador-134934/",
     "source": "Primicias"
    },
    {
-    "title": "Neira rectifica cortes de energía de 7 días para industrias en Ecuador y destituye a funcionario",
-    "url": "https://www.expreso.ec/economia-y-negocios/neira-rectifica-cortes-energia-7-dias-industrias-ecuador-destituye-funcionario-299402.html",
-    "source": "expreso.ec"
-   },
-   {
-    "title": "Gobierno descarta cortes de luz en Ecuador de siete días a industrias",
-    "url": "https://www.elcomercio.com/actualidad/ecuador/nuevas-medidas-horarios-cortes-de-luz-en-ecuador-industrias-2026/",
-    "source": "El Comercio"
+    "title": "Neria asegura que industrias no deberán desconectar por siete días, tal y como se había anunciado",
+    "url": "https://elmercurio.com.ec/nacional/2026/10/14/jose-luis-neira-industrias-energia-desconexion/",
+    "source": "El Mercurio"
    }
   ],
   "first": "2026-10-15T01:41:38.009881+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "EC": "2026-10-15T07:06:47.150759+00:00"
+   "EC": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "boca-juniors-vs-vasco-da-gama": {
@@ -106726,15 +106747,15 @@
     "source": "OneFootball"
    },
    {
-    "title": "Boca Juniors vs Vasco match lineup | Conmebol Sudamericana · 14 Oct 2026",
-    "url": "https://www.ysscores.com/en/lineup/6284186/CA-Boca-Juniors-vs-Clube-de-Regatas-Vasco-da-Gama",
-    "source": "YSscores"
+    "title": "How and Where to Watch Boca vs Vasco da Gama in Copa Sudamericana on beIN SPORTS",
+    "url": "https://www.beinsports.com/en-us/soccer/conmebol-sudamericana/articles/how-and-where-to-watch-boca-vs-vasco-da-gama-in-copa-sudamericana-on-bein-sports-2026-10-13",
+    "source": "beIN SPORTS"
    }
   ],
   "first": "2026-10-15T01:41:38.009881+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "BO": "2026-10-15T07:06:47.150759+00:00"
+   "BO": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "sol-de-america": {
@@ -107368,12 +107389,12 @@
  },
  "atletico-nacional-medellin": {
   "term": "atlético nacional - medellín",
-  "traffic": "200000+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Atlético Nacional vs Independiente Medellín HOY: alineaciones del partido de la Copa Colombia",
-    "url": "https://bolavip.com/futbol-colombia/atletico-nacional-vs-independiente-medellin-hoy-alineaciones-del-partido-de-la-copa-colombia",
-    "source": "Bolavip"
+    "title": "Así fue el partido de James en Nacional vs Medellín por la Copa BetPlay",
+    "url": "https://www.espn.com.ve/futbol/colombia/nota/_/id/17383354/james-nacional-medellin-copa-betplay-asistencia-clasificacion-semifinales",
+    "source": "ESPN Venezuela"
    },
    {
     "title": "¿Por qué no juega Juan Fernando Quintero hoy? La baja del DIM ante Nacional",
@@ -107381,19 +107402,20 @@
     "source": "365Scores"
    },
    {
-    "title": "Eduardo Silva Meluk, director del Inder Medellín entregó el parte actualizado de la cancha del estadio Atanasio Girardot",
-    "url": "https://www.infobae.com/video/deportes/eduardo-silva-meluk-director-del-inder-medellin-entrego-el-parte-actualizado-de-la-cancha-del-estadio-atanasio-girardot/rgM3emTA/",
-    "source": "Infobae"
+    "title": "Lucas: “El juego del primer tiempo nos ayudará a salir campeones”",
+    "url": "https://colombia.as.com/futbol/lucas-el-juego-del-primer-tiempo-nos-ayudara-a-salir-campeones-f202610-n/",
+    "source": "AS Colombia"
    }
   ],
   "first": "2026-10-15T07:06:47.150759+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "AR": "2026-10-15T07:06:47.150759+00:00",
    "CL": "2026-10-15T07:06:47.150759+00:00",
    "CO": "2026-10-15T07:06:47.150759+00:00",
    "PE": "2026-10-15T07:06:47.150759+00:00",
-   "EC": "2026-10-15T07:06:47.150759+00:00"
+   "EC": "2026-10-15T12:46:52.766319+00:00",
+   "VE": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "fallecio-norberto-diprospero": {
@@ -107476,32 +107498,32 @@
  },
  "posiciones-de-inter-miami-contra-new-york-city-football-club": {
   "term": "posiciones de inter miami contra new york city football club",
-  "traffic": "20000+",
+  "traffic": "1000+",
   "news": [
    {
-    "title": "¡Clasificados a los playoffs! Fricio Caicedo y Bruno Caicedo celebran con Inter Miami y Vancouver Whitecaps en la MLS",
-    "url": "https://onefootball.com/es/noticias/clasificados-a-los-playoffs-fricio-caicedo-y-bruno-caicedo-celebran-con-inter-miami-y-vancouver-whitecaps-en-la-mls-43613958",
-    "source": "OneFootball"
+    "title": "Luis Suárez asistió en un golazo que le valió a Inter Miami la clasificación a los playoffs de la MLS Cup",
+    "url": "https://www.elpais.com.uy/ovacion/futbol/luis-suarez-asistio-en-un-golazo-que-le-valio-a-inter-miami-la-clasificacion-a-los-playoffs-de-la-mls-cup",
+    "source": "EL PAÍS Uruguay"
    },
    {
-    "title": "Berterame respira con Inter Miami: “El gol fue un alivio”",
-    "url": "https://as.com/us/videos/berterame-respira-el-gol-fue-un-alivio-f202610-v/",
-    "source": "Diario AS"
+    "title": "Inter Miami festejó y sacó pasaje a los playoffs, con cinco partidos para el final de la etapa regular",
+    "url": "https://www.lanacion.com.ar/deportes/futbol/inter-miami-festejo-y-saco-pasaje-a-los-playoffs-con-cinco-partidos-para-el-final-de-la-etapa-nid15102026/",
+    "source": "La Nación"
    },
    {
-    "title": "Alineación de Inter Miami con Messi: El once titular en la MLS",
-    "url": "https://www.365scores.com/es/news/alineacion-inter-miami-titulares-messi/",
-    "source": "365Scores"
+    "title": "Asistencia, sociedad con De Paul y varios remates al arco: el partido de Messi en el triunfo del Inter Miami ante New York City FC",
+    "url": "https://www.infobae.com/deportes/2026/10/15/asistencia-sociedad-con-de-paul-y-varios-remates-al-arco-el-partido-de-messi-en-el-triunfo-del-inter-miami-ante-new-york-city-fc/",
+    "source": "Infobae"
    }
   ],
   "first": "2026-10-15T07:06:47.150759+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
    "AR": "2026-10-15T07:06:47.150759+00:00",
    "CL": "2026-10-15T07:06:47.150759+00:00",
    "CO": "2026-10-15T07:06:47.150759+00:00",
    "PE": "2026-10-15T07:06:47.150759+00:00",
-   "UY": "2026-10-15T07:06:47.150759+00:00",
+   "UY": "2026-10-15T12:46:52.766319+00:00",
    "VE": "2026-10-15T07:06:47.150759+00:00",
    "BO": "2026-10-15T07:06:47.150759+00:00",
    "PY": "2026-10-15T07:06:47.150759+00:00"
@@ -107863,28 +107885,28 @@
  },
  "san-jose-del-palmar": {
   "term": "san josé del palmar",
-  "traffic": "100+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Golpe al ELN: Ejército captura al Tuerto, presunto integrante de la comisión señalada de dinamizar ataques con drones en Chocó",
-    "url": "https://ejercito.mil.co/golpe-al-eln-ejercito-captura-al-tuerto-presunto-integrante-de-la-comision-senalada-de-dinamizar-ataques-con-drones-en-choco",
+    "title": "COMUNICADO DE PRENSA",
+    "url": "https://ejercito.mil.co/comunicado-de-prensa-644403",
     "source": "Ejército Nacional de Colombia"
    },
    {
-    "title": "Ataque con drones cargados con explosivos atribuido al Eln deja nueve militares heridos en Chocó",
-    "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-drones-cargados-con-explosivos-atribuido-al-eln-deja-nueve-militares-heridos-en-choco-3593609",
+    "title": "Gobernadora del Chocó, Nubia Carolina Córdoba, se pronunció tras ataque con enjambre de drones contra base militar en San José del Palmar: 'Asedio'",
+    "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-choco-nubia-carolina-cordoba-se-pronuncio-tras-ataque-con-enjambre-de-drones-contra-base-militar-en-san-jose-del-palmar-asedio-3593686",
     "source": "El Tiempo"
    },
    {
-    "title": "Ataque del ELN contra base militar en San José del Palmar, Chocó, deja al menos 9 militares heridos",
-    "url": "https://caracol.com.co/2026/10/14/ataque-del-eln-contra-base-militar-en-san-jose-del-palmar-choco-deja-al-menos-9-militares-heridos/",
-    "source": "Caracol Radio"
+    "title": "Llamamos a proteger a la población civil tras ataque con drones que dejó nueve militares heridos en San José del Palmar, Chocó",
+    "url": "https://www.defensoria.gov.co/web/guest/w/llamamos-a-proteger-a-la-poblacion-civil-tras-ataque-con-drones-que-dejo-nueve-militares-heridos-en-san-jose-del-palmar-choco?redirect=%2F",
+    "source": "Defensoría del Pueblo de Colombia"
    }
   ],
   "first": "2026-10-15T07:06:47.150759+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "CO": "2026-10-15T07:06:47.150759+00:00"
+   "CO": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "don-omar-concierto": {
@@ -108132,20 +108154,20 @@
     "source": "eltelegrafo.com.ec"
    },
    {
-    "title": "¡La revancha llegó! Ecuador perdió con el bolón y ahora ganó con Shyare Andrade",
-    "url": "https://www.extra.ec/noticia/farandula/revancha-llego-ecuador-perdio-bolon-gano-shyare-andrade-164423.html",
-    "source": "Diario Extra"
+    "title": "Bellavista, el barrio de Portoviejo que vio crecer a Shyare Andrade, primera finalista del Miss Grand International",
+    "url": "https://www.eluniverso.com/comunidad/ecuador/shyare-andrade-el-barrio-de-portoviejo-donde-crecio-nota/",
+    "source": "El Universo"
    },
    {
-    "title": "¿Cuáles son las actividades programadas de Shyare Andrade tras su regreso de Tailandia?",
-    "url": "https://www.expreso.ec/entretenimiento/son-actividades-programadas-shyare-andrade-regreso-tailandia-299394.html",
-    "source": "expreso.ec"
+    "title": "(VIDEO) ¡Ecuador avanzó en el Miss Grand International! Shyare Andrade gana el Country’s Power of the Year y entra al Top 25",
+    "url": "https://studiofutbol.com.ec/2026/10/10/video-ecuador-avanzo-en-el-miss-grand-international-shyare-andrade-gana-el-countrys-power-of-the-year-y-entra-al-top-25/",
+    "source": "Studiofutbol"
    }
   ],
   "first": "2026-10-15T07:06:47.150759+00:00",
-  "seen": "2026-10-15T07:06:47.150759+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
   "geos": {
-   "EC": "2026-10-15T07:06:47.150759+00:00"
+   "EC": "2026-10-15T12:46:52.766319+00:00"
   }
  },
  "bono-ingreso-integral": {
@@ -108728,6 +108750,1421 @@
   "seen": "2026-10-15T07:06:47.150759+00:00",
   "geos": {
    "CA": "2026-10-15T07:06:47.150759+00:00"
+  }
+ },
+ "lali-esposito": {
+  "term": "lali espósito",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Lali Espósito se molestó con un comentario en redes que la cuestionó por sumarse a un proyecto con IA y salió con firmeza a responderle",
+    "url": "https://www.clarin.com/fama/lali-esposito-molesto-comentario-redes-cuestiono-sumarse-proyecto-ia-salio-firmeza-responderle_0_uNQRWSegVH.html",
+    "source": "Clarin.com"
+   },
+   {
+    "title": "Lali se une a Gustavo Santaolalla y Bajofondo en \"Con vos\": cuándo se estrena la colaboración",
+    "url": "https://www.cronica.com.ar/elcanaldelamusica/noticias/lali-se-une-a-gustavo-santaolalla-y-bajofondo-en-con-vos-cuando-se-estrena-la-colaboracion/",
+    "source": "Crónica"
+   },
+   {
+    "title": "La respuesta de Lali Espósito a una fan que cuestionó su nueva canción: “Si le tenés un mínimo de respeto a los artistas”",
+    "url": "https://www.infobae.com/teleshow/2026/10/14/la-respuesta-de-lali-esposito-a-una-fan-que-cuestiono-su-nueva-cancion-si-le-tenes-un-minimo-de-respeto-a-los-artistas/",
+    "source": "Infobae"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "AR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "carlos-bilardo": {
+  "term": "carlos bilardo",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "El día que Bilardo hizo un casting entre pescadores para encontrar al 9 de Estudiantes: “500.000 dólares para el que haga ocho goles”",
+    "url": "https://www.infobae.com/deportes/2026/10/15/el-dia-que-bilardo-hizo-un-casting-entre-pescadores-para-encontrar-al-9-de-estudiantes-500000-dolares-para-el-que-haga-ocho-goles/",
+    "source": "Infobae"
+   },
+   {
+    "title": "Las revelaciones del histórico médico de Locomotora Castro sobre su salud: “No puedo creer lo que pasó”",
+    "url": "https://www.infobae.com/deportes/2026/10/15/las-revelaciones-del-historico-medico-de-locomotora-castro-sobre-su-salud-no-puedo-creer-lo-que-paso/",
+    "source": "Infobae"
+   },
+   {
+    "title": "De qué murió el Roña Castro: revelación de la autopsia del campeón del boxeo y rey del reality",
+    "url": "https://www.eldia.com/espectaculos/de-que-murio-el-rona-castro-revelacion-de-la-autopsia-del-campeon-del-boxeo-y-rey-del-reality-espectaculos_1792059660",
+    "source": "Diario El Día de La Plata"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "AR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "gaspi": {
+  "term": "gaspi",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "A cuatro meses de la muerte de Gaspi, su madre compartió un desgarrador mensaje: \"El destino cruel\"",
+    "url": "https://exitoina.perfil.com/noticias/destacada/tras-muerte-gaspi-su-madre-compartio-desgarrador-mensaje-el-destino-cruel.phtml",
+    "source": "Exitoina"
+   },
+   {
+    "title": "La conmovedora publicación de la mamá de Gaspi a cuatro meses de su muerte",
+    "url": "https://www.minutouno.com/espectaculos/la-conmovedora-publicacion-la-mama-gaspi-cuatro-meses-su-muerte-n6333939",
+    "source": "MinutoUno"
+   },
+   {
+    "title": "\"Sos mi pedazo de estrella\": el desgarrador mensaje de la mamá de Gaspi a cuatro meses de su muerte en Brasil",
+    "url": "https://www.mitelefe.com/entretenimientos/espectaculos/sos-mi-pedazo-de-estrella-el-desgarrador-mensaje-de-la-mama-de-gaspi-a-cuatro-meses-de-su-muerte-en-brasil-pid2569513",
+    "source": "Telefe"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "AR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "marco-trungelliti": {
+  "term": "marco trungelliti",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Trungelliti vs Karol • Maia 2026",
+    "url": "https://en.tennistemple.com/match/trungelliti-karol-maia-2026/9485893/",
+    "source": "TennisTemple"
+   },
+   {
+    "title": "Marco Trungelliti avanzó a cuartos de final en el Challenger de Maia",
+    "url": "https://deportv.gob.ar/tenis/marco-trungelliti-avanzo-cuartos-final-challenger-maia-nid:17979",
+    "source": "DeporTV"
+   },
+   {
+    "title": "Trungelliti remontó ante Monteiro y avanzó a los octavos de final en Portugal",
+    "url": "https://infodelestero.com/2026/10/14/trungelliti-remonto-ante-monteiro-y-avanzo-a-los-octavos-de-final-en-portugal",
+    "source": "Info del Estero"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "AR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "norberto-di-prospero": {
+  "term": "norberto di próspero",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Murió Norberto Di Próspero, el histórico líder del gremio de los trabajadores del Congreso",
+    "url": "https://www.lanacion.com.ar/politica/murio-norberto-di-prospero-el-historico-lider-del-gremio-de-los-trabajadores-del-congreso-nid15102026/",
+    "source": "La Nación"
+   },
+   {
+    "title": "Murió Norberto Di Próspero, histórico secretario general de APL y referente del sindicalismo legislativo",
+    "url": "https://www.parlamentario.com/2026/10/14/murio-norberto-di-prospero-historico-secretario-general-de-apl-y-referente-del-sindicalismo-legislativo/",
+    "source": "Parlamentario"
+   },
+   {
+    "title": "La muerte que golpea al Congreso antes de la sesión por el DNU 70/23 de Milei",
+    "url": "https://www.eldestapeweb.com/politica/muerte-golpea-congreso-antes-sesion-dnu-70-23-milei-202610142243",
+    "source": "El Destape"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "AR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "15-de-octubre": {
+  "term": "15 de octubre",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Dólar blue, dólar hoy: a cuánto cotizan el jueves 15 de octubre de 2026",
+    "url": "https://www.pagina12.com.ar/2026/10/15/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-jueves-15-de-octubre-de-2026/",
+    "source": "Página|12"
+   },
+   {
+    "title": "Dólar hoy: a cuánto cotizan el oficial, el blue, el mayorista, el MEP, el CCL y el Cripto este jueves 15 de octubre",
+    "url": "https://tn.com.ar/economia/2026/10/15/dolar-a-cuanto-cotizan-el-oficial-y-las-otras-opciones-cambiarias-este-jueves-15-de-octubre/",
+    "source": "TN"
+   },
+   {
+    "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo, minuto a minuto, este 15 de octubre",
+    "url": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-15-octubre_0_vbCHi8HPT3.html",
+    "source": "Clarin.com"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "AR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "paul-aron": {
+  "term": "paul aron",
+  "traffic": "2000+",
+  "news": [
+   {
+    "title": "Un compañero de Franco Colapinto en Alpine en la Fórmula 1 podría perder su licencia de conducir: el insólito motivo",
+    "url": "https://www.infobae.com/deportes/2026/10/15/el-companero-de-colapinto-en-alpine-en-la-f1-podria-perder-su-licencia-de-conducir-en-estonia-el-insolito-motivo/",
+    "source": "Infobae"
+   },
+   {
+    "title": "Paul Aron en problemas: podría perder su licencia de conducir por no asistir el servicio militar",
+    "url": "https://www.carburando.com/notas/paul-aron-en-problemas-podria-perder-su-licencia-de-conducir-por-no-asistir-el-servicio-militar",
+    "source": "Carburando"
+   },
+   {
+    "title": "El compañero de Colapinto en Alpine que podría perder su licencia de conducir por una insólita razón",
+    "url": "https://www.tycsports.com/automovilismo/companero-colapinto-alpine-podria-perder-licencia-conducir-insolita-razon--id766309.html",
+    "source": "TyC Sports"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "AR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "evento-de-el-nino-de-2026-2027": {
+  "term": "evento de el niño de 2026-2027",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "El Niño myths busted",
+    "url": "https://www.cnn.com/2026/10/14/climate/el-nino-myths",
+    "source": "CNN"
+   },
+   {
+    "title": "El Niño, already near/at record intensity, will further strengthen to historic level and likely bring major California & SW U.S. winter impacts",
+    "url": "https://weatherwest.com/archives/44119",
+    "source": "Weather West"
+   },
+   {
+    "title": "Super El Niño breaks sea temperature record weeks ahead of expected peak",
+    "url": "https://www.bbc.com/weather/articles/cmlye0d7q7zno",
+    "source": "BBC"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "AR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "bling": {
+  "term": "bling",
+  "traffic": "2000+",
+  "news": [
+   {
+    "title": "Selena Gomez Shines in Red Prada Gown at Rare Impact Fund Benefit",
+    "url": "https://people.com/selena-gomez-shines-in-red-prada-gown-at-rare-impact-fund-benefit-12174671",
+    "source": "People.com"
+   },
+   {
+    "title": "Katy Perry Says ‘Mental Health Matters’ at Selena Gomez’s Rare Impact Gala",
+    "url": "https://www.yahoo.com/entertainment/celebrity/articles/katy-perry-says-mental-health-114316399.html",
+    "source": "Yahoo"
+   },
+   {
+    "title": "Selena Gomez Dazzles in Red at Rare Impact Fund Benefit Event 2026 in L.A.",
+    "url": "https://www.justjared.com/2026/10/15/selena-gomez-dazzles-in-red-at-rare-impact-fund-benefit-event-2026-in-l-a/",
+    "source": "Just Jared"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "BR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "thiago-lacerda": {
+  "term": "thiago lacerda",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Gabriel descobre que vilão de Por Você tem ficha suja e rouba até o hospital",
+    "url": "https://noticiasdatv.uol.com.br/noticia/novelas/gabriel-descobre-que-vilao-de-por-voce-tem-ficha-suja-e-rouba-ate-o-hospital-157979",
+    "source": "Notícias da TV"
+   },
+   {
+    "title": "Em Por Você , Gabriel e Bela descobrem suspeitas de golpe de Junqueira no hospital",
+    "url": "https://www.estrelando.com.br/nota/2026/10/16/por-voce-gabriel-e-bela-descobrem-suspeitas-de-golpe-de-junqueira-no-hospital-335597",
+    "source": "Estrelando"
+   },
+   {
+    "title": "Thiago Lacerda aposta em cultivo pouco comum em fazenda de 3 mil m² e chega a produto que muita gente conhece",
+    "url": "https://agenciagbc.com/2026/10/12/thiago-lacerda-transforma-fazenda-de-3-mil-m%C2%B2-em-projeto-inusitado-comeca-a-cultivar-lupulo-e-surpreende-com-cerveja-artesanal/",
+    "source": "Agência GBC"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "BR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "andre-mendonca": {
+  "term": "andré mendonça",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Marcela Mattos: Ação de Flávio contra perfis expõe contradição bolsonarista",
+    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/marcela-mattos-flavio-e-bolsonarismo-caem-em-contradicao-com-investida-juridica-contra-perfis.ghtm",
+    "source": "UOL Notícias"
+   },
+   {
+    "title": "Flávio pede que TSE investigue sindicatos e casse chapa de Lula",
+    "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-pede-que-tse-investigue-sindicatos-e-casse-chapa-de-lula/",
+    "source": "Poder360"
+   },
+   {
+    "title": "Flávio Bolsonaro ataca e decisões do TSE sobre denúncias do funcionalismo público preocupam",
+    "url": "https://sintrajud.org.br/conteudo/16398/flavio-bolsonaro-ataca-e-decisoes-do-tse-sobre-denuncias-do-funcionalismo-publico-preocupam",
+    "source": "Sintrajud"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "BR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "dia-do-comercio": {
+  "term": "dia do comércio",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Comércio de São Luís fecha na segunda-feira pelo Dia do Comerciário",
+    "url": "https://g1.globo.com/ma/maranhao/videos-bom-dia-mirante/video/comercio-de-sao-luis-fecha-na-segunda-feira-pelo-dia-do-comerciario-15056429.ghtml",
+    "source": "G1"
+   },
+   {
+    "title": "Comércio não abrirá com funcionários no dia 19 de outubro",
+    "url": "https://diariodepetropolis.com.br/integra/comercio-nao-abrira-com-funcionarios-no-dia-19-de-outubro-50505",
+    "source": "Diário de Petrópolis"
+   },
+   {
+    "title": "Lojas de rua e de shopping fecham em São Luís na segunda-feira (19), pelo Dia do Comerciário",
+    "url": "https://imirante.com/noticias/sao-luis/2026/10/13/lojas-rua-shopping-fecham-luis-segunda-feira-19-dia-comerciario",
+    "source": "Imirante.com"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "BR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "osasco-voleibol-clube": {
+  "term": "osasco voleibol clube",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Rui Moreira projeta Supercopa para o Praia e elogia jogadora do rival Osasco: \"Nível muito alto\"",
+    "url": "https://ge.globo.com/mg/triangulo-mineiro/volei/noticia/2026/10/14/rui-moreira-projeta-supercopa-para-o-praia-e-elogia-jogadora-do-rival-osasco-nivel-muito-alto.ghtml",
+    "source": "ge"
+   },
+   {
+    "title": "Praia Clube x Osasco na Supercopa Feminina de Vôlei 2026: horário e onde assistir",
+    "url": "https://www.olympics.com/pt/noticias/supercopa-feminina-volei-2026-praia-clube-osasco-horario-onde-assistir",
+    "source": "Olympics"
+   },
+   {
+    "title": "Praia x Osasco na final da Supercopa Feminina de Vôlei: horário e onde assistir",
+    "url": "https://noataque.com.br/volei/noticia/2026/10/15/praia-x-osasco-na-final-da-supercopa-feminina-de-volei-horario-e-onde-assistir/",
+    "source": "No Ataque"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "BR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "leandro-damiao": {
+  "term": "leandro damião",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Leandro Damião estreia no amador de Campinas com dois gols e uma assistência",
+    "url": "https://ge.globo.com/sp/campinas-e-regiao/historias-da-varzea/noticia/2026/10/13/leandro-damiao-estreia-no-amador-de-campinas-com-dois-gols-e-uma-assistencia.ghtml",
+    "source": "ge"
+   },
+   {
+    "title": "Campeão da Libertadores pelo Inter estreia com gols em nova equipe na várzea",
+    "url": "https://gauchazh.clicrbs.com.br/esportes/inter/noticia/2026/10/campeao-da-libertadores-pelo-inter-estreia-com-gols-em-nova-equipe-na-varzea-cmv7dyx6d00qr014lo8206jmm.html",
+    "source": "GZH"
+   },
+   {
+    "title": "Lembra dele? Damião estreia na várzea de Campinas com 2 gols e assistência",
+    "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/10/14/leandro-damiao-varzea-campinas.ghtm",
+    "source": "UOL"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "BR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "pesquisa-palver": {
+  "term": "pesquisa palver",
+  "traffic": "50000+",
+  "news": [
+   {
+    "title": "Quaest, 2º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião",
+    "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/quaest-presidente-14-outubro-recortes.ghtml",
+    "source": "G1"
+   },
+   {
+    "title": "Ibovespa Futuro cai com foco em pesquisas eleitorais e aprovação do fim da 6×1",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-foco-em-pesquisas-eleitorais-e-aprovacao-do-fim-da-6x1/",
+    "source": "InfoMoney"
+   },
+   {
+    "title": "Josias de Souza: Com a jornada 5x2, Lula impõe a Flávio Bolsonaro uma escala 7x0",
+    "url": "https://noticias.uol.com.br/colunas/josias-de-souza/2026/10/15/com-a-jornada-5x2-lula-impoe-a-flavio-bolsonaro-uma-escala-7x0.htm",
+    "source": "UOL Notícias"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "BR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "ipva-detran-go": {
+  "term": "ipva detran go",
+  "traffic": "500+",
+  "news": [],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "BR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "caixa-corinthians": {
+  "term": "caixa corinthians",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Corinthians vai vender Parque São Jorge para pagar arena? Colunistas opinam",
+    "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/10/13/corinthians-pode-vender-o-parque-sao-jorge-para-pagar-a-arena-colunistas-debatem.ghtm",
+    "source": "UOL"
+   },
+   {
+    "title": "Post de JOSÉ no fórum",
+    "url": "https://www.meutimao.com.br/post-no-forum/25571245/",
+    "source": "www.meutimao.com.br"
+   },
+   {
+    "title": "Caixa e Corinthians estão a detalhes de fechar acordo de 640 milhões, que inclui megaagência no estádio e naming rights",
+    "url": "https://www.terra.com.br/esportes/corinthians/caixa-e-corinthians-estao-a-detalhes-de-fechar-acordo-de-640-milhoes-que-inclui-megaagencia-no-estadio-e-naming-rights,6761384141be4872542ee38d4658c47cy2li6eql.html",
+    "source": "Terra"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "BR": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "mineduc": {
+  "term": "mineduc",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Dos universidades, un instituto, doce colegios y nueve jardines: el barrio educacional golpeado y confundido por el aluvión",
+    "url": "https://www.latercera.com/nacional/noticia/dos-universidades-un-instituto-doce-colegios-y-nueve-jardines-el-barrio-educacional-golpeado-y-confundido-por-el-aluvion/",
+    "source": "La Tercera"
+   },
+   {
+    "title": "Ñuñoa, Providencia y Las Condes anuncian retorno a clases en la mayoría de sus establecimientos educacionales",
+    "url": "https://www.emol.com/noticias/Nacional/2026/10/14/1214158/nunoa-providencia-retorno-clases-lluvias.html",
+    "source": "Emol"
+   },
+   {
+    "title": "Anuncian suspensión de clases en Providencia tras intensas lluvias e inundaciones",
+    "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/13/anuncian-suspension-de-clases-en-providencia-tras-intensas-lluvias-e-inundaciones.shtml",
+    "source": "BioBioChile"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CL": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "federacion-de-futbol-de-chile": {
+  "term": "federación de fútbol de chile",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Exigencia de la FIFA causa un terremoto en el fútbol chileno y aseguran que reunión terminó con \"escándalo\"",
+    "url": "https://www.emol.com/noticias/Deportes/2026/10/15/1214172/anfp-separacion-fifa-uauy-perez.html",
+    "source": "Emol"
+   },
+   {
+    "title": "Reunión entre FIFA y ANFP terminó en bochorno: dirigentes enfrentados y Pablo Milad ’aferrado’ a cargo",
+    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/15/reunion-fifa-y-anfp-termina-en-despelote-y-milad-al-mando-de-federacion.shtml",
+    "source": "BioBioChile"
+   },
+   {
+    "title": "¿Quiénes son los enviados especiales de la FIFA que llegan a Chile por la ley SADP?",
+    "url": "https://www.latercera.com/el-deportivo/noticia/quienes-son-los-enviados-especiales-de-la-fifa-que-llegan-a-chile-por-la-ley-sadp/",
+    "source": "La Tercera"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CL": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "fondos-afp": {
+  "term": "fondos afp",
+  "traffic": "5000+",
+  "news": [
+   {
+    "title": "AFPs y pérdidas en el Fondo E: \"Esto no es una apuesta, es una estrategia de largo plazo\"",
+    "url": "https://www.emol.com/noticias/Economia/2026/10/14/1214160/afp-perdidas-fondoe-estrategia-plazo.html",
+    "source": "Emol"
+   },
+   {
+    "title": "“Con mi plata no”: las AFP perdieron US$ 7.700 millones apostando en Wall Street",
+    "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2026/10/15/con-mi-plata-no-las-afp-perdieron-us7-700-millones-apostando-en-wall-street/",
+    "source": "El Mostrador"
+   },
+   {
+    "title": "La costosa \"apuesta\" de los fondos chilenos de pensiones que deja miles de millones en pérdidas",
+    "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/10/14/la-costosa-apuesta-de-los-fondos-chilenos-de-pensiones-que-deja-miles-de-millones-en-perdidas.shtml",
+    "source": "BioBioChile"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CL": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "san-pedro-de-atacama": {
+  "term": "san pedro de atacama",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Rescatan a medio centenar de turistas atrapados en la alta cordillera en San Pedro de Atacama",
+    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/10/15/rescatan-a-medio-centenar-de-turistas-atrapados-en-la-alta-cordillera-en-san-pedro-de-atacama.shtml",
+    "source": "BioBioChile"
+   },
+   {
+    "title": "Nevadas dejan a 60 personas aisladas en San Pedro de Atacama: fueron trasladadas a complejo fronterizo",
+    "url": "https://www.adnradio.cl/2026/10/15/nevadas-dejan-a-60-personas-aisladas-en-san-pedro-de-atacama-fueron-trasladadas-a-complejo-fronterizo/",
+    "source": "ADN Radio"
+   },
+   {
+    "title": "Carabineros y Ejército rescatan a pasajeros de un bus y 20 motociclistas varados en San Pedro de Atacama por hielo y fuertes vientos",
+    "url": "https://www.cnnchile.com/pais/carabineros-y-ejercito-rescatan-a-pasajeros-de-un-bus-y-20-motociclistas-varados-en-san-pedro-de-atacama-por-hielo-y-fuertes-vientos/",
+    "source": "CNN Chile"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CL": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "loteria-de-manizales-14-de-octubre-2026": {
+  "term": "loteria de manizales 14 de octubre 2026",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Lotería del Meta del miércoles 14 de octubre de 2026: conozca el resultado, número ganador y premios del último sorteo",
+    "url": "https://www.eltiempo.com/economia/finanzas-personales/loteria-del-meta-del-miercoles-14-de-octubre-de-2026-conozca-el-resultado-numero-ganador-y-premios-del-ultimo-sorteo-3593653",
+    "source": "El Tiempo"
+   },
+   {
+    "title": "Lotería del Valle: resultados del sorteo hoy miércoles 14 de octubre de 2026",
+    "url": "https://www.bluradio.com/economia/juegos-de-azar/loteria-del-valle-resultados-del-sorteo-hoy-miercoles-14-de-octubre-de-2026-so35",
+    "source": "Blu Radio"
+   },
+   {
+    "title": "Lotería de Manizales: resultados de hoy 14 de octubre de 2026, número ganador y premio mayor",
+    "url": "https://www.noticiascaracol.com/economia/loteria-de-manizales-14-de-octubre-de-2026-numero-ganador-y-premio-mayor-so35",
+    "source": "Noticias Caracol"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CO": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "movistar": {
+  "term": "movistar",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "'Invertiremos $8,5 billones en Colombia': Marcelo Benítez, CEO de Millicom Tigo; este es el plan estratégico de la compañía",
+    "url": "https://www.eltiempo.com/tecnosfera/invertiremos-8-5-billones-en-colombia-marcelo-benitez-ceo-de-millicom-tigo-tambien-se-refirio-al-duopolio-3593618",
+    "source": "El Tiempo"
+   },
+   {
+    "title": "Giro en las telecomunicaciones en Colombia: Tigo absorbe a Movistar y Claro responde",
+    "url": "https://360radio.com.co/giro-en-las-telecomunicaciones-en-colombia-tigo-absorbe-a-movistar-y-claro-responde/234973/",
+    "source": "360 Radio"
+   },
+   {
+    "title": "Señal de lealtad",
+    "url": "https://www.portafolio.co/opinion/editorial/senal-de-lealtad-504483",
+    "source": "Portafolio.co"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CO": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "funza": {
+  "term": "funza",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Emergencia por un vendaval en Funza: más de 300 viviendas destruidas y graves daños en la Sabana de Cundinamarca",
+    "url": "https://www.eltiempo.com/bogota/emergencia-por-un-vendaval-en-funza-mas-de-300-viviendas-destruidas-y-graves-danos-en-la-sabana-de-cundinamarca-3593660",
+    "source": "El Tiempo"
+   },
+   {
+    "title": "Vendaval en Funza tumbó postes, árboles y afectó varias viviendas",
+    "url": "https://www.elnuevosiglo.com.co/nacion/vendaval-en-funza-tumbo-postes-arboles-y-afecto-varias-viviendas",
+    "source": "El Nuevo Siglo"
+   },
+   {
+    "title": "[Video] Emergencia cerca de Bogotá por fuertes vientos que sacaron volando tejados y causaron destrucción",
+    "url": "https://www.pulzo.com/nacion/bogota/vientos-funza-hoy-videos-emergencia-tejados-volando-cerca-bogota-PP5330259",
+    "source": "Pulzo"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CO": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "suboficial": {
+  "term": "suboficial",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Presidenta Fujimori participa en ceremonia de ascenso a policías por acción distinguida",
+    "url": "https://andina.pe/agencia/noticia-presidenta-fujimori-participa-ceremonia-ascenso-a-policias-accion-distinguida-1095934.aspx",
+    "source": "Agencia Andina"
+   },
+   {
+    "title": "Keiko Fujimori ratifica su respaldo al ministro César Astudillo y al jefe de la PNP Fredy López",
+    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-ratifica-su-respaldo-al-ministro-cesar-astudillo-y-al-jefe-de-la-pnp-ultimas-noticia/",
+    "source": "El Comercio Perú"
+   },
+   {
+    "title": "Keiko Fujimori asciende a 5 suboficiales por acción distinguida y anuncia comisión de alto nivel contra criminalidad",
+    "url": "https://www.atv.pe/noticia/keiko-fujimori-comision-seguridad-ciudadana/",
+    "source": "ATV.pe"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "PE": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "pozo-millonario": {
+  "term": "pozo millonario",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Reventó La Tinka: ganador que compró su boleto en Lima se llevó el pozo de más de 32 millones de soles",
+    "url": "https://www.infobae.com/peru/2026/10/12/la-tinka-del-domingo-11-de-octubre-revento-el-pozo-millonario-con-mas-de-32-millones-de-soles-con-ganador-en-lima/",
+    "source": "Infobae"
+   },
+   {
+    "title": "Resultados de La Tinka: mira aquí el sorteo y jugada del miércoles 14 de octubre",
+    "url": "https://elcomercio.pe/respuestas/loterias/resultados-de-la-tinka-hoy-14-de-octubre-en-vivo-ultimo-sorteo-del-miercoles-numeros-y-jugada-ganadora-pozo-millonario-resultado-si-o-si-boliyapa-intralot-lbposting-noticia/",
+    "source": "El Comercio Perú"
+   },
+   {
+    "title": "Resultados de La Tinka del miércoles 14 de octubre: números ganadores, premios del Pozo Millonario, boliyapa, S/50.000 y más",
+    "url": "https://larepublica.pe/sociedad/2026/10/14/resultados-de-la-tinka-del-miercoles-14-de-octubre-numeros-ganadores-premios-del-pozo-millonario-boliyapa-s50000-y-mas-1090152",
+    "source": "La República"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "PE": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "seleccion-de-futbol-del-peru": {
+  "term": "selección de fútbol del perú",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Amistosos ante Bolivia y Honduras: ¿Por qué decidieron esos rivales y cuáles son los planes de Menezes para su debut en Cusco?",
+    "url": "https://elcomercio.pe/deporte-total/futbol-peruano/seleccion-peruana-amistosos-ante-bolivia-y-honduras-por-que-decidieron-esos-rivales-y-cuales-son-los-planes-de-mano-menezes-para-su-debut-en-cusco-noticia/",
+    "source": "El Comercio Perú"
+   },
+   {
+    "title": "Se reveló la verdadera postura de los jugadores de la selección peruana sobre jugar en la altura: “No hay convicción, les incomoda”",
+    "url": "https://www.infobae.com/peru/deportes/2026/10/14/se-revelo-la-verdadera-postura-de-los-jugadores-de-la-seleccion-peruana-sobre-jugar-en-la-altura-no-hay-conviccion-les-incomoda/",
+    "source": "Infobae"
+   },
+   {
+    "title": "Selección peruana definió sus dos amistosos para la próxima fecha FIFA: rivales, días y sedes",
+    "url": "https://libero.pe/futbol-peruano/seleccion-peruana/2026/10/14/seleccion-peruana-definio-sus-dos-amistosos-proxima-fecha-fifa-rivales-dias-sedes-669564",
+    "source": "Diario Líbero"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "PE": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "nolberto-solano": {
+  "term": "nolberto solano",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Nolberto Solano cree que alejamiento de Renato Tapia con Perú va más allá de razones futbolísticas: “No hay que ser sabio para ver qué está pasando”",
+    "url": "https://www.infobae.com/peru/deportes/2026/10/14/nolberto-solano-cree-que-alejamiento-de-renato-tapia-con-peru-va-mas-alla-de-razones-futbolisticas-no-hay-que-ser-sabio-para-ver-que-esta-pasando/",
+    "source": "Infobae"
+   },
+   {
+    "title": "Nolberto Solano sobre exclusión de Renato Tapia de la selección peruana: \"No hay que ser sabio para ver qué está pasando\"",
+    "url": "https://willax.pe/deportes/nolberto-solano-renato-tapia-seleccion-peruana-exclusion",
+    "source": "Willax"
+   },
+   {
+    "title": "Solano lanzó mensaje por ausencia de Tapia en Perú: \"No hay que ser sabio para ver qué está pasando\"",
+    "url": "https://libero.pe/futbol-peruano/seleccion-peruana/2026/10/14/nolberto-solano-lanzo-mensaje-ausencia-de-renato-tapia-en-peru-hay-ser-sabio-ver-pasando-282884",
+    "source": "Diario Líbero"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "PE": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "viernes": {
+  "term": "viernes",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "\"Cuando el camino mata\", el thriller jacobeo del leonés Pepe Gómez",
+    "url": "https://cadenaser.com/castillayleon/2026/10/13/cuando-el-camino-mata-el-thriller-jacobeo-del-leones-pepe-gomez-radio-leon/",
+    "source": "Cadena SER"
+   },
+   {
+    "title": "Pepe Gómez Sandes presenta «Cuando el camino mata» este viernes en la Librería Pastor",
+    "url": "https://ahoraleon.com/cuando-camino-mata-pepe-gomez-sandes/",
+    "source": "Ahora León"
+   },
+   {
+    "title": "Pepe Gómez Sandes presenta este viernes en León su primera novela, 'Cuando el camino mata'",
+    "url": "https://ileon.eldiario.es/cultura/pepe-gomez-sandes-presenta-viernes-leon-primera-novela-camino-mata_1_13588035.html",
+    "source": "ILEON"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "UY": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "el-nino-uruguay": {
+  "term": "el niño uruguay",
+  "traffic": "10000+",
+  "news": [
+   {
+    "title": "El Niño ya llegó y será muy fuerte: Inumet anticipa más lluvias y revela hasta cuándo se extenderá el fenómeno",
+    "url": "https://www.elobservador.com.uy/nacional/el-nino-ya-llego-y-sera-muy-fuerte-inumet-anticipa-mas-lluvias-y-revela-cuando-se-extendera-el-fenomeno-n6060512",
+    "source": "El Observador"
+   },
+   {
+    "title": "Inumet confirma El Niño en Uruguay y anuncia lluvias extremas: cuándo y dónde comenzará",
+    "url": "https://www.montevideo.com.uy/Noticias/Inumet-confirma-El-Nino-en-Uruguay-y-anuncia-lluvias-extremas-cuando-y-donde-comenzara-uc978592",
+    "source": "Montevideo Portal"
+   },
+   {
+    "title": "Se presentó la campaña de comunicación para prepararse ante el fenómeno de El Niño",
+    "url": "https://montevideo.gub.uy/noticias/se-presento-la-campana-de-comunicacion-para-prepararse-ante-el-fenomeno-de-el-nino",
+    "source": "Intendencia de Montevideo"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "UY": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "telemundo-12": {
+  "term": "telemundo 12",
+  "traffic": "2000+",
+  "news": [
+   {
+    "title": "Un hombre que circulaba en monopatín está grave tras no respetar un cartel de PARE y ser embestido por un auto en La Unión",
+    "url": "https://www.teledoce.com/telemundo/policiales/un-hombre-que-circulaba-en-monopatin-esta-grave-tras-no-respetar-un-cartel-de-pare-y-ser-embestido-por-un-auto-en-la-union/",
+    "source": "Teledoce.com"
+   },
+   {
+    "title": "Un monopatín eléctrico, sin freno, no respetó cartel de pare en La Unión y fue atropellado",
+    "url": "https://www.montevideo.com.uy/Noticias/Un-monopatin-electrico-sin-freno-no-respeto-cartel-de-pare-en-La-Union-y-fue-atropellado-uc978568",
+    "source": "Montevideo Portal"
+   },
+   {
+    "title": "Un hombre en monopatín fue atropellado en La Unión y está internado en estado grave",
+    "url": "https://www.telenoche.com.uy/sociedad/un-hombre-monopatin-fue-atropellado-la-union-y-esta-internado-estado-grave-n5406010",
+    "source": "Telenoche"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "UY": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "precio-del-dolar-bcv-hoy": {
+  "term": "precio del dolar bcv hoy",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Dólar hoy, miércoles 14 de octubre: revisa la tasa oficial del dólar asignada por el BCV",
+    "url": "https://elcomercio.pe/respuestas/venezuela/cuanto-vale-el-dolar-hoy-en-venezuela-revisa-la-tasa-oficial-publicada-por-el-bcv-tdpe-noticia/",
+    "source": "El Comercio Perú"
+   },
+   {
+    "title": "Tasa de Cambio BCV 13 de octubre de 2026: 876,7976 Bs/USD (+0,131%)",
+    "url": "https://finanzasdigital.com/tasa-de-cambio-bcv-13-octubre-2026/",
+    "source": "Finanzas Digital"
+   },
+   {
+    "title": "Dólar se cotiza en Bs. 873,86 y el euro en Bs. 984,26",
+    "url": "https://www.ciudadccs.info/publicacion/51520",
+    "source": "CiudadCCS"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "VE": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "daniel-de-suecia": {
+  "term": "daniel de suecia",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Alarma en la agenda real: Daniel de Suecia cancela los planes en el último momento",
+    "url": "https://www.hola.com/realeza/casa_suecia/20261014929025/daniel-de-suecia-cancela-agenda-oficial/",
+    "source": "HOLA"
+   },
+   {
+    "title": "Preocupación por el príncipe Daniel de Suecia: “Ha enfermado. Ha decidido quedarse en casa y recuperarse”",
+    "url": "https://www.lecturas.com/realeza/preocupacion-por-principe-daniel-suecia-cancelar-su-asistencia-a-eventos-oficiales-por-motivos-salud-ha-enfermado-ha-decidido-quedarse-casa-y-recuperarse_199870",
+    "source": "Lecturas"
+   },
+   {
+    "title": "Qué ha ocurrido con Daniel de Suecia: el resfriado que ha reavivado la preocupación tras su trasplante de riñón",
+    "url": "https://www.infobae.com/espana/2026/10/15/que-ha-ocurrido-con-daniel-de-suecia-el-resfriado-que-ha-reavivado-la-preocupacion-tras-su-trasplante-de-rinon/",
+    "source": "Infobae"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "VE": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "liga-venezolana-de-beisbol-profesional": {
+  "term": "liga venezolana de béisbol profesional",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Águilas del Zulia blanquean 8-0 a Leones del Caracas",
+    "url": "https://primicia.com.ve/deportes/aguilas-del-zulia-vencen-8-0-leones-del-caracas/",
+    "source": "Diario Primicia"
+   },
+   {
+    "title": "Leones del Caracas se imponen ante las Águilas y se reponen en Maracaibo",
+    "url": "https://ultimasnoticias.com.ve/deportes/leones-del-caracas-se-imponen-ante-las-aguilas-y-se-reponen-en-maracaibo/",
+    "source": "Últimas Noticias"
+   },
+   {
+    "title": "LVBP: Detienen juego en Maracaibo entre Leones y Águilas por intensa lluvia",
+    "url": "https://www.ntn24.com/noticias-deportes/lvbp-detienen-juego-en-maracaibo-entre-leones-y-aguilas-por-intensa-lluvia-658125",
+    "source": "NTN24"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "VE": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "grandes-ligas-de-beisbol": {
+  "term": "grandes ligas de béisbol",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "MLB Gameday: Brewers 6, Dodgers 2 Resultado Final (14/10/2026)",
+    "url": "https://www.mlb.com/es/gameday/brewers-vs-dodgers/2026/10/14/849811/final/box",
+    "source": "MLB.com"
+   },
+   {
+    "title": "MLB Gameday: Guardians 7, Rays 3 Resultado Final (12/10/2026)",
+    "url": "https://www.mlb.com/es/gameday/guardians-vs-rays/2026/10/12/849820/final/video",
+    "source": "MLB.com"
+   },
+   {
+    "title": "MLB Gameday: Guardians 1, Rays 3 Resultado Final (13/10/2026)",
+    "url": "https://www.mlb.com/es/gameday/849813/final/wrap",
+    "source": "MLB.com"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "VE": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "obrero": {
+  "term": "obrero",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Empresas públicas operan como maquilas privadas de renta bajo amparo oficial: quedó atrás la ficción del control obrero y del estatismo formal",
+    "url": "https://www.elnacional.com/investigacion/2026/10/empresas-expropiadas-venezuela-maquila-privada-ley-antibloqueo-2026/",
+    "source": "El Nacional"
+   },
+   {
+    "title": "El Gobierno entrega la gestión de empresas públicas al sector privado #8Oct",
+    "url": "https://www.elimpulso.com/2026/10/08/el-gobierno-entrega-la-gestion-de-empresas-publicas-al-sector-privado-8oct/",
+    "source": "El Impulso"
+   },
+   {
+    "title": "Privatización de empresas públicas en Venezuela",
+    "url": "https://tenemosnoticias.com/nacionales/puntodecorte-net/privatizacion-de-empresas-publicas-en-venezuela/",
+    "source": "Tenemos Noticias"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "VE": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "pimpinela": {
+  "term": "pimpinela",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Martín Fierro de la Música 2026: premios para todos y una ceremonia que fue más larga que la del Oscar",
+    "url": "https://www.clarin.com/espectaculos/martin-fierro-musica-2026-premios-ceremonia-larga-oscar_0_avN1JIDJZX.html",
+    "source": "Clarin.com"
+   },
+   {
+    "title": "Jorge Vázquez, el tanguero platense de Los Hornos que ganó el Martín Fierro de la Música",
+    "url": "https://www.infocielo.com/la-plata/jorge-vazquez-el-tanguero-platense-de-los-hornos-que-gano-el-martin-fierro-de-la-musica",
+    "source": "Infocielo"
+   },
+   {
+    "title": "Quién se llevó el premio Martín Fierro de Oro: la lista de ganadores, uno por uno",
+    "url": "https://www.c5n.com/ratingcero/quien-se-llevo-el-premio-martin-fierro-oro-la-lista-ganadores-uno-uno-n251655",
+    "source": "C5N"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "BO": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "bradley-whitford": {
+  "term": "bradley whitford",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Watch: Aaron Sorkin, Bradley Whitford, and the Cast of A Few Good Men Talk New Broadway Revival",
+    "url": "https://www.theatermania.com/news/watch-aaron-sorkin-bradley-whitford-and-the-cast-of-a-few-good-men-talk-new-broadway-revival_1857133/",
+    "source": "TheaterMania"
+   },
+   {
+    "title": "Wake Up With BroadwayWorld October 13, 2026- A FEW GOOD MEN Begins Performances at Lincoln Center and More",
+    "url": "https://www.broadwayworld.com/article/Wake-Up-With-BroadwayWorld-October-13-2026--A-FEW-GOOD-MEN-Begins-Performances-at-Lincoln-Center-and-More-20261013",
+    "source": "BroadwayWorld"
+   },
+   {
+    "title": "Tom Blyth Makes Broadway Debut, Takes First Bow in ‘A Few Good Men’ Play",
+    "url": "https://www.imdb.com/news/ni66055657/?ref_=nmnw_art_perm",
+    "source": "IMDb"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "US": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "voting": {
+  "term": "voting",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
+    "source": "NPR"
+   },
+   {
+    "title": "As Trump’s 2024 Coalition Splinters, These Are the House GOP Candidates in the Most Danger",
+    "url": "https://www.cookpolitical.com/analysis/national/national-politics/trumps-2024-house-gop-candidates",
+    "source": "Cook Political Report"
+   },
+   {
+    "title": "The Men Who Regret Trump—But Won’t Vote Blue",
+    "url": "https://puck.news/trump-regretters-why-swing-voters-have-turned-on-the-gop/",
+    "source": "Puck"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "US": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "gma-deals-and-steals-today": {
+  "term": "gma deals and steals today",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "'GMA' Deals & Steals Fall Festival",
+    "url": "https://www.goodmorningamerica.com/shop/story/gma-deals-steals-fall-festival-137136051",
+    "source": "Good Morning America"
+   },
+   {
+    "title": "‘GMA’ Deals & Steals on products $20 and under",
+    "url": "https://www.yahoo.com/news/videos/gma-deals-steals-products-20-084402255.html",
+    "source": "Yahoo"
+   },
+   {
+    "title": "‘Good Morning America’s Tory Johnson Gets Emotional Over On-Air Family Surprise",
+    "url": "https://www.imdb.com/news/ni66049165/?ref_=nm_nwr_1",
+    "source": "IMDb"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "US": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "celine-dion-barbie": {
+  "term": "celine dion barbie",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Céline Dion gets her own Barbie inspired by iconic 1998 Oscars look",
+    "url": "https://globalnews.ca/news/12102675/celine-dion-barbie/",
+    "source": "Global News"
+   },
+   {
+    "title": "Barbie Honors Céline Dion with Signature Doll That Pays Homage to Her Iconic 1998 Oscars Performance",
+    "url": "https://people.com/celine-dion-gets-barbie-doll-honoring-her-1998-oscars-performance-12173725",
+    "source": "People.com"
+   },
+   {
+    "title": "Mattel unveils Céline Dion Barbie doll",
+    "url": "https://www.ctvnews.ca/montreal/article/mattel-unveils-celine-dion-barbie-doll/",
+    "source": "CTV News"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "US": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "ppi": {
+  "term": "ppi",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "PPI report today: Wholesale prices could reveal fresh inflation pressures as Fed weighs rate hikes —live updates",
+    "url": "https://www.marketwatch.com/livecoverage/ppi-report-today-september-inflation-fed-rates-live-updates",
+    "source": "MarketWatch"
+   },
+   {
+    "title": "PPI, retail sales, jobless claims, and oil inventories among economic data due Thursday",
+    "url": "https://www.investing.com/news/stock-market-news/ppi-retail-sales-jobless-claims-and-oil-inventories-among-economic-data-due-thursday-93CH-4949851",
+    "source": "Investing.com"
+   },
+   {
+    "title": "Thursday’s Economic Calendar (US2Y)",
+    "url": "https://seekingalpha.com/news/4653046-thursdays-economic-calendar",
+    "source": "Seeking Alpha"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "US": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "six-flags-goliath-roller-coaster-liability": {
+  "term": "six flags goliath roller coaster liability",
+  "traffic": "2000+",
+  "news": [
+   {
+    "title": "Government records reveal mechanical failures, faulty restraint bars and broken bones at Six Flags theme parks",
+    "url": "https://www.cnn.com/2026/10/15/us/six-flags-injuries-invs",
+    "source": "CNN"
+   },
+   {
+    "title": "Why Six Flags might not be liable for teacher’s deadly plunge from ‘Goliath’ coaster",
+    "url": "https://nypost.com/2026/10/15/us-news/why-six-flags-might-not-be-liable-for-teachers-deadly-plunge-from-goliath-coaster/",
+    "source": "New York Post"
+   },
+   {
+    "title": "Atlanta school ‘devastated’ after educator falls from Six Flags roller coaster",
+    "url": "https://www.ajc.com/news/2026/10/georgia-six-flags-incident/",
+    "source": "The Atlanta Journal-Constitution"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "US": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "toluwanisings": {
+  "term": "toluwanisings",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Popular Nigerian gospel singer Toluwanisings dies",
+    "url": "https://www.bbc.com/news/articles/cwn73zk1zgvvo",
+    "source": "BBC"
+   },
+   {
+    "title": "Family confirms death of gospel singer Toluwanisings",
+    "url": "https://punchng.com/family-confirms-death-of-gospel-singer-toluwanisings/",
+    "source": "Punch Newspapers"
+   },
+   {
+    "title": "Toluwanisings’ last WhatsApp status goes viral following his death",
+    "url": "https://www.legit.ng/entertainment/music/1736267-toluwanisings-whatsapp-status-surfaces-online-demise-evokes-emotions/",
+    "source": "Legit.ng"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "US": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "refining": {
+  "term": "refining",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices",
+    "url": "https://www.reuters.com/business/energy/totalenergies-flags-q3-profit-surge-iran-war-continues-drive-energy-prices-2026-10-15/",
+    "source": "Reuters"
+   },
+   {
+    "title": "TotalEnergies Expects Windfall as Conflict Squeezes Fuel Supplies",
+    "url": "https://www.wsj.com/business/earnings/totalenergies-expects-windfall-as-conflict-squeezes-energy-supplies-96bcefe4",
+    "source": "WSJ"
+   },
+   {
+    "title": "TotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Eyes-Massive-Profit-Windfall-as-Refining-Margins-Soar.html",
+    "source": "Crude Oil Prices Today | OilPrice.com"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "US": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "chuck-lorre": {
+  "term": "chuck lorre",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Chuck Lorre felt vindicated when Anna Faris left ‘Mom’ for ‘mysterious reasons’",
+    "url": "https://pagesix.com/2026/10/14/celebrity-news/chuck-lorre-says-anna-faris-exit-from-mom-confirmed-his-casting-concerns/",
+    "source": "Page Six"
+   },
+   {
+    "title": "Why Chuck Lorre Felt Vindicated After Anna Faris Left Mom",
+    "url": "https://www.eonline.com/ca/news/1437061/chuck-lorre-vindicated-by-anna-faris-leaving-cbs-show-mom-memoir",
+    "source": "E! News"
+   },
+   {
+    "title": "TV Legend Torches Sitcom Star for Quitting His Hit Show",
+    "url": "https://www.thedailybeast.com/obsessed/tv-legend-chuck-lorre-torches-sitcom-star-anna-faris-after-she-quit-his-show",
+    "source": "The Daily Beast"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "US": "2026-10-15T12:46:52.766319+00:00",
+   "CA": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "temperatura-monterrey": {
+  "term": "temperatura monterrey",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Advierten de bajas temperaturas el fin de semana",
+    "url": "https://www.elnorte.com/advierten-de-bajas-temperaturas-el-fin-de-semana/ar3293908",
+    "source": "El Norte"
+   },
+   {
+    "title": "Clima en Monterrey hoy: el pronóstico para el jueves 15 de octubre de 2026",
+    "url": "https://www.informador.mx/mexico/clima-en-monterrey-hoy-el-pronostico-para-el-jueves-15-de-octubre-de-2026-20261015-0013.html",
+    "source": "El Informador"
+   },
+   {
+    "title": "Segundo frente frío se acerca a Nuevo León: ¿Cuándo llegan las lluvias y cuáles serán las temperaturas mínimas",
+    "url": "https://www.milenio.com/el-clima/segundo-frente-frio-llega-nuevo-leon-cuando-regresan-las-lluvias",
+    "source": "MILENIO"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "MX": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "clima-zapopan": {
+  "term": "clima zapopan",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Clima en Zapopan hoy: el pronóstico para el jueves 15 de octubre de 2026",
+    "url": "https://www.informador.mx/jalisco/clima-en-zapopan-hoy-el-pronostico-para-el-jueves-15-de-octubre-de-2026-20261015-0006.html",
+    "source": "El Informador"
+   },
+   {
+    "title": "Clima en Zapopan hoy: el pronóstico para el miércoles 14 de octubre de 2026",
+    "url": "https://www.informador.mx/jalisco/clima-en-zapopan-hoy-el-pronostico-para-el-miercoles-14-de-octubre-de-2026-20261014-0003.html",
+    "source": "El Informador"
+   },
+   {
+    "title": "Clima en Zapopan hoy: el pronóstico para el martes 13 de octubre de 2026",
+    "url": "https://www.informador.mx/jalisco/clima-en-zapopan-hoy-el-pronostico-para-el-martes-13-de-octubre-de-2026-20261013-0004.html",
+    "source": "El Informador"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "MX": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "bell-aliant": {
+  "term": "bell aliant",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "RCMP Report ‘Widespread’ Phone Service Problem",
+    "url": "https://vocm.com/2026/10/14/rcmp-report-widespread-phone-service-problem/",
+    "source": "VOCM"
+   },
+   {
+    "title": "Emergency phone services restored after widespread Bell outage reported",
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/outage-911-non-emergency-newfoundland-labrador-9.7380652",
+    "source": "CBC"
+   },
+   {
+    "title": "Bell reports widespread phone outage, including some 911 calls in Newfoundland and Labrador",
+    "url": "https://ntv.ca/news/bell-reports-widespread-phone-outage-including-some-911-calls-in-newfoundland-and-labrador/",
+    "source": "NTV News"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CA": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "inquest": {
+  "term": "inquest",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Man killed by tiger died from 'multiple injuries'",
+    "url": "https://www.bbc.com/news/articles/cxr5y83v1eldo",
+    "source": "BBC"
+   },
+   {
+    "title": "Man killed by tiger at Yorkshire zoo had bouts of psychosis, inquest hears",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/15/man-killed-tiger-yorkshire-zoo-bouts-of-psychosis-inquest",
+    "source": "The Guardian"
+   },
+   {
+    "title": "What to know about the deadly U.K. tiger attack — and the 'offensive' video shared by Trump",
+    "url": "https://www.cbc.ca/news/world/man-killed-tiger-uk-trump-post-9.7380019",
+    "source": "CBC"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CA": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "grand-requin-blanc": {
+  "term": "grand requin blanc",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Un grand requin blanc de 4 mètres au comportement agressif provoque l’évacuation d’une plage remplie de surfeurs",
+    "url": "https://www.lefigaro.fr/animaux/un-grand-requin-blanc-de-4-metres-au-comportement-agressif-provoque-l-evacuation-d-une-plage-remplie-de-surfeurs-20261015",
+    "source": "Le Figaro"
+   },
+   {
+    "title": "Requin blanc à Huntington Beach : une évacuation préventive",
+    "url": "https://www.surfsession.com/actu/requin-blanc-huntington-beach-surfeurs-evacues/",
+    "source": "Surf Session"
+   },
+   {
+    "title": "Une cellule d’intervention sur les requins pourrait voir le jour en Gaspésie",
+    "url": "https://www.tvanouvelles.ca/2026/10/13/une-cellule-dintervention-sur-les-requins-pourrait-voir-le-jour-en-gaspesie",
+    "source": "TVA Nouvelles"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CA": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "ashlyn-krueger": {
+  "term": "ashlyn krueger",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "WTA Wuhan Day 4 Predictions Including Ashlyn Krueger vs Iga Swiatek",
+    "url": "https://lastwordonsports.com/tennis/2026/10/14/wta-wuhan-day-4-predictions-krueger-swiatek/",
+    "source": "Last Word On Sports"
+   },
+   {
+    "title": "Ashlyn Krueger vs Iga Swiatek Prediction & Picks - WTA Wuhan Open",
+    "url": "https://www.sportytrader.com/us/picks/ashlyn-krueger-iga-swiatek-379355/",
+    "source": "SportyTrader"
+   },
+   {
+    "title": "Licensable picture: 2026 WTA Wuhan Open: Ashlyn Krueger - Shuai Zhang in wuhan, China - 13 Oct 2026",
+    "url": "https://www.reutersconnect.com/item/2026-wta-wuhan-open-ashlyn-krueger-shuai-zhang-in-wuhan-china-13-oct-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNPUEFEU0MwMDc0OA",
+    "source": "Reuters Connect"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CA": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "connor-hellebuyck-winnipeg-jets-suspension": {
+  "term": "connor hellebuyck winnipeg jets suspension",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "How early-season goalie market impacts potential Hellebuyck trade",
+    "url": "https://www.sportsnet.ca/nhl/article/how-early-season-goalie-market-impacts-potential-hellebuyck-trade/",
+    "source": "Sportsnet.ca"
+   },
+   {
+    "title": "Possibility of Hellebuyck’s return to Winnipeg Jets grows each day as pay slips away",
+    "url": "https://www.winnipegfreepress.com/breakingnews/2026/10/14/letting-the-malcontent-masked-elephant-back-in-the-room",
+    "source": "Winnipeg Free Press"
+   },
+   {
+    "title": "Why Jets’ hot start should increase, not decrease, urgency to trade Hellebuyck ASAP",
+    "url": "https://www.dailyfaceoff.com/news/winnipeg-jets-connor-hellebuyck-trade-rumors-urgent-playoffs-suitors-sabres-hurricanes",
+    "source": "Daily Faceoff"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CA": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "troy-aikman": {
+  "term": "troy aikman",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Joe Buck, Troy Aikman Have Had Tension Amid ESPN Contract Talks",
+    "url": "https://frontofficesports.com/article/joe-buck-troy-aikman-tension-espn-talks/",
+    "source": "Front Office Sports"
+   },
+   {
+    "title": "Troy Aikman, Joe Buck reportedly got into argument in 'Monday Night Football' booth over contract extension tensions at ESPN",
+    "url": "https://sports.yahoo.com/nfl/article/troy-aikman-joe-buck-reportedly-got-into-argument-in-monday-night-football-booth-over-contract-extension-tensions-at-espn-194225040.html",
+    "source": "Yahoo Sports"
+   },
+   {
+    "title": "Joe Buck, Troy Aikman reportedly have \"tension\" in what could be last year of their partnership",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-buck-troy-aikman-reportedly-have-tension-in-what-could-be-last-year-of-their-partnership",
+    "source": "NBC Sports"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CA": "2026-10-15T12:46:52.766319+00:00"
+  }
+ },
+ "felix-seguin": {
+  "term": "félix séguin",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "«La fraude, c'est une opération psychologique» -Félix Séguin",
+    "url": "https://www.985fm.ca/audio/808782/la-fraude-c-est-une-operation-psychologique-felix-seguin",
+    "source": "98.5 Montréal"
+   },
+   {
+    "title": "Même l’animateur de «J.E» a failli se faire frauder",
+    "url": "https://www.journaldemontreal.com/2026/10/15/meme-lanimateur-de-je-a-failli-se-faire-frauder",
+    "source": "Le Journal de Montréal"
+   },
+   {
+    "title": "Même l’animateur de «J.E» a failli se faire frauder",
+    "url": "https://www.qub.ca/article/meme-lanimateur-de-j-e-a-failli-se-faire-frauder-2039815030",
+    "source": "QUB radio"
+   }
+  ],
+  "first": "2026-10-15T12:46:52.766319+00:00",
+  "seen": "2026-10-15T12:46:52.766319+00:00",
+  "geos": {
+   "CA": "2026-10-15T12:46:52.766319+00:00"
   }
  }
 }
