@@ -1008,7 +1008,7 @@
  },
  "clima": {
   "term": "clima",
-  "traffic": "5000+",
+  "traffic": "20000+",
   "news": [
    {
     "title": "Cómo estará el clima hoy 14 de noviembre de 2026 en Canelones",
@@ -1027,10 +1027,10 @@
    }
   ],
   "first": "2026-09-30T10:20:33.150218+00:00",
-  "seen": "2026-11-14T16:25:23.579274+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "CL": "2026-10-31T10:45:55.237443+00:00",
-   "BO": "2026-11-12T12:19:12.555185+00:00",
+   "BO": "2026-11-15T15:27:50.142768+00:00",
    "UY": "2026-11-14T16:25:23.579274+00:00",
    "CA": "2026-10-01T17:14:23.256439+00:00",
    "AR": "2026-11-14T09:54:28.262961+00:00",
@@ -1072,7 +1072,7 @@
  },
  "tiempo": {
   "term": "tiempo",
-  "traffic": "5000+",
+  "traffic": "2000+",
   "news": [
    {
     "title": "¡Atención! Aliste paraguas, Senamhi pronostica lluvias en Santa Cruz",
@@ -1091,10 +1091,10 @@
    }
   ],
   "first": "2026-09-30T10:20:33.150218+00:00",
-  "seen": "2026-11-12T12:19:12.555185+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "CL": "2026-10-19T10:10:43.602823+00:00",
-   "BO": "2026-11-12T12:19:12.555185+00:00",
+   "BO": "2026-11-15T15:27:50.142768+00:00",
    "PY": "2026-10-24T13:09:59.905491+00:00",
    "UY": "2026-10-22T00:07:48.719490+00:00",
    "VE": "2026-10-11T13:17:50.245833+00:00",
@@ -1129,26 +1129,26 @@
  },
  "lluvia": {
   "term": "lluvia",
-  "traffic": "2000+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Meteorología anuncia tormentas con ráfagas de 90 km/h para este fin de semana - Clima",
-    "url": "https://www.abc.com.py/clima/2026/11/13/meteorologia-anuncia-tormentas-con-rafagas-de-90-kmh-para-este-fin-de-semana/",
-    "source": "ABC Color"
+    "title": "El paso de un frente deja avisos naranjas y amarillos por lluvia y viento en Galicia",
+    "url": "https://www.infobae.com/espana/agencias/2026/11/15/el-paso-de-un-frente-deja-avisos-naranjas-y-amarillos-por-lluvia-y-viento-en-galicia/",
+    "source": "Infobae"
    },
    {
-    "title": "Fin de semana caluroso: pronostican máximas superiores a los 40 °C y lluvias",
-    "url": "https://www.lanacion.com.py/pais/2026/11/13/fin-de-semana-caluroso-pronostican-maximas-superiores-a-los-40-c-y-lluvias/",
-    "source": "La Nación"
+    "title": "Galicia, de nuevo en alerta amarilla: afronta un domingo de lluvias persistentes y rachas de viento de hasta 80 km/h",
+    "url": "https://www.eldebate.com/espana/galicia/20261115/galicia-nuevo-alerta-amarilla-afronta-domingo-lluvias-persistentes-rachas-viento-hasta-80-kmh_481004.html",
+    "source": "El Debate"
    },
    {
-    "title": "Ambiente caluroso, con chaparrones en el Chaco y el norte para este viernes",
-    "url": "https://www.ultimahora.com/ambiente-caluroso-con-chaparrones-en-el-chaco-y-el-norte-para-este-viernes",
-    "source": "Última Hora"
+    "title": "El nuevo frente que dejará en Burgos la temperatura máxima más baja de España: lluvias y viento para este domingo",
+    "url": "https://www.burgosconecta.es/provincia/nuevo-frente-dejara-burgos-temperatura-maxima-baja-20261114184402-nt.html",
+    "source": "BURGOSconecta"
    }
   ],
   "first": "2026-09-30T10:20:33.150218+00:00",
-  "seen": "2026-11-14T09:54:28.262961+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "CL": "2026-09-30T16:28:47.566170+00:00",
    "VE": "2026-11-11T22:57:43.557742+00:00",
@@ -1158,7 +1158,7 @@
    "US": "2026-10-15T12:46:52.766319+00:00",
    "BO": "2026-11-10T15:10:35.269809+00:00",
    "UY": "2026-11-11T08:07:09.523808+00:00",
-   "EC": "2026-11-06T13:54:04.670748+00:00"
+   "EC": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "evan-gershkovich": {
@@ -3443,30 +3443,30 @@
  },
  "estafa": {
   "term": "estafa",
-  "traffic": "200+",
+  "traffic": "1000+",
   "news": [
    {
-    "title": "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas",
-    "url": "https://jereznews.com/desmantelan-red-de-captacion-de-cuentas-bancarias-en-tiktok-fraudes-financieros-y-mulas-economicas/",
-    "source": "Jerez News"
+    "title": "Tailandia detiene a dos ciudadanos chinos por presunta estafa cripto de USD $92 millones",
+    "url": "https://www.diariobitcoin.com/regulacion/tailandia-detiene-a-dos-ciudadanos-chinos-por-presunta-estafa-cripto-de-usd-92-millones/",
+    "source": "DiarioBitcoin"
    },
    {
-    "title": "El anzuelo de los 100 euros en TikTok: dos detenidos y al menos 162 víctimas",
-    "url": "https://www.lavozdelsur.es/ediciones/granada/el-anzuelo-de-los-100-euros-en-tiktok-dos-detenidos-y-al-menos-162-victimas.html",
-    "source": "lavozdelsur.es"
+    "title": "La Policía Nacional advierte de casos de la estafa del falso técnico ocurridos en Zaragoza",
+    "url": "https://www.aragonplay.es/aragonnoticias/zaragoza/policia-nacional-advierte-casos-estafa-falso-tecnico-ocurridos-zaragoza.html",
+    "source": "Aragón Play"
    },
    {
-    "title": "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
-    "url": "https://21noticias.com/2026/11/14/la-guardia-civil-desarticula-en-tiktok-una-red-de-ciberdelincuencia-que-captaba-mulas-bancarias-por-100-euros/",
-    "source": "21Noticias"
+    "title": "Ojo al buscar un servicio técnico en Google: la Policía Nacional alerta de una estafa en Zaragoza",
+    "url": "https://www.aragondigital.es/articulo/sucesos/ojo-buscar-servicio-tecnico-google-policia-nacional-alerta-estafa-zaragoza/202611151131401021970.html",
+    "source": "Aragón Digital"
    }
   ],
   "first": "2026-10-01T03:18:25.715586+00:00",
-  "seen": "2026-11-14T20:52:54.700655+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "UY": "2026-11-09T14:12:38.384140+00:00",
    "VE": "2026-10-27T15:58:10.263907+00:00",
-   "EC": "2026-11-07T13:26:30.709852+00:00",
+   "EC": "2026-11-15T15:27:50.142768+00:00",
    "BO": "2026-11-14T20:52:54.700655+00:00",
    "PY": "2026-11-11T22:57:43.557742+00:00",
    "MX": "2026-10-15T12:46:52.766319+00:00",
@@ -5962,33 +5962,33 @@
   "traffic": "2000+",
   "news": [
    {
-    "title": "Licensable picture: Rolex Paris Masters 2026, Day 3",
-    "url": "https://www.reutersconnect.com/item/rolex-paris-masters-2026-day-3/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTVVERzJK",
-    "source": "Reuters Connect"
+    "title": "ATP Finals tennis: Alexander Zverev v Rafael Jódar and more – live",
+    "url": "https://www.theguardian.com/sport/live/2026/nov/15/atp-finals-tennis-alexander-zverev-v-rafael-jodar-and-more-live",
+    "source": "The Guardian"
    },
    {
-    "title": "“I’m almost a bit shocked!” Alexander Zverev blows his debut as number one",
-    "url": "https://www.goal.com/en/news/i-m-almost-a-bit-shocked-alexander-zverev-blows-his-debut-as-number-one/blt7354c4c48bb7b0dc",
-    "source": "Goal.com"
+    "title": "ATP Finals Best Bets for Sunday, November 15 + WTA Finals Prediction: Svitolina vs. Andreeva",
+    "url": "https://vsin.com/tennis/atp-finals-best-bets-for-sunday-november-15-wta-finals-prediction-svitolina-vs-andreeva/",
+    "source": "VSiN"
    },
    {
-    "title": "Zverev's tenure as No. 1 in men's tennis begins with 2nd-round loss to Musetti at Paris Masters",
-    "url": "https://www.eagletribune.com/zverevs-tenure-as-no-1-in-mens-tennis-begins-with-2nd-round-loss-to-musetti/article_5ce60b14-540c-5b0e-9612-59db05e9fe92.html",
-    "source": "Eagle-Tribune"
+    "title": "Hot Shot: Jodar hits heroic volley vs. Zverev at Nitto ATP Finals 2026",
+    "url": "https://www.atptour.com/en/video/hot-shot-jodar-hits-heroic-volley-vs-zverev-at-nitto-atp-finals-2026",
+    "source": "ATP Tour"
    }
   ],
   "first": "2026-10-01T13:48:14.259987+00:00",
-  "seen": "2026-11-04T16:20:35.844488+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "AR": "2026-10-17T10:32:22.126570+00:00",
-   "CL": "2026-11-04T16:20:35.844488+00:00",
-   "CO": "2026-11-04T16:20:35.844488+00:00",
+   "CL": "2026-11-15T15:27:50.142768+00:00",
+   "CO": "2026-11-15T15:27:50.142768+00:00",
    "CA": "2026-10-17T10:32:22.126570+00:00",
-   "PE": "2026-10-17T10:32:22.126570+00:00",
+   "PE": "2026-11-15T15:27:50.142768+00:00",
    "MX": "2026-10-17T10:32:22.126570+00:00",
-   "EC": "2026-11-04T16:20:35.844488+00:00",
-   "VE": "2026-11-04T16:20:35.844488+00:00",
-   "PY": "2026-11-04T16:20:35.844488+00:00"
+   "EC": "2026-11-15T15:27:50.142768+00:00",
+   "VE": "2026-11-15T15:27:50.142768+00:00",
+   "PY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "quini6": {
@@ -14735,26 +14735,26 @@
  },
  "weather": {
   "term": "weather",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Milder weekend forecast in UK as autumn freeze eases off",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
-    "source": "The Guardian"
+    "title": "This Western state is experiencing its most severe marine heat wave on record",
+    "url": "https://www.washingtonpost.com/weather/2026/11/13/california-is-experiencing-severe-marine-heat-wave/",
+    "source": "The Washington Post"
    },
    {
-    "title": "Met Office warns of snow and wintry showers as temperatures drop",
-    "url": "https://www.plymouthherald.co.uk/news/local-news/met-office-warns-snow-wintry-11241848",
-    "source": "The Herald"
+    "title": "El Niño to kill over 500,000 people in the world by February 2027",
+    "url": "https://tanzaniatimes.net/el-nino-to-kill-more-than-500000-people-in-the-world-by-february-2027/",
+    "source": "The Tanzania Times"
    },
    {
-    "title": "New cold health alerts issued after milder conditions forecast for weekend",
-    "url": "https://www.essexcountynews.co.uk/news/national/26729530.new-cold-health-alerts-issued-milder-conditions-forecast-weekend/",
-    "source": "www.essexcountynews.co.uk"
+    "title": "El Niño threatens health, too – early warnings done right can save lives",
+    "url": "https://weather.com/2026/11/15/health/el-nino-threatens-health-too-early-warnings-done-right-can-save-lives",
+    "source": "The Weather Channel"
    }
   ],
   "first": "2026-10-02T15:29:54.938233+00:00",
-  "seen": "2026-11-14T16:25:23.579274+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "CL": "2026-10-31T10:45:55.237443+00:00",
    "UY": "2026-11-14T16:25:23.579274+00:00",
@@ -14764,7 +14764,7 @@
    "AR": "2026-10-22T10:28:19.510316+00:00",
    "PE": "2026-11-12T12:19:12.555185+00:00",
    "BO": "2026-11-07T13:26:30.709852+00:00",
-   "CO": "2026-11-03T14:53:34.240584+00:00",
+   "CO": "2026-11-15T15:27:50.142768+00:00",
    "BR": "2026-11-05T10:29:24.871034+00:00"
   }
  },
@@ -19114,7 +19114,7 @@
  },
  "granizo": {
   "term": "granizo",
-  "traffic": "500+",
+  "traffic": "1000+",
   "news": [
    {
     "title": "Frente frío 5 traerá lluvias intensas y temperaturas de 0 grados a Puebla",
@@ -19133,7 +19133,7 @@
    }
   ],
   "first": "2026-10-03T05:06:03.761147+00:00",
-  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "CL": "2026-10-30T01:40:32.274557+00:00",
    "AR": "2026-11-14T16:25:23.579274+00:00",
@@ -19141,9 +19141,9 @@
    "CO": "2026-10-06T09:16:35.987137+00:00",
    "EC": "2026-10-12T01:34:52.943748+00:00",
    "VE": "2026-10-23T12:46:03.349235+00:00",
-   "BO": "2026-10-25T10:01:43.932538+00:00",
+   "BO": "2026-11-15T15:27:50.142768+00:00",
    "PY": "2026-11-14T20:52:54.700655+00:00",
-   "UY": "2026-11-04T22:04:01.387175+00:00",
+   "UY": "2026-11-15T15:27:50.142768+00:00",
    "MX": "2026-11-15T07:38:16.702062+00:00"
   }
  },
@@ -20270,30 +20270,30 @@
  },
  "noticia": {
   "term": "noticia",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Ola de ataques e incendios deja un muerto en Bangladés en medio de protestas por Hasina",
-    "url": "https://es-us.noticias.yahoo.com/ola-ataques-incendios-deja-muerto-115750850.html",
-    "source": "Yahoo"
+    "title": "Falleció Abel Oscar Diamante, a los 94 años – Las últimas noticias de San Pedro",
+    "url": "https://www.laopinionsemanario.com.ar/noticia/fallecio-abel-oscar-diamante-a-los-94-anos",
+    "source": "La Opinión Semanario"
    },
    {
-    "title": "La depuesta líder de Bangladesh Sheikh Hasina pide un nuevo pasaporte para volver del exilio",
-    "url": "https://www.americateve.com/la-depuesta-lider-bangladesh-sheikh-hasina-pide-un-nuevo-pasaporte-volver-del-exilio-n5466645",
-    "source": "América TeVé"
+    "title": "Se cumplen nueve años del hundimiento del ARA San Juan: las alertas previas sobre fallas en el submarino y cómo terminó el juicio",
+    "url": "https://tn.com.ar/politica/2026/11/15/se-cumplen-nueve-anos-del-hundimiento-del-ara-san-juan-las-alertas-previas-sobre-fallas-en-el-submarino-y-como-termino-el-juicio/",
+    "source": "TN"
    },
    {
-    "title": "Bangladés: protestas a favor de Hasina tras la noticia de posible regreso",
-    "url": "https://www.asianews.it/es/articles/banglades-protestas-a-favor-de-hasina-tras-la-noticia-de-posible-regreso",
-    "source": "AsiaNews"
+    "title": "“44 latidos”: un vecino de Río Gallegos abrirá el primer museo dedicado a las víctimas del ARA San Juan",
+    "url": "https://www.infobae.com/sociedad/2026/11/15/los-44-latidos-un-vecino-de-rio-gallegos-abrira-el-primer-museo-dedicado-a-las-44-victimas-del-ara-san-juan/",
+    "source": "Infobae"
    }
   ],
   "first": "2026-10-03T10:32:00.499154+00:00",
-  "seen": "2026-11-12T12:19:12.555185+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "BR": "2026-10-13T08:11:28.087406+00:00",
    "UY": "2026-11-07T06:25:35.311887+00:00",
-   "AR": "2026-10-10T21:18:30.202743+00:00",
+   "AR": "2026-11-15T15:27:50.142768+00:00",
    "CL": "2026-10-18T19:17:18.757406+00:00",
    "MX": "2026-11-06T13:54:04.670748+00:00",
    "PY": "2026-11-12T12:19:12.555185+00:00"
@@ -26742,32 +26742,32 @@
   }
  },
  "formula-1": {
-  "term": "formula 1",
-  "traffic": "1000+",
+  "term": "fórmula 1",
+  "traffic": "100+",
   "news": [
    {
-    "title": "(5) Mexican Formula One Grand Prix: Kimi Antonelli aims to seal title – live",
-    "url": "https://www.theguardian.com/sport/live/2026/nov/01/mexican-formula-one-grand-prix-kimi-antonelli-aims-to-seal-title-live",
-    "source": "The Guardian"
+    "title": "La renovación de Turquía para el regreso de un 'clásico moderno' de la F1",
+    "url": "https://lat.motorsport.com/f1/news/istanbul-quiere-asegurar-lugar-calendario-f1-mas-alla-2031/10874671/",
+    "source": "Motorsport.com España"
    },
    {
-    "title": "F1 LIVE: Mexico City Grand Prix 2026 UK time, start time, grid, radio & updates",
-    "url": "https://www.bbc.com/sport/formula1/live/clyr72l2mzvt",
-    "source": "BBC"
+    "title": "Istanbul quiere asegurar su lugar en el calendario de F1 más allá de 2031 y así mejora el circuito",
+    "url": "https://espanol.motorsport.com/f1/news/istanbul-quiere-asegurar-lugar-calendario-f1-mas-alla-2031/10874672/",
+    "source": "Motorsport.com"
    },
    {
-    "title": "Mexico F1 GP Auto Racing",
-    "url": "https://www.corsicanadailysun.com/sports/national_sports/mexico-f1-gp-auto-racing/image_0d635c11-1210-58b9-b48f-4c334307e6a9.html",
-    "source": "Corsicana Daily Sun"
+    "title": "Polémica en la Fórmula 1 por la dura frase contra un piloto que desató un escándalo interno: “Es un ataque sin precedentes”",
+    "url": "https://www.infobae.com/deportes/2026/11/15/polemica-en-la-formula-1-por-la-dura-frase-contra-un-piloto-que-desato-un-escandalo-interno-es-un-ataque-sin-precedentes/",
+    "source": "Infobae"
    }
   ],
   "first": "2026-10-04T07:54:29.398968+00:00",
-  "seen": "2026-11-01T20:58:43.523247+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "AR": "2026-10-04T13:47:43.740708+00:00",
    "CL": "2026-10-04T07:54:29.398968+00:00",
    "CO": "2026-11-01T20:58:43.523247+00:00",
-   "MX": "2026-10-24T21:45:53.955288+00:00",
+   "MX": "2026-11-15T15:27:50.142768+00:00",
    "UY": "2026-10-04T13:47:43.740708+00:00",
    "EC": "2026-10-04T18:01:38.518389+00:00",
    "VE": "2026-10-04T18:01:38.518389+00:00",
@@ -26802,29 +26802,30 @@
   }
  },
  "bahrein": {
-  "term": "bahrein",
+  "term": "bahreïn",
   "traffic": "200+",
   "news": [
    {
-    "title": "Franco Colapinto largará 21° el GP de Baréin de Fórmula 1 en Malasia",
-    "url": "https://www.infobae.com/deportes/2026/10/03/franco-colapinto-largara-21-en-malasia-por-una-sancion-hora-tv-y-todo-lo-que-hay-que-saber-del-gp-de-barein-de-formula-1/",
-    "source": "Infobae"
+    "title": "L’Iran affirme avoir détruit un radar américain à Bahreïn",
+    "url": "https://www.lenouvelliste.ca/monde/2026/11/13/la-garde-revolutionnaire-iranienne-affirme-avoir-detruit-un-radar-americain-a-bahrein-AH4L3CS7PBCMDNSZCTNV7HGHPI/",
+    "source": "Le Nouvelliste"
    },
    {
-    "title": "Alpine y Gasly celebraron la Q3 pero no estimaron la ayuda de Colapinto",
-    "url": "https://www.ole.com.ar/autos/alpine-pierregasly-q3-sepang-francocolapinto-stevenielsen-clasificacion_0_Xs34NXz8Qm.html",
-    "source": "Olé"
+    "title": "LIVE BLOG | L'Iran Affirme Avoir Frappé Un Radar Militaire Américain À Bahreïn",
+    "url": "https://www.i24news.tv/fr/actu/international/artc-live-blog-l-iran-affirme-avoir-frappe-un-radar-militaire-americain-a-bahrein",
+    "source": "i24NEWS"
    },
    {
-    "title": "Colapinto: \"Hicimos mucho trabajo de cara a la carrera\"",
-    "url": "https://www.espn.com.ar/deporte-motor/f1/nota/_/id/17332038/video-franco-colapinto-trabajo-de-cara-a-la-carrera-gp-de-barein-sepang",
-    "source": "ESPN Argentina"
+    "title": "L'Iran menace de frapper des bases américaines en Europe",
+    "url": "https://www.journaldemontreal.com/2026/11/11/liran-menace-de-frapper-des-bases-americaines-en-europe",
+    "source": "Le Journal de Montréal"
    }
   ],
   "first": "2026-10-04T07:54:29.398968+00:00",
-  "seen": "2026-10-04T07:54:29.398968+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "AR": "2026-10-04T07:54:29.398968+00:00"
+   "AR": "2026-10-04T07:54:29.398968+00:00",
+   "CA": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "disney-plus": {
@@ -29966,28 +29967,28 @@
  },
  "rangers": {
   "term": "rangers",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "New York Rangers vs. Vancouver Canucks",
-    "url": "https://www.espn.com/watch/player/_/eventCalendarId/401892706",
-    "source": "ESPN"
+    "title": "Rangers make decision on selling prolific striker as Wolves, West Ham plot January moves",
+    "url": "https://www.teamtalk.com/news/ryan-naderi-rangers-decision-wolves-west-ham-january-interest",
+    "source": "TEAMtalk"
    },
    {
-    "title": "Rangers visit the Canucks after Zibanejad's 2-goal game",
-    "url": "https://abcnews.com/Sports/wireStory/rangers-visit-canucks-after-zibanejads-2-goal-game-138072012",
-    "source": "ABC News - Breaking News, Latest News and Videos"
+    "title": "Naderi not interested in January exit - gossip",
+    "url": "https://www.bbc.com/sport/articles/c6g7lg88rmvjo",
+    "source": "BBC"
    },
    {
-    "title": "Rangers visit the Canucks after Zibanejad's 2-goal game",
-    "url": "https://www.heraldbulletin.com/sports/national_sports/rangers-visit-the-canucks-after-zibanejads-2-goal-game/article_1e36937e-0d32-5aae-8166-ca6b470b8cf4.html",
-    "source": "Herald Bulletin"
+    "title": "Ryan Naderi's Rangers exit 'inevitable' amid Insider's '£18m' reveal",
+    "url": "https://uk.sports.yahoo.com/news/ryan-naderis-rangers-exit-inevitable-083000391.html",
+    "source": "Yahoo"
    }
   ],
   "first": "2026-10-04T18:01:38.518389+00:00",
-  "seen": "2026-11-12T12:19:12.555185+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "CL": "2026-11-12T12:19:12.555185+00:00"
+   "CL": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "antofagasta-rangers": {
@@ -37177,26 +37178,27 @@
   "traffic": "100+",
   "news": [
    {
-    "title": "Two More Games Revealed For Xbox Game Pass In 2026, Including A Surprise Shadow Drop",
-    "url": "https://www.purexbox.com/news/2026/10/two-more-games-revealed-for-xbox-game-pass-in-2026-including-a-surprise-shadow-drop1",
+    "title": "Eight Classic Games Are Available Today With Xbox Game Pass Essential (November 15)",
+    "url": "https://www.purexbox.com/news/2026/11/eight-classic-games-are-available-today-with-xbox-game-pass-essential-november-15",
     "source": "Pure Xbox"
    },
    {
-    "title": "Ubisoft has added Valiant Hearts Coming Home to its Xbox subscription. Game Pass",
-    "url": "https://en.gamegpu.com/news/igry/ubisoft-dobavila-igru-valiant-hearts-coming-home-v-podpisku-xbox-game-pass",
-    "source": "GameGPU"
+    "title": "Xbox players are losing GoldenEye 007 from Game Pass this Sunday",
+    "url": "https://www.gamingbible.com/news/platform/xbox/xbox-losing-goldeneye-007-from-game-pass-sunday-753394-20261112",
+    "source": "GAMINGbible"
    },
    {
-    "title": "Another Three 'Day One' Releases Set For Xbox Game Pass In 2026 & 2027",
-    "url": "https://www.purexbox.com/news/2026/09/another-three-day-one-releases-set-for-xbox-game-pass-in-2026-and-2027",
-    "source": "Pure Xbox"
+    "title": "One of the Best N64 Games Free With Xbox Game Pass for 24 Hours",
+    "url": "https://comicbook.com/gaming/news/n64-nintendo-64-games-free-xbox-game-pass/",
+    "source": "ComicBook.com"
    }
   ],
   "first": "2026-10-05T15:39:20.400432+00:00",
-  "seen": "2026-10-27T15:58:10.263907+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "US": "2026-10-05T15:39:20.400432+00:00",
-   "MX": "2026-10-27T15:58:10.263907+00:00"
+   "MX": "2026-10-27T15:58:10.263907+00:00",
+   "CO": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "cleveland-cavaliers": {
@@ -37279,29 +37281,30 @@
  },
  "camila-fernandez": {
   "term": "camila fernández",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "On Winning First Latin Grammy, Camila Fernández Thanks Baby She’s Carrying for ‘Strength to be Here’",
-    "url": "https://www.billboard.com/music/latin/camila-fernandez-latin-grammys-tears-baby-1236381244/",
-    "source": "Billboard"
+    "title": "Majo Aguilar felicita a Camila Fernández tras imponerse a Pepe Aguilar y Nodal en los Grammy",
+    "url": "https://www.infobae.com/mexico/2026/11/15/majo-aguilar-felicita-a-camila-fernandez-tras-imponerse-a-pepe-aguilar-y-nodal-en-los-grammy/",
+    "source": "Infobae"
    },
    {
-    "title": "Camila Fernández celebrates her first Latin Grammy with a baby on the way",
-    "url": "https://www.hola.com/us/entertainment/20261112934765/camila-fernandez-celebrates-her-first-latin-grammy-with-a-baby-on-the-way/",
-    "source": "HOLA"
+    "title": "PuntoG 2026-11-15",
+    "url": "https://www.mural.com.mx/puntog-2026-11-15/op324375",
+    "source": "MURAL | Periodismo independiente"
    },
    {
-    "title": "Latin Grammy Awards: The fashion, moments, winners and performances",
-    "url": "https://www.reuters.com/pictures/latin-grammy-awards-fashion-moments-winners-performances-2026-11-13/",
-    "source": "Reuters"
+    "title": "«Nuestra primera mujer Fernández en lograrlo»: Alejandro Fernández emocionó con mensaje a su hija tras ganar el Latin Grammy",
+    "url": "https://www.pudahuel.cl/destacados/2026/11/nuestra-primera-mujer-fernandez-en-lograrlo-alejandro-fernandez-emociono-con-mensaje-a-su-hija-tras-ganar-el-latin-grammy/",
+    "source": "Radio Pudahuel"
    }
   ],
   "first": "2026-10-05T15:39:20.400432+00:00",
-  "seen": "2026-11-14T16:25:23.579274+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "MX": "2026-10-05T15:39:20.400432+00:00",
-   "VE": "2026-11-14T16:25:23.579274+00:00"
+   "VE": "2026-11-14T16:25:23.579274+00:00",
+   "BO": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "bruce-willis": {
@@ -38010,29 +38013,29 @@
   "traffic": "500+",
   "news": [
    {
-    "title": "Pronostican lluvias, chubascos y fuertes rachas de viento en cinco municipios de Baja California",
-    "url": "https://es-us.noticias.yahoo.com/pronostican-lluvias-chubascos-fuertes-rachas-022916451.html",
-    "source": "Yahoo"
+    "title": "Tormenta eléctrica provoca caída de árboles y un apagón en La Angostura",
+    "url": "https://www.reduno.com.bo/noticias/tormenta-electrica-provoca-caida-de-arboles-y-un-apagon-en-la-angostura-202611157350",
+    "source": "Red Uno"
    },
    {
-    "title": "Lluvias dejan caída de árboles, cortes de energía y afectaciones viales en distintos puntos de Tijuana",
-    "url": "https://oem.com.mx/elsoldetijuana/local/lluvias-dejan-caida-de-arboles-cortes-de-energia-y-afectaciones-viales-en-distintos-puntos-de-tijuana-33118323",
-    "source": "El Sol de México"
+    "title": "Tormenta eléctrica provoca caída de árboles y un apagón en La Angostura",
+    "url": "https://eju.tv/2026/11/tormenta-electrica-provoca-caida-de-arboles-y-un-apagon-en-la-angostura/",
+    "source": "eju.tv"
    },
    {
-    "title": "Tijuana bajo la lluvia: la ciudad que se desliza Con Fundamento.",
-    "url": "https://afntijuana.info/editoriales/184225_tijuana_bajo_la_lluvia_la_ciudad_que_se_desliza_con_fundamento",
-    "source": "AFN"
+    "title": "Pronostican un domingo lluvioso en Santa Cruz",
+    "url": "https://eldeber.com.bo/santa-cruz/pronostican-domingo-lluvioso-santa-cruz_1794688981",
+    "source": "El Deber"
    }
   ],
   "first": "2026-10-05T22:21:51.454968+00:00",
-  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "CL": "2026-10-06T02:25:47.786432+00:00",
    "MX": "2026-11-14T20:52:54.700655+00:00",
    "VE": "2026-11-14T20:52:54.700655+00:00",
    "EC": "2026-11-13T16:59:54.476803+00:00",
-   "BO": "2026-11-15T07:38:16.702062+00:00"
+   "BO": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "fernando-ortiz": {
@@ -44383,30 +44386,30 @@
  },
  "fiscal-general": {
   "term": "fiscal general",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Exponen vínculos del hijo del fiscal general del Estado con itti, firma clave del Grupo Vázquez",
-    "url": "https://www.ultimahora.com/exponen-vinculos-del-hijo-del-fiscal-general-del-estado-con-itti-firma-clave-del-grupo-vazquez",
+    "title": "Ciudadanos se manifiestan para exigir la destitución del Fiscal General Emiliano Rolón",
+    "url": "https://www.abc.com.py/nacionales/2026/11/14/ciudadanos-se-manifiestan-para-exigir-la-destitucion-del-fiscal-general-emiliano-rolon/",
+    "source": "ABC Color"
+   },
+   {
+    "title": "Manifestantes piden juicio político contra Emiliano Rolón frente a la Fiscalía General del Estado",
+    "url": "https://www.ultimahora.com/manifestantes-piden-juicio-politico-contra-emiliano-rolon-frente-a-la-fiscalia-general-del-estado",
     "source": "Última Hora"
    },
    {
-    "title": "Vínculos del hijo del fiscal general con directivo de itti",
-    "url": "https://www.rdn.com.py/2026/11/13/vinculos-del-hijo-del-fiscal-general-con-directivo-de-itti/",
-    "source": "Resumen de Noticias"
-   },
-   {
-    "title": "Juicio político al fiscal general: Latorre mantiene ambigüedad cómplice a favor de Rolón",
-    "url": "https://www.abc.com.py/politica/2026/11/12/juicio-politico-al-fiscal-general-latorre-mantiene-ambiguedad-complice-a-favor-de-rolon/",
-    "source": "ABC Color"
+    "title": "Bancada oficialista de la ANR evaluará el lunes pedido de juicio político a Emiliano Rolón",
+    "url": "https://www.lanacion.com.py/politica/2026/11/13/bancada-oficialista-de-la-anr-evaluara-el-lunes-pedido-de-juicio-politico-a-emiliano-rolon/",
+    "source": "La Nación"
    }
   ],
   "first": "2026-10-06T21:08:12.709654+00:00",
-  "seen": "2026-11-13T16:59:54.476803+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "EC": "2026-10-28T18:59:23.900278+00:00",
    "BO": "2026-10-11T18:19:31.774911+00:00",
-   "PY": "2026-11-13T16:59:54.476803+00:00"
+   "PY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "croatia-vs-spain": {
@@ -44913,25 +44916,25 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "Defensa de Hermosilla apuntó en el tribunal a Chadwick como la persona detrás de la contratación del exfiscal Guerra en la San Sebastián",
-    "url": "https://www.ciperchile.cl/2026/10/27/defensa-de-hermosilla-apunto-en-el-tribunal-a-chadwick-como-la-persona-detras-de-la-contratacion-del-exfiscal-guerra-en-la-san-sebastian/",
-    "source": "- CIPER Chile"
-   },
-   {
-    "title": "El ex hombre fuerte de los gobiernos de Sebastián Piñera volvió a prisión preventiva acusado de soborno",
-    "url": "https://www.infobae.com/america/america-latina/2026/10/29/el-ex-hombre-fuerte-de-los-gobiernos-de-sebastian-pinera-volvio-a-prision-preventiva-acusado-de-soborno/",
+    "title": "Abogado de Álvaro Uribe, tras decisión de la Fiscalía de archivar caso por presunto soborno a testigos: “La deuda no se ha saldado”",
+    "url": "https://www.infobae.com/colombia/2026/11/14/abogado-de-alvaro-uribe-tras-decision-de-la-fiscalia-de-archivar-caso-por-presunto-soborno-a-testigos-la-deuda-no-se-ha-saldado/",
     "source": "Infobae"
    },
    {
-    "title": "Luis Hermosilla regresa a prisión preventiva tras formalización por “red de favores” al exfiscal Manuel Guerra",
-    "url": "https://www.latercera.com/nacional/noticia/luis-hermosilla-regresa-a-prision-preventiva-tras-formalizacion-por-red-de-favores-al-exfiscal-manuel-guerra/",
-    "source": "La Tercera"
+    "title": "Alvaro Uribe: Fiscalia archiva investigacion contra expresidente",
+    "url": "https://telemedellin.tv/fiscalia-archiva-investigacion-contra-alvaro-uribe/",
+    "source": "Telemedellín"
+   },
+   {
+    "title": "Fiscalía archiva investigación contra Álvaro Uribe por presunto soborno a testigos en caso relacionado con Iván Cepeda",
+    "url": "https://www.eltiempo.com/politica/fiscalia-archiva-investigacion-contra-alvaro-uribe-por-presunto-soborno-a-testigos-en-caso-relacionado-con-ivan-cepeda-3601063",
+    "source": "El Tiempo"
    }
   ],
   "first": "2026-10-06T21:08:12.709654+00:00",
-  "seen": "2026-11-01T02:28:11.318399+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "MX": "2026-10-06T21:08:12.709654+00:00",
+   "MX": "2026-11-15T15:27:50.142768+00:00",
    "CL": "2026-11-01T02:28:11.318399+00:00"
   }
  },
@@ -55979,28 +55982,28 @@
  },
  "elecciones-bps": {
   "term": "elecciones bps",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Elecciones del BPS: “Nos estamos enfrentando al abandono de los afiliados”",
-    "url": "https://www.fmgente.com.uy/noticias/elecciones-estamos-enfrentando-abandono-afiliados-84488.html",
-    "source": "FM Gente"
+    "title": "Elecciones del BPS: conocé los nombres y propuestas de los candidatos de los trabajadores activos",
+    "url": "https://ladiaria.com.uy/trabajo/articulo/2026/11/elecciones-del-bps-conoce-los-nombres-y-propuestas-de-los-candidatos-de-los-trabajadores-activos/",
+    "source": "la diaria"
    },
    {
-    "title": "Cómo consultar en la Corte Electoral dónde se vota en las elecciones obligatorias del BPS, paso a paso",
-    "url": "https://www.elpais.com.uy/negocios/noticias/como-consultar-en-la-corte-electoral-donde-se-vota-en-las-elecciones-obligatorias-del-bps-paso-a-paso",
+    "title": "¿Es obligatorio votar en las elecciones de BPS? Fecha y multas previstas",
+    "url": "https://www.elpais.com.uy/negocios/noticias/es-obligatorio-votar-en-las-elecciones-de-bps-fecha-y-multas-previstas",
     "source": "EL PAÍS Uruguay"
    },
    {
-    "title": "Elecciones del BPS: qué motivos permiten justificar el no voto y cómo hacer el trámite",
-    "url": "https://www.montevideo.com.uy/Noticias/Elecciones-del-BPS-que-motivos-permiten-justificar-el-no-voto-y-como-hacer-el-tramite-uc981149",
-    "source": "Montevideo Portal"
+    "title": "Empresarios en elecciones de BPS: mejorar certificaciones médicas y bajar el costo estatal",
+    "url": "https://www.elobservador.com.uy/economia-y-empresas/empresarios-elecciones-bps-mejorar-certificaciones-medicas-y-bajar-el-costo-estatal-n6063671",
+    "source": "El Observador"
    }
   ],
   "first": "2026-10-08T06:30:29.402853+00:00",
-  "seen": "2026-11-08T20:16:09.807837+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "UY": "2026-11-08T20:16:09.807837+00:00"
+   "UY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "woodlands": {
@@ -58424,26 +58427,26 @@
  },
  "china": {
   "term": "china",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "2024 Double 11: How AI-Powered Consultation Tools Are Revolutionizing Merchant Business Operations",
-    "url": "https://eu.36kr.com/en/p/4067946938274949",
-    "source": "36氪"
+    "title": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
+    "url": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec",
+    "source": "The Guardian"
    },
    {
-    "title": "Licensable video: China: Tokens enter Chinese consumers' shopping carts as demand for AI products soars",
-    "url": "https://www.reutersconnect.com/item/china-tokens-enter-chinese-consumers-shopping-carts-as-demand-for-ai-products-soars/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzEyMDU3NTc",
-    "source": "Reuters Connect"
+    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "url": "https://www.bbc.com/news/articles/ckz74jzpy18do",
+    "source": "BBC"
    },
    {
-    "title": "[Perspective] The quiet demise of Singles’ Day",
-    "url": "https://www.zaobao.com.sg/en/news/china/perspective-quiet-demise-singles-day",
-    "source": "联合早报"
+    "title": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
+    "url": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting",
+    "source": "CNN"
    }
   ],
   "first": "2026-10-08T14:26:02.176142+00:00",
-  "seen": "2026-11-14T09:54:28.262961+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "US": "2026-10-08T14:26:02.176142+00:00",
    "CO": "2026-10-22T23:01:48.454448+00:00",
@@ -58451,7 +58454,8 @@
    "VE": "2026-10-23T07:08:26.984680+00:00",
    "PY": "2026-10-27T15:58:10.263907+00:00",
    "EC": "2026-11-10T06:27:16.070427+00:00",
-   "CL": "2026-11-14T09:54:28.262961+00:00"
+   "CL": "2026-11-14T09:54:28.262961+00:00",
+   "MX": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "cmg-stock": {
@@ -60037,32 +60041,32 @@
   }
  },
  "el-pais": {
-  "term": "el país",
-  "traffic": "200+",
+  "term": "el pais",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Mirá En Clave País, el streaming de El País, en vivo: programa especial con todo lo que dejó la visita de León XIV",
-    "url": "https://www.elpais.com.uy/informacion/en-clave-pais/mira-en-clave-pais-el-streaming-de-el-pais-en-vivo-lunes-9-noviembre-programa-especial-con-todo-lo-que-dejo-la-visita-de-leon-xiv",
+    "title": "19% de la población aprueba la gestión del gobierno y 52% la desaprueba, según Opción",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/19-de-la-poblacion-aprueba-la-gestion-del-gobierno-y-52-la-desaprueba-segun-opcion/",
+    "source": "la diaria"
+   },
+   {
+    "title": "En Clave País I EN VIVO: Porzecanski presenta encuestas de aprobación del gobierno y Orsi",
+    "url": "https://www.elpais.com.uy/en-clave-pais-i-en-vivo-porzecanski-presenta-encuestas-de-aprobacion-del-gobierno-y-orsi",
     "source": "EL PAÍS Uruguay"
    },
    {
-    "title": "En Clave País I COMPLETO: Entrevista a José Carlos Mahía y las visitas de Juan Pablo II a Uruguay",
-    "url": "https://www.elpais.com.uy/en-clave-pais-i-entrevista-a-jose-carlos-mahia-y-las-visitas-de-juan-pablo-ii-a-uruguay-en-vivo",
-    "source": "EL PAÍS Uruguay"
-   },
-   {
-    "title": "Mirá En Clave País, el streaming de El País, en vivo: entrevista a Daniel Sturla, fecha 13 del Clausura y más",
-    "url": "https://www.elpais.com.uy/informacion/en-clave-pais/mira-en-clave-pais-el-streaming-de-el-pais-en-vivo-lunes-2-de-noviembre-entrevista-al-cardenal-daniel-sturla-fecha-13-del-clausura-y-mas",
-    "source": "EL PAÍS Uruguay"
+    "title": "Última encuesta de Opción: la aprobación de Orsi es de 20% y la desaprobación de 49%",
+    "url": "https://www.montevideo.com.uy/Noticias/Ultima-encuesta-de-Opcion-la-aprobacion-de-Orsi-es-de-20-y-la-desaprobacion-de-49--uc982109",
+    "source": "Montevideo Portal"
    }
   ],
   "first": "2026-10-08T20:03:05.072479+00:00",
-  "seen": "2026-11-09T23:30:20.398536+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "VE": "2026-10-10T00:13:09.476292+00:00",
    "AR": "2026-10-28T13:22:23.055464+00:00",
    "CL": "2026-10-28T13:22:23.055464+00:00",
-   "UY": "2026-11-09T23:30:20.398536+00:00",
+   "UY": "2026-11-15T15:27:50.142768+00:00",
    "MX": "2026-10-28T13:22:23.055464+00:00"
   }
  },
@@ -63116,7 +63120,7 @@
  },
  "rocio-robles": {
   "term": "rocio robles",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
     "title": "Así fue el tenso cara a cara entre Rocío Robles y Daniela Celis: “No quisiera que te sientas incómoda”",
@@ -63129,16 +63133,16 @@
     "source": "A24.com"
    },
    {
-    "title": "Nuevo escándalo en PH con Daniela Celis: la incómoda pregunta que le hicieron sobre Thiago Medina",
-    "url": "https://www.ciudad.com.ar/espectaculos/2026/11/13/nuevo-escandalo-en-ph-con-daniela-celis-la-incomoda-pregunta-que-le-hicieron-sobre-thiago-medina/",
-    "source": "Ciudad Magazine"
+    "title": "Escándalo en el programa de Andy Kusnetzoff: una invitada denunció un incómodo momento y habló de \"falta de respeto\"",
+    "url": "https://www.c5n.com/ratingcero/escandalo-el-programa-andy-kusnetzoff-una-invitada-denuncio-un-incomodo-momento-y-hablo-falta-respeto-n254285",
+    "source": "C5N"
    }
   ],
   "first": "2026-10-09T07:11:43.109828+00:00",
-  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "AR": "2026-11-10T06:27:16.070427+00:00",
-   "UY": "2026-11-15T07:38:16.702062+00:00"
+   "UY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "bgs": {
@@ -72597,25 +72601,25 @@
   "traffic": "100+",
   "news": [
    {
-    "title": "Wetter: Herbst-Tief bringt ersten Schnee auf Gipfel des Brockens",
-    "url": "https://www.stern.de/gesellschaft/regional/sachsen-anhalt/wetter--herbst-tief-bringt-ersten-schnee-auf-gipfel-des-brockens-38446062.html",
-    "source": "STERN.de"
+    "title": "Wetter in Santa Ponsa am 16. November 2026: Bewölkte Bedingungen mit milden Temperaturen",
+    "url": "https://www.mallorcamagazin.com/nachrichten/wetter/2026/11/15/159808/wetter-santa-ponsa-november-2026-wettervorhersage-12.html",
+    "source": "Mallorca Magazin"
    },
    {
-    "title": "Herbststurm: Sturmtief Luise sorgt für Orkan auf dem Brocken",
-    "url": "https://www.kurier.de/inhalt.herbststurm-sturmtief-luise-sorgt-fuer-orkan-auf-dem-brocken.9ef7c890-de02-4092-9ffa-804bb8cbf596.html",
-    "source": "Nordbayerischer Kurier"
+    "title": "Wetter in Palma am 16. November 2026: Überwiegend bewölkte Bedingungen mit gemäßigten Temperaturen",
+    "url": "https://www.mallorcamagazin.com/nachrichten/wetter/2026/11/15/159796/wetter-palma-fur-november-2026-wettervorhersage-10.html",
+    "source": "Mallorca Magazin"
    },
    {
-    "title": "Windig, teils Sturmböen, im oberen Bergland schwere Sturmböen",
-    "url": "https://eichsfelder-nachrichten.de/news/news_lang.php?ArtNr=393666",
-    "source": "Eichsfelder Nachrichten"
+    "title": "Wettervorhersage für Santa Ponsa am 15. November 2026: Bewölkter Himmel und gemäßigte Temperaturen",
+    "url": "https://www.mallorcamagazin.com/nachrichten/wetter/2026/11/14/159784/wetter-santa-ponsa-november-2026-wettervorhersage-11.html",
+    "source": "Mallorca Magazin"
    }
   ],
   "first": "2026-10-10T12:54:07.968114+00:00",
-  "seen": "2026-10-24T13:09:59.905491+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "PY": "2026-10-24T13:09:59.905491+00:00"
+   "PY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "julio-dos-santos": {
@@ -75766,28 +75770,29 @@
  },
  "wanderers": {
   "term": "wanderers",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Auckland FC player ratings: Tell us how they performed against Western Sydney Wanderers",
-    "url": "https://www.stuff.co.nz/sport/361048248/auckland-fc-player-ratings-tell-us-how-they-performed-against-western-sydney-wanderers",
-    "source": "Stuff"
+    "title": "Bolton Wanderers opinion: We need more from wingers to kill games off",
+    "url": "https://www.bbc.com/sport/football/articles/ck79p2449q3jo",
+    "source": "BBC"
    },
    {
-    "title": "Talay's first WSW win, defending champs hit for five",
-    "url": "https://www.inkl.com/news/wanderers-on-fire-hit-defending-champions-for-five",
-    "source": "inkl"
+    "title": "Straight From the Stands: The key area for Bolton Wanderers in January window",
+    "url": "https://www.theboltonnews.co.uk/sport/26725605.bolton-wanderers-fan-column---key-area-january-window/",
+    "source": "The Bolton News"
    },
    {
-    "title": "At last, the Wanderers have finally given fans hope — but will it last?",
-    "url": "https://www.codesports.com.au/football/new-era-bold-statement-wanderers-put-reigning-champions-to-the-sword/news-story/f21cee758cdb14b2895cbcb93081b371",
-    "source": "CODE Sports"
+    "title": "Opinion: Bolton Wanderers Have A Serious January Transfer Problem",
+    "url": "https://footballlowdown.com/opinion-bolton-wanderers-have-a-serious-january-transfer-problem/",
+    "source": "Football Lowdown"
    }
   ],
   "first": "2026-10-10T21:18:30.202743+00:00",
-  "seen": "2026-10-25T14:30:01.271677+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "UY": "2026-10-25T14:30:01.271677+00:00"
+   "UY": "2026-10-25T14:30:01.271677+00:00",
+   "CL": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "mls": {
@@ -80014,28 +80019,29 @@
  },
  "scarlett-johansson": {
   "term": "scarlett johansson",
-  "traffic": "200+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Scarlett Johansson Gets Bad Studio Movie Offers: 'Don't Make This!'",
-    "url": "https://variety.com/2026/film/news/scarlett-johansson-bad-studio-movie-offers-1236945270/",
-    "source": "Variety"
+    "title": "Why Director Brad Bird Isn’t Ready for a ‘Ray Gunn’ Sequel Yet (Exclusive)",
+    "url": "https://people.com/brad-bird-spent-30-years-making-ray-gunn-and-potential-sequel-12247611",
+    "source": "People.com"
    },
    {
-    "title": "Scarlett Johansson Has Gotten Such Bad Studio Movie Offers That She’s Told Execs: ‘I Don’t Think You Should Make This… It Seems Irresponsible’",
-    "url": "https://www.imdb.com/it/news/ni66106918/?ref_=nwc_art_perm",
-    "source": "IMDb"
+    "title": "Scarlett Johansson’s Netflix Blade Runner Replacement Gets Action-Packed New Look",
+    "url": "https://screenrant.com/scarlett-johansson-ray-gunn-netflix-new-trailer/",
+    "source": "ScreenRant"
    },
    {
-    "title": "Scarlett Johansson’s Non-MCU Sci-Fi Blockbuster Is Leaving Netflix: Here’s When",
-    "url": "https://www.yahoo.com/entertainment/movies/articles/scarlett-johansson-non-mcu-sci-120000007.html",
-    "source": "Yahoo"
+    "title": "Ray Gunn – Watch the new trailer for the pulp sci-fi film from Brad Bird",
+    "url": "https://www.liveforfilm.com/2026/11/14/ray-gunn-watch-the-new-trailer-for-the-pulp-sci-fi-film-from-brad-bird/",
+    "source": "Live for Films"
    }
   ],
   "first": "2026-10-11T06:12:49.295325+00:00",
-  "seen": "2026-11-12T03:44:05.023243+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "CA": "2026-11-12T03:44:05.023243+00:00"
+   "CA": "2026-11-12T03:44:05.023243+00:00",
+   "CO": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "can-vs-nep": {
@@ -83227,12 +83233,12 @@
  },
  "lilian-samaniego": {
   "term": "lilian samaniego",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [],
   "first": "2026-10-11T18:19:31.774911+00:00",
-  "seen": "2026-10-11T18:19:31.774911+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "PY": "2026-10-11T18:19:31.774911+00:00"
+   "PY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "estadio-la-arboleda": {
@@ -83478,25 +83484,25 @@
   "traffic": "1000+",
   "news": [
    {
-    "title": "Henderson exits in Week 5 vs. Raiders",
-    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/henderson-exits-in-week-5-vs-raiders",
+    "title": "Texans rule David Montgomery out for Sunday",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-rule-david-montgomery-out-for-sunday",
     "source": "NBC Sports"
    },
    {
-    "title": "Will David Montgomery bets be refunded after injury during Texans vs. Titans NFL Week 5?",
-    "url": "https://dknetwork.draftkings.com/2026/10/11/will-david-montgomery-bets-be-refunded-after-injury-during-texans-vs-titans-nfl-week-5/",
-    "source": "DraftKings Network"
+    "title": "David Montgomery Is Out Against the Browns and the Texans Need a Plan Beyond Woody Marks",
+    "url": "https://sports.yahoo.com/articles/david-montgomery-against-browns-texans-120008085.html",
+    "source": "Yahoo Sports"
    },
    {
-    "title": "David Montgomery injury: Latest news on Texans RB after exiting Titans matchup",
-    "url": "https://www.thebiglead.com/david-montgomery-injury-update-texans-titans-game/",
-    "source": "The Big Lead"
+    "title": "Is David Montgomery Playing Today? (Injury Update, Betting Impact for Texans vs. Browns in NFL Week 10)",
+    "url": "https://www.si.com/betting/david-montgomery-injury-update-betting-impact-for-texans-vs-browns-in-nfl-week-10-2026",
+    "source": "Sports Illustrated"
    }
   ],
   "first": "2026-10-11T18:19:31.774911+00:00",
-  "seen": "2026-10-11T18:19:31.774911+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "US": "2026-10-11T18:19:31.774911+00:00"
+   "US": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "virgilio-mendoza-amezcua": {
@@ -85222,25 +85228,25 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "Injury updates: 2 Detroit Lions carted off in first half vs. Cardinals",
-    "url": "https://www.prideofdetroit.com/detroit-lions-injuries/176762/injury-updates-detroit-lions-tom-kennedy-devin-white-cardinals",
-    "source": "Pride Of Detroit"
+    "title": "Licensable picture: Fussball Freundschaftsspiel Hamburger Sportverein - Hajduk Split",
+    "url": "https://www.reutersconnect.com/item/fussball-freundschaftsspiel-hamburger-sportverein-hajduk-split/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZRFlaMDE",
+    "source": "Reuters Connect"
    },
    {
-    "title": "Lions' Tom Kennedy: Exits early with knee issue",
-    "url": "https://www.cbssports.com/fantasy/football/news/lions-tom-kennedy-exits-early-with-knee-issue/",
-    "source": "CBS Sports"
+    "title": "Connor Hellebuyck makes 43 saves and improves to 7-0 with Devils in 7-4 win over Capitals",
+    "url": "https://www.alexandriabrief.com/connor-hellebuyck-makes-43-saves-and-improves-to-7-0-with-devils-in-7-4-win-over-capitals/",
+    "source": "The Alexandria Brief"
    },
    {
-    "title": "Two Lions carted to locker room with injuries against Cardinals",
-    "url": "https://www.detroitnews.com/story/sports/nfl/lions/2026/10/11/two-lions-carted-to-locker-room-with-injuries-against-cardinals/92209097007/",
-    "source": "The Detroit News"
+    "title": "Licensable picture: 2026 Nickelodeon's Kids Choice Awards",
+    "url": "https://www.reutersconnect.com/item/2026-nickelodeons-kids-choice-awards/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBDMVM2TU4",
+    "source": "Reuters Connect"
    }
   ],
   "first": "2026-10-11T22:18:10.329424+00:00",
-  "seen": "2026-10-11T22:18:10.329424+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "MX": "2026-10-11T22:18:10.329424+00:00"
+   "MX": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "dylan-garand": {
@@ -105142,8 +105148,8 @@
   "traffic": "500+",
   "news": [
    {
-    "title": "“Volver a esa identidad de ser muy fuertes en pelota quieta”: Ronald Araujo y el triunfo",
-    "url": "https://www.montevideo.com.uy/Deportes/-Volver-a-esa-identidad-de-ser-muy-fuertes-en-pelota-quieta--Ronald-Araujo-y-el-triunfo-uc982200",
+    "title": "“Es evidente que un cambio viene bien”: voces de Uruguay tras 2-1 frente a Argentina",
+    "url": "https://www.montevideo.com.uy/Deportes/-Es-evidente-que-un-cambio-viene-bien--voces-de-Uruguay-tras-2-1-frente-a-Argentina-uc982231",
     "source": "Montevideo Portal"
    },
    {
@@ -105152,15 +105158,15 @@
     "source": "EL PAÍS Uruguay"
    },
    {
-    "title": "Ronald Araújo: “siempre quiero estar en la Selección” | Convocados | Entrevista",
-    "url": "https://espectador.com/convocados/entrevista/ronald-araujo-siempre-quiero-estar-en-la-seleccion",
-    "source": "El Espectador Deportes"
+    "title": "«RECUPERAMOS LA PELOTA QUIETA»",
+    "url": "https://laoraldeportiva.com.uy/2026/11/14/recyperamos-la-pelota-quieta/",
+    "source": "La oral deportiva -"
    }
   ],
   "first": "2026-10-14T20:02:21.661427+00:00",
-  "seen": "2026-11-14T09:54:28.262961+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "UY": "2026-11-14T09:54:28.262961+00:00"
+   "UY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "roma-real-madrid": {
@@ -113903,29 +113909,29 @@
   }
  },
  "el-telegrafo": {
-  "term": "el telégrafo",
-  "traffic": "200+",
+  "term": "el telegrafo",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Indignación de pareja de colombianos tras robo en pleno centro de Paysandú",
-    "url": "https://www.eltelegrafo.com/2026/11/indignacion-de-pareja-de-colombianos-tras-robo-en-pleno-centro-de-paysandu/",
+    "title": "Puente, palmera y mate",
+    "url": "https://www.eltelegrafo.com/2026/11/puente-palmera-y-mate/",
     "source": "El Telégrafo"
    },
    {
-    "title": "“Nos sacaron todo\": pareja que recorre Sudamérica en auto fue robada en Paysandú y solicita ayuda",
-    "url": "https://www.elpais.com.uy/informacion/policiales/nos-sacaron-todo-pareja-que-recorre-sudamerica-en-auto-fue-robada-en-paysandu-y-solicita-ayuda",
-    "source": "EL PAÍS Uruguay"
+    "title": "Valentín Bentancour, el viaje del joven cura que pasó del barrio San Isidro al lado de León XIV",
+    "url": "https://diarioelargentino.com/gualeguaychu/valentin-bentancour-el-viaje-del-joven-cura-que-paso-del-barrio-san-isidro-al-lado-de-leon-xiv.htm",
+    "source": "Diario El Argentino"
    },
    {
-    "title": "“¿Saben dónde vive?”: influencer colombiana robada en Paysandú publicó video del ladrón",
-    "url": "https://www.montevideo.com.uy/Noticias/-Saben-donde-vive--influencer-colombiana-robada-en-Paysandu-publico-video-del-ladron-uc980880",
-    "source": "Montevideo Portal"
+    "title": "Con el párroco y teólogo Pablo Bonavía, a propósito de la visita del Papa León XIV",
+    "url": "https://mediospublicos.uy/con-el-parroco-y-teologo-pablo-bonavia-a-proposito-de-la-visita-del-papa-leon-xiv/",
+    "source": "Medios Públicos"
    }
   ],
   "first": "2026-10-15T21:03:06.995633+00:00",
-  "seen": "2026-11-05T18:14:32.015482+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "UY": "2026-11-05T18:14:32.015482+00:00"
+   "UY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "danubio": {
@@ -121445,8 +121451,8 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "PLRA garantiza gobernabilidad a la gestión municipal de Asunción",
-    "url": "https://www.lanacion.com.py/politica/2026/11/14/plra-garantiza-gobernabilidad-a-la-gestion-municipal-de-asuncion/",
+    "title": "Surgen primeros reclamos en la nueva administración municipal de Asunción",
+    "url": "https://www.lanacion.com.py/politica/2026/11/13/surgen-primeros-reclamos-en-la-nueva-administracion-municipal-de-asuncion/",
     "source": "La Nación"
    },
    {
@@ -121461,12 +121467,12 @@
    }
   ],
   "first": "2026-10-16T17:50:59.108490+00:00",
-  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "EC": "2026-10-16T17:50:59.108490+00:00",
    "CL": "2026-10-17T19:39:06.206229+00:00",
    "CO": "2026-11-03T14:53:34.240584+00:00",
-   "PY": "2026-11-15T07:38:16.702062+00:00"
+   "PY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "richard-carapaz": {
@@ -139879,28 +139885,29 @@
  },
  "eduardo-dominguez": {
   "term": "eduardo domínguez",
-  "traffic": "100+",
+  "traffic": "2000+",
   "news": [
    {
-    "title": "Eduardo Domínguez hace historia en Atlético Mineiro",
-    "url": "https://www.puntocapitalnoticias.com/eduardo-dominguez-hace-historia-en-atletico-mineiro/",
-    "source": "Punto Capital Noticias"
+    "title": "Eduardo Domínguez, sobre Boca en la Sudamericana: \"Hace 18 años que no ganan una final internacional, ¿quién tiene más presión?\"",
+    "url": "https://www.tycsports.com/boca-juniors/eduardo-dominguez-sobre-boca-sudamericana-hace-18-anos-que-no-ganan-final-internacional-quien-tiene-mas-presion-id771626.html",
+    "source": "TyC Sports"
    },
    {
-    "title": "Eduardo Domínguez superó a Milito y logró una marca histórica en Brasil",
-    "url": "https://elintransigente.com/2026/10/16/eduardo-dominguez-record-arena-mrv/",
-    "source": "El Intransigente"
+    "title": "Atlético Mineiro llega en baja a la final de la Sudamericana contra Boca: empató con Mirassol y acumula siete partidos sin ganar",
+    "url": "https://www.clarin.com/deportes/atletico-mineiro-llega-baja-final-sudamericana-boca-empato-mirassol-acumula-partidos-ganar_0_d8eAo6exHD.html",
+    "source": "Clarín"
    },
    {
-    "title": "Eduardo Domínguez hizo historia en Atlético Mineiro: superó a Gabriel Milito y consiguió un récord",
-    "url": "https://www.ole.com.ar/futbol-internacional/america/eduardo-dominguez-hizo-historia-consiguio-record-arena-mrv-partido-copa-sudamericana_0_W0TKE0yuCz.html",
-    "source": "Olé"
+    "title": "\"Hace 18 años que no gana una final internacional\": la picante chicana de Eduardo Domínguez a Boca antes de la final de la Sudamericana",
+    "url": "https://tn.com.ar/deportes/futbol/2026/11/15/la-picante-chicana-de-eduardo-dominguez-a-boca-antes-de-la-final-de-la-sudamericana/",
+    "source": "TN"
    }
   ],
   "first": "2026-10-18T13:10:19.111471+00:00",
-  "seen": "2026-10-18T13:10:19.111471+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "BR": "2026-10-18T13:10:19.111471+00:00"
+   "BR": "2026-10-18T13:10:19.111471+00:00",
+   "AR": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "copa-do-mundo-fifa-de-futebol-feminino-sub-17": {
@@ -145020,25 +145027,26 @@
   "traffic": "100+",
   "news": [
    {
-    "title": "Maya Hawke Says These 2 Taylor Swift Songs Are Like ‘Epic Poetry,’ Explains Why Eminem Is the GOAT",
-    "url": "https://www.billboard.com/music/music-news/maya-hawke-praises-taylor-swift-poetry-eminem-greatness-1236365972/",
-    "source": "Billboard"
+    "title": "Is Taylor Swift Participating in the Dolly Parton Tribute at CMA Awards 2026? The Truth",
+    "url": "https://www.eonline.com/news/1438024/taylor-swift-is-not-performing-in-dolly-parton-tribute-at-cma-awards-2026",
+    "source": "E! News"
    },
    {
-    "title": "Maya Hawke Is Proud of the Progress While Eating Spicy Wings",
-    "url": "https://firstwefeast.com/blogs/lead-gallery/maya-hawke-is-proud-of-the-progress-while-eating-spicy-wings",
-    "source": "FirstWeFeast"
+    "title": "Taylor Swift fans go wild as singer set for return to country roots with CMAs performance after 13 year absence",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16290969/Taylor-Swift-country-roots-CMAs-performance.html",
+    "source": "Daily Mail"
    },
    {
-    "title": "Taylor Swift's Self-Titled Debut Turns 20",
-    "url": "https://stereogum.com/2514834/taylor-swift-turns-20/reviews/the-anniversary",
-    "source": "Stereogum"
+    "title": "Taylor Swift Is Campaigning Correctly in 2027 Oscars Run",
+    "url": "https://www.vulture.com/article/taylor-swift-is-campaigning-correctly-in-2027-oscars-run.html",
+    "source": "Vulture"
    }
   ],
   "first": "2026-10-18T21:41:49.761757+00:00",
-  "seen": "2026-10-23T07:08:26.984680+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "MX": "2026-10-23T07:08:26.984680+00:00"
+   "MX": "2026-10-23T07:08:26.984680+00:00",
+   "VE": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "cowboys-vs-packers": {
@@ -154490,25 +154498,25 @@
   "traffic": "100+",
   "news": [
    {
-    "title": "«Contra el resto estamos parejos», dice Canapino",
-    "url": "https://campeones.com.ar/contra-el-resto-estamos-parejos-dice-canapino/",
-    "source": "Campeones"
+    "title": "Mariano Werner y un inicio complicado en la primera serie del TC en Río Cuarto",
+    "url": "https://www.carburando.com/turismo-carretera/werner-y-un-inicio-complicado-de-la-serie-del-tc-en-rio-cuarto-id201040",
+    "source": "Carburando"
    },
    {
-    "title": "Biagi, puntero y firme",
-    "url": "https://actc.org.ar/tcppk/noticias/biagi-puntero-y-firme",
-    "source": "ACTC"
+    "title": "Mariano Werner perdió dos posiciones tras un toque y terminó octavo en la primera serie del TC",
+    "url": "https://www.elonce.com/deportes/mariano-werner-perdio-dos-posiciones-tras-un-toque-y-termino-octavo-en-la-primera-serie-del-tc.htm",
+    "source": "Elonce.com"
    },
    {
-    "title": "La reacción de Canapino al segundo puesto de Werner tras largar último en la final de TC Pick Up",
-    "url": "https://www.carburando.com/notas/la-reaccion-de-canapino-al-segundo-puesto-de-werner-tras-largar-ultimo-en-la-final-de-tc-pick-up",
+    "title": "Werner responsabilizó a Azar por su toque en la primera serie del TC",
+    "url": "https://www.carburando.com/turismo-carretera/werner-explico-lo-sucedido-con-azar-en-la-primera-serie-id201041",
     "source": "Carburando"
    }
   ],
   "first": "2026-10-20T05:49:15.700137+00:00",
-  "seen": "2026-10-20T05:49:15.700137+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "AR": "2026-10-20T05:49:15.700137+00:00"
+   "AR": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "morena-beltran": {
@@ -161127,28 +161135,28 @@
  },
  "carolina-cosse": {
   "term": "carolina cosse",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "“No corresponde que decida quién hable”: Cosse por dirigente palestina en el Parlamento",
-    "url": "https://www.montevideo.com.uy/Noticias/-No-corresponde-que-decida-quien-hable--Cosse-por-dirigente-palestina-en-el-Parlamento-uc979242",
-    "source": "Montevideo Portal"
-   },
-   {
-    "title": "La oposición está \"equivocadísima\" y \"se confundieron\": senador frenteamplista defendió actividad por el Día de la Mujer Palestina",
-    "url": "https://www.elobservador.com.uy/nacional/la-oposicion-esta-equivocadisima-y-se-confundieron-senador-frenteamplista-defendio-actividad-el-dia-la-mujer-palestina-n6061131",
-    "source": "El Observador"
-   },
-   {
-    "title": "La coalición republicana objeta la participación de una activista palestina en un evento en el Parlamento",
-    "url": "https://www.elpais.com.uy/informacion/politica/la-coalicion-republicana-objeta-la-participacion-de-una-activista-palestina-en-un-evento-en-el-parlamento",
+    "title": "Exdirectora de Limpieza de Cosse fue relevada de su cargo, presentó recursos y Bergara los rechazó",
+    "url": "https://www.elpais.com.uy/informacion/politica/exdirectora-de-limpieza-de-cosse-fue-relevada-de-su-cargo-presento-recursos-y-bergara-los-rechazo",
     "source": "EL PAÍS Uruguay"
+   },
+   {
+    "title": "Noche de los Cristales Rotos: cura Verde recordó frase de León XIV y llamó a “reconocer la dignidad del otro”",
+    "url": "https://www.elpais.com.uy/informacion/sociedad/noche-de-los-cristales-rotos-cura-verde-recordo-frase-de-leon-xiv-y-llamo-a-reconocer-la-dignidad-del-otro",
+    "source": "EL PAÍS Uruguay"
+   },
+   {
+    "title": "Presidente Orsi en acto conmemorativo de la Noche de los Cristales Rotos",
+    "url": "https://www.gub.uy/presidencia/comunicacion/publicaciones/presidente-orsi-acto-conmemorativo-noche-cristales-rotos",
+    "source": "GUB.UY"
    }
   ],
   "first": "2026-10-20T22:59:49.713434+00:00",
-  "seen": "2026-10-21T01:28:18.596392+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "UY": "2026-10-21T01:28:18.596392+00:00"
+   "UY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "posiciones-de-al-nassr-contra-neom-sports-club": {
@@ -164718,25 +164726,25 @@
   "traffic": "100+",
   "news": [
    {
-    "title": "‘You Can See Everything’ and the Scrambled Egg Moment",
-    "url": "https://www.nytimes.com/2026/10/23/style/elizabeth-holmes-billy-evans-eggs.html",
-    "source": "The New York Times"
+    "title": "Billy Evans calls his portrayal in Elizabeth Holmes documentary \"crazy\" but says: \"It's entertainment\"",
+    "url": "https://www.cbsnews.com/news/billy-evans-elizabeth-holmes-documentary-portrayal/",
+    "source": "CBS News"
    },
    {
-    "title": "Here's why the Elizabeth Holmes documentary has a graphic nude scene",
-    "url": "https://www.usatoday.com/story/entertainment/movies/2026/10/24/billy-evans-elizabeth-holmes-nudity-you-can-see-everything/92387497007/",
-    "source": "USA Today"
+    "title": "Billy Evans’ First TV Interview to Air on ‘CBS Sunday Morning’: Where to Stream It Online",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-billy-evans-cbs-sunday-morning-interview-online-free-1236755562/",
+    "source": "The Hollywood Reporter"
    },
    {
-    "title": "‘You Can See Everything’ director reveals how that shocking full-frontal moment came to be",
-    "url": "https://ew.com/how-shocking-full-frontal-nudity-ended-up-in-you-can-see-everything-12190314",
-    "source": "Entertainment Weekly"
+    "title": "Billy Evans Says ‘You Can See Everything’ Made Him Look ‘Crazy’: ‘I Would’ve Preferred’ Not to Be the Villain, but ‘It’s Entertainment’",
+    "url": "https://variety.com/2026/film/news/billy-evans-you-can-see-everything-villain-1236946972/",
+    "source": "Variety"
    }
   ],
   "first": "2026-10-21T06:30:05.914566+00:00",
-  "seen": "2026-10-25T10:01:43.932538+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "CA": "2026-10-25T10:01:43.932538+00:00"
+   "CA": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "typhoon-champi": {
@@ -181324,29 +181332,30 @@
  },
  "gasoducto": {
   "term": "gasoducto",
-  "traffic": "100+",
+  "traffic": "1000+",
   "news": [
    {
-    "title": "Empresa colombiana ofrece reparar el gasoducto con Venezuela para importar gas en 2027: 'Dejamos saber a Ecopetrol nuestra absoluta capacidad'",
-    "url": "https://www.eltiempo.com/economia/sectores/empresa-colombiana-ofrece-reparar-el-gasoducto-con-venezuela-para-importar-gas-dejamos-saber-a-ecopetrol-nuestra-absoluta-capacidad-3598595",
-    "source": "El Tiempo"
+    "title": "Producción incremental de gas de proyecto costa afuera en Venezuela se destinará a Colombia: PDVSA",
+    "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-incremental-gas-proyecto-costa-163705976.html",
+    "source": "Yahoo"
    },
    {
-    "title": "De la Espriella, como Petro, busca importar gas de Venezuela: ¿por qué ahora sí es viable? | El Colombiano",
-    "url": "https://www.elcolombiano.com/negocios/importar-gas-venezuela-gasoducto-antonio-ricaurte-de-la-espriella-petro-GE43211878",
-    "source": "El Colombiano"
+    "title": "Venezuela prevé reactivar gasoducto con Colombia tras culminar reparaciones en marzo",
+    "url": "https://www.globovision.com/economia/64649/venezuela-preve-reactivar-gasoducto-con-colombia-tras-culminar-reparaciones-en-marzo",
+    "source": "Globovisión"
    },
    {
-    "title": "Minminas dice que la recuperación del gasoducto Antonio Ricaurte entraría en operación a mediados de 2027",
-    "url": "https://www.elheraldo.co/economia/2026/11/06/minminas-dice-que-la-recuperacion-del-gasoducto-antonio-ricaurte-entraria-en-operacion-a-mediados-de-2027/",
-    "source": "ELHERALDO.CO"
+    "title": "Ecopetrol reactivará el fracking y negocia importar gas de Venezuela por diez años",
+    "url": "https://ifmnoticias.com/economicas/ecopetrol-reactivara-el-fracking-y-negocia-importar-gas-de-venezuela-por-diez-an/",
+    "source": "IFM Noticias"
    }
   ],
   "first": "2026-10-23T17:45:57.940416+00:00",
-  "seen": "2026-11-07T00:12:46.222807+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "AR": "2026-10-23T17:45:57.940416+00:00",
-   "CO": "2026-11-07T00:12:46.222807+00:00"
+   "CO": "2026-11-07T00:12:46.222807+00:00",
+   "VE": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "catamarca": {
@@ -183959,28 +183968,29 @@
  },
  "doomsday": {
   "term": "doomsday",
-  "traffic": "100+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "New Avengers Doomsday preview coming to World Series",
-    "url": "https://www.elpasotimes.com/story/entertainment/movies/2026/10/23/avengers-doomsday-preview-set-for-world-series/92394963007/",
-    "source": "El Paso Times"
+    "title": "‘Avengers: Doomsday’ Lists Ryan Reynolds and Hugh Jackman Among 10 Writers",
+    "url": "https://variety.com/2026/film/news/avengers-doomsday-ryan-reynolds-hugh-jackman-writers-1236946441/",
+    "source": "Variety"
    },
    {
-    "title": "Avengers: Doctor Doom to Appear at Baseball - Marvel Prepares a Surprise for the Start of the World Series",
-    "url": "https://ixbt.games/en/news/2026/10/22/mstiteli-doktor-dum-zaglianut-na-beisbol-marvel-gotovit-siurpriz-k-startu-mirovoi-serii.html",
-    "source": "iXBT.games"
+    "title": "Veteran Marvel actor confirms his involvement in Avengers: Doomsday",
+    "url": "https://bamsmackpow.com/veteran-marvel-mcu-actor-confirms-avengers-doomsday-involvement",
+    "source": "Bam Smack Pow"
    },
    {
-    "title": "Avengers: Doomsday Artwork Reveals Sam Wilson's New Team Of Avengers — And There's One Surprise Addition",
-    "url": "https://www.imdb.com/de/news/ni66076788/?ref_=nm_nwr_1",
-    "source": "IMDb"
+    "title": "Avengers: Doomsday's Official Writing Credits Confirm Two Major Marvel Cameos",
+    "url": "https://www.slashfilm.com/2315528/avengers-doomsday-writing-credits-marvel-cameos-deadpool-wolverine/",
+    "source": "SlashFilm"
    }
   ],
   "first": "2026-10-23T21:07:51.153111+00:00",
-  "seen": "2026-10-23T21:07:51.153111+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "MX": "2026-10-23T21:07:51.153111+00:00"
+   "MX": "2026-10-23T21:07:51.153111+00:00",
+   "BR": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "ontario-digital-id": {
@@ -188380,7 +188390,7 @@
  },
  "ufc-hoy": {
   "term": "ufc hoy",
-  "traffic": "1000+",
+  "traffic": "200+",
   "news": [
    {
     "title": "Quién pelea hoy sábado 14 de noviembre en boxeo y UFC, a qué hora y dónde ver los combates EN VIVO",
@@ -188399,14 +188409,14 @@
    }
   ],
   "first": "2026-10-24T13:09:59.905491+00:00",
-  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "CL": "2026-10-24T13:09:59.905491+00:00",
    "EC": "2026-10-24T16:49:48.157120+00:00",
    "AR": "2026-11-15T00:51:30.402854+00:00",
    "UY": "2026-11-15T07:38:16.702062+00:00",
    "BO": "2026-11-15T07:38:16.702062+00:00",
-   "PY": "2026-11-15T07:38:16.702062+00:00"
+   "PY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "aston-villa-manchester-city": {
@@ -207369,29 +207379,30 @@
   }
  },
  "amon-ra-st-brown": {
-  "term": "amon ra st brown",
-  "traffic": "500+",
+  "term": "amon-ra st. brown",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Lions don't expect Amon-Ra St. Brown, Ennis Rakestraw to practice Wednesday",
-    "url": "https://sports.yahoo.com/articles/lions-dont-expect-amon-ra-195019231.html",
-    "source": "Yahoo Sports"
+    "title": "Untold stories of Detroit Lions WR Amon-Ra St. Brown's German upbringing",
+    "url": "https://www.espn.com/nfl/story/_/id/50475710/nfl-germany-lions-amon-ra-st-brown-munich",
+    "source": "ESPN"
    },
    {
-    "title": "St. Brown (ankle) ‘should be good’ for Week 8",
-    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-26/st-brown-ankle-should-be-good-for-week-8",
+    "title": "St. Brown (ribs) active for Week 10 against Pats",
+    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-15/st-brown-ribs-active-for-week-10-against-pats",
     "source": "NBC Sports"
    },
    {
-    "title": "Lions Provide Key Injury Updates: Will St. Brown, Rakestraw Miss Practice?",
-    "url": "https://www.si.com/nfl/lions/onsi/lions-provide-key-injury-updates-will-st-brown-rakestraw-miss-practice",
-    "source": "Sports Illustrated"
+    "title": "Amon-Ra St. Brown Active in Week 10",
+    "url": "https://www.thefantasyfootballers.com/news/647791/amon-ra-st-brown-active-in-week-10/",
+    "source": "Fantasy Footballers Podcast"
    }
   ],
   "first": "2026-10-26T20:22:22.959598+00:00",
-  "seen": "2026-10-26T20:22:22.959598+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "US": "2026-10-26T20:22:22.959598+00:00"
+   "US": "2026-10-26T20:22:22.959598+00:00",
+   "MX": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "starbucks-china-new-seating-policy": {
@@ -213041,28 +213052,28 @@
  },
  "winter-weather-advisory": {
   "term": "winter weather advisory",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Cooler weather and lake-effect snow potential arrive across Southeast Michigan",
-    "url": "https://www.clickondetroit.com/weather/2026/11/11/cooler-weather-and-lake-effect-snow-potential-arrive-across-southeast-michigan/",
-    "source": "ClickOnDetroit | WDIV Local 4"
+    "title": "Winter Weather Advisory: Up to 12 Inches of Snow and 40 MPH Gusts Through Monday",
+    "url": "https://www.autoblog.com/news/winter-weather-advisory-up-to-12-inches-of-snow-and-40-mph-gusts-through-monday",
+    "source": "Autoblog"
    },
    {
-    "title": "First Alert Weather Days due to multi day lake effect snow event",
-    "url": "https://www.uppermichiganssource.com/2026/11/11/first-alert-weather-days-due-multi-day-lake-effect-snow-event/",
-    "source": "Upper Michigan's Source"
+    "title": "Another Week with Gulf of Alaska Action",
+    "url": "https://opensnow.com/dailysnow/alaska/post/44815",
+    "source": "OpenSnow"
    },
    {
-    "title": "Climatological first snow thresholds passing by Northeast Wisconsin",
-    "url": "https://fox11online.com/weather/weather-stories/climatological-first-snow-thresholds-passing-by-northeast-wisconsin",
-    "source": "WLUK"
+    "title": "Blizzard Warning Issued as Heavy Snow, 60 mph Winds Approach: 'Avoid Traveling If at All Possible'",
+    "url": "https://www.mensjournal.com/news/blizzard-warning-issued-as-heavy-snow-60-mph-winds-approach-avoid-traveling-if-at-all-possible",
+    "source": "Men's Journal"
    }
   ],
   "first": "2026-10-27T15:58:10.263907+00:00",
-  "seen": "2026-11-11T22:57:43.557742+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "CA": "2026-10-27T15:58:10.263907+00:00",
+   "CA": "2026-11-15T15:27:50.142768+00:00",
    "US": "2026-11-11T22:57:43.557742+00:00"
   }
  },
@@ -228942,28 +228953,32 @@
  },
  "ao3": {
   "term": "ao3",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Fan Fiction Website AO3 Is Down, And It Could Take Weeks To Recover",
-    "url": "https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks/",
-    "source": "Engadget"
+    "title": "Fans cheer as popular online platform for spinoff stories nears full return after security incident",
+    "url": "https://apnews.com/article/ao3-fandom-archive-transformative-9e752c2cf91409434fcde7188140d066",
+    "source": "AP News"
    },
    {
-    "title": "Massive Fanfic Site Archive of Our Own Says It’s Going Down for 'Up to 4 Weeks'",
-    "url": "https://www.404media.co/archive-of-our-own-ao3-down-maintenance/",
-    "source": "404 Media"
+    "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+    "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+    "source": "WIRED"
    },
    {
-    "title": "AO3 could be down for a month. Fanfiction readers are not OK.",
-    "url": "https://www.yahoo.com/entertainment/articles/ao3-could-down-month-fanfiction-200035218.html",
+    "title": "Is AO3 still down? Here's what to know now",
+    "url": "https://www.yahoo.com/news/us/articles/ao3-still-down-heres-know-175149233.html",
     "source": "Yahoo"
    }
   ],
   "first": "2026-10-30T08:14:50.346511+00:00",
-  "seen": "2026-10-30T08:14:50.346511+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "VE": "2026-10-30T08:14:50.346511+00:00"
+   "VE": "2026-10-30T08:14:50.346511+00:00",
+   "UY": "2026-11-15T15:27:50.142768+00:00",
+   "EC": "2026-11-15T15:27:50.142768+00:00",
+   "BO": "2026-11-15T15:27:50.142768+00:00",
+   "PY": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "walmart": {
@@ -234218,28 +234233,28 @@
  },
  "clima-neuquen": {
   "term": "clima neuquen",
-  "traffic": "1000+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Clima hoy en Neuquén: el pronóstico del tiempo para este martes 3 noviembre de 2026",
-    "url": "https://www.clarin.com/informacion-general/clima-hoy-neuquen-pronostico-tiempo-martes-3-noviembre-2026_0_iWudHFLLVh.html",
-    "source": "Clarin.com"
-   },
-   {
-    "title": "Tormentas, vientos fuertes y baja de temperaturas en Neuquén y Río Negro: qué dice el pronóstico semanal del 02 al 06 de noviembre",
-    "url": "https://www.rionegro.com.ar/servicios/tormentas-vientos-fuertes-y-baja-de-temperaturas-en-neuquen-y-rio-negro-que-dice-el-pronostico-semanal-del-02-al-06-de-noviembre-4781374/",
-    "source": "Diario Río Negro"
-   },
-   {
-    "title": "Clima en Cipolletti hoy: cuál es el pronóstico del tiempo para el 3 de noviembre de 2026",
-    "url": "https://www.lanacion.com.ar/clima/rio-negro/cipolletti/clima-en-cipolletti-hoy-cual-es-el-pronostico-del-tiempo-para-el-3-de-noviembre-de-2026-nid02112026/",
+    "title": "Hay alerta amarilla por tormentas para este domingo 15 de noviembre: las provincias afectadas",
+    "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-para-este-domingo-15-de-noviembre-las-provincias-afectadas-nid15112026/",
     "source": "La Nación"
+   },
+   {
+    "title": "Clima hoy en Neuquén: el pronóstico del tiempo para este domingo 15 noviembre de 2026",
+    "url": "https://www.clarin.com/informacion-general/clima-hoy-neuquen-pronostico-tiempo-domingo-15-noviembre-2026_0_9xKdTcxYqt.html",
+    "source": "Clarín"
+   },
+   {
+    "title": "Aumenta la frecuencia de lluvias entre el lunes 16 y el viernes 20, con picos de +180 mm en estas regiones",
+    "url": "https://www.meteored.com.ar/noticias/prediccion/aumenta-la-frecuencia-de-lluvias-entre-el-lunes-16-y-el-viernes-20-con-picos-de-hasta-180-mm-en-estas-regiones.html",
+    "source": "Meteored Argentina"
    }
   ],
   "first": "2026-10-31T04:37:57.043911+00:00",
-  "seen": "2026-11-03T20:48:27.146696+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "AR": "2026-11-03T20:48:27.146696+00:00"
+   "AR": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "matias-ale": {
@@ -285700,28 +285715,29 @@
  },
  "entrenador": {
   "term": "entrenador",
-  "traffic": "200+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Raúl González Blanco, nuevo entrenador del Oviedo",
-    "url": "https://www.marca.com/futbol/oviedo/2026/11/09/raul-gonzalez-blanco-nuevo-entrenador-oviedo.html",
-    "source": "MARCA"
+    "title": "El Barça Atlètic afronta un derbi de supervivencia ante el Girona B",
+    "url": "https://es-us.noticias.yahoo.com/deportes/bar%C3%A7a-atl%C3%A8tic-afronta-derbi-supervivencia-140500973.html",
+    "source": "Yahoo"
    },
    {
-    "title": "Comunicado oficial: Julián Calero",
-    "url": "https://www.realoviedo.es/noticias/comunicado-oficial-julian-calero",
-    "source": "Real Oviedo | Web Oficial"
+    "title": "Belletti explota: \"Espero que ningún entrenador más tenga que pasar por esto\"",
+    "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004251078/belletti-explota-espero-entrenador-tenga-pasar-esto.html",
+    "source": "Mundo Deportivo"
    },
    {
-    "title": "Raúl González, muy cerca de entrenar a Real Oviedo de Grupo Pachuca",
-    "url": "https://www.espn.com.ar/futbol/espana/nota/_/id/17497864/real-oviedo-raul-gonzalez-entrenador",
-    "source": "ESPN Argentina"
+    "title": "El Barça Atlètic se viene abajo: ¡le obligan a jugar y pierde a tres futbolistas!",
+    "url": "https://www.sport.es/es/noticias/barca/futbol-base/barca-atletic-viene-abajo-le-136446586",
+    "source": "SPORT"
    }
   ],
   "first": "2026-11-09T14:12:38.384140+00:00",
-  "seen": "2026-11-09T14:12:38.384140+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "AR": "2026-11-09T14:12:38.384140+00:00"
+   "AR": "2026-11-09T14:12:38.384140+00:00",
+   "MX": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "ascensor": {
@@ -298979,9 +298995,9 @@
    }
   ],
   "first": "2026-11-12T03:44:05.023243+00:00",
-  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "BO": "2026-11-15T07:38:16.702062+00:00"
+   "BO": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "estadio-juan-canuto-pettengill": {
@@ -300306,28 +300322,28 @@
  },
  "seleccion-de-futbol-de-ecuador": {
   "term": "selección de fútbol de ecuador",
-  "traffic": "500+",
+  "traffic": "1000+",
   "news": [
    {
-    "title": "¿Cuántas veces ha ganado Ecuador a Costa Rica? Este es el historial entre ambas selecciones",
-    "url": "https://www.eluniverso.com/deportes/futbol/cuantas-veces-ha-ganado-ecuador-a-costa-rica-este-es-el-historial-entre-ambas-selecciones-nota/",
+    "title": "Amistoso Internacional: Ecuador – Costa Rica",
+    "url": "https://www.larepublica.ec/blog/2026/11/14/2-0-todo-sobre-la-primera-victoria-de-gallardo-con-ecuador/amistoso-internacional-ecuador-costa-rica/",
+    "source": "La República EC"
+   },
+   {
+    "title": "Marcelo Gallardo apunta a mantener el buen nivel ante Bolivia: “Esperemos que en Guayaquil podamos seguir concretando”",
+    "url": "https://www.eluniverso.com/deportes/futbol/marcelo-gallardo-apunta-a-mantener-el-buen-nivel-ante-bolivia-esperemos-que-en-guayaquil-podamos-seguir-concretando-nota/",
     "source": "El Universo"
    },
    {
-    "title": "Estos son los cinco retos que tiene Marcelo Gallardo con la Selección para la doble fecha FIFA ante Costa Rica y Bolivia",
-    "url": "https://www.primicias.ec/deportes/tri-ecuador/historias/marcelo-gallardo-retos-seleccion-ecuador-fecha-fifa-costa-rica-bolivia-136758/",
-    "source": "Primicias"
-   },
-   {
-    "title": "La hinchada no abandona y Ecuador apunta a jugar con un buen marco de publico en el Atahualpa",
-    "url": "https://www.futbolecuador.com/site/noticia/la-hinchada-no-abandona-y-ecuador-apunta-a-jugar-con-un-buen-marco-de-publico-en-el-atahualpa/172139",
-    "source": "futbolecuador.com"
+    "title": "Jordy Caicedo responde con gol y se mete en la pelea por ser el ‘9’ de Ecuador",
+    "url": "https://www.eltelegrafo.com.ec/noticias/deportes/212/jordy-caicedo-responde-con-gol-y-se-mete-en-la-pelea-por-ser-el-9-de-ecuador",
+    "source": "El Telégrafo (por eliminar)"
    }
   ],
   "first": "2026-11-12T12:19:12.555185+00:00",
-  "seen": "2026-11-12T12:19:12.555185+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "EC": "2026-11-12T12:19:12.555185+00:00"
+   "EC": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "la-emperatriz-divorciada": {
@@ -307101,25 +307117,26 @@
   "traffic": "100+",
   "news": [
    {
-    "title": "Zverev, Alcaraz learn Nitto ATP Finals draw fate",
-    "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-draw",
-    "source": "ATP Tour"
+    "title": "ATP Finals 2026: que partidos se juegan y dónde ver en vivo",
+    "url": "https://www.espn.com.ar/tenis/nota/_/id/17515624/atp-finals-2026-que-partidos-se-juegan-y-donde-ver-en-vivo",
+    "source": "ESPN Argentina"
    },
    {
-    "title": "Sinner went 44-3 in 2026, beat the ATP Finals field, then missed Turin entirely",
-    "url": "https://www.tenniswatcher.com/en/news/the-numbers-behind-sinners-absence-make-uncomfortable-reading-for-atp-finals-field",
-    "source": "www.tenniswatcher.com"
+    "title": "Empiezan las ATP Finals: Zverev para ratificar el número 1 y Alcaraz para cerrar un año de locos con una sonrisa",
+    "url": "https://www.clarin.com/deportes/empiezan-atp-finals-zverev-ratificar-numero-1-alcaraz-cerrar-ano-locos-sonrisa_0_AGX9uIyi15.html",
+    "source": "Clarín"
    },
    {
-    "title": "ATP Finals 2026: Full schedule and all results from men's tennis season finale in Turin",
-    "url": "https://www.olympics.com/en/news/2026-atp-finals-full-schedule-results-mens-tennis-season-finale-turin",
-    "source": "Olympics"
+    "title": "Carlos Alcaraz y Alexander Zverev encabezaron el sorteo de las ATP Finals",
+    "url": "https://442.perfil.com/noticias/tenis/atp-finals-2026-carlos-alcaraz-y-alexander-zverev-encabezaron-el-sorteo-para-el-masters-de-turin.phtml",
+    "source": "Perfil"
    }
   ],
   "first": "2026-11-13T22:30:02.438906+00:00",
-  "seen": "2026-11-13T22:30:02.438906+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "MX": "2026-11-13T22:30:02.438906+00:00"
+   "MX": "2026-11-13T22:30:02.438906+00:00",
+   "AR": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "christian-nodal-angela-aguilar": {
@@ -309506,28 +309523,31 @@
  },
  "espana-vs-inglaterra": {
   "term": "españa vs inglaterra",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Cuándo juegan España vs. Inglaterra por la UEFA Nations League 2026/27: equipo, fecha, hora y TV en vivo",
-    "url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17511159/espana-vs-inglaterra-nations-league-equipo-fecha-hora-y-tv-en-vivo",
-    "source": "ESPN Argentina"
+    "title": "\"España ya ha marcado una época\", dice Luis De la Fuente",
+    "url": "https://www.rfi.fr/es/m%C3%A1s-noticias/20261115-espa%C3%B1a-ya-ha-marcado-una-%C3%A9poca-dice-luis-de-la-fuente",
+    "source": "RFI"
    },
    {
-    "title": "¡Doble Supercuota 10 en Pastón para el España vs Inglaterra con pago 100% en dinero real!",
-    "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/11/13/doble-supercuota-10-paston-espana-vs-inglaterra-pago-100-dinero-real.html",
-    "source": "MARCA"
+    "title": "Así se juega una nueva jornada de UEFA Nations League: horario, partidos y cómo ver en vivo",
+    "url": "https://www.directvsports.com/futbol/asi-se-juega-una-nueva-jornada-de-uefa-nations-league-horario-partidos-y-como-ver-en-vivo-20261115-0005.html",
+    "source": "DSports"
    },
    {
-    "title": "Fútbol.Más de 1.100 efectivos integrarán el dispositivo de seguridad para el España-Inglaterra, declarado de alto riesgo",
-    "url": "https://www.infobae.com/america/agencias/2026/11/13/futbolmas-de-1100-efectivos-integraran-el-dispositivo-de-seguridad-para-el-espana-inglaterra-declarado-de-alto-riesgo/",
-    "source": "Infobae"
+    "title": "🗞️ Las PORTADAS del día: El España-Inglaterra, la ilusión de Italia...",
+    "url": "https://es-us.noticias.yahoo.com/deportes/portadas-d%C3%ADa-espa%C3%B1a-inglaterra-ilusi%C3%B3n-081700720.html",
+    "source": "Yahoo"
    }
   ],
   "first": "2026-11-14T09:54:28.262961+00:00",
-  "seen": "2026-11-14T09:54:28.262961+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "PE": "2026-11-14T09:54:28.262961+00:00"
+   "PE": "2026-11-14T09:54:28.262961+00:00",
+   "EC": "2026-11-15T15:27:50.142768+00:00",
+   "VE": "2026-11-15T15:27:50.142768+00:00",
+   "BO": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "fray-bentos": {
@@ -313083,26 +313103,26 @@
  },
  "jamaica-mexico": {
   "term": "jamaica - méxico",
-  "traffic": "10000+",
+  "traffic": "2000+",
   "news": [
-   {
-    "title": "Mexico lost to Jamaica. But El Tri's late goals could prove to be winners",
-    "url": "https://www.usatoday.com/story/sports/soccer/2026/11/14/mexico-jamaica-score-watch-highlights-concacaf-nations-league-channel--live/92782346007/",
-    "source": "USA Today"
-   },
-   {
-    "title": "Rojiblanco Participation in the First Leg of the Quarterfinals Between Mexico and Jamaica",
-    "url": "https://sports.yahoo.com/articles/rojiblanco-participation-first-leg-quarterfinals-210400934.html",
-    "source": "Yahoo Sports"
-   },
    {
     "title": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League",
     "url": "https://www.nytimes.com/athletic/7782420/2026/11/14/mexico-jamaica-concacaf-result-score/",
     "source": "The New York Times"
+   },
+   {
+    "title": "Reggae Boyz stun Mexico 3-2 in Nations League quarterfinal first-leg",
+    "url": "https://www.jamaicaobserver.com/2026/11/14/reggae-boyz-stun-mexico-3-2-nations-league-quarterfinal-first-leg/",
+    "source": "Jamaica Observer"
+   },
+   {
+    "title": "Jamaica vs. Mexico: What Katy Soccer Fans Should Know",
+    "url": "https://thekatynews.com/2026/11/14/jamaica-vs-mexico-what-katy-soccer-fans-should-know/",
+    "source": "The Katy News"
    }
   ],
   "first": "2026-11-15T00:51:30.402854+00:00",
-  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
    "AR": "2026-11-15T00:51:30.402854+00:00",
    "CL": "2026-11-15T00:51:30.402854+00:00",
@@ -313110,7 +313130,7 @@
    "PE": "2026-11-15T00:51:30.402854+00:00",
    "EC": "2026-11-15T07:38:16.702062+00:00",
    "VE": "2026-11-15T00:51:30.402854+00:00",
-   "BO": "2026-11-15T07:38:16.702062+00:00",
+   "BO": "2026-11-15T15:27:50.142768+00:00",
    "PY": "2026-11-15T07:38:16.702062+00:00",
    "US": "2026-11-15T00:51:30.402854+00:00",
    "MX": "2026-11-15T00:51:30.402854+00:00",
@@ -315552,7 +315572,7 @@
  },
  "catalina-fernandez-gomez": {
   "term": "catalina fernández gómez",
-  "traffic": "1000+",
+  "traffic": "200+",
   "news": [
    {
     "title": "Muere Catalina Fernández a los 25 años",
@@ -315571,9 +315591,10 @@
    }
   ],
   "first": "2026-11-15T07:38:16.702062+00:00",
-  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
   "geos": {
-   "MX": "2026-11-15T07:38:16.702062+00:00"
+   "MX": "2026-11-15T07:38:16.702062+00:00",
+   "VE": "2026-11-15T15:27:50.142768+00:00"
   }
  },
  "tris-clasico": {
@@ -315803,6 +315824,1412 @@
   "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "CA": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "escocia-australia": {
+  "term": "escocia - australia",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "¡EN VIVO! Lo mejor del partido entre Escocia vs Australia por el Nations Championship",
+    "url": "https://www.espn.com.ar/rugby/nota/_/id/17518568/rugby-argentina-nations-championship-horario-formaciones-como-ver-en-vivo-resultado-escocia-australia",
+    "source": "ESPN Argentina"
+   },
+   {
+    "title": "Wallabies vs. Escocia: Joseph Suaalii vuelve como centro y Carter Gordon regresa al XV titular",
+    "url": "https://cordobaxv.com.ar/wallabies-vs-escocia-joseph-suaalii-vuelve-como-centro-y-carter-gordon-regresa-al-xv-titular/",
+    "source": "Cordoba XV"
+   },
+   {
+    "title": "Hoy completan la quinta fecha del Nations Championship Escocia y Australia",
+    "url": "https://www.rugbychampagneweb.com/internacionales/nations-championship-2026/hoy-completan-la-quinta-fecha-del-nations-championship-escocia-y-australia",
+    "source": "Rugby Champagne"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "AR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "letonia-armenia": {
+  "term": "letonia - armenia",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Dónde ver hoy en directo Letonia-Armenia: ¿quién retransmite el partido por televisión y en streaming?",
+    "url": "https://www.goal.com/es-ar/noticias/donde-ver-hoy-en-directo-letonia-armenia-quien-retransmite-el-partido-por-television-y-en-streaming/blt9d2d7ef16acbc7ea",
+    "source": "Goal.com"
+   },
+   {
+    "title": "Latvia vs. Armenia por el Liga de Naciones 2026: día, hora y cómo seguir online",
+    "url": "https://www.lanacion.com.ar/deportes/futbol/latvia-vs-armenia-por-el-liga-de-naciones-2026-dia-hora-y-como-seguir-online-nid14112026/",
+    "source": "La Nación"
+   },
+   {
+    "title": "Alineaciones de Letonia y Armenia para el duelo de la fecha 6 de la Liga de Naciones",
+    "url": "https://bolavip.com/ar/futbol-internacional/alineaciones-de-letonia-y-armenia-para-el-duelo-de-la-fecha-6-de-la-liga-de-naciones",
+    "source": "Bolavip Argentina"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "AR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "copa-sudamericana-2026": {
+  "term": "copa sudamericana 2026",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Se viene la final: día, hora y TV de Boca vs. Atlético Mineiro, por el título de la Copa Sudamericana",
+    "url": "https://www.ole.com.ar/boca-juniors/proximo-partido-boca-final-copa-sudamericana-2026-atletico-mineiro-dia-horario-sede_0_P2PDvBlYpv.html",
+    "source": "Olé"
+   },
+   {
+    "title": "Sudamericana: CONMEBOL definió el árbitro para la final entre Boca vs. Atlético Mineiro",
+    "url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17512497/sudamericana-conmebol-definio-arbitro-final-boca-vs-atletico-mineiro",
+    "source": "ESPN Argentina"
+   },
+   {
+    "title": "Boca vs Atlético Mineiro: la Conmebol confirmó al árbitro de la final de la Copa Sudamericana y habrá mayoría uruguaya",
+    "url": "https://www.clarin.com/deportes/boca-vs-atletico-mineiro-conmebol-confirmo-arbitro-final-copa-sudamericana-mayoria-uruguaya_0_1V6n37sZxx.html",
+    "source": "Clarín"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "AR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "league-of-legends-new-dawn": {
+  "term": "league of legends new dawn",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Blitzcrank visual rework teased at Worlds 2026 as part of LoL New Dawn",
+    "url": "https://www.sheepesports.com/en/articles/blitzcrank-visual-rework-teased-at-worlds-2026-as-part-of-lol-new-dawn/en",
+    "source": "Sheep Esports"
+   },
+   {
+    "title": "League of Legends Will Never Be the Same After Massive 2027 Overhaul",
+    "url": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
+    "source": "Polygon.com"
+   },
+   {
+    "title": "Riot Games unveils League of Legends new client 'New Dawn'",
+    "url": "https://www.mgoddess.com/news/lol-83821f7b76/?lang=en",
+    "source": "Mobile Goddess"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "AR": "2026-11-15T15:27:50.142768+00:00",
+   "VE": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "tc-hoy": {
+  "term": "tc hoy",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "TC: el último parcial en Río Cuarto terminó con festejo de Rossi",
+    "url": "https://campeones.com.ar/tc-el-ultimo-parcial-en-rio-cuarto-termino-con-festejo-de-rossi/",
+    "source": "Campeones"
+   },
+   {
+    "title": "TC: Otto Fritzler, el dueño de la 1ª batería en Río Cuarto",
+    "url": "https://campeones.com.ar/tc-otto-fritzler-el-dueno-de-la-1a-bateria-en-rio-cuarto/",
+    "source": "Campeones"
+   },
+   {
+    "title": "Castellano volvió a hacer el “uno”",
+    "url": "https://actc.org.ar/tc/noticias/castellano-volvio-a-hacer-el-uno",
+    "source": "ACTC"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "AR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "furto": {
+  "term": "furto",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Mulher é presa após furto de oito peças de picanha avaliadas em quase R$ 1,2 mil em supermercado de Piracicaba",
+    "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/14/mulher-e-presa-apos-furto-de-oito-pecas-de-picanha-avaliadas-em-r-11-mil-em-supermercado-de-piracicaba.ghtml",
+    "source": "G1"
+   },
+   {
+    "title": "Mulher é presa após furtar sete picanhas de mercado",
+    "url": "https://jornalibia.com.br/noticias/policia/mulher-e-presa-apos-furtar-sete-picanhas-de-mercado/",
+    "source": "Jornal Ibiá"
+   },
+   {
+    "title": "Mulher é presa após tentar furtar sete embalagens de picanha em Montenegro -",
+    "url": "https://difusora973fm.com.br/mulher-e-presa-apos-tentar-furtar-sete-embalagens-de-picanha-em-montenegro/",
+    "source": "Difusora"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "BR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "domingo-legal-domingo-legal": {
+  "term": "domingo legal domingo legal",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "O SBT é petista? Boicote de bolsonaristas ao Teleton é cúmulo da polarização política",
+    "url": "https://noticiasdatv.uol.com.br/noticia/televisao/o-sbt-e-petista-boicote-de-bolsonaristas-ao-teleton-e-auge-da-polarizacao-politica-159321",
+    "source": "Notícias da TV"
+   },
+   {
+    "title": "Celso Portiolli vira alvo de bolsonaristas por criticar boicote ao Teleton",
+    "url": "https://veja.abril.com.br/cultura/celso-portiolli-vira-alvo-de-bolsonaristas-por-criticar-boicote-ao-teleton/",
+    "source": "VEJA"
+   },
+   {
+    "title": "É totalmente descabida essa patrulha em cima de Celso Portiolli | Diário do Grande ABC - Notícias e informações",
+    "url": "https://www.dgabc.com.br/Noticia/4368592/e-totalmente-descabida-essa-patrulha-em-cima-de-celso-portiolli",
+    "source": "Diário do Grande ABC"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "BR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "media": {
+  "term": "media",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Tens of thousands of Czechs rally against government media funding plan",
+    "url": "https://www.reuters.com/business/media-telecom/tens-thousands-czechs-rally-against-government-media-funding-plan-2026-11-15/",
+    "source": "Reuters"
+   },
+   {
+    "title": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
+    "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+    "source": "The Guardian"
+   },
+   {
+    "title": "Czech protests show the risk of pushing state-funded public broadcasting",
+    "url": "https://www.thenational.scot/news/26716811.czech-protests-spark-questions-state-funded-public-broadcasting/",
+    "source": "The National Scot"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "BR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "quina-resultado": {
+  "term": "quina resultado",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Resultado da Quina 7168: confira as dezenas sorteadas neste domingo (15)",
+    "url": "https://www.estadao.com.br/einvestidor/loterias/resultado-da-quina-7168-confira-as-dezenas-sorteadas-neste-domingo-15/",
+    "source": "Estadão"
+   },
+   {
+    "title": "Resultado da Quina 7168 de hoje: confira os números sorteados",
+    "url": "https://www.horabrasil.com.br/2026/11/15/resultado-da-quina-7168-de-hoje-confira-os-numeros-sorteados/",
+    "source": "Hora Brasil"
+   },
+   {
+    "title": "Resultado da Quina 7168: veja o resultado",
+    "url": "https://www.oficinadanet.com.br/noticias/74173-resultado-quina-7168",
+    "source": "Oficina da Net"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "BR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "inep": {
+  "term": "inep",
+  "traffic": "20000+",
+  "news": [
+   {
+    "title": "Enem: Quem faltou ao primeiro dia pode fazer a prova no segundo?",
+    "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-quem-faltou-ao-primeiro-dia-pode-fazer-a-prova-no-segundo",
+    "source": "Governo Federal"
+   },
+   {
+    "title": "Candidato revisa conteúdo nos últimos minutos antes da abertura dos portões do Enem em Fortaleza",
+    "url": "https://g1.globo.com/ce/ceara/educacao/noticia/2026/11/15/candidato-revisa-conteudo-de-biologia-nos-ultimos-minutos-antes-da-abertura-dos-portoes-do-enem-em-fortaleza.ghtml",
+    "source": "G1"
+   },
+   {
+    "title": "Enem 2026: candidatos fazem hoje 2º dia de provas em 1,9 mil cidades",
+    "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-fazem-hoje-2o-dia-de-provas-em-19-mil-cidades",
+    "source": "Agência Brasil"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "BR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "inep-enem": {
+  "term": "inep enem",
+  "traffic": "10000+",
+  "news": [
+   {
+    "title": "Certificadores Inep: quando será feito o pagamento pelo Enem 2026?",
+    "url": "https://querobolsa.com.br/revista/certificadores-inep-quando-vao-receber-enem-2026",
+    "source": "Quero Bolsa"
+   },
+   {
+    "title": "Em tratamento de câncer desde os 7 anos, jovem presta Enem dentro de hospital e sonha ser médica: 'Quero achar cura para doenças'",
+    "url": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/15/em-tratamento-de-cancer-desde-os-7-anos-jovem-presta-enem-dentro-de-hospital-e-sonha-ser-medica-quero-achar-cura-para-doencas.ghtml",
+    "source": "G1"
+   },
+   {
+    "title": "Enem em classe hospitalar garante prova a pacientes em salas especiais",
+    "url": "https://www.cartacapital.com.br/educacao/enem-em-classe-hospitalar-garante-prova-a-pacientes-em-salas-especiais/",
+    "source": "CartaCapital"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "BR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "aroldo-macedo": {
+  "term": "aroldo macedo",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Morre Aroldo Macêdo, guitarrista e um dos nomes históricos do trio elétrico, aos 68 anos",
+    "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/15/morre-aroldo-macedo-guitarrista-e-um-dos-nomes-historicos-do-trio-eletrico-aos-68-anos.ghtml",
+    "source": "G1"
+   },
+   {
+    "title": "Morre Aroldo Macedo, filho de Osmar e um dos herdeiros do trio elétrico",
+    "url": "https://aloalobahia.com/noticias/2026/11/15/morre-o-aroldo-macedo-filho-de-osmar-e-um-dos-herdeiros-do-trio-eletrico/",
+    "source": "Alô Alô Bahia"
+   },
+   {
+    "title": "Morto aos 68 anos, Aroldo Macêdo foi diagnosticado com doença rara e sem cura após dificuldades para tocar guitarra; entenda a condição",
+    "url": "https://www.correio24horas.com.br/saude/morto-aos-68-anos-aroldo-macedo-foi-diagnosticado-com-doenca-rara-e-sem-cura-apos-dificuldades-para-tocar-guitarra-entenda-a-condicao-1126",
+    "source": "Jornal Correio"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "BR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "rick": {
+  "term": "rick",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Red Hot Chili Peppers All Dress as Rick Rubin for Rock & Roll Hall of Fame Performance",
+    "url": "https://consequence.net/2026/11/red-hot-chili-peppers-rick-rubin-rock-roll-hall-of-fame-performance/",
+    "source": "Consequence of Sound"
+   },
+   {
+    "title": "Red Hot Chili Peppers, Dressed as Rick Rubin, Induct Rick Rubin Into the Hall of Fame",
+    "url": "https://ultimateclassicrock.com/red-hot-chili-peppers-rick-rubin-rock-hall-of-fame/",
+    "source": "Ultimate Classic Rock"
+   },
+   {
+    "title": "Red Hot Chili Peppers Perform As Rick Rubins At Rock & Roll Hall Of Fame 2026",
+    "url": "https://stereogum.com/2518085/red-hot-chili-peppers-perform-as-rick-rubins-at-rock-roll-hall-of-fame-2026/news",
+    "source": "Stereogum"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "BR": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "primera-b": {
+  "term": "primera b",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Con Rangers, San Felipe y Santa Cruz como protagonistas: la calculadora por la permanencia en la Primera B",
+    "url": "https://www.latercera.com/el-deportivo/noticia/con-rangers-san-felipe-y-santa-cruz-como-protagonistas-la-calculadora-por-la-permanencia-en-la-primera-b/",
+    "source": "La Tercera"
+   },
+   {
+    "title": "Cortes de tránsito en Santa Cruz por partido crucial contra Rangers de Talca por la Primera B",
+    "url": "https://eltipografo.cl/2026/11/cortes-de-transito-en-santa-cruz-por-partido-crucial-contra-rangers-de-talca-por-la-primera-b",
+    "source": "El Tipógrafo"
+   },
+   {
+    "title": "Última fecha de la Primera B: qué necesitan Rangers, San Felipe y Santa Cruz para evitar el descenso",
+    "url": "https://www.adnradio.cl/2026/11/13/ultima-fecha-de-la-primera-b-que-necesitan-rangers-san-felipe-y-santa-cruz-para-evitar-el-descenso/",
+    "source": "ADN Radio"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CL": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "santiago-wanderers-copiapo": {
+  "term": "santiago wanderers - copiapó",
+  "traffic": "5000+",
+  "news": [
+   {
+    "title": "Santiago Wanderers recibe a Deportes Copiapó en la última fecha del Ascenso",
+    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/santiago-wanderers-recibe-a-deportes-copiapo-en-la-ultima-fecha-del/2026-11-15/115011.html",
+    "source": "Cooperativa"
+   },
+   {
+    "title": "Deportes Copiapó buscará sellar ante Wanderers su clasificación a la liguilla de ascenso",
+    "url": "https://www.nostalgica.cl/deportes-copiapo-buscara-sellar-ante-wanderers-su-clasificacion-a-la-liguilla-de-ascenso/",
+    "source": "NOSTÁLGICA cl"
+   },
+   {
+    "title": "¿Quién transmite Santiago Wanderers vs Copiapó? Horario, canal y dónde ver EN VIVO por la Primera B 2026",
+    "url": "https://www.alairelibre.cl/futbol/primera-b/santiago-wanderers-vs-copiapo-horario-donde-ver-primera-b-2026/",
+    "source": "AlAireLibre.cl"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CL": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "franco-parisi": {
+  "term": "franco parisi",
+  "traffic": "2000+",
+  "news": [
+   {
+    "title": "Franco Parisi: “Lo que yo he conversado, sí, hay una mayoría en el PDG a favor de la acusación a Rabat”",
+    "url": "https://www.latercera.com/politica/noticia/franco-parisi-lo-que-yo-he-conversado-si-hay-una-mayoria-en-el-pdg-a-favor-de-la-acusacion-a-rabat/",
+    "source": "La Tercera"
+   },
+   {
+    "title": "Acusación constitucional contra Rabat: oposición llama a Parisi y al PDG a transparentar su postura",
+    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/14/acusacion-constitucional-contra-rabat-oposicion-llama-a-parisi-y-al-pdg-a-transparentar-su-postura.shtml",
+    "source": "BioBioChile"
+   },
+   {
+    "title": "AC contra Rabat: Oposición enfrenta dificultades para reunir los votos y oficialismo cierra filas con el ministro",
+    "url": "https://www.emol.com/noticias/Nacional/2026/11/13/1217042/balance-ac-a-rabat.html",
+    "source": "Emol"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CL": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "primera-b-de-chile": {
+  "term": "primera b de chile",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Todo lo que se juega este domingo en la infartante última fecha de la Primera B y la programación de los partidos",
+    "url": "https://www.emol.com/noticias/Deportes/2026/11/14/1217123/primerab-definicion-ascenso-descenso-partidos.html",
+    "source": "Emol"
+   },
+   {
+    "title": "La Liga de Ascenso se define con una dramática lucha por el título y la permanencia",
+    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/la-liga-de-ascenso-se-define-con-una-dramatica-lucha-por-el-titulo-y-la/2026-11-14/233113.html",
+    "source": "Cooperativa"
+   },
+   {
+    "title": "Partidos del fútbol chileno hoy 15 de noviembre: ¿qué duelos se juegan y dónde ver en vivo, por TV y online?",
+    "url": "https://www.adnradio.cl/2026/11/15/partidos-del-futbol-chileno-hoy-15-de-noviembre-que-duelos-se-juegan-y-donde-ver-en-vivo-por-tv-y-online/",
+    "source": "ADN Radio"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CL": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "cobreloa": {
+  "term": "cobreloa",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Dónde y a qué hora ver a Cobreloa vs. Deportes Puerto Montt en la pelea por ser el campeón de la Primera B",
+    "url": "https://www.latercera.com/el-deportivo/noticia/donde-y-a-que-hora-ver-cobreloa-vs-deportes-puerto-montt-en-la-pelea-por-ser-el-campeon-de-la-primera-b/",
+    "source": "La Tercera"
+   },
+   {
+    "title": "Mario Salas y la definición del título en el Ascenso: La presión tiene que ser un combustible",
+    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/cobreloa/mario-salas-y-la-definicion-del-titulo-en-el-ascenso-la-presion-tiene/2026-11-14/152809.html",
+    "source": "Cooperativa"
+   },
+   {
+    "title": "Partido de Cobreloa es este domingo a las 19 pm y habrá solo 10.900 entradas",
+    "url": "https://elamerica.cl/2026/11/13/oartido-de-cobreloa-es-este-domingo-a-las-19-pm-y-habra-solo-10-900-entradas/",
+    "source": "Diario El America"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CL": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "claudio-alvarado": {
+  "term": "claudio alvarado",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Revelan que empresa del Biministro Claudio Alvarado recibió más de $100 millones por parte del Estado",
+    "url": "https://www.diarioantofagasta.cl/politica/233295/revelan-que-empresa-del-biministro-alvaro-recibio-mas-de-100-millones-por-parte-del-estado/",
+    "source": "El Diario de Antofagasta"
+   },
+   {
+    "title": "Inversiones El Alba, la empresa de combustibles del ministro Alvarado que ha recibido más de $100 millones del Estado",
+    "url": "https://eldesconcierto.cl/actualidad/inversiones-el-alba-la-empresa-combustibles-del-ministro-alvarado-que-ha-recibido-mas-100-millones-del-estado-n5464018",
+    "source": "El Desconcierto"
+   },
+   {
+    "title": "Test a Alvarado, el giro de Quiroz y un “fantasma” inconfesado: Así se vivió la primera movilización contra Kast",
+    "url": "https://www.latercera.com/politica/noticia/test-a-alvarado-el-giro-de-quiroz-y-un-fantasma-inconfesado-asi-se-vivio-la-primera-movilizacion-contra-kast/",
+    "source": "La Tercera"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CL": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "lions-patriots": {
+  "term": "lions - patriots",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Patriots Gameplan: who is getting on the plane to Munich for Sunday's Week 10 matchup vs. the Lions?",
+    "url": "https://www.patriots.com/news/patriots-gameplan-who-is-getting-on-the-plane-to-munich-for-sunday-s-week-10-matchup-vs-the-lions",
+    "source": "New England Patriots"
+   },
+   {
+    "title": "Bets and Breakfast: Looking for winners in the NFL’s early game in Munich",
+    "url": "https://www.foxnews.com/outkick-betting/bets-breakfast-looking-winners-nfl-early-game-munich",
+    "source": "Fox News"
+   },
+   {
+    "title": "Kalshi Promo Code STREET55: Get $55 Bonus for Patriots-Lions, NFL Week 10",
+    "url": "https://russellstreetreport.com/2026/11/15/sports-betting/kalshi-promo-code-street55-nov-15/",
+    "source": "Russell Street Report"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CO": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "ravenna-fc": {
+  "term": "ravenna fc",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Ronaldinho returns: How to watch Brazilian icon's comeback live on Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/13612463/ronaldinho-returns-how-to-watch-brazilian-icons-comeback-live-on-sky-sports",
+    "source": "Sky Sports"
+   },
+   {
+    "title": "Licensable picture: Ravenna Ahead Of Romagna Derby And Ronaldinhos Return",
+    "url": "https://www.reutersconnect.com/item/ravenna-ahead-of-romagna-derby-and-ronaldinhos-return/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA3STU0RzQ",
+    "source": "Reuters Connect"
+   },
+   {
+    "title": "Glue on his boot or AI? R10's Ravenna training move goes viral; watch",
+    "url": "https://sports.yahoo.com/articles/glue-boot-ai-r10s-ravenna-141700656.html",
+    "source": "Yahoo Sports"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CO": "2026-11-15T15:27:50.142768+00:00",
+   "PE": "2026-11-15T15:27:50.142768+00:00",
+   "EC": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "fragata": {
+  "term": "fragata",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Colombia obtiene certificación de la OTAN para una fragata y un grupo de operaciones especiales",
+    "url": "https://www.bluradio.com/nacion/colombia-obtiene-certificacion-de-la-otan-para-una-fragata-y-un-grupo-de-operaciones-especiales-rg10",
+    "source": "Blu Radio"
+   },
+   {
+    "title": "La OTAN certificó por primera vez dos unidades de la Armada de Colombia: alcanzaron la categoría Combat Ready",
+    "url": "https://www.infobae.com/colombia/2026/11/15/la-otan-certifico-por-primera-vez-dos-unidades-de-la-armada-de-colombia-alcanzaron-la-categoria-combat-ready/",
+    "source": "Infobae"
+   },
+   {
+    "title": "¡La Armada colombiana alcanza sello de la OTAN!",
+    "url": "https://opanoticias.com/la-armada-colombiana-alcanza-sello-de-la-otan/456589",
+    "source": "Opanoticias"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CO": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "corferias": {
+  "term": "corferias",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Chocoshow 2026 llega a Bogotá con tres días dedicados al cacao y al chocolate",
+    "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/chocoshow-2026-en-bogota-fechas-horarios-y-actividades-en-corferias",
+    "source": "Bogota.gov.co"
+   },
+   {
+    "title": "De USD un millón a USD 413 millones: el crecimiento de las exportaciones de cacao colombiano",
+    "url": "https://www.semana.com/economia/macroeconomia/articulo/de-usd-1-millon-a-usd-413-millones-el-crecimiento-de-las-exportaciones-de-cacao-colombiano/202632/",
+    "source": "Revista Semana"
+   },
+   {
+    "title": "Bogotá recibirá feria del cacao tras récord de US$413 millones en exportaciones y un sector que sostiene a 65.000 familias",
+    "url": "https://www.infobae.com/colombia/2026/11/12/bogota-recibira-feria-del-cacao-tras-record-de-us413-millones-en-exportaciones-y-un-sector-que-sostiene-a-65000-familias/",
+    "source": "Infobae"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CO": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "peaje-pipiral": {
+  "term": "peaje pipiral",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Así quedó el peaje de la vía Neiva-Bogotá tras explosión, al parecer, de una moto bomba: se generó alerta en otro punto por carro abandonado",
+    "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-quedo-el-peaje-de-la-via-neiva-bogota-tras-explosion-de-moto-bomba-se-genero-alerta-en-otro-punto-por-carro-abandonado-3601236",
+    "source": "El Tiempo"
+   },
+   {
+    "title": "Los peajes, la nueva diana de las disidencias de Mordisco con las que pretende desafiar al gobierno de Abelardo De La Espriella",
+    "url": "https://www.semana.com/politica/articulo/los-peajes-la-nueva-diana-de-las-disidencias-de-mordisco-con-las-que-pretende-desafiar-al-gobierno-de-abelardo-de-la-espriella/202602/",
+    "source": "Revista Semana"
+   },
+   {
+    "title": "Atentado en Pipiral obliga a desviar el tráfico de la vía Bogotá-Villavicencio por la antigua calzada en bypass",
+    "url": "https://www.portafolio.co/economia/infraestructura/atentado-en-pipiral-obliga-a-desviar-el-trafico-de-la-via-bogota-villavicencio-por-la-antigua-calzada-en-bypass-506401",
+    "source": "Portafolio.co"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CO": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "sevilla-atletico-madrid": {
+  "term": "sevilla - atlético madrid",
+  "traffic": "5000+",
+  "news": [
+   {
+    "title": "Empate en el Di Stéfano",
+    "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo-femenino/cronicas/empate-en-el-di-stefano-14-11-2026",
+    "source": "Real Madrid CF | Web Oficial"
+   },
+   {
+    "title": "Irina se suma a la sangría del Madrid",
+    "url": "https://as.com/futbol/femenino/irina-se-suma-a-la-sangria-del-madrid-f202611-n/",
+    "source": "Diario AS"
+   },
+   {
+    "title": "Deportivo Abanca vs FC Barcelona: horario y dónde ver hoy por TV y online Liga F 2026/27 a través de DAZN",
+    "url": "https://www.dazn.com/es-ES/news/futbol/deportivo-abanca-barcelona-horario-donde-ver-tv-online-liga-f-202627-dazn/xijmny5g7vc11urbpx1xy27ds",
+    "source": "DAZN"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "PE": "2026-11-15T15:27:50.142768+00:00",
+   "MX": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "inglaterra-vs-espana": {
+  "term": "inglaterra vs españa",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "España - Inglaterra hoy, en directo: última hora de la UEFA Nations League en vivo",
+    "url": "https://as.com/futbol/seleccion/espana-inglaterra-hoy-en-directo-ultima-hora-de-la-uefa-nations-league-en-vivo-f202611-d/",
+    "source": "Diario AS"
+   },
+   {
+    "title": "\"España ya ha marcado una época\", dice Luis de la Fuente sobre el presente de su selección",
+    "url": "https://andina.pe/agencia/noticia-espana-ya-ha-marcado-una-epoca-dice-luis-de-fuente-sobre-presente-su-seleccion-1099995.aspx",
+    "source": "Agencia Andina"
+   },
+   {
+    "title": "Inglaterra examina a la España invencible",
+    "url": "https://elpais.com/deportes/futbol/2026-11-15/inglaterra-examina-a-la-espana-invencible.html",
+    "source": "EL PAÍS"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "PE": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "italia-vs-francia": {
+  "term": "italia vs. francia",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Bélgica vs Italia: Pronósticos de Apuestas, Cuotas y Alineaciones 15/11/2026",
+    "url": "https://www.oddschecker.com/es/pronosticos/futbol/2026/noviembre/cng301-pronostico-belgica-vs-italia-15-11-26",
+    "source": "Oddschecker"
+   },
+   {
+    "title": "Cuándo juegan Bélgica vs. Italia por la UEFA Nations League 2026/27: equipo, fecha, hora y TV en vivo",
+    "url": "https://www.espn.com.ar/futbol/nota/_/id/17511485/belgica-vs-italia-uefa-nations-league-2026-2027-hora-tv-en-vivo",
+    "source": "ESPN Argentina"
+   },
+   {
+    "title": "A todo o nada",
+    "url": "https://www.ansalatina.com/americalatina/noticia/deportes/2026/11/14/a-todo-o-nada_7994cc0d-67e6-4d1b-a92b-1779d75321da.html",
+    "source": "ANSA Latina"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "PE": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "flightradar24": {
+  "term": "flightradar24",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Exclusive | The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+    "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+    "source": "WSJ"
+   },
+   {
+    "title": "What to know about flights after the US nationwide ground stop",
+    "url": "https://apnews.com/article/flights-delayed-canceled-faa-8a7ea4fe27804b52bf79eaaec1308180",
+    "source": "AP News"
+   },
+   {
+    "title": "What to Know About Continued Flight Disruptions",
+    "url": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html",
+    "source": "The New York Times"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "PE": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "412-vs-luzu": {
+  "term": "412 vs luzu",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Noticias sobre Luzu TV vs. 412",
+    "url": "https://elcomercio.pe/noticias/luzu-tv-vs-412/",
+    "source": "El Comercio Perú"
+   },
+   {
+    "title": "¿En dónde se puede ver Luzu TV vs. 412? Horario y canales que pasan el ‘Gran Partido del Streaming’",
+    "url": "https://elcomercio.pe/deporte-total/futbol-mundial/donde-ver-luzu-tv-vs-412-en-vivo-gratis-por-youtube-y-kick-a-que-hora-juegan-y-canal-que-transmite-el-gran-partido-del-streaming-noticia/",
+    "source": "El Comercio Perú"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "PE": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "malvin": {
+  "term": "malvín",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Una mujer intentó robar un aire acondicionado de una casa en Malvín y fue descubierta por las cámaras -",
+    "url": "https://www.teledoce.com/telemundo/policiales/una-mujer-intento-robar-un-aire-acondicionado-de-una-casa-en-malvin-y-fue-descubierta-por-las-camaras/",
+    "source": "Teledoce.com"
+   },
+   {
+    "title": "Eduardo Darnauchans será homenajeado con música y poesía en Malvín este sábado",
+    "url": "https://www.montevideo.com.uy/Tiempo-libre/Eduardo-Darnauchans-sera-homenajeado-con-musica-y-poesia-en-Malvin-este-sabado-uc981980",
+    "source": "Montevideo Portal"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "UY": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "tesla-inc": {
+  "term": "tesla, inc.",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-p-500-bid-gets-140000560.html",
+    "source": "Yahoo Finance"
+   },
+   {
+    "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress",
+    "source": "Bloomberg.com"
+   },
+   {
+    "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+    "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+    "source": "CoinDesk"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "UY": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "sadio-mane": {
+  "term": "sadio mané",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "The Saudi club Al-Nassr dismisses Sadio Mane after he refused their major concessions",
+    "url": "https://www.goal.com/en/news/despite-his-major-concessions-saudi-club-al-nassr-rejects-sadio-mane-s-request/bltc4ed46acabdc5b2a",
+    "source": "Goal.com"
+   },
+   {
+    "title": "Saudi club Al-Nassr offload Sadio Mane after rejecting his major concessions",
+    "url": "https://www.goal.com/en/news/rejecting-his-major-concessions-saudi-club-al-nassr-dismisses-sadio-mane/bltc4ed46acabdc5b2a",
+    "source": "Goal.com"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "EC": "2026-11-15T15:27:50.142768+00:00",
+   "VE": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "puerto-santa-ana": {
+  "term": "puerto santa ana",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Calles anegadas y cortes de luz se registran por las lluvias en Guayaquil, Daule y Samborondón",
+    "url": "https://www.eluniverso.com/comunidad/guayaquil/calles-anegadas-y-cortes-de-luz-se-registran-tras-las-lluvias-en-guayaquil-daule-y-samborondon-nota/",
+    "source": "El Universo"
+   },
+   {
+    "title": "Deslizamiento de tierra en Puerto Santa Ana, zona turística de Guayaquil, provoca evacuación y alerta por nuevos desprendimientos",
+    "url": "https://www.primicias.ec/guayaquil/deslizamiento-tierra-puerto-santa-ana-edificio-astillero-bomberos-137172/",
+    "source": "Primicias"
+   },
+   {
+    "title": "Deslizamientos en Puerto Santa Ana, apagones de hasta siete horas y tormenta eléctrica desde el mediodía del sábado",
+    "url": "https://www.larepublica.ec/blog/2026/11/15/deslizamientos-en-puerto-santana-apagones-de-hasta-siete-horas-y-tormenta-electrica-desde-el-mediodia-del-sabado/",
+    "source": "La República EC"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "EC": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "willian-pacho": {
+  "term": "willian pacho",
+  "traffic": "100+",
+  "news": [],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "EC": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "copa-mundial-de-beisbol-sub-23": {
+  "term": "copa mundial de béisbol sub-23",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Team Beisbol Venezuela U23 avanza invicto a la Final del Mundial",
+    "url": "https://fevebeisbol.org/team-beisbol-venezuela-u23-avanza-invicto-a-la-final-del-mundial/",
+    "source": "Federación Venezolana de Béisbol (Fevebeisbol)"
+   },
+   {
+    "title": "Venezuela Sub-23 remontó ante Australia y está a un paso de la final",
+    "url": "https://primicia.com.ve/deportes/venezuela-sub-23-remonto-ante-australia-y-esta-a-un-paso-de-la-final/",
+    "source": "Diario Primicia"
+   },
+   {
+    "title": "Batazo de Joan Delgado le da a Venezuela el boleto a la final del Mundial Sub-23",
+    "url": "https://www.elnacional.com/2026/11/batazo-de-joan-delgado-le-da-a-venezuela-el-boleto-a-la-final-del-mundial-sub-23/",
+    "source": "El Nacional"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "VE": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "beisbolplay": {
+  "term": "beisbolplay",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Resumen Cardenales vs Caribes | 14/11/2026",
+    "url": "https://www.beisbolplay.com/lvbp/resumen-cardenales-vs-caribes-14-11-2026-133689",
+    "source": "BeisbolPlay"
+   },
+   {
+    "title": "Caribes regresó al triunfo frente a Cardenales",
+    "url": "https://www.liderendeportes.com/baseball/lvbp/caribes-regreso-al-triunfo-frente-a-cardenales/",
+    "source": "Líder en deportes"
+   },
+   {
+    "title": "Ronald Rosario decidió triunfo de Caribes sobre Cardenales con jonrón de 3 carreras en el sexto inning",
+    "url": "https://diariovea.com.ve/ronald-rosario-decidio-triunfo-de-caribes-sobre-cardenales-con-jonron-de-3-carreras-en-el-sexto-inning/",
+    "source": "DiarioVea"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "VE": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "lisa-maxwell": {
+  "term": "lisa maxwell",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Remembering Beau Rose Jessup",
+    "url": "https://news.columbia.edu/news/remembering-beau-rose-jessup",
+    "source": "Columbia University"
+   },
+   {
+    "title": "Lisa Maxwell's daughter death probe takes unexpected turn as new details emerge",
+    "url": "https://www.thenews.com.pk/latest/1423547-lisa-maxwells-daughter-death-probe-takes-unexpected-turn-as-new-details-emerge",
+    "source": "The News International"
+   },
+   {
+    "title": "Columbia University says 27-year-old daughter of actor Lisa Maxwell has died",
+    "url": "https://www.eastbaytimes.com/2026/11/13/columbia-university-27-dead-student-beau-jessup/",
+    "source": "East Bay Times"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "VE": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "cerro-vs-sol-de-america": {
+  "term": "cerro vs sol de américa",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Cerro Porteño busca su primera gran final en la Copa Paraguay ante Sol de América",
+    "url": "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/15/cerro-porteno-busca-su-primera-gran-final-en-la-copa-paraguay-ante-sol-de-america/",
+    "source": "ABC Color"
+   },
+   {
+    "title": "El once titular y el inesperado regreso en Cerro Porteño",
+    "url": "https://www.vssports.com.py/versus/2026/11/15/el-once-titular-y-el-inesperado-regreso-en-cerro-porteno",
+    "source": "VS Sports"
+   },
+   {
+    "title": "Cerro y Sol de América definen al segundo finalista",
+    "url": "https://www.rdn.com.py/2026/11/15/cerro-y-sol-de-america-definen-al-segundo-finalista/",
+    "source": "Resumen de Noticias"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "PY": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "ariel-galeano": {
+  "term": "ariel galeano",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Ariel Galeano, luego de su segundo partido y segunda eliminación en la Copa Paraguay 2026 - Libertad",
+    "url": "https://www.abc.com.py/deportes/futbol/libertad/2026/11/14/el-descargo-de-ariel-galeano-tras-se-segundo-partido-y-segunda-eliminacion-en-la-copa-paraguay-2026/",
+    "source": "ABC Color"
+   },
+   {
+    "title": "Ariel Galeano cuestionó el arbitraje: “Es como que lo ningunean a uno”",
+    "url": "https://www.abc.com.py/deportes/futbol/libertad/2026/11/14/ariel-galeano-cuestiono-el-arbitraje-es-como-que-lo-ningunean-a-uno/",
+    "source": "ABC Color"
+   },
+   {
+    "title": "Ariel Galeano critica al arbitraje: \"Me van a poner la cruz seguro por lo que estoy diciendo...\"",
+    "url": "https://www.vssports.com.py/versus/2026/11/14/ariel-galeano-critica-al-arbitraje-me-van-a-poner-la-cruz-seguro-por-lo-que-estoy-diciendo",
+    "source": "VS Sports"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "PY": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "vaki-lions": {
+  "term": "vaki lions",
+  "traffic": "2000+",
+  "news": [
+   {
+    "title": "Lions' Sione Vaki: Suiting up in Week 10",
+    "url": "https://www.cbssports.com/fantasy/football/news/lions-sione-vaki-suiting-up-in-week-10/",
+    "source": "CBS Sports"
+   },
+   {
+    "title": "Sione Vaki Suiting up in Week 10",
+    "url": "https://www.thefantasyfootballers.com/news/647794/sione-vaki-suiting-up-in-week-10/",
+    "source": "Fantasy Footballers Podcast"
+   },
+   {
+    "title": "Sione Vaki (ankle) active for Week 10",
+    "url": "https://www.fantasypros.com/nfl/news/620204/sione-vaki-ankle-active-week-10.php",
+    "source": "FantasyPros"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "US": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "teslaa-lions": {
+  "term": "teslaa lions",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Franchise legend issues call to unleash a new playmaker within Lions' offense",
+    "url": "https://sidelionreport.com/franchise-legend-issues-call-to-unleash-a-new-playmaker-within-lions-offense-01m7883058zd",
+    "source": "SideLion Report"
+   },
+   {
+    "title": "Untold stories of Detroit Lions WR Amon-Ra St. Brown's German upbringing",
+    "url": "https://www.espn.com/nfl/story/_/id/50475710/nfl-germany-lions-amon-ra-st-brown-munich",
+    "source": "ESPN"
+   },
+   {
+    "title": "Can't-Miss Play: 56-yard TD! Amon-Ra St. Brown burns Patriots' defense on long score in Munich",
+    "url": "https://www.nfl.com/videos/can-t-miss-play-56-yard-td-amon-ra-st-brown-burns-patriots-defense-on-long-score-in-munich",
+    "source": "NFL.com"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "US": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "u2-tour-2027": {
+  "term": "u2 tour 2027",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Second Night in Seville, Third Night in Barcelona",
+    "url": "https://www.u2.com/blogs/news/second-night-in-seville-third-night-in-barcelona",
+    "source": "U2.com"
+   },
+   {
+    "title": "Data reveals surprisingly affordable cities to catch U2 in 2027",
+    "url": "https://cw33.com/entertainment-news/data-reveals-surprisingly-affordable-cities-to-catch-u2-in-2027/",
+    "source": "CW33.com"
+   },
+   {
+    "title": "U2 adds a third concert in Barcelona for May 17, 2027",
+    "url": "https://foro3d.com/en/2026/noviembre/u2-anade-un-tercer-concierto-en-barcelona-para-el-17-de-mayo-de-2027.html",
+    "source": "Foro3D"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "US": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "derrick-moore": {
+  "term": "derrick moore",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "How The Lions Defense Shut Down Dolphins Despite Goff’s Scoreless Day",
+    "url": "https://sports.yahoo.com/articles/lions-defense-shut-down-dolphins-141752468.html",
+    "source": "Yahoo Sports"
+   },
+   {
+    "title": "Derrick Moore's breakout game for Lions could signify something big",
+    "url": "https://www.freep.com/story/sports/nfl/lions/2026/11/12/derrick-moore-lions-nfl-dolphins/92700290007/",
+    "source": "Detroit Free Press"
+   },
+   {
+    "title": "Aidan Hutchinson’s off-the-field impact on Lions’ defense is almost unbelievable ?",
+    "url": "https://sidelionreport.com/aidan-hutchinson-s-off-the-field-impact-on-lions-defense-is-almost-unbelievable-01m787xtswqf",
+    "source": "SideLion Report"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "US": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "lions-schedule": {
+  "term": "lions schedule",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
+    "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
+    "source": "ESPN"
+   },
+   {
+    "title": "Starting with Patriots-Lions, Fox has three windows on Sunday",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/starting-with-patriots-lions-fox-has-three-windows-on-sunday",
+    "source": "NBC Sports"
+   },
+   {
+    "title": "Seahawks fan chat: NFL Week 10 Sunday early games, Steelers vs. Bengals live discussion",
+    "url": "https://sports.yahoo.com/articles/seahawks-fan-chat-nfl-week-141500164.html",
+    "source": "Yahoo Sports"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "US": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "dhs": {
+  "term": "dhs",
+  "traffic": "5000+",
+  "news": [
+   {
+    "title": "Exclusive | The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+    "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+    "source": "WSJ"
+   },
+   {
+    "title": "What to know about flights after the US nationwide ground stop",
+    "url": "https://apnews.com/article/flights-delayed-canceled-faa-8a7ea4fe27804b52bf79eaaec1308180",
+    "source": "AP News"
+   },
+   {
+    "title": "What to Know About Continued Flight Disruptions",
+    "url": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html",
+    "source": "The New York Times"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "US": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "drake-maye": {
+  "term": "drake maye",
+  "traffic": "100000+",
+  "news": [
+   {
+    "title": "Aidan Hutchinson injured celebrating after sacking Drake Maye in Germany",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aidan-hutchinson-injured-celebrating-after-sacking-drake-maye-in-germany",
+    "source": "NBC Sports"
+   },
+   {
+    "title": "Hutchinson exits vs. Pats after suffering apparent injury while celebrating",
+    "url": "https://www.thescore.com/nfl/news/3655857/hutchinson-exits-vs-pats-after-suffering-apparent-injury-while-celebrating",
+    "source": "theScore"
+   },
+   {
+    "title": "Aidan Hutchinson suffers injury after sack celebration",
+    "url": "https://www.prideofdetroit.com/detroit-lions-news/181118/aidan-hutchinson-suffers-injury-sack-celebration-updates",
+    "source": "Pride Of Detroit"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "US": "2026-11-15T15:27:50.142768+00:00",
+   "MX": "2026-11-15T15:27:50.142768+00:00",
+   "CA": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "jared-goff": {
+  "term": "jared goff",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Jared Goff takes 1-3 career record vs. Patriots into Germany game",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-goff-takes-1-3-career-record-vs-patriots-into-germany-game",
+    "source": "NBC Sports"
+   },
+   {
+    "title": "Jared Goff might torch the Pats secondary | NFL Pro",
+    "url": "https://www.nfl.com/videos/jared-goff-might-torch-the-pats-secondary-nfl-pro",
+    "source": "NFL.com"
+   },
+   {
+    "title": "QB comparison: Jared Goff vs Drake Maye",
+    "url": "https://www.fox2detroit.com/video/fmc-sdmcimlta057hh5w",
+    "source": "FOX 2 Detroit"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "US": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "fobaproa": {
+  "term": "fobaproa",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Ondas cortas y ondas largas en la cultura Fobaproa de México",
+    "url": "https://www.jornada.com.mx/noticia/2026/11/15/opinion/ondas-cortas-y-ondas-largas-en-la-cultura-fobaproa-de-mexico",
+    "source": "La Jornada"
+   },
+   {
+    "title": "Fobaproa: de fondo de contingencia a arma política; esta es su historia",
+    "url": "https://grupoanimal.mx/politica/fobaproa-historia-rescate-bancario-deuda-publica-mexico",
+    "source": "Grupo Animal"
+   },
+   {
+    "title": "Vamos al Fobaproa",
+    "url": "https://www.sinembargo.mx/4903155/vamos-al-fobaproa/",
+    "source": "Sin Embargo"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "MX": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "teleferico-de-uruapan": {
+  "term": "teleférico de uruapan",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Piden evitar bromas en el teleférico de Uruapan después de incidente",
+    "url": "https://www.quadratin.com.mx/municipios/piden-evitar-bromas-en-el-teleferico-de-uruapan-despues-de-incidente/",
+    "source": "Quadratín Michoacán"
+   },
+   {
+    "title": "Viajes gratuitos del teleférico fortalecen a 9 mil negocios de Uruapan",
+    "url": "https://www.quadratin.com.mx/sucesos/viajes-gratuitos-del-teleferico-fortalecen-a-9-mil-negocios-de-uruapan/",
+    "source": "Quadratín Michoacán"
+   },
+   {
+    "title": "¡A volar gratis! Despega oficialmente la promoción de viajes en el teleférico de Uruapan",
+    "url": "https://www.informaoriente.com.mx/politica/a-volar-gratis--despega-oficialmente-la-promocion-de-viajes-en-el-teleferico-de-uruapan.htm",
+    "source": "InformaOriente"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "MX": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "california-coast-waves": {
+  "term": "california coast waves",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "The Surf’s Way, Way Up as Huge Waves Pound the California Coast",
+    "url": "https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html",
+    "source": "The New York Times"
+   },
+   {
+    "title": "'DO NOT GO TO THE BEACH': Weather service warns Bay Area waves could top 60 feet",
+    "url": "https://www.sfgate.com/bayarea/article/massive-surf-bay-area-22527180.php",
+    "source": "SFGATE"
+   },
+   {
+    "title": "Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes",
+    "url": "https://www.sfchronicle.com/weather/article/waves-california-coast-high-tide-22530129.php",
+    "source": "San Francisco Chronicle"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CA": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "el-ninosouthern-oscillation": {
+  "term": "el niño–southern oscillation",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "El Niño still growing stronger. Here's what could happen next",
+    "url": "https://www.usatoday.com/story/news/weather/2026/11/15/el-nino-peak-forecast/92739777007/",
+    "source": "USA Today"
+   },
+   {
+    "title": "What could El Niño mean for winter weather in the US and Canada?",
+    "url": "https://www.bbc.com/weather/articles/c6pvg22k2w2do",
+    "source": "BBC"
+   },
+   {
+    "title": "Historic El Niño nears its peak, months of impacts yet to come",
+    "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/historic-el-nino-nears-its-peak-months-of-impacts-yet-to-come",
+    "source": "The Weather Network"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CA": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "scotland-vs-australia": {
+  "term": "scotland vs australia",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Scotland v Australia: Nations Championship rugby union – live",
+    "url": "https://www.theguardian.com/sport/live/2026/nov/15/scotland-v-australia-nations-championship-rugby-union-live",
+    "source": "The Guardian"
+   },
+   {
+    "title": "Graham & Kinghorn start for Scots versus Wallabies",
+    "url": "https://ca.sports.yahoo.com/news/graham-kinghorn-start-scots-versus-142715908.html",
+    "source": "Yahoo"
+   },
+   {
+    "title": "Nations Championship: Scotland aim to bounce back against 'wounded' Australia",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/c3j4rv9ypl1ko",
+    "source": "BBC"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CA": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "jose-berrios-blue-jays-contract": {
+  "term": "jose berrios blue jays contract",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Blue Jays Send Jose Berrios Message After $48 Million Decision",
+    "url": "https://www.forbes.com/sites/peterchawaga/2026/11/15/blue-jays-send-jose-berrios-message-after-48-million-decision/",
+    "source": "Forbes"
+   },
+   {
+    "title": "Toronto Blue Jays Will Pay Injured All-Star Player $24 Million in 2027",
+    "url": "https://sports.yahoo.com/articles/toronto-blue-jays-pay-injured-192324105.html",
+    "source": "Yahoo Sports"
+   },
+   {
+    "title": "José Berrios ‘looks great’ in winter rehab",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-10/jose-berrios-looks-great-in-winter-rehab",
+    "source": "NBC Sports"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CA": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "manchester-united-f-c": {
+  "term": "manchester united f.c.",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Mauricio Pochettino: What can Manchester United fans expect from new boss?",
+    "url": "https://www.bbc.com/sport/football/articles/c85y13pv69xwo",
+    "source": "BBC"
+   },
+   {
+    "title": "Mauricio Pochettino cracks the whip! Incoming Man Utd boss implements BRUTAL new rule as Michael Carrick's policy is scrapped",
+    "url": "https://ca.sports.yahoo.com/news/mauricio-pochettino-cracks-whip-incoming-115133031.html",
+    "source": "Yahoo Sports"
+   },
+   {
+    "title": "Mauricio Pochettino to Man Utd: What does a Pochettino team look like and how will he set up struggling Red Devils?",
+    "url": "https://www.skysports.com/football/news/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils",
+    "source": "Sky Sports"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CA": "2026-11-15T15:27:50.142768+00:00"
+  }
+ },
+ "lions": {
+  "term": "lions",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Patriots vs. Lions: Three must-know storylines for NFL Week 10 Munich game",
+    "url": "https://www.nfl.com/news/patriots-vs-lions-preview-week-10-munich-game",
+    "source": "NFL.com"
+   },
+   {
+    "title": "Lions vs. Patriots: How to watch, listen and follow",
+    "url": "https://www.detroitlions.com/news/lions-vs-patriots-how-to-watch-listen-and-follow",
+    "source": "Detroit Lions"
+   },
+   {
+    "title": "Gibbs and St. Brown: The Lions duo the Patriots must stop in Munich",
+    "url": "https://www.dazn.com/en-CA/news/football/gibbs-st-brown-lions-patriots-munich-stats/azugky8qarby1v6c67jzygw3k",
+    "source": "DAZN"
+   }
+  ],
+  "first": "2026-11-15T15:27:50.142768+00:00",
+  "seen": "2026-11-15T15:27:50.142768+00:00",
+  "geos": {
+   "CA": "2026-11-15T15:27:50.142768+00:00"
   }
  }
 }
