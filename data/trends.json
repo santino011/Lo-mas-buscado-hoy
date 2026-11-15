@@ -1655,30 +1655,30 @@
  },
  "meteorologia": {
   "term": "meteorología",
-  "traffic": "1000+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Clima en Paraguay: miércoles con lluvias, alerta de tormentas y granizo",
-    "url": "https://www.abc.com.py/clima/2026/11/11/clima-en-paraguay-miercoles-con-lluvias-alerta-de-tormentas-y-granizo/",
-    "source": "ABC Color"
+    "title": "DMC emite aviso por probables tormentas eléctricas en seis regiones: prevén granizos y fuertes vientos",
+    "url": "https://www.latercera.com/nacional/noticia/dmc-emite-aviso-por-probables-tormentas-electricas-en-seis-regiones-preven-granizos-y-fuertes-vientos/",
+    "source": "La Tercera"
    },
    {
-    "title": "Persistirá el calor en la jornada, pero con tiempo inestable",
-    "url": "https://www.lanacion.com.py/pais/2026/11/11/persistira-el-calor-en-la-jornada-pero-con-tiempo-inestable/",
-    "source": "La Nación"
+    "title": "Chile bajo aviso por posibles nubes tornádicas y trombas marinas: DMC y Armada advierten riesgos este domingo",
+    "url": "https://www.meteored.cl/noticias/actualidad/chile-bajo-aviso-por-posibles-nubes-tornadicas-y-trombas-marinas-dmc-y-armada-advierten-riesgos-este-domingo.html",
+    "source": "Meteored Chile"
    },
    {
-    "title": "Anuncian tormentas y calor de hasta 39 °C",
-    "url": "https://www.rdn.com.py/2026/11/11/anuncian-tormentas-y-calor-de-hasta-39-c/",
-    "source": "Resumen de Noticias"
+    "title": "Incluye 'Raco' en la Región Metropolitana: Meteorología emite avisos por vientos de hasta 90 km/h en sectores de nueve regiones",
+    "url": "https://www.meganoticias.cl/nacional/536375-meteorologia-dmc-aviso-vientos-90-km-por-hora-viento-raco-region-metropolitana-dcv-14-11-2026.html",
+    "source": "Meganoticias"
    }
   ],
   "first": "2026-09-30T20:57:40.415107+00:00",
-  "seen": "2026-11-12T03:44:05.023243+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "AR": "2026-09-30T20:57:40.415107+00:00",
    "CO": "2026-10-07T20:28:07.001690+00:00",
-   "CL": "2026-10-08T00:22:24.690471+00:00",
+   "CL": "2026-11-15T07:38:16.702062+00:00",
    "UY": "2026-10-29T21:37:22.556516+00:00",
    "PY": "2026-11-12T03:44:05.023243+00:00"
   }
@@ -9121,29 +9121,29 @@
  },
  "futbol": {
   "term": "fútbol",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Louzán en el V Congreso ProLiga: “Estamos en el mejor año del fútbol español”",
-    "url": "https://as.com/futbol/mas_futbol/louzan-en-el-v-congreso-proliga-estamos-en-el-mejor-ano-del-futbol-espanol-f202611-n/",
+    "title": "Damián Rodríguez: “El 95% de mi fútbol es de Giraldez”",
+    "url": "https://as.com/futbol/segunda/damian-rodriguez-el-95-de-mi-futbol-es-de-giraldez-f202611-n/",
     "source": "Diario AS"
    },
    {
-    "title": "Rafa Louzán, en el V Congreso ProLiga, sobre la sanción a Owono: \"Hay que respetar la decisión\"",
-    "url": "https://www.marca.com/futbol/andorra/2026/11/14/louzan-v-congreso-proliga-sobre-sancion-owono-hay-respetar-decision.html",
-    "source": "MARCA"
+    "title": "Míchel González sobre el fútbol en los 80: \"Mi hijo mayor nació el 25 de mayo y yo estuve 50 días con la Selección Española en una Eurocopa. Recuerdo recibir una foto por fax de él con 15 días\"",
+    "url": "https://www.lecturas.com/actualidad/michel-gonzalez-sobre-futbol-80-mi-hijo-mayor-nacio-25-mayo-y-yo-estuve-50-dias-seleccion-espanola-eurocopa-recuerdo-recibir-foto-por-fax-15-dias_201263",
+    "source": "Lecturas"
    },
    {
-    "title": "Nueve equipos asturianos participan en el V Congreso de Proliga",
-    "url": "https://www.futbolasturiano.es/nueve-equipos-asturianos-participan-en-el-v-congreso-de-proliga/",
-    "source": "FutbolAsturiano.es"
+    "title": "DAZN GO reúne fútbol, motor y baloncesto en un plan especial",
+    "url": "https://www.marca.com/futbol/primera-division/2026/11/13/dazn-go-reune-futbol-motor-baloncesto-plan-especial.html",
+    "source": "MARCA"
    }
   ],
   "first": "2026-10-01T19:19:31.910181+00:00",
-  "seen": "2026-11-14T16:25:23.579274+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "VE": "2026-10-01T19:19:31.910181+00:00",
-   "UY": "2026-11-01T09:37:03.075373+00:00",
+   "UY": "2026-11-15T07:38:16.702062+00:00",
    "EC": "2026-10-23T23:55:29.618613+00:00",
    "PY": "2026-11-01T20:58:43.523247+00:00",
    "CL": "2026-11-07T13:26:30.709852+00:00",
@@ -19114,26 +19114,26 @@
  },
  "granizo": {
   "term": "granizo",
-  "traffic": "5000+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Alerta meteorológica: 4 departamentos de Paraguay en alerta por tormentas - Clima",
-    "url": "https://www.abc.com.py/clima/2026/11/14/alerta-meteorologica-4-departamentos-de-paraguay-en-alerta-por-tormentas/",
-    "source": "ABC Color"
+    "title": "Frente frío 5 traerá lluvias intensas y temperaturas de 0 grados a Puebla",
+    "url": "https://elpopular.mx/comunidad/medio-ambiente/2026/11/12/frente-frio-5-traera-lluvias-intensas-y-temperaturas-de-0-grados-a-puebla",
+    "source": "El Popular, periodismo con causa"
    },
    {
-    "title": "Meteorología prevé un sábado muy caluroso y probables lluvias intensas",
-    "url": "https://www.lanacion.com.py/pais/2026/11/14/meteorologia-preve-un-sabado-muy-caluroso-y-probables-lluvias-intensas/",
-    "source": "La Nación"
+    "title": "Frente frío 5 pega a Puebla, Conagua informa sus efectos este fin de semana",
+    "url": "https://oem.com.mx/elsoldepuebla/local/frente-frio-5-pega-a-puebla-conagua-informa-sus-efectos-este-fin-de-semana-33093991",
+    "source": "El Sol de México"
    },
    {
-    "title": "Lluvias, tormentas, vientos fuertes y probabilidad de caída de granizos para este sábado",
-    "url": "https://www.ultimahora.com/lluvias-tormentas-vientos-fuertes-y-probabilidad-de-caida-de-granizos-para-este-sabado",
-    "source": "Última Hora"
+    "title": "¡Saca el paraguas! Puebla tendrá lluvias intensas",
+    "url": "https://tribunanoticias.mx/saca-el-paraguas-puebla-tendra-lluvias-intensas/",
+    "source": "Tribunanoticias"
    }
   ],
   "first": "2026-10-03T05:06:03.761147+00:00",
-  "seen": "2026-11-14T20:52:54.700655+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "CL": "2026-10-30T01:40:32.274557+00:00",
    "AR": "2026-11-14T16:25:23.579274+00:00",
@@ -19143,7 +19143,8 @@
    "VE": "2026-10-23T12:46:03.349235+00:00",
    "BO": "2026-10-25T10:01:43.932538+00:00",
    "PY": "2026-11-14T20:52:54.700655+00:00",
-   "UY": "2026-11-04T22:04:01.387175+00:00"
+   "UY": "2026-11-04T22:04:01.387175+00:00",
+   "MX": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "loteria-de-medellin": {
@@ -19417,26 +19418,26 @@
  },
  "epicentro": {
   "term": "epicentro",
-  "traffic": "1000+",
+  "traffic": "2000+",
   "news": [
    {
-    "title": "Temblor en Filipinas hoy, 14 de noviembre: magnitud, epicentro y profundidad del sismo",
-    "url": "https://www.minuto60.com/mundo/terremoto-hoy-14-noviembre-filipinas-magnitud-epicentro/18962",
-    "source": "Minuto60"
+    "title": "Temblor hoy, sábado 14 de noviembre en Chile: consulta epicentro y magnitud",
+    "url": "https://www.latercera.com/servicios/noticia/temblor-hoy-sabado-14-de-noviembre-en-chile-consulta-epicentro-y-magnitud/",
+    "source": "La Tercera"
    },
    {
-    "title": "Fuerte sismo en Perú hoy, viernes 13 de noviembre: reportan temblor de magnitud 5,9 en San Juan de Marcona, cerca de la costa sur",
-    "url": "https://www.eltiempo.com/mundo/latinoamerica/fuerte-sismo-en-peru-hoy-viernes-13-de-noviembre-reportan-temblor-de-magnitud-5-9-en-san-juan-de-marcona-cerca-de-la-costa-sur-3600863",
-    "source": "El Tiempo"
+    "title": "Sismo se registra hoy 13 de noviembre en la zona norte del país: revisa su magnitud",
+    "url": "https://www.24horas.cl/regiones/zona-norte/antofagasta/sismo-se-registra-hoy-13-de-noviembre-en-la-zona-norte-",
+    "source": "24horas"
    },
    {
-    "title": "Dos sismos de regular magnitud remecieron el país en un lapso de menos de una hora",
-    "url": "https://rpp.pe/peru/actualidad/dos-sismos-de-regular-magnitud-remecieron-el-pais-en-un-lapso-de-menos-de-una-hora-noticia-1717602",
-    "source": "RPP Noticias"
+    "title": "Temblor en Socaire: revisa magnitud, epicentro y profundidad",
+    "url": "https://www.vlnradio.cl/noticias/nacional/2026/11/14/temblor-en-socaire-revisa-magnitud-epicentro-y-profundidad/",
+    "source": "VLN Radio"
    }
   ],
   "first": "2026-10-03T05:06:03.761147+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "VE": "2026-11-14T09:54:28.262961+00:00",
    "CO": "2026-10-23T12:46:03.349235+00:00",
@@ -19445,7 +19446,7 @@
    "EC": "2026-10-25T00:04:04.057916+00:00",
    "MX": "2026-10-28T13:22:23.055464+00:00",
    "PE": "2026-10-27T10:15:15.802318+00:00",
-   "BO": "2026-11-15T00:51:30.402854+00:00"
+   "BO": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "replica": {
@@ -26836,22 +26837,22 @@
     "source": "The Playlist"
    },
    {
-    "title": "‘VisionQuest’ Finale Hits 3.7 Million Views in One Day",
-    "url": "https://variety.com/2026/tv/news/visionquest-finale-ratings-views-1236947348/",
-    "source": "Variety"
-   },
-   {
     "title": "Marvel's New Sci-Fi Series Hits 421 Million Minutes Watched in One Week",
     "url": "https://collider.com/visionquest-marvel-sci-fi-minutes-watched-disney-plus/",
     "source": "Collider"
+   },
+   {
+    "title": "Marvel Just Made Scarlet Witch's MCU Return Even Bigger",
+    "url": "https://www.cbr.com/mcu-visionquest-scarlet-witch-return/",
+    "source": "Comic Book Resources"
    }
   ],
   "first": "2026-10-04T07:54:29.398968+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "AR": "2026-10-04T07:54:29.398968+00:00",
    "EC": "2026-10-25T20:32:01.115787+00:00",
-   "UY": "2026-11-15T00:51:30.402854+00:00",
+   "UY": "2026-11-15T07:38:16.702062+00:00",
    "CO": "2026-10-11T13:17:50.245833+00:00",
    "BO": "2026-10-25T20:32:01.115787+00:00",
    "BR": "2026-10-15T23:45:21.706329+00:00",
@@ -26864,27 +26865,27 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "The Most Popular Disney Movie The Year You Were Born",
-    "url": "https://www.mentalfloss.com/entertainment/movies/most-popular-disney-movie-year-you-were-born",
-    "source": "Mental Floss"
+    "title": "Tropical Americas Entrance Archway Nears Completion as Painting Wraps Up at Disney's Animal Kingdom",
+    "url": "https://wdwnt.com/2026/11/tropical-americas-archway-nearly-complete-at-disneys-animal-kingdom/",
+    "source": "WDW News Today"
    },
    {
-    "title": "The Most Popular Disney Movie The Year You Were Born",
-    "url": "https://allears.net/2026/11/09/the-most-popular-disney-movie-the-year-you-were-born/",
-    "source": "AllEars.Net"
+    "title": "Tropical Americas Construction Permit Extended Another Year at Disney's Animal Kingdom",
+    "url": "https://www.wdwmagic.com/attractions/tropical-americas/news/12nov2026-tropical-americas-encanto-construction-permit-extended-another-year.htm",
+    "source": "WDWMagic"
    },
    {
-    "title": "Empire State Building Observation Deck to Debut ‘Olympus Awaits,’ An Immersive ‘Percy Jackson and the Olympians’ Takeover in the Heart of NYC, On Display from Nov. 16 – Dec. 4",
-    "url": "http://www.afp.com/en/infos/empire-state-building-observation-deck-debut-olympus-awaits-immersive-percy-jackson-and",
-    "source": "AFP.com"
+    "title": "New Progress Revealed for Animal Kingdom’s ‘Encanto’ Attraction at Disney World",
+    "url": "https://insidethemagic.net/2026/11/new-progress-revealed-animal-kingdoms-encanto-attraction-disney-world-th1/",
+    "source": "Inside the Magic"
    }
   ],
   "first": "2026-10-04T07:54:29.398968+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "AR": "2026-10-20T19:53:25.413999+00:00",
    "PE": "2026-10-10T17:40:55.577194+00:00",
-   "UY": "2026-11-15T00:51:30.402854+00:00",
+   "UY": "2026-11-15T07:38:16.702062+00:00",
    "CL": "2026-11-13T22:30:02.438906+00:00",
    "EC": "2026-10-25T20:32:01.115787+00:00",
    "BR": "2026-10-15T23:45:21.706329+00:00",
@@ -27184,29 +27185,29 @@
   }
  },
  "loteria-de-boyaca": {
-  "term": "loteria de boyaca",
-  "traffic": "100+",
+  "term": "loteria de boyacá",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Lotería de Boyacá del sábado 3 de octubre: resultados, último sorteo y números ganadores del premio mayor",
-    "url": "https://depor.com/colombia/local-co/loteria-de-boyaca-en-vivo-hoy-sabado-3-de-octubre-resultados-ultimo-sorteo-secos-y-numeros-ganadores-del-premio-mayor-colombia-co-noticia/",
-    "source": "Depor"
+    "title": "Lotería de Boyacá, Lotería del Cauca y Baloto: resultados del sábado 14 de noviembre de 2026",
+    "url": "https://www.noticiascaracol.com/economia/loteria-de-boyaca-loteria-del-cauca-y-baloto-resultados-del-sabado-14-de-noviembre-de-2026-so35",
+    "source": "Noticias Caracol"
    },
    {
-    "title": "Resultado Lotería del Cauca anoche: número ganador mayor y secos del sabádo 3 de octubre",
-    "url": "https://www.bluradio.com/economia/juegos-de-azar/resultado-loteria-del-cauca-hoy-numero-ganador-mayor-y-secos-del-sabado-3-de-octubre-so35",
-    "source": "Blu Radio"
+    "title": "Lotería de Boyacá y del Cauca: conozca los números ganadores del sábado 14 de noviembre del 2026",
+    "url": "https://www.eltiempo.com/economia/finanzas-personales/loteria-de-boyaca-y-del-cauca-conozca-los-numeros-ganadores-del-sabado-14-de-noviembre-del-3601190",
+    "source": "El Tiempo"
    },
    {
-    "title": "Último sorteo de la Lotería de Boyacá: resultado premio mayor hoy 3 de octubre",
-    "url": "https://www.lafm.com.co/sociedad/loteria-de-boyaca-resultado-premio-mayor-hoy-3-de-octubre-2026-412909",
-    "source": "La FM"
+    "title": "EN VIVO 🔴 Sorteo de la Lotería de Boyacá de HOY 14 de noviembre 2026: premio mayor y más resultados",
+    "url": "https://caracol.com.co/2026/11/15/en-vivo-sorteo-de-la-loteria-de-boyaca-de-hoy-14-de-noviembre-2026-premio-mayor-y-mas-resultados/",
+    "source": "Caracol Radio"
    }
   ],
   "first": "2026-10-04T07:54:29.398968+00:00",
-  "seen": "2026-10-04T13:47:43.740708+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "CO": "2026-10-04T07:54:29.398968+00:00",
+   "CO": "2026-11-15T07:38:16.702062+00:00",
    "VE": "2026-10-04T13:47:43.740708+00:00"
   }
  },
@@ -37308,28 +37309,28 @@
   "traffic": "100+",
   "news": [
    {
-    "title": "Bruce Willis' heartbreaking decline revealed",
-    "url": "https://www.dailymail.com/tvshowbiz/article-16268627/Bruce-Willis-dementia-decline-hollywood-family-wife.html",
-    "source": "Daily Mail"
+    "title": "1997 Classic, Ranked Among Bruce Willis' Best Movies, Was Released 29 Years Ago Today",
+    "url": "https://www.yahoo.com/entertainment/movies/articles/1997-classic-ranked-among-bruce-114743508.html",
+    "source": "Yahoo"
    },
    {
-    "title": "Bruce Willis faces a new health decline due to dementia...",
-    "url": "https://www.jordannews.jo/Section-117/Culture-Arts/Bruce-Willis-faces-a-new-health-decline-due-to-dementia-58683",
-    "source": "www.jordannews.jo"
+    "title": "1997 Bruce Willis Classic 'The Fifth Element' Is One of Tubi's Most-Watched Movies in the U.S.",
+    "url": "https://www.yahoo.com/entertainment/movies/articles/1997-bruce-willis-classic-fifth-222659090.html",
+    "source": "Yahoo"
    },
    {
-    "title": "Bruce Willis’ daughter shares unseen photo of star",
-    "url": "https://www.perthnow.com.au/entertainment/bruce-willis-film-stars-daughter-tallulah-shares-unseen-photo-three-years-before-his-steep-mental-decline-c-23144454",
-    "source": "PerthNow"
+    "title": "Forget Die Hard, Bruce Willis' 29-Year-Old Sci-Fi Classic Is a Free Streaming Hit",
+    "url": "https://www.cbr.com/bruce-willis-the-fifth-element-tubi-success-sci-fi-november-2026/",
+    "source": "Comic Book Resources"
    }
   ],
   "first": "2026-10-05T15:39:20.400432+00:00",
-  "seen": "2026-11-11T16:28:36.823732+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "MX": "2026-10-31T23:09:54.956837+00:00",
    "AR": "2026-10-09T00:34:02.872813+00:00",
    "VE": "2026-10-09T00:34:02.872813+00:00",
-   "CL": "2026-10-11T22:18:10.329424+00:00",
+   "CL": "2026-11-15T07:38:16.702062+00:00",
    "CO": "2026-11-11T01:23:34.150374+00:00",
    "PE": "2026-11-11T16:28:36.823732+00:00"
   }
@@ -38006,7 +38007,7 @@
  },
  "tormenta-electrica": {
   "term": "tormenta eléctrica",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
    {
     "title": "Pronostican lluvias, chubascos y fuertes rachas de viento en cinco municipios de Baja California",
@@ -38025,12 +38026,13 @@
    }
   ],
   "first": "2026-10-05T22:21:51.454968+00:00",
-  "seen": "2026-11-14T20:52:54.700655+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "CL": "2026-10-06T02:25:47.786432+00:00",
    "MX": "2026-11-14T20:52:54.700655+00:00",
    "VE": "2026-11-14T20:52:54.700655+00:00",
-   "EC": "2026-11-13T16:59:54.476803+00:00"
+   "EC": "2026-11-13T16:59:54.476803+00:00",
+   "BO": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "fernando-ortiz": {
@@ -48846,28 +48848,29 @@
  },
  "mexico-vs-jamaica": {
   "term": "mexico vs jamaica",
-  "traffic": "2000+",
+  "traffic": "1000+",
   "news": [
    {
-    "title": "¿Casualidad? Así 'descubrieron' Rafa Márquez y su cuerpo técnico a Armando León en Croacia",
-    "url": "https://www.mediotiempo.com/futbol/seleccion-mayor/casualidad-descubrieron-rafa-marquez-cuerpo-tecnico-armando-leon-croacia",
-    "source": "Mediotiempo"
+    "title": "Mexico lost to Jamaica. But El Tri's late goals could prove to be winners",
+    "url": "https://www.usatoday.com/story/sports/soccer/2026/11/14/mexico-jamaica-score-watch-highlights-concacaf-nations-league-channel--live/92782346007/",
+    "source": "USA Today"
    },
    {
-    "title": "Jamaica da lista para duelos con México en Nations League",
-    "url": "https://www.espn.com.mx/futbol/selecciones/nota/_/id/17484857/jamaica-convocatoria-contra-mexico-nations-league",
-    "source": "ESPN México"
+    "title": "Rojiblanco Participation in the First Leg of the Quarterfinals Between Mexico and Jamaica",
+    "url": "https://sports.yahoo.com/articles/rojiblanco-participation-first-leg-quarterfinals-210400934.html",
+    "source": "Yahoo Sports"
    },
    {
-    "title": "Da Mara Lezama bienvenida a la Selección Mexicana que llegará mañana al Caribe Mexicano para preparar su partido ante Jamaica",
-    "url": "https://cgc.qroo.gob.mx/da-mara-lezama-bienvenida-a-la-seleccion-mexicana-que-llegara-manana-al-caribe-mexicano-para-preparar-su-partido-ante-jamaica/",
-    "source": "Gobierno del Estado de Quintana Roo"
+    "title": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League",
+    "url": "https://www.nytimes.com/athletic/7782420/2026/11/14/mexico-jamaica-concacaf-result-score/",
+    "source": "The New York Times"
    }
   ],
   "first": "2026-10-07T07:01:54.260533+00:00",
-  "seen": "2026-11-08T01:43:00.654259+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "MX": "2026-11-08T01:43:00.654259+00:00"
+   "MX": "2026-11-08T01:43:00.654259+00:00",
+   "EC": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "arturo-vidal": {
@@ -50539,28 +50542,28 @@
  },
  "abogado": {
   "term": "abogado",
-  "traffic": "1000+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Habló el hombre agredido por un integrante del CUC de rugby",
-    "url": "https://www.infobae.com/video/sociedad/hablo-el-hombre-agredido-por-un-integrante-del-cuc-de-rugby/I8T01bqm/",
-    "source": "Infobae"
+    "title": "Ueno Bank: Miguel Vázquez tiene nuevo abogado y apela ampliación de la calificación jurídica",
+    "url": "https://www.abc.com.py/economia/2026/11/14/ueno-bank-miguel-vazquez-tiene-nuevo-abogado-y-apela-ampliacion-de-la-calificacion-juridica/",
+    "source": "ABC Color"
    },
    {
-    "title": "Lo acusó de mirar a su pareja, le pegó más de diez trompadas y quedó detenido en Córdoba",
-    "url": "https://radiomitre.cienradios.com/policiales/lo-acuso-de-mirar-a-su-pareja-le-pego-mas-de-diez-trompadas-y-quedo-detenido-en-cordoba/",
-    "source": "Radio Mitre"
+    "title": "Miguel Vázquez queda sin representación legal tras renuncia de sus tres abogados",
+    "url": "https://www.hoy.com.py/nacionales/2026/11/09/miguel-vazquez-queda-sin-representacion-legal-tras-renuncia-de-sus-tres-abogados",
+    "source": "Diario HOY – En Paraguay y el Mundo"
    },
    {
-    "title": "El violento antecedente del golpeador de la pizzería: en 2024 se había peleado en una discusión de tránsito",
-    "url": "https://eldoce.tv/actualidad/2026/11/13/el-violento-antecedente-del-golpeador-de-la-pizzeria-en-2024-se-habia-peleado-en-una-discusion-de-transito/",
-    "source": "eldoce"
+    "title": "“Y ahora estoy solo… soloooo… 🎶”: abogados dejan plantado a Miguel Vázquez",
+    "url": "https://www.cronica.com.py/2026/11/09/y-ahora-estoy-solo-soloooo-abogados-dejan-en-bolas-a-miguel-vazquez/",
+    "source": "Crónica.com.py"
    }
   ],
   "first": "2026-10-07T14:39:37.828976+00:00",
-  "seen": "2026-11-13T16:59:54.476803+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "PY": "2026-11-10T21:23:22.756833+00:00",
+   "PY": "2026-11-15T07:38:16.702062+00:00",
    "CL": "2026-11-11T22:57:43.557742+00:00",
    "BO": "2026-11-13T16:59:54.476803+00:00"
   }
@@ -53562,29 +53565,30 @@
  },
  "aeropuerto-internacional-de-miami": {
   "term": "aeropuerto internacional de miami",
-  "traffic": "500+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "FAA advierte posibles retrasos en los aeropuertos de Miami y Fort Lauderdale por tormentas",
-    "url": "https://www.cibercuba.com/noticias/2026-10-07-u1-e13-s27061-nid342230-faa-advierte-posibles-retrasos-aeropuertos-miami-fort",
-    "source": "CiberCuba"
+    "title": "Aviones de Copa Airlines y UPS colisionaron en una pista del aeropuerto de Miami, un día después de la suspensión nacional de vuelos en EE. UU.",
+    "url": "https://www.eltiempo.com/mundo/eeuu-y-canada/aviones-de-copa-airlines-y-ups-colisionaron-en-una-pista-del-aeropuerto-de-miami-un-dia-despues-de-la-suspension-nacional-de-vuelos-en-ee-uu-3601220",
+    "source": "El Tiempo"
    },
    {
-    "title": "Cubano viaja con 10 pájaros ocultos en ropa interior, pero lo detienen el aeropuerto de Miami",
-    "url": "https://www.univision.com/local/miami-wltv/aves-vivas-contrabando-aeropuerto-miami-habana",
-    "source": "Univision"
+    "title": "Avión de UPS colisionó con aeronave de Copa Airlines en el Aeropuerto Internacional de Miami",
+    "url": "https://www.semana.com/mundo/noticias-estados-unidos/articulo/avion-de-ups-colisiono-con-aeronave-de-copa-airlines-en-el-aeropuerto-internacional-de-miami/202651/",
+    "source": "Revista Semana"
    },
    {
-    "title": "Llega de Cuba al Aeropuerto de Miami con un bulto en los pantalones. Fue arrestado",
-    "url": "https://es-us.noticias.yahoo.com/llega-cuba-aeropuerto-miami-bulto-201323386.html",
-    "source": "Yahoo"
+    "title": "Aviones chocan en un cruce de pistas de Miami un día después de la suspensión nacional de vuelos",
+    "url": "https://cnnespanol.cnn.com/2026/11/15/eeuu/aviones-chocan-pista-miami-suspension-trax",
+    "source": "CNN en Español"
    }
   ],
   "first": "2026-10-08T00:22:24.690471+00:00",
-  "seen": "2026-10-08T00:22:24.690471+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "AR": "2026-10-08T00:22:24.690471+00:00",
-   "MX": "2026-10-08T00:22:24.690471+00:00"
+   "MX": "2026-10-08T00:22:24.690471+00:00",
+   "CO": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "ufpe": {
@@ -54457,26 +54461,26 @@
   "traffic": "100+",
   "news": [
    {
-    "title": "Transportistas bolivianos reanudan operaciones de carga tras levantarse los bloqueos en Chile",
-    "url": "https://unitel.bo/noticias/economia/transportistas-bolivianos-reanudan-operaciones-de-carga-tras-levantarse-los-bloqueos-en-chile-AJ24787986",
-    "source": "unitel.bo"
+    "title": "Gremios de transportes se manifiestan para exigir reducción del precio del combustible a G. 3.000 el litro",
+    "url": "https://www.abc.com.py/nacionales/2026/11/12/gremios-de-transportes-se-manifiestan-para-exigir-reduccion-del-precio-del-combustible-a-g-3000-el-litro/",
+    "source": "ABC Color"
    },
    {
-    "title": "Más de 700 camiones llevan tres días varados en fronteras con Chile; choferes piden ayuda del Gobierno",
-    "url": "https://www.lostiempos.com/actualidad/pais/20261112/mas-700-camiones-llevan-tres-dias-varados-fronteras-chile-choferes-piden",
-    "source": "Los Tiempos"
+    "title": "#peaje de Itá",
+    "url": "https://elnacional.com.py/tags/peaje-ita-t73261",
+    "source": "El Nacional - El diario de los lectores influyentes"
    },
    {
-    "title": "Bloqueos en Chile ponen en riesgo el abastecimiento de combustible",
-    "url": "https://correodelsur.com/economia/20261112/bloqueos-en-chile-ponen-en-riesgo-el-abastecimiento-de-combustible.html",
-    "source": "Correo del Sur"
+    "title": "Conductores inician movilización por tiempo indefinido para reclamar baja del combustible",
+    "url": "https://www.ultimahora.com/conductores-inician-movilizacion-por-tiempo-indefinido-para-reclamar-baja-del-combustible",
+    "source": "Última Hora"
    }
   ],
   "first": "2026-10-08T00:22:24.690471+00:00",
-  "seen": "2026-11-13T22:30:02.438906+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "EC": "2026-11-05T23:46:40.242456+00:00",
-   "PY": "2026-11-02T17:21:34.704775+00:00",
+   "PY": "2026-11-15T07:38:16.702062+00:00",
    "AR": "2026-11-12T12:19:12.555185+00:00",
    "BO": "2026-11-13T22:30:02.438906+00:00",
    "VE": "2026-10-20T11:06:03.647362+00:00",
@@ -57625,32 +57629,32 @@
  },
  "deuda": {
   "term": "deuda",
-  "traffic": "500+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Récord de deuda externa de países en desarrollo",
-    "url": "https://elperuano.pe/notas-suplemento/articulo/195-record-de-deuda-externa-de-paises-en-desarrollo",
-    "source": "El Peruano"
+    "title": "Bank of America ve al S&P 500 \"demasiado concurrido\"",
+    "url": "https://www.iproup.com/finanzas/73138-bank-of-america-ve-al-sp-500-demasiado-concurrido",
+    "source": "iProUP"
    },
    {
-    "title": "Deudas y descontroles",
-    "url": "https://www.eltelegrafo.com/2026/11/deudas-y-descontroles/",
-    "source": "El Telégrafo"
+    "title": "El creciente problema del riesgo de concentración en las carteras ante la megatendencia de la inteligencia artificial",
+    "url": "https://bitfinanzas.com/inteligencia-artificial-riesgo-concentracion-carteras-bonos/",
+    "source": "Bitfinanzas"
    },
    {
-    "title": "El mundo se endeuda más y paga más intereses: ¿cómo se encuentra Paraguay frente a este escenario?",
-    "url": "https://infonegocios.com.py/nota-principal/el-mundo-se-endeuda-mas-y-paga-mas-intereses-como-se-encuentra-paraguay-frente-a-este-escenario",
-    "source": "InfoNegocios Paraguay"
+    "title": "El riesgo oculto del S&P 500: tu cartera depende de menos empresas de las que imaginas",
+    "url": "https://www.bolsamania.com/capitalbolsa/noticias/bolsa/el-riesgo-oculto-del-sp-500-tu-cartera-depende-de-menos-empresas-de-las-que-imaginas--24084304.html",
+    "source": "Bolsamania"
    }
   ],
   "first": "2026-10-08T14:26:02.176142+00:00",
-  "seen": "2026-11-11T22:57:43.557742+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "PE": "2026-11-11T22:57:43.557742+00:00",
    "PY": "2026-10-10T21:18:30.202743+00:00",
    "BO": "2026-10-22T19:48:52.879618+00:00",
    "AR": "2026-10-15T21:03:06.995633+00:00",
-   "EC": "2026-10-26T20:22:22.959598+00:00",
+   "EC": "2026-11-15T07:38:16.702062+00:00",
    "VE": "2026-11-08T23:54:38.770593+00:00",
    "UY": "2026-11-04T16:20:35.844488+00:00",
    "CO": "2026-10-28T23:06:51.442842+00:00"
@@ -60313,7 +60317,7 @@
  },
  "jubilacion": {
   "term": "jubilación",
-  "traffic": "500+",
+  "traffic": "1000+",
   "news": [
    {
     "title": "Entregas de kits y tarjetas a jubilados: estos serán los locales habilitados el domingo - Economía",
@@ -60332,9 +60336,9 @@
    }
   ],
   "first": "2026-10-08T20:03:05.072479+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "PY": "2026-11-15T00:51:30.402854+00:00",
+   "PY": "2026-11-15T07:38:16.702062+00:00",
    "CL": "2026-10-12T18:43:12.263203+00:00",
    "UY": "2026-11-11T22:57:43.557742+00:00",
    "VE": "2026-10-30T23:38:06.822689+00:00",
@@ -63112,28 +63116,29 @@
  },
  "rocio-robles": {
   "term": "rocio robles",
-  "traffic": "2000+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Edith Hermida arrinconó a Rocío Robles con preguntas sobre Adrián Suar: \"¿La primera vez lo hicieron?\"",
-    "url": "https://www.infobae.com/video/teleshow/edith-hermida-arrincono-a-rocio-robles-con-preguntas-sobre-adrian-suar-la-primera-vez-lo-hicieron/1YKIlEv5/",
+    "title": "Así fue el tenso cara a cara entre Rocío Robles y Daniela Celis: “No quisiera que te sientas incómoda”",
+    "url": "https://www.infobae.com/teleshow/2026/11/15/asi-fue-el-tenso-cara-a-cara-entre-rocio-robles-y-daniela-celis-no-quisiera-que-te-sientas-incomoda/",
     "source": "Infobae"
    },
    {
-    "title": "Un desafío de hamburguesas para ser el \"empleado del mes\" en Masterchef Celebrity 2026",
-    "url": "https://www.mitelefe.com/masterchef-celebrity/noticias/un-desafio-de-hamburguesas-para-ser-el-empleado-del-mes-en-masterchef-celebrity-2026-pid2571502",
-    "source": "Telefe"
+    "title": "Así fue la incómoda pregunta de Rocío Robles a Daniela Celis en PH sobre Thiago Medina",
+    "url": "https://www.a24.com/primiciasya/asi-fue-la-incomoda-pregunta-rocio-robles-daniela-celis-ph-thiago-medina-n1616593",
+    "source": "A24.com"
    },
    {
-    "title": "Edith Hermida fue al hueso con Rocío Robles y le preguntó por su intimidad con Adrián Suar en MasterChef: \"No mucho\"",
-    "url": "https://www.a24.com/primiciasya/edith-hermida-fue-al-hueso-rocio-robles-y-le-pregunto-su-intimidad-adrian-suar-masterchef-no-mucho-n1614917",
-    "source": "A24.com"
+    "title": "Nuevo escándalo en PH con Daniela Celis: la incómoda pregunta que le hicieron sobre Thiago Medina",
+    "url": "https://www.ciudad.com.ar/espectaculos/2026/11/13/nuevo-escandalo-en-ph-con-daniela-celis-la-incomoda-pregunta-que-le-hicieron-sobre-thiago-medina/",
+    "source": "Ciudad Magazine"
    }
   ],
   "first": "2026-10-09T07:11:43.109828+00:00",
-  "seen": "2026-11-10T06:27:16.070427+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "AR": "2026-11-10T06:27:16.070427+00:00"
+   "AR": "2026-11-10T06:27:16.070427+00:00",
+   "UY": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "bgs": {
@@ -70139,28 +70144,28 @@
  },
  "resumo-novela-quem-ama-cuida": {
   "term": "resumo novela quem ama cuida",
-  "traffic": "500+",
+  "traffic": "2000+",
   "news": [
    {
-    "title": "Resumo de Quem Ama Cuida de capítulos de 26 a 31 de outubro: Pilar encomenda serviço de Zeni",
-    "url": "https://gshow.globo.com/novelas/quem-ama-cuida/resumo/20261026-a-20261101-f560a061cf3847bbb05e9cad48faed08.ghtml",
-    "source": "Gshow"
-   },
-   {
-    "title": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, terça, 20 de outubro",
-    "url": "https://noticiasdatv.uol.com.br/noticia/novelas/resumo-de-quem-ama-cuida-proximo-capitulo-da-novela-terca-20-de-outubro-158149",
+    "title": "Reta final de Quem Ama Cuida: Pilar fica mais pobre do que era no início da novela",
+    "url": "https://noticiasdatv.uol.com.br/noticia/novelas/reta-final-de-quem-ama-cuida-pilar-fica-mais-pobre-do-que-era-no-inicio-da-novela-159387",
     "source": "Notícias da TV"
    },
    {
-    "title": "Brigitte decide sair de casa: confira resumo de Quem Ama Cuida nesta segunda-feira, 19/10",
-    "url": "https://veja.abril.com.br/cultura/brigitte-decide-sair-de-casa-confira-resumo-de-quem-ama-cuida-nesta-segunda-feira-19-10/",
-    "source": "VEJA"
+    "title": "Em ‘Quem ama cuida’, Ademir volta para a cadeia, e Pedro sofre com a condenação do pai",
+    "url": "https://extra.globo.com/blogs/telinha/post/2026/11/em-quem-ama-cuida-ademir-volta-para-a-cadeia-e-pedro-sofre-com-a-condenacao-do-pai.ghtml",
+    "source": "Extra online"
+   },
+   {
+    "title": "Resumo de Quem Ama Cuida 16 a 21 de Novembro",
+    "url": "https://www.terra.com.br/diversao/resumo-de-quem-ama-cuida-16-a-21-de-novembro,0e78145d9cd64d9694736bb148c567a2dzevcimu.html",
+    "source": "Terra"
    }
   ],
   "first": "2026-10-10T06:13:33.409139+00:00",
-  "seen": "2026-10-20T05:49:15.700137+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "BR": "2026-10-20T05:49:15.700137+00:00"
+   "BR": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "sydney-sweeney": {
@@ -89546,29 +89551,29 @@
  },
  "frente-amplio": {
   "term": "frente amplio",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Colau está dispuesta a no ser candidata del Frente Amplio y cambiar las siglas para integrar a Podemos",
-    "url": "https://efe.com/espana/2026-10-14/colau-frente-amplio-candidatura-podemos/",
-    "source": "EFE - Agencia de noticias"
+    "title": "“Las personas merecemos respeto”: Parlamentarias del Frente Amplio respaldan a Ossandón y acusan maltrato de diputados republicanos",
+    "url": "https://www.latercera.com/politica/noticia/las-personas-merecemos-respeto-parlamentarias-del-frente-amplio-respaldan-a-ossandon-y-acusan-maltrato-de-diputados-republicanos/",
+    "source": "La Tercera"
    },
    {
-    "title": "Campeón de taekwondo, animador de feria y con una hermana taurina: así es el número 1 del Frente Amplio por Madrid",
-    "url": "https://www.elcorreo.com/politica/campeon-taekwondo-animador-feria-hermana-taurina-numero-20261012080550-nt.html",
-    "source": "El Correo"
+    "title": "¿Empresarios del dolor? Lo que realmente reciben —y lo que están perdiendo— los sitios de memoria y la búsqueda de desaparecidos",
+    "url": "https://interferencia.cl/articulos/empresarios-del-dolor-lo-que-realmente-reciben-y-lo-que-estan-perdiendo-los-sitios-de",
+    "source": "Interferencia |"
    },
    {
-    "title": "La izquierda se encamina a negociaciones 'in extremis' sin disponer aún de un mapa claro de coaliciones",
-    "url": "https://www.pressdigital.es/articulo/politica/2026-10-14/6052009-izquierda-encamina-negociaciones-in-extremis-disponer-mapa-claro-coaliciones",
-    "source": "PressDigital"
+    "title": "\"Está de moda ser un personaje\": la crítica de Ximena Ossandón (RN) tras las discusiones \"desagradables\" en la Cámara",
+    "url": "https://radio.uchile.cl/2026/11/13/esta-de-moda-ser-un-personaje-la-critica-de-ximena-ossandon-rn-tras-las-discusiones-desagradables-en-la-camara/",
+    "source": "Universidad de Chile"
    }
   ],
   "first": "2026-10-12T18:43:12.263203+00:00",
-  "seen": "2026-10-14T20:02:21.661427+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "UY": "2026-10-12T18:43:12.263203+00:00",
-   "CL": "2026-10-14T20:02:21.661427+00:00"
+   "CL": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "el-observador": {
@@ -90504,28 +90509,28 @@
  },
  "cher": {
   "term": "cher",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Former NHL All-Star Ron Duguay dies of cancer at 69",
-    "url": "https://www.espn.com/nhl/story/_/id/50248867/former-nhl-player-ron-duguay-dies-69-bout-cancer",
-    "source": "ESPN"
+    "title": "In 1974, Cher Wore a Dress So Daring It Changed Red Carpet Fashion Forever — 52 Years Later, Everyone Is Still Copying Her",
+    "url": "https://graziamagazine.com/us/articles/cher-naked-dress-met-gala-1974-bob-mackie/",
+    "source": "Grazia"
    },
    {
-    "title": "Sarah Palin Says Her Heart Is ‘Shattered’ After Boyfriend Ron Duguay Dies at 69",
-    "url": "https://people.com/sarah-palin-says-her-heart-is-shattered-after-boyfriend-ron-duguay-dies-at-69-12187825",
-    "source": "People.com"
+    "title": "Cher Teams With Xochitl Gomez For Garnier’s Star-Studded ‘Diamond Sleek’ Campaign",
+    "url": "https://www.thatericalper.com/2026/11/14/cher-teams-with-xochitl-gomez-for-garniers-star-studded-diamond-sleek-campaign/",
+    "source": "That Eric Alper"
    },
    {
-    "title": "Maloney recalls Sasson commercial, good times playing with Duguay for Rangers",
-    "url": "https://www.nhl.com/news/former-new-york-rangers-captain-dave-maloney-recalls-good-times-with-ron-duguay",
-    "source": "NHL.com"
+    "title": "Cher, Autotune and the song that changed music forever",
+    "url": "https://www.independent.co.uk/arts-entertainment/music/features/cher-believe-autotune-how-it-was-made-b3082433.html",
+    "source": "The Independent"
    }
   ],
   "first": "2026-10-12T18:43:12.263203+00:00",
-  "seen": "2026-10-24T08:44:12.168043+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "CA": "2026-10-12T18:43:12.263203+00:00",
+   "CA": "2026-11-15T07:38:16.702062+00:00",
    "US": "2026-10-24T08:44:12.168043+00:00"
   }
  },
@@ -91672,28 +91677,28 @@
  },
  "magallanes-vs-tiburones": {
   "term": "magallanes vs tiburones",
-  "traffic": "10000+",
+  "traffic": "1000+",
   "news": [
    {
-    "title": "LVBP: Ocho equipos, ocho figuras para la temporada 2026-2027",
-    "url": "https://www.beisbolplay.com/video/lvbp-ocho-equipos-ocho-figuras-para-la-temporada-2026-2027-130004",
+    "title": "Magallanes contra La Guaira en Miami por víctimas de terremotos",
+    "url": "https://espndeportes.espn.com/beisbol/nota/_/id/17511808/magallanes-vs-la-guaira-marlins-park-victimas-terremotos-venezuela",
+    "source": "ESPN Deportes"
+   },
+   {
+    "title": "Choque de Gigantes: Brayan Rocchio se unió a Tiburones",
+    "url": "https://www.beisbolplay.com/lvbp/tiburones/choque-de-gigantes-brayan-rocchio-se-unio-a-tiburones-133681",
     "source": "BeisbolPlay"
    },
    {
-    "title": "Leones del Caracas anunció precios de las entradas en el Monumental para la temporada 2026-2027",
-    "url": "https://www.bancaynegocios.com/leones-del-caracas-anuncio-precios-de-las-entradas-en-el-monumental-para-la-temporada-2026-2027/",
-    "source": "Banca y Negocios"
-   },
-   {
-    "title": "Tiburones y Magallanes abren la temporada 2026-2027 de la LVBP",
-    "url": "https://primicia.com.ve/deportes/lvbp-temporada-2026-2027-tiburones-magallanes/",
-    "source": "Diario Primicia"
+    "title": "Miguel Rojas y Marlins recaudan ayuda para Venezuela previo al Choque de Gigantes",
+    "url": "https://www.mlb.com/es/news/miguel-rojas-y-marlins-recaudan-ayuda-para-venezuela-previo-al-choque-de-gigantes",
+    "source": "MLB.com"
    }
   ],
   "first": "2026-10-13T01:08:51.978276+00:00",
-  "seen": "2026-10-13T01:08:51.978276+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "VE": "2026-10-13T01:08:51.978276+00:00"
+   "VE": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "dolar-hoy-venezuela-bcv-hoy": {
@@ -107601,26 +107606,27 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "Worlds 2026: Swiss Stage Round 1 Draw",
-    "url": "https://www.sheepesports.com/en/articles/worlds-2026-swiss-stage-round-1-draw/en",
+    "title": "Blitzcrank visual rework teased at Worlds 2026 as part of LoL New Dawn",
+    "url": "https://www.sheepesports.com/en/articles/blitzcrank-visual-rework-teased-at-worlds-2026-as-part-of-lol-new-dawn/en",
     "source": "Sheep Esports"
    },
    {
-    "title": "Best Swiss Pickems for Worlds 2026. Predictions from pro players, analysts and streamers",
-    "url": "https://escorenews.com/en/lol/article/82072-best-swiss-pickems-for-worlds-2026-predictions-from-pro-players-analysts-and-streamers",
-    "source": "escorenews.com"
+    "title": "League of Legends Will Never Be the Same After Massive 2027 Overhaul",
+    "url": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
+    "source": "Polygon.com"
    },
    {
-    "title": "LoL Translator: What is the 2026 League of Legends World Championship?",
-    "url": "https://www.wokv.com/news/local/lol-translator-what-is-2026-league-legends-world-championship/TRHFVYDQUNGZPB45OKDIE6AOPM/",
-    "source": "104.5 WOKV"
+    "title": "Riot Games unveils League of Legends new client 'New Dawn'",
+    "url": "https://www.mgoddess.com/news/lol-83821f7b76/?lang=en",
+    "source": "Mobile Goddess"
    }
   ],
   "first": "2026-10-14T23:22:02.858576+00:00",
-  "seen": "2026-10-20T05:49:15.700137+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "CA": "2026-10-14T23:22:02.858576+00:00",
-   "US": "2026-10-20T05:49:15.700137+00:00"
+   "US": "2026-10-20T05:49:15.700137+00:00",
+   "MX": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "match-du-canadien-ce-soir": {
@@ -118442,28 +118448,28 @@
  },
  "fernando-solabarrieta": {
   "term": "fernando solabarrieta",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Nico Solabarrieta y enfermedad de su padre: \"Un adicto va a ser adicto toda su vida\"",
-    "url": "https://www.biobiochile.cl/noticias/dopamina/2026/10/15/nico-solabarrieta-y-enfermedad-de-su-padre-un-adicto-va-a-ser-adicto-toda-su-vida.shtml",
+    "title": "Ivette Vergara y Fernando Solabarrieta: Su historia de amor y tormentas durante 25 años",
+    "url": "https://www.guioteca.com/tv-chilena/ivette-vergara-y-fernando-solabarrieta-su-historia-de-amor-y-tormentas-durante-25-anos/",
+    "source": "Guioteca"
+   },
+   {
+    "title": "\"Si fuera por paciencia, no estaría\": Ivette Vergara reflexiona sobre su matrimonio con Solabarrieta",
+    "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/12/si-fuera-por-paciencia-no-estaria-ivette-vergara-reflexiona-sobre-su-matrimonio-con-solabarrieta.shtml",
     "source": "BioBioChile"
    },
    {
-    "title": "Nico Solabarrieta se emocionó al dedicarle especial mensaje a Fernando Solabarrieta: \"Estoy muy orgulloso\"",
-    "url": "https://www.mega.cl/programas/volverias-con-tu-ex/mejores-momentos/221424-nico-solabarrieta-emociono-dedicarle-especial-mensaje-fernando-solabarrieta.html",
-    "source": "Mega.cl"
-   },
-   {
-    "title": "Nicolás Solabarrieta se sincera sobre las adicciones de su padre : “Es una preocupación constante”",
-    "url": "https://www.lacuarta.com/espectaculos/noticia/nicolas-solabarrieta-se-sincera-sobre-las-adicciones-de-su-padre-es-una-preocupacion-constante/",
-    "source": "La Cuarta"
+    "title": "“Ella me niega”: Solabarrieta revela desconocida anécdota de cómo se enamoraron con Ivette Vergara",
+    "url": "https://www.chilevision.cl/noticias/show/ella-me-niega-solabarrieta-revela-desconocida-anecdota-de-como-se-enamoraron-con-ivette-vergara/",
+    "source": "Chilevisión"
    }
   ],
   "first": "2026-10-16T08:49:33.176628+00:00",
-  "seen": "2026-10-16T08:49:33.176628+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "CL": "2026-10-16T08:49:33.176628+00:00"
+   "CL": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "one-piece-1196": {
@@ -119200,7 +119206,7 @@
  },
  "yate": {
   "term": "yate",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
    {
     "title": "Ueno Bank: trasladan a Asunción yate del Grupo Vázquez - Policiales",
@@ -119208,21 +119214,21 @@
     "source": "ABC Color"
    },
    {
+    "title": "Video: Fiscalía traslada a Asunción un lujoso yate incautado al Grupo Vázquez en caso ueno bank",
+    "url": "https://www.ultimahora.com/video-fiscalia-traslada-a-asuncion-un-lujoso-yate-incautado-al-grupo-vazquez-en-caso-ueno-bank",
+    "source": "Última Hora"
+   },
+   {
     "title": "Trasladan a Asunción el lujoso yate “Zeus” de Miguel Vázquez",
     "url": "https://www.hoy.com.py/nacionales/2026/11/14/trasladan-a-asuncion-el-lujoso-yate-zeus-de-miguel-vazquez",
     "source": "Diario HOY – En Paraguay y el Mundo"
-   },
-   {
-    "title": "Rolls-Royce y Lamborghini, entre los bienes incautados por el caso Ueno Bank",
-    "url": "https://www.rdn.com.py/2026/11/13/rolls-royce-y-lamborghini-entre-los-bienes-incautados-por-el-caso-ueno-bank/",
-    "source": "Resumen de Noticias"
    }
   ],
   "first": "2026-10-16T13:47:38.944014+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "AR": "2026-10-16T13:47:38.944014+00:00",
-   "PY": "2026-11-15T00:51:30.402854+00:00"
+   "PY": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "santiago-bausili": {
@@ -119800,30 +119806,31 @@
  },
  "emergencia": {
   "term": "emergencia",
-  "traffic": "2000+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Temporal derriba más de 100 columnas y ANDE despliega cuadrillas de emergencia",
-    "url": "https://www.hoy.com.py/nacionales/2026/10/23/temporal-derriba-mas-de-100-columnas-y-ande-despliega-cuadrillas-de-emergencia",
-    "source": "Diario HOY – En Paraguay y el Mundo"
+    "title": "Deslizamiento de tierra en Puerto Santa Ana, zona turística de Guayaquil, provoca evacuación y alerta por nuevos desprendimientos",
+    "url": "https://www.primicias.ec/guayaquil/deslizamiento-tierra-puerto-santa-ana-edificio-astillero-bomberos-137172/",
+    "source": "Primicias"
    },
    {
-    "title": "Ventarrones causaron estragos en distintos puntos de Itapúa",
-    "url": "https://www.abc.com.py/clima/2026/10/23/ventarrones-causaron-estragos-en-distintos-puntos-de-itapua/",
-    "source": "ABC Color"
+    "title": "Lluvias en Guayaquil dejan 46 zonas afectadas y activan alerta por deslizamiento en el cerro Santa Ana",
+    "url": "https://www.metroecuador.com.ec/noticias/2026/11/15/lluvias-en-guayaquil-dejan-46-zonas-afectadas-y-activan-alerta-por-deslizamiento-en-el-cerro-santa-ana/",
+    "source": "Metro Ecuador"
    },
    {
-    "title": "Ande desplegó cuadrillas de emergencia tras colapso de más de 100 columnas por posible tornado en zona sur de Itapúa",
-    "url": "https://www.lanacion.com.py/pais/2026/10/23/ande-desplego-cuadrillas-de-emergencia-tras-colapso-de-mas-de-100-columnas-por-posible-tornado-en-zona-sur-de-itapua/",
-    "source": "La Nación"
+    "title": "Desprendimiento en el cerro Santa Ana pone en riesgo al edificio El Astillero en Guayaquil",
+    "url": "https://www.extra.ec/noticia/guayaquil/desprendimiento-cerro-santa-ana-pone-riesgo-edificio-astillero-guayaquil-167960.html",
+    "source": "Diario Extra"
    }
   ],
   "first": "2026-10-16T13:47:38.944014+00:00",
-  "seen": "2026-10-23T23:55:29.618613+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "UY": "2026-10-16T20:38:44.335422+00:00",
    "CO": "2026-10-17T19:39:06.206229+00:00",
-   "PY": "2026-10-23T23:55:29.618613+00:00"
+   "PY": "2026-10-23T23:55:29.618613+00:00",
+   "EC": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "denisse-gonzalez": {
@@ -121434,31 +121441,32 @@
   }
  },
  "contraloria": {
-  "term": "contraloria",
-  "traffic": "500+",
+  "term": "contraloría",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Este miércoles los candidatos a la Contraloría de Santander presentan pruebas de conocimientos",
-    "url": "https://www.vanguardia.com/politica/2026/11/03/este-miercoles-los-candidatos-a-la-contraloria-de-santander-presentan-pruebas-de-conocimientos/",
-    "source": "Vanguardia"
+    "title": "PLRA garantiza gobernabilidad a la gestión municipal de Asunción",
+    "url": "https://www.lanacion.com.py/politica/2026/11/14/plra-garantiza-gobernabilidad-a-la-gestion-municipal-de-asuncion/",
+    "source": "La Nación"
    },
    {
-    "title": "Contraloría, Fiscalía y Procuraduría reciben hallazgos por más de $9.800 millones en recursos de ciencia",
-    "url": "https://www.portafolio.co/negocios/industrias/contraloria-fiscalia-y-procuraduria-reciben-hallazgos-por-mas-de-9-800-millones-en-recursos-de-ciencia-505587",
-    "source": "Portafolio.co"
+    "title": "Junta de Asunción aprueba reprogramación de combustible a Soledad Núñez: colorados niegan “palos en la rueda”",
+    "url": "https://www.abc.com.py/politica/2026/11/13/junta-de-asuncion-aprueba-reprogramacion-de-combustible-a-soledad-nunez-colorados-niegan-palos-en-la-rueda/",
+    "source": "ABC Color"
    },
    {
-    "title": "Ministerio de Ciencias denunció presuntas irregularidades por más de $9.800 millones durante el gobierno Petro: se habrían gastado “la plata” en almuerzos",
-    "url": "https://www.infobae.com/colombia/2026/11/03/ministerio-de-ciencias-denuncio-presuntas-irregularidades-por-mas-de-9800-millones-durante-el-gobierno-petro-se-habrian-gastado-la-plata-en-almuerzos/",
-    "source": "Infobae"
+    "title": "Junta de Asunción aprueba fondos para asegurar combustible",
+    "url": "https://www.rdn.com.py/2026/11/13/junta-de-asuncion-aprueba-fondos-para-asegurar-combustible/",
+    "source": "Resumen de Noticias"
    }
   ],
   "first": "2026-10-16T17:50:59.108490+00:00",
-  "seen": "2026-11-03T14:53:34.240584+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "EC": "2026-10-16T17:50:59.108490+00:00",
    "CL": "2026-10-17T19:39:06.206229+00:00",
-   "CO": "2026-11-03T14:53:34.240584+00:00"
+   "CO": "2026-11-03T14:53:34.240584+00:00",
+   "PY": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "richard-carapaz": {
@@ -126063,28 +126071,28 @@
  },
  "querella": {
   "term": "querella",
-  "traffic": "1000+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Andrea Marocchino se querelló contra Pancha Merino por injurias graves: los comentarios que provocaron la querella, la cual ya fue admitida",
-    "url": "https://www.lacuarta.com/glamorama/noticia/andrea-marocchino-se-querello-contra-pancha-merino-por-injurias-graves-los-comentarios-que-provocaron-la-querella-la-cual-ya-fue-admitida/",
-    "source": "La Cuarta"
+    "title": "Fiscalía de Valparaíso termina con el misterio e ingresa querella de capítulos para poder formalizar al exministro Ulloa",
+    "url": "https://www.latercera.com/nacional/noticia/fiscalia-de-valparaiso-termina-con-el-misterio-e-ingresa-querella-de-capitulos-para-poder-formalizar-al-exministro-ulloa/",
+    "source": "La Tercera"
    },
    {
-    "title": "Exigen millonaria multa a conocido rostro de TV: el severo giro judicial tras polémico quiebre amoroso en la farándula",
-    "url": "https://www.adnradio.cl/2026/10/16/exigen-millonaria-multa-a-conocido-rostro-de-tv-el-severo-giro-judicial-tras-polemico-quiebre-amoroso-en-la-farandula/",
+    "title": "Presentan querella de capítulos contra Antonio Ulloa por presunto cohecho y otros delitos",
+    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/14/presentan-querella-de-capitulos-contra-antonio-ulloa-por-presunto-cohecho-y-otros-delitos.shtml",
+    "source": "BioBioChile"
+   },
+   {
+    "title": "Presentan querella de capítulos contra exministro Antonio Ulloa por cohecho, prevaricación y revelación de secretos",
+    "url": "https://www.adnradio.cl/2026/11/14/presentan-querella-de-capitulos-contra-exministro-antonio-ulloa-por-cohecho-prevaricacion-y-revelacion-de-secretos/",
     "source": "ADN Radio"
-   },
-   {
-    "title": "EXCLUSIVO | “Yo no sé con quién estuve”: Pancha Merino cuestionó actitudes “turbias” de Andrea Maroccinno",
-    "url": "https://www.chilevision.cl/programas/plan-perfecto/exclusivo-yo-no-se-con-quien-estuve-pancha-merino-cuestiono-actitudes-turbias-de-andrea-maroccinno/",
-    "source": "Chilevisión"
    }
   ],
   "first": "2026-10-17T01:26:07.034434+00:00",
-  "seen": "2026-10-17T01:26:07.034434+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "CL": "2026-10-17T01:26:07.034434+00:00"
+   "CL": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "despedida-matias-rodriguez": {
@@ -137184,25 +137192,26 @@
   "traffic": "100+",
   "news": [
    {
-    "title": "Taylor Swift to Perform at Academy Museum Gala",
-    "url": "https://variety.com/2026/film/columns/taylor-swift-perform-academy-museum-gala-1236905184/",
-    "source": "Variety"
+    "title": "Choi Yena Accused of Plagiarizing Sabrina Carpenter's MMA Stage, Costume",
+    "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/15/AH7LVKPHGVBPPNQXQSMQXX2JVY/",
+    "source": "조선일보"
    },
    {
-    "title": "Taylor Swift’s Dior Dress Tells a Cinderella Story on the Academy Museum Gala 2026 Red Carpet",
-    "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-dior-dress-tells-022001531.html",
-    "source": "Yahoo"
+    "title": "“Yena-Core,” as Expected: Yena Brings the House Down With “Catch Catch” at the MMA, Scores a Triumphant Best Female Solo Win",
+    "url": "https://www.sportschosun.com/en/k-pop/2026-11-15/202611150100097600009108",
+    "source": "스포츠조선"
    },
    {
-    "title": "Our ‘Red, White & Royal Blue’ favorites! Taylor Zakhar-Perez and Nicholas Galitzine at the Academy Museum Gala",
-    "url": "https://www.facebook.com/deadline/posts/our-red-white-royal-blue-favorites-taylor-zakhar-perez-and-nicholas-galitzine-at/1465144455485890/",
-    "source": "Facebook"
+    "title": "YENA gets emotional over MMA2026 win: “Something I dreamed of has happened”",
+    "url": "https://www.allkpop.com/article/2026/11/yena-gets-emotional-over-mma2026-win-something-i-dreamed-of-has-happened",
+    "source": "allkpop"
    }
   ],
   "first": "2026-10-18T04:16:26.640904+00:00",
-  "seen": "2026-10-18T04:16:26.640904+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "BR": "2026-10-18T04:16:26.640904+00:00"
+   "BR": "2026-10-18T04:16:26.640904+00:00",
+   "PE": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "nashville-sc": {
@@ -144529,9 +144538,9 @@
   "traffic": "100+",
   "news": [],
   "first": "2026-10-18T21:41:49.761757+00:00",
-  "seen": "2026-10-18T21:41:49.761757+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "VE": "2026-10-18T21:41:49.761757+00:00"
+   "VE": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "sismo": {
@@ -148055,26 +148064,26 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "¿Karely Ruiz ABANDONARÁ La Mansión VIP 2? Esto dijo sobre su salida",
-    "url": "https://www.milenio.com/espectaculos/famosos/karely-ruiz-abandonara-la-mansion-vip-2-esto-dijo",
-    "source": "Milenio"
+    "title": "VIDEO: Karely Ruiz se pelea con Odette Orlena y agrediría a Cukis; sería expulsada de ‘La Mansión VIP’",
+    "url": "https://tribuna.com.mx/espectaculos/2026/11/14/video-karely-ruiz-se-pelea-con-odette-orlena-y-agrediria-a-cukis-seria-expulsada-de-la-mansion-vip_715591/",
+    "source": "La Tribuna (México)"
    },
    {
-    "title": "¿Karely Ruiz también abandona La Mansión VIP?",
-    "url": "https://www.diariocambio.com.mx/2026/show-y-estilo/karely-ruiz-salida-la-mansion-vip/",
-    "source": "Diario Cambio"
+    "title": "¿Karely Ruiz abandonó La Mansión VIP?, esta es la verdad",
+    "url": "https://heraldodemexico.com.mx/espectaculos/2026/11/13/karely-ruiz-abandono-la-mansion-vip-esta-es-la-verdad-2918465.html",
+    "source": "El Heraldo de México"
    },
    {
-    "title": "¿Karely Ruiz abandona La Mansión VIP? Todo podría indicar que sí",
-    "url": "https://www.record.com.mx/historia/karely-ruiz-abandona-la-mansion-vip-todo-podria-indicar-que-si-2026111317223182725",
-    "source": "Récord"
+    "title": "¿Karely abandona ‘La mansión VIP 2’? Se pelea con Odette Orlena y exhiben presunta agresión a Cukis",
+    "url": "https://www.tvnotas.com.mx/espectaculos-mexico/karely-abandona-la-mansion-vip-2-se-pelea-con-odette-orlena-y-exhiben-presunta-agresion-a-cukis",
+    "source": "TVNotas"
    }
   ],
   "first": "2026-10-19T04:26:29.077461+00:00",
-  "seen": "2026-11-14T09:54:28.262961+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "MX": "2026-11-14T09:54:28.262961+00:00",
-   "US": "2026-11-10T06:27:16.070427+00:00"
+   "US": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "landon-donovan": {
@@ -178380,28 +178389,28 @@
  },
  "poncho-de-nigris": {
   "term": "poncho de nigris",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Poncho de Nigris denuncia que filtraron fotos suyas íntimas en un spa y lanza fuerte advertencia",
-    "url": "https://www.record.com.mx/historia/poncho-de-nigris-denuncia-que-filtraron-fotos-suyas-intimas-en-un-spa-y-lanza-fuerte-advertencia-2026102220525401031",
-    "source": "Récord"
+    "title": "Le roban a De Nigris $600 mil de pastelería",
+    "url": "https://www.elnorte.com/le-roban-a-de-nigris-600-mil-de-pasteleria/ar3314345",
+    "source": "El Norte"
    },
    {
-    "title": "Poncho de Nigris DENUNCIA filtración de fotos desnudo: “Voy a llegar a las últimas consecuencias”",
-    "url": "https://www.milenio.com/espectaculos/famosos/poncho-de-nigris-denuncia-filtracion-fotos-desnudo",
-    "source": "Milenio"
+    "title": "Poncho de Nigris denuncia robo de 600 mil pesos de la nómina de la Postrería 77: ‘Pasó una desgracia’",
+    "url": "https://www.elfinanciero.com.mx/espectaculos/2026/11/13/poncho-de-nigris-denuncia-robo-de-600-mil-pesos-de-la-nomina-de-la-postreria-77/",
+    "source": "El Financiero"
    },
    {
-    "title": "Poncho de Nigris denuncia supuesta filtración de fotos íntimas: ¿Qué fue lo que pasó?",
-    "url": "https://abcnoticias.mx/tendencia/2026/10/22/poncho-de-nigris-denuncia-filtracion-de-fotos-intimas-que-fue-lo-que-paso-293171.html",
-    "source": "ABC Noticias"
+    "title": "¡Asaltaron a EMPLEADO de Poncho de Nigris y le quitan 600 mil PESOS! Enlace desde Monterrey",
+    "url": "https://www.imagentv.com/programas/de-primera-mano/asaltaron-empleado-de-poncho-de-nigris-y-le-quitan-600-mil-pesos-enlace-monterrey",
+    "source": "Imagen Televisión"
    }
   ],
   "first": "2026-10-23T01:45:54.125172+00:00",
-  "seen": "2026-10-23T01:45:54.125172+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "MX": "2026-10-23T01:45:54.125172+00:00"
+   "MX": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "joel-embiid": {
@@ -185288,28 +185297,29 @@
  },
  "heat-pistons": {
   "term": "heat - pistons",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "3 Heat Players Besides Giannis Antetokounmpo the Pistons Must Contain",
-    "url": "https://sports.yahoo.com/articles/3-heat-players-besides-giannis-151245647.html",
-    "source": "Yahoo Sports"
+    "title": "Hut! Hut! Hike! Giannis Antetokounmpo goes into football mode for a between-the-legs assist",
+    "url": "https://apnews.com/article/heat-giannis-antetokounmpo-assist-hike-7c28d37a1fc70232e94852d21a9381bb",
+    "source": "AP News"
    },
    {
-    "title": "☑️!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑️ Detroit Pistons vs. Miami Heat : Live stream, TV channel & start time for in 2026",
-    "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9UZXJhL2h0cy54bWwiLz48L2tycGFubz4=&id=detroit-pistons-vs-miami-heat-fox-sports-aqlti",
-    "source": "小豆島町"
+    "title": "Heat test win streak against Cade Cunningham and surging Pistons",
+    "url": "https://www.cbssports.com/nba/news/heat-test-win-streak-against-cade-cunningham-and-surging-pistons/",
+    "source": "CBS Sports"
    },
    {
-    "title": "Pistons have to turn Miami's Duncan Robinson strategy against them",
-    "url": "https://pistonpowered.com/detroit-pistons-have-turn-miami-duncan-robinson-strategy-against-them",
-    "source": "PistonPowered"
+    "title": "‘He also has to’: Erik Spoelstra tells Giannis Antetokounmpo he needs to do what Magic Johnson did",
+    "url": "https://www.hitc.com/he-also-has-to-erik-spoelstra-tells-giannis-antetokounmpo-he-needs-to-do-what-magic-johnson-did/",
+    "source": "HITC"
    }
   ],
   "first": "2026-10-23T23:55:29.618613+00:00",
-  "seen": "2026-10-23T23:55:29.618613+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "MX": "2026-10-23T23:55:29.618613+00:00"
+   "MX": "2026-10-23T23:55:29.618613+00:00",
+   "VE": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "sector-salud": {
@@ -185809,28 +185819,28 @@
  },
  "jones-manoel": {
   "term": "jones manoel",
-  "traffic": "200+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "“Acho que a eleição brasileira está sendo fraudada”, diz Jones Manoel",
-    "url": "https://www.folhape.com.br/colunistas/blogdafolha/acho-que-a-eleicao-brasileira-esta-sendo-fraudada-diz-jones-manoel/60638/",
-    "source": "Folha PE"
+    "title": "Jones Manoel aponta risco à qualidade da água após concessão de serviços da Compesa",
+    "url": "https://blogdomagno.com.br/jones-manoel-aponta-risco-a-qualidade-da-agua-apos-concessao-de-servicos-da-compesa/",
+    "source": "Blog do Magno"
    },
    {
-    "title": "Entrevista: 'Não conseguimos encontrar ainda uma fórmula adequada para enfraquecer a extrema direita', diz Jones Manoel",
-    "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/20/entrevista-nao-conseguimos-encontrar-ainda-uma-formula-adequada-para-enfraquecer-a-extrema-direita-diz-jones-manoel.ghtml",
-    "source": "O GLOBO"
+    "title": "Ajuste fiscal divide esquerda, e 'Exército do Lula' perde seguidores",
+    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/14/ajuste-fiscal-divide-esquerda-exercito-lula-critica-janones.ghtm",
+    "source": "UOL Notícias"
    },
    {
-    "title": "Jones Manoel promete lutar por 13º do BPC e políticas públicas para pessoas autistas",
-    "url": "https://www.leiaja.com/politica/2026/10/21/jones-manoel-promete-lutar-por-13o-do-bpc-e-politicas-publicas-para-pessoas-autistas/",
-    "source": "LeiaJá"
+    "title": "Janones critica ação da \"extrema-esquerda\" contra ajuste fiscal de Lula",
+    "url": "https://www.cnnbrasil.com.br/politica/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/",
+    "source": "CNN Brasil"
    }
   ],
   "first": "2026-10-24T03:52:02.373669+00:00",
-  "seen": "2026-10-25T14:30:01.271677+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "BR": "2026-10-25T14:30:01.271677+00:00"
+   "BR": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "janones-quem-e": {
@@ -187372,34 +187382,34 @@
  },
  "ufc": {
   "term": "ufc",
-  "traffic": "1000+",
+  "traffic": "2000+",
   "news": [
    {
-    "title": "UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
-    "url": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
-    "source": "UFC.com"
+    "title": "Licensable picture: MMA: UFC 334",
+    "url": "https://www.reutersconnect.com/item/mma-ufc-334/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTcwNzY",
+    "source": "Reuters Connect"
    },
    {
-    "title": "UFC 334 predictions",
-    "url": "https://www.mmafighting.com/ufc/520964/ufc-334-predictions",
-    "source": "MMA Fighting"
+    "title": "UFC 334: Ciryl Gane retains title against Josh Hokit",
+    "url": "https://karlobag.eu/en/sports/ufc-334-in-new-york-ciryl-gane-retains-heavyweight-title-against-josh-hokit-afte-klu44/",
+    "source": "KarloBag.eu"
    },
    {
-    "title": "Mark Coleman Predicts UFC 334 Heavyweight Title Bout",
-    "url": "https://sports.yahoo.com/articles/mark-coleman-predicts-ufc-334-213642291.html",
+    "title": "UFC 334 post-fight press conference video",
+    "url": "https://sports.yahoo.com/articles/ufc-334-post-fight-press-060606552.html",
     "source": "Yahoo Sports"
    }
   ],
   "first": "2026-10-24T08:44:12.168043+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "PE": "2026-10-24T08:44:12.168043+00:00",
    "US": "2026-10-24T08:44:12.168043+00:00",
    "CA": "2026-10-24T08:44:12.168043+00:00",
    "AR": "2026-11-15T00:51:30.402854+00:00",
-   "UY": "2026-11-15T00:51:30.402854+00:00",
-   "BO": "2026-11-15T00:51:30.402854+00:00",
-   "PY": "2026-11-15T00:51:30.402854+00:00",
+   "UY": "2026-11-15T07:38:16.702062+00:00",
+   "BO": "2026-11-15T07:38:16.702062+00:00",
+   "PY": "2026-11-15T07:38:16.702062+00:00",
    "CO": "2026-11-15T00:51:30.402854+00:00",
    "EC": "2026-11-15T00:51:30.402854+00:00",
    "VE": "2026-11-15T00:51:30.402854+00:00"
@@ -188370,7 +188380,7 @@
  },
  "ufc-hoy": {
   "term": "ufc hoy",
-  "traffic": "500+",
+  "traffic": "1000+",
   "news": [
    {
     "title": "Quién pelea hoy sábado 14 de noviembre en boxeo y UFC, a qué hora y dónde ver los combates EN VIVO",
@@ -188389,11 +188399,14 @@
    }
   ],
   "first": "2026-10-24T13:09:59.905491+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "CL": "2026-10-24T13:09:59.905491+00:00",
    "EC": "2026-10-24T16:49:48.157120+00:00",
-   "AR": "2026-11-15T00:51:30.402854+00:00"
+   "AR": "2026-11-15T00:51:30.402854+00:00",
+   "UY": "2026-11-15T07:38:16.702062+00:00",
+   "BO": "2026-11-15T07:38:16.702062+00:00",
+   "PY": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "aston-villa-manchester-city": {
@@ -192867,29 +192880,31 @@
  },
  "ufc-334": {
   "term": "ufc 334",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "UFC 334 Highlights! Mesquita Quickly Subs Chiasson To Win Fourth Straight",
-    "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486043/watch-ufc-334-video-highlights-results-paramount-new-york-mesquita-submission-chiasson",
-    "source": "MMA Mania"
+    "title": "Licensable picture: MMA: UFC 334",
+    "url": "https://www.reutersconnect.com/item/mma-ufc-334/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTcwNzY",
+    "source": "Reuters Connect"
    },
    {
-    "title": "Macy Chiasson v Bia Mesquita Odds",
-    "url": "https://sportsbook.fanduel.com/mma/ufc-matches/macy-chiasson-v-bia-mesquita-36298468",
-    "source": "FanDuel Sportsbook"
+    "title": "Gane, Hokit, Amanda Nunes, Kayla Harrison's Next Best Fights After UFC 334 Results",
+    "url": "https://bleacherreport.com/articles/25533198-gane-hokit-amanda-nunes-kayla-harrisons-next-best-fights-after-ufc-334-results",
+    "source": "Bleacher Report"
    },
    {
-    "title": "Bia Mesquita Submits Macy Chiasson In Opening Round | Polymarket UFC 334",
-    "url": "https://www.ufc.com/video/161995",
-    "source": "UFC.com"
+    "title": "UFC 334 post-fight press conference video",
+    "url": "https://sports.yahoo.com/articles/ufc-334-post-fight-press-060606552.html",
+    "source": "Yahoo Sports"
    }
   ],
   "first": "2026-10-24T21:45:53.955288+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "MX": "2026-10-24T21:45:53.955288+00:00",
-   "EC": "2026-11-15T00:51:30.402854+00:00"
+   "EC": "2026-11-15T00:51:30.402854+00:00",
+   "VE": "2026-11-15T07:38:16.702062+00:00",
+   "BO": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "donde-mirar-queretaro-futbol-club-contra-club-de-futbol-cruz-azul": {
@@ -227795,28 +227810,30 @@
  },
  "jeremiah-fears": {
   "term": "jeremiah fears",
-  "traffic": "500+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "New Orleans Pelicans Second-Year Star Jeremiah Fears STRUGGLING, Derik Queen PLEASANTLY SURPRISING",
-    "url": "https://www.kvue.com/video/sports/locked-on/lo-new-orleans/locked-on-pelicans-hit/new-orleans-pelicans-second-year-star-jeremiah-fears-struggling-derik-queen-pleasantly-surprising/535-108b7f7d-6486-45d8-adcb-f08912e6d79a",
-    "source": "KVUE"
+    "title": "Injury Notes: Missi, Murphy, Barnes, Leonard, Christie, Penda, More",
+    "url": "https://www.hoopsrumors.com/2026/11/injury-notes-missi-murphy-barnes-leonard-christie-penda-more.html",
+    "source": "Hoops Rumors"
    },
    {
-    "title": "Jeremiah Fears News: Poor shooting display Wednesday",
-    "url": "https://www.rotowire.com/basketball/headlines/jeremiah-fears-news-poor-shooting-display-wednesday-536647",
-    "source": "RotoWire"
+    "title": "Yves Missi Cleared to Return Saturday Against Denver - NBA News | Fantasy Basketball",
+    "url": "https://www.rotoballer.com/player-news/yves-missi-knee-to-return-saturday-vs-denver/1994018",
+    "source": "RotoBaller"
    },
    {
-    "title": "Jeremiah Fears struggles in season opener, but Dejounte Murray knows level-up secret",
-    "url": "https://sports.yahoo.com/articles/jeremiah-fears-struggles-season-opener-205548661.html",
-    "source": "Yahoo Sports"
+    "title": "Yves Missi (knee) remains out for Friday",
+    "url": "https://www.fantasypros.com/nba/news/618053/yves-missi-knee-remains-out-friday.php",
+    "source": "FantasyPros"
    }
   ],
   "first": "2026-10-30T01:40:32.274557+00:00",
-  "seen": "2026-10-30T01:40:32.274557+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "US": "2026-10-30T01:40:32.274557+00:00"
+   "US": "2026-10-30T01:40:32.274557+00:00",
+   "PE": "2026-11-15T07:38:16.702062+00:00",
+   "VE": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "grizzlies-vs-trail-blazers": {
@@ -229290,28 +229307,28 @@
  },
  "belinda": {
   "term": "belinda",
-  "traffic": "1000+",
+  "traffic": "100+",
   "news": [
    {
-    "title": "Belinda sorprende con su disfraz de Halloween y una fiesta llena de estrellas",
-    "url": "https://es-us.vida-estilo.yahoo.com/belinda-sorprende-disfraz-halloween-fiesta-144559079.html",
-    "source": "Yahoo en Español Vida y Estilo"
+    "title": "Belinda y Renata Notni en polémica por un millonario mexicano",
+    "url": "https://vix.com/es-es/detail/video-5010986",
+    "source": "VIX"
    },
    {
-    "title": "Andrea Legarreta hace confesión sobre el Beliween; Hoy muestra en vivo los impactantes disfraces de los famosos",
-    "url": "https://www.lasestrellas.tv/famosos/andrea-legarreta-hace-confesion-sobre-el-beliween-hoy-muestra-en-vivo-los-impactantes-disfraces-de-los-famosos",
-    "source": "Las Estrellas"
+    "title": "Belinda causa rumores por mensaje en redes",
+    "url": "https://www.elvigia.net/espectaculos/2026/11/14/belinda-causa-rumores-por-mensaje-en-redes-478716.html",
+    "source": "El Vigía"
    },
    {
-    "title": "Belinda se transformó en una criatura de ‘Alien’ para el Beliween 2026: Así fue su disfraz de Halloween",
-    "url": "https://www.elfinanciero.com.mx/espectaculos/2026/10/29/belinda-se-transformo-en-una-criatura-de-alien-para-su-beliween-2026/",
-    "source": "El Financiero"
+    "title": "¿Cómo fue la relación de Belinda con Gonzalo Hevia Baillères? Así fue la historia de amor que terminó por CLAS",
+    "url": "https://www.milenio.com/espectaculos/famosos/historia-de-amor-de-belinda-y-gonzalo-hevia-bailleres",
+    "source": "Milenio"
    }
   ],
   "first": "2026-10-30T08:14:50.346511+00:00",
-  "seen": "2026-10-30T08:14:50.346511+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "MX": "2026-10-30T08:14:50.346511+00:00"
+   "MX": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "cedric-coward": {
@@ -231091,28 +231108,28 @@
  },
  "carlos-melconian": {
   "term": "carlos melconian",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Carlos Melconian: “Esta es una economía para el 15% de la gente”",
-    "url": "https://www.lanacion.com.ar/economia/carlos-melconian-esta-es-una-economia-para-el-15-de-la-gente-nid30102026/",
-    "source": "La Nación"
+    "title": "\"Queda para el próximo\": Carlos Melconian descartó que el Gobierno pueda bajar la inflación",
+    "url": "https://www.ambito.com/economia/queda-el-proximo-carlos-melconian-descarto-que-el-gobierno-pueda-bajar-la-inflacion-n6345314",
+    "source": "Ambito"
    },
    {
-    "title": "Melconian apuntó contra Milei: “No es economista; no sé si existe la escuela austríaca”",
-    "url": "https://www.lagaceta.com.ar/nota/1160171/economia/melconian-apunto-contra-milei-no-economista-no-se-si-existe-escuela-austriaca.html",
+    "title": "Carlos Melconian criticó la motosierra del Gobierno: Ni rozó a la casta",
+    "url": "https://www.lagaceta.com.ar/nota/1162556/economia/carlos-melconian-critico-motosierra-gobierno-ni-rozo-casta.html",
     "source": "La Gaceta"
    },
    {
-    "title": "Melconian fue lapidario con Milei: habló de US$ 100.000 millones de pérdida y alertó por una doble crisis en 2027",
-    "url": "https://eleconomista.com.ar/economia/melconian-fue-lapidario-milei-hablo-us-100000-millones-perdida-alerto-una-doble-crisis-2027-n99270",
-    "source": "El Economista - Últimas noticias económicas y financieras"
+    "title": "Melconian descartó la baja de inflación antes de las elecciones: \"Quedará para el próximo\"",
+    "url": "https://www.iprofesional.com/economia/469150-melconian-descarto-la-baja-de-inflacion-antes-de-las-elecciones-quedara-para-el-proximo",
+    "source": "iProfesional"
    }
   ],
   "first": "2026-10-30T20:00:01.026238+00:00",
-  "seen": "2026-10-30T20:00:01.026238+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "AR": "2026-10-30T20:00:01.026238+00:00"
+   "AR": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "ejecucion": {
@@ -236743,28 +236760,28 @@
  },
  "furia": {
   "term": "furia",
-  "traffic": "500+",
+  "traffic": "2000+",
   "news": [
    {
-    "title": "Nemiga Gaming vs FURIA - PGL Masters Bucharest 2026 | DRAFT5 - Notícias e Coberturas CS",
-    "url": "https://draft5.gg/partida/47281-Nemiga-Gaming-vs-FURIA-PGL-Masters-Bucharest-2026",
-    "source": "DRAFT5"
-   },
-   {
-    "title": "MOUZ vs. FURIA at PGL Masters Bucharest 2026 | Veja horário, streams, etc.",
-    "url": "https://www.dust2.com.br/partidas/2399757/mouz-vs-furia",
+    "title": "FURIA vs. Falcons at BLAST Rivals 2026 Season 2 | Veja horário, streams, etc.",
+    "url": "https://www.dust2.com.br/partidas/2400207/furia-vs-falcons",
     "source": "Dust2"
    },
    {
-    "title": "molodoy destaca evolução da FURIA e comemora vitória diante da MOUZ: \"É sempre difícil jogar contra eles\"",
-    "url": "https://draft5.gg/noticia/molodoy-destaca-evolucao-da-furia-e-comemora-vitoria-diante-da-mouz-e-sempre-dificil-jogar-contra-eles",
+    "title": "YEKINDAR exalta atitude da Falcons e revela função de IGL Ancient: \"FalleN acha o mapa estúpido\"",
+    "url": "https://draft5.gg/noticia/yekindar-exalta-atitude-da-falcons-e-revela-funcao-de-igl-ancient-fallen-acha-o-mapa-estupido",
     "source": "DRAFT5"
+   },
+   {
+    "title": "Falcons vence G2 e enfrentará a FURIA na semifinal da BLAST Rivals Fall 2026",
+    "url": "https://arenaesports.com.br/counter-strike/falcons-vence-g2-e-enfrentara-a-furia-na-semifinal-da-blast-rivals-fall-2026/",
+    "source": "arenaesports.com.br"
    }
   ],
   "first": "2026-10-31T15:57:54.415544+00:00",
-  "seen": "2026-10-31T15:57:54.415544+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "BR": "2026-10-31T15:57:54.415544+00:00"
+   "BR": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "suspeito": {
@@ -246963,25 +246980,25 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "Alexander Isak 'problem' addressed as Liverpool told what it still needs from Florian Wirtz",
-    "url": "https://www.liverpool.com/liverpool-fc-news/features/alexander-isak-problem-liverpool-wirtz-34896973",
-    "source": "Liverpool.com"
-   },
-   {
-    "title": "“That’s all that matters” – Ian Rush praises Liverpool star after recent performances",
-    "url": "https://sports.yahoo.com/articles/matters-ian-rush-praises-liverpool-185000519.html",
+    "title": "Liverpool told to snap up Ronald Araujo in bargain €55m deal by former defender",
+    "url": "https://sports.yahoo.com/articles/liverpool-told-snap-ronald-araujo-040000171.html",
     "source": "Yahoo Sports"
    },
    {
-    "title": "Hesky: Isak is 'finding his footing at Liverpool', as Ngumoha and Nyoni earn praise",
-    "url": "https://www.besoccer.com/new/hesky-isak-is-finding-his-footing-at-liverpool-as-ngumoha-and-nyoni-earn-praise-1440015",
-    "source": "BeSoccer Livescore"
+    "title": "Former Liverpool defender Lovren heaps praise on Araujo and Jacquet",
+    "url": "https://www.flashscore.com/news/soccer-premier-league-exclusive-lovren-heaps-praise-on-liverpool-defensive-duo-araujo-and-jacquet/dOwZ0VBF/",
+    "source": "Flashscore.com"
+   },
+   {
+    "title": "ARAUJO LIKELY TO JOIN IN JANUARY! INTEREST IN DE CUYPER + LIVERPOOL SCOUT 20 YEAR OLD CENTREBACK!",
+    "url": "https://onefootball.com/en/video/araujo-likely-to-join-in-january-interest-in-de-cuyper-liverpool-scout-20-year-old-centreback-43778525",
+    "source": "OneFootball"
    }
   ],
   "first": "2026-11-02T00:32:36.533033+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "UY": "2026-11-15T00:51:30.402854+00:00"
+   "UY": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "antonelli": {
@@ -290075,28 +290092,30 @@
  },
  "anne-hathaway": {
   "term": "anne hathaway",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Naomi Watts and Anne Hathaway Are Fans of This Trending Handbag Style—so We Found Affordable Lookalikes",
-    "url": "https://www.instyle.com/naomi-watts-anne-hathaway-east-west-bag-quince-lookalikes-12245498",
-    "source": "InStyle"
+    "title": "The 2005 movie scene that left Anne Hathaway “terrified and sick to my stomach”",
+    "url": "https://faroutmagazine.co.uk/2005-scene-that-left-anne-hathaway-terrified-and-sick/",
+    "source": "Far Out Magazine"
    },
    {
-    "title": "Naomi Watts' DeMellier bag is loved by a long list of celebrities, here's why it's the perfect partywear companion",
-    "url": "https://www.womanandhome.com/fashion/fashion-news/naomi-watts-demellier-stockholm-shoulder-bag/",
-    "source": "Woman & Home"
+    "title": "Anne Hathaway Met Her Husband Just After a Devastating Breakup. She Knew He Was the One",
+    "url": "https://graziamagazine.com/articles/anne-hathaway-met-her-husband-just-after-a-devastating-breakup-she-knew-he-was-the-one/",
+    "source": "graziamagazine.com"
    },
    {
-    "title": "The Best Dinosaur Movie Of The Century Just Got A Huge Upgrade",
-    "url": "https://www.inverse.com/entertainment/the-end-of-oak-street-blu-ray-4k",
-    "source": "Inverse"
+    "title": "Does the Dog Die in ‘The End of Oak Street’?",
+    "url": "https://www.imdb.com/de/news/ni66109921/?ref_=nwc_art_perm",
+    "source": "IMDb"
    }
   ],
   "first": "2026-11-10T15:10:35.269809+00:00",
-  "seen": "2026-11-10T15:10:35.269809+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "CO": "2026-11-10T15:10:35.269809+00:00"
+   "CO": "2026-11-10T15:10:35.269809+00:00",
+   "MX": "2026-11-15T07:38:16.702062+00:00",
+   "CA": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "ruta-del-papa": {
@@ -295145,28 +295164,28 @@
  },
  "inpres-san-juan": {
   "term": "inpres san juan",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
-   {
-    "title": "Tembló en San Juan y se sintió en Mendoza",
-    "url": "https://www.elsol.com.ar/mendoza/temblo-en-san-juan-y-se-sintio-en-mendoza-22/",
-    "source": "Diario El Sol Mendoza"
-   },
    {
     "title": "Un fuerte sismo de magnitud 4,8 tuvo epicentro cerca de Calingasta",
     "url": "https://www.diariodecuyo.com.ar/san-juan/un-fuerte-sismo-magnitud-48-tuvo-epicentro-cerca-calingasta-n6588244",
     "source": "Diario de Cuyo"
    },
    {
-    "title": "Se movió la tierra muy cerca del Cerro Mercedario y alcanzó a percibirse en el Gran Mendoza",
-    "url": "https://www.diariomendoza.com.ar/sociedad/se-movio-tierra-muy-cerca-cerro-mercedario-alcanzo-percibirse-gran-mendoza-n185102",
-    "source": "Diario Mendoza"
+    "title": "Tembló en San Juan y se sintió en Mendoza",
+    "url": "https://www.elsol.com.ar/mendoza/temblo-en-san-juan-y-se-sintio-en-mendoza-22/",
+    "source": "Diario El Sol Mendoza"
+   },
+   {
+    "title": "Terremoto moderado mag. 4.8 - Departamento de Albardon, 26 km al noroeste de Ciudad de San Juan, Capital, San Juan, Argentina, Sunday 15 Nov 2026 a las 00:59 (Hora Buenos_Aires)",
+    "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23639893/mag4quake-Nov-15-2026-Argentina-San-Juan.html",
+    "source": "Volcano Discovery"
    }
   ],
   "first": "2026-11-11T16:28:36.823732+00:00",
-  "seen": "2026-11-11T16:28:36.823732+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "AR": "2026-11-11T16:28:36.823732+00:00"
+   "AR": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "edenor": {
@@ -296402,29 +296421,30 @@
  },
  "nvidia-jensen-huang": {
   "term": "nvidia jensen huang",
-  "traffic": "200+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+    "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+    "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
     "source": "The New York Times"
    },
    {
-    "title": "NVIDIA Announces CEO Transition",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-    "source": "NVIDIA Newsroom"
+    "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+    "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+    "source": "Reuters"
    },
    {
-    "title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China",
-    "url": "https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/",
-    "source": "The Washington Post"
+    "title": "‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia",
+    "source": "Bloomberg.com"
    }
   ],
   "first": "2026-11-11T16:28:36.823732+00:00",
-  "seen": "2026-11-14T20:52:54.700655+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "MX": "2026-11-11T16:28:36.823732+00:00",
-   "AR": "2026-11-14T20:52:54.700655+00:00"
+   "AR": "2026-11-14T20:52:54.700655+00:00",
+   "CL": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "resultados-loteria-nacional-sorteo-mayor": {
@@ -298943,25 +298963,25 @@
   "traffic": "200+",
   "news": [
    {
+    "title": "Oscar Villegas afirma que Bolivia hizo un partido “bastante aceptable” ante Perú",
+    "url": "https://elpotosi.net/deporte/20261114_oscar-villegas-afirma-que-bolivia-hizo-un-partido-bastante-aceptable-ante-peru.html",
+    "source": "El Potosí"
+   },
+   {
+    "title": "Dirigente de la federación de Perú responde a Óscar Villegas y genera polémica en la previa al amistoso",
+    "url": "https://www.bolivia.com/futbol/la-seleccion/polemica-en-la-previa-del-peru-vs-bolivia-enfrenta-a-jean-ferrari-y-oscar-villegas-612525",
+    "source": "Bolivia.com"
+   },
+   {
     "title": "Costa descarta rumores de Gareca para la selección",
     "url": "https://www.erbol.com.bo/deporte/costa-descarta-rumores-de-gareca-para-la-selecci%C3%B3n",
     "source": "Erbol |"
-   },
-   {
-    "title": "Óscar Villegas: \"Perú está intentando copiar el modelo de Bolivia\"",
-    "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17505572/oscar-villegas-peru-esta-intentando-copiar-el-modelo-de-bolivia",
-    "source": "ESPN Deportes"
-   },
-   {
-    "title": "Óscar Villegas: “Me veo dirigiendo en el Mundial”",
-    "url": "https://correodelsur.com/deporte/20261111/oscar-villegas-me-veo-dirigiendo-en-el-mundial.html",
-    "source": "Correo del Sur"
    }
   ],
   "first": "2026-11-12T03:44:05.023243+00:00",
-  "seen": "2026-11-12T12:19:12.555185+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "BO": "2026-11-12T12:19:12.555185+00:00"
+   "BO": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "estadio-juan-canuto-pettengill": {
@@ -301902,28 +301922,29 @@
  },
  "phil-collins": {
   "term": "phil collins",
-  "traffic": "2000+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Phil Collins Knew He Was ‘Lucky,’ if Not Cool",
-    "url": "https://www.nytimes.com/2026/11/08/arts/music/phil-collins-knew-he-was-lucky-if-not-cool.html",
-    "source": "The New York Times"
+    "title": "Red carpet rolled out for Rock and Roll Hall of Fame 2026 induction ceremony: Watch the full replay",
+    "url": "https://www.wkyc.com/article/entertainment/music/rock-hall/rock-and-roll-hall-of-fame-induction-ceremony-live-stream-video-2026-red-carpet/95-d5ad5491-784f-47d6-afb2-20394e1d999a",
+    "source": "WKYC"
    },
    {
-    "title": "\"If you don’t know the rules, you don’t know you’re breaking them”: Phil Collins on his self-taught style",
-    "url": "https://www.yahoo.com/entertainment/music/articles/don-t-know-rules-don-162609555.html",
-    "source": "Yahoo"
+    "title": "Rock & Roll Hall of Fame live updates: Red Hot Chili Peppers in costume; plus U2, Oprah Winfrey, Phil Collins",
+    "url": "https://www.latimes.com/entertainment-arts/music/live/2026-rock-roll-hall-fame-inductions-oasis-wu-tang-clan-phil-collins",
+    "source": "Los Angeles Times"
    },
    {
-    "title": "Phil Collins Says He May Be Able to Tour Again, but It's Not That Simple: 'I Think About Going Back on the Road'",
-    "url": "https://www.ultimate-guitar.com/news/general_music_news/phil-collins-says-he-may-be-able-to-tour-again-but-its-not-that-simple-i-think-about-going-back-on-the-road",
-    "source": "Ultimate Guitar"
+    "title": "Rock & Roll Hall of Fame induction set for LA Live on Saturday, with many big names skipping the stage",
+    "url": "https://abc7.com/post/rock-roll-hall-fame-induction-set-la-live-saturday-many-big-names-skipping-stage/20040571/",
+    "source": "ABC7 Los Angeles"
    }
   ],
   "first": "2026-11-12T20:17:32.334139+00:00",
-  "seen": "2026-11-12T20:17:32.334139+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "US": "2026-11-12T20:17:32.334139+00:00"
+   "US": "2026-11-12T20:17:32.334139+00:00",
+   "BR": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "musician": {
@@ -303685,28 +303706,29 @@
  },
  "microsoft-xbox-playback": {
   "term": "microsoft xbox playback",
-  "traffic": "500+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "XBOX Playback is Here: Look Back at Your XBOX Story",
-    "url": "https://news.xbox.com/en-us/2026/11/12/xbox-playback-25th-anniversary-review/",
+    "title": "Thanks for 25 Years, XBOX Players — From Wolfenstein 3 and Halo Firefight to Classic XBOX Games on PC: Everything Announced Today",
+    "url": "https://news.xbox.com/en-us/2026/11/12/xbox-25th-anniversary-news-recap/",
     "source": "XBOX Wire"
    },
    {
-    "title": "Xbox Has Spent 25 Years Tracking Your Gaming Habits; Now You Can See The Damage",
-    "url": "https://www.gamespot.com/articles/xbox-has-spent-25-years-tracking-your-gaming-habits-now-you-can-see-the-damage/",
-    "source": "GameSpot"
+    "title": "Here's How To Claim All The Xbox 25th Anniversary In-Game Items",
+    "url": "https://www.purexbox.com/guides/heres-how-to-claim-all-the-xbox-25th-anniversary-in-game-items",
+    "source": "Pure Xbox"
    },
    {
-    "title": "Microsoft launches Xbox Playback for players to revisit their gaming history",
-    "url": "https://mezha.net/eng/news/mezha-e6f437bf9866b0c1a8664efc_microsoft_launches_xbox/",
-    "source": "Mezha.net"
+    "title": "Xbox at 25: How a Giant Black Box With a Green Jewel Changed Gaming Forever",
+    "url": "https://www.thehypemagazine.com/2026/11/12/xbox-25th-anniversary-2001-console-history/",
+    "source": "The Hype Magazine"
    }
   ],
   "first": "2026-11-13T01:22:02.883849+00:00",
-  "seen": "2026-11-13T01:22:02.883849+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "MX": "2026-11-13T01:22:02.883849+00:00"
+   "MX": "2026-11-13T01:22:02.883849+00:00",
+   "CO": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "alfredo-ramirez-bedolla": {
@@ -307665,28 +307687,31 @@
  },
  "caio-borralho": {
   "term": "caio borralho",
-  "traffic": "100+",
+  "traffic": "500+",
   "news": [
    {
-    "title": "Yousri Belgaroui | Fine-Tuned By The Best",
-    "url": "https://www.ufc.com.br/news/yousri-belgaroui-fine-tuned-best-polymarket-ufc-334",
-    "source": "UFC.com.br"
+    "title": "How Alex Pereira's striking and Glover Teixeira's wrestling are helping Yousri Belgaroui",
+    "url": "https://www.sherdog.com/news/news/How-Alex-Pereiras-striking-and-Glover-Teixeiras-wrestling-are-helping-Yousri-Belgaroui-203596",
+    "source": "Sherdog"
    },
    {
-    "title": "Caio Borralho | Reconnected And Ready For MSG",
-    "url": "https://www.ufc.com/news/caio-borralho-reconnected-and-ready-for-msg-polymarket-ufc-334",
+    "title": "Licensable picture: MMA: UFC 334",
+    "url": "https://www.reutersconnect.com/item/mma-ufc-334/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTY2MzU",
+    "source": "Reuters Connect"
+   },
+   {
+    "title": "Caio Borralho Post-Fight Interview | Polymarket UFC 334",
+    "url": "https://www.ufc.com/video/161954",
     "source": "UFC.com"
-   },
-   {
-    "title": "MMA Same Game Parlay of the Week: UFC 334",
-    "url": "https://www.sportsgamblingpodcast.com/2026/11/13/mma-same-game-parlay-of-the-week-ufc-334/",
-    "source": "Sports Gambling Podcast"
    }
   ],
   "first": "2026-11-14T02:39:22.504170+00:00",
-  "seen": "2026-11-14T02:39:22.504170+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "BR": "2026-11-14T02:39:22.504170+00:00"
+   "BR": "2026-11-14T02:39:22.504170+00:00",
+   "AR": "2026-11-15T07:38:16.702062+00:00",
+   "CO": "2026-11-15T07:38:16.702062+00:00",
+   "EC": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "spurs-x-warriors": {
@@ -313058,38 +313083,39 @@
  },
  "jamaica-mexico": {
   "term": "jamaica - méxico",
-  "traffic": "100000+",
+  "traffic": "10000+",
   "news": [
    {
-    "title": "JFF president confident win over Mexico will put Jamaica on the football map",
-    "url": "https://www.jamaicaobserver.com/2026/11/14/jff-president-confident-win-mexico-will-put-jamaica-football-map/",
-    "source": "Jamaica Observer"
+    "title": "Mexico lost to Jamaica. But El Tri's late goals could prove to be winners",
+    "url": "https://www.usatoday.com/story/sports/soccer/2026/11/14/mexico-jamaica-score-watch-highlights-concacaf-nations-league-channel--live/92782346007/",
+    "source": "USA Today"
    },
    {
-    "title": "Joshua Grant returns to international stage, announces FC Naples contract extension",
-    "url": "https://www.winknews.com/sports/joshua-grant-returns-to-international-stage-announces-fc-naples-contract-extension/article_515200c3-f652-451b-ac06-cdd71a1affeb.html",
-    "source": "WINK News - Southwest Florida"
+    "title": "Rojiblanco Participation in the First Leg of the Quarterfinals Between Mexico and Jamaica",
+    "url": "https://sports.yahoo.com/articles/rojiblanco-participation-first-leg-quarterfinals-210400934.html",
+    "source": "Yahoo Sports"
    },
    {
-    "title": "Armando 'Hormiga' González is challenging Rafael Márquez's decision to bench him",
-    "url": "https://latination.com/why-armando-hormiga-gonzalez-should-start-for-mexico",
-    "source": "https://latination.com/"
+    "title": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League",
+    "url": "https://www.nytimes.com/athletic/7782420/2026/11/14/mexico-jamaica-concacaf-result-score/",
+    "source": "The New York Times"
    }
   ],
   "first": "2026-11-15T00:51:30.402854+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "AR": "2026-11-15T00:51:30.402854+00:00",
    "CL": "2026-11-15T00:51:30.402854+00:00",
    "CO": "2026-11-15T00:51:30.402854+00:00",
    "PE": "2026-11-15T00:51:30.402854+00:00",
-   "EC": "2026-11-15T00:51:30.402854+00:00",
+   "EC": "2026-11-15T07:38:16.702062+00:00",
    "VE": "2026-11-15T00:51:30.402854+00:00",
-   "BO": "2026-11-15T00:51:30.402854+00:00",
-   "PY": "2026-11-15T00:51:30.402854+00:00",
+   "BO": "2026-11-15T07:38:16.702062+00:00",
+   "PY": "2026-11-15T07:38:16.702062+00:00",
    "US": "2026-11-15T00:51:30.402854+00:00",
    "MX": "2026-11-15T00:51:30.402854+00:00",
-   "CA": "2026-11-15T00:51:30.402854+00:00"
+   "CA": "2026-11-15T00:51:30.402854+00:00",
+   "UY": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "blg": {
@@ -313438,30 +313464,30 @@
  },
  "queretaro-monterrey": {
   "term": "querétaro - monterrey",
-  "traffic": "500+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Querétaro vs Monterrey: ¿Cómo afecta a Pumas y Liguilla?",
-    "url": "https://www.espn.com.ec/futbol/mexico/nota/_/id/17499550/queretaro-vs-monterrey-como-afecta-pumas-liguilla",
+    "title": "Rayados gana juego ante Querétaro pendiente y pelea la Liguilla",
+    "url": "https://www.espn.com.ec/futbol/mexico/nota/_/id/17517531/rayados-vence-a-queretaro-se-acerca-a-la-liguilla-apertura-2026",
     "source": "ESPN Ecuador"
    },
    {
-    "title": "Va Rayados con De la Rosa de titular",
-    "url": "https://www.reforma.com/va-rayados-con-de-la-rosa-de-titular/ar3314868?redirectcancha=1",
-    "source": "Reforma"
+    "title": "Monterrey venció por la mínima a Gallos Blancos",
+    "url": "https://fdpradio.com/monterrey-vencio-por-la-minima-a-gallos-blancos/",
+    "source": "FDP Radio"
    },
    {
-    "title": "Querétaro vs Monterrey en vivo: ¡ El terrible falla de Aldo de Nigris!",
-    "url": "https://www.clarosports.com/futbol/liga-mx/queretaro-vs-monterrey-en-vivo-el-partido-de-la-jornada-7-de-la-liga-mx-resultado-y-goles-hoy-apertura-2026/",
-    "source": "Claro Sports"
+    "title": "Guillermo Allison pierde la cabeza y deja a Gallos sin portero vs Monterrey",
+    "url": "https://mexico.as.com/futbol/futbol-mexicano/guillermo-allison-pierde-la-cabeza-y-deja-a-gallos-sin-portero-vs-monterrey-f202611-n/",
+    "source": "AS México"
    }
   ],
   "first": "2026-11-15T00:51:30.402854+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "CL": "2026-11-15T00:51:30.402854+00:00",
    "PE": "2026-11-15T00:51:30.402854+00:00",
-   "EC": "2026-11-15T00:51:30.402854+00:00"
+   "EC": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "herrera": {
@@ -313570,7 +313596,7 @@
  },
  "nacional-albion": {
   "term": "nacional - albion",
-  "traffic": "20000+",
+  "traffic": "500+",
   "news": [
    {
     "title": "Clausura: Nacional está derrotando 1-0 a Albion en el Gran Parque Central",
@@ -313589,10 +313615,11 @@
    }
   ],
   "first": "2026-11-15T00:51:30.402854+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "PE": "2026-11-15T00:51:30.402854+00:00",
-   "UY": "2026-11-15T00:51:30.402854+00:00"
+   "UY": "2026-11-15T00:51:30.402854+00:00",
+   "PY": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "posiciones-de-atletico-nacional-contra-once-caldas": {
@@ -313636,16 +313663,16 @@
     "source": "RFI"
    },
    {
-    "title": "LIVE BLOG: Portugal vs Dinamarca | UEFA Nations League",
-    "url": "https://www.beinsports.com/es-us/football/uefa-nations-league/articles/live-blog-portugal-vs-dinamarca-uefa-nations-league-2026-11-14",
-    "source": "beIN SPORTS"
+    "title": "Cómo extrañaron a CR7 en Portugal: Dinamarca los humilló en casa y la plantilla entera queda retratada (VIDEO)",
+    "url": "https://es-us.noticias.yahoo.com/deportes/extra%C3%B1aron-cr7-portugal-dinamarca-humill%C3%B3-214500898.html",
+    "source": "Yahoo"
    }
   ],
   "first": "2026-11-15T00:51:30.402854+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "UY": "2026-11-15T00:51:30.402854+00:00",
-   "BO": "2026-11-15T00:51:30.402854+00:00",
+   "BO": "2026-11-15T07:38:16.702062+00:00",
    "PY": "2026-11-15T00:51:30.402854+00:00"
   }
  },
@@ -313706,7 +313733,7 @@
  },
  "mirassol-atletico-mineiro": {
   "term": "mirassol - atlético mineiro",
-  "traffic": "1000+",
+  "traffic": "100+",
   "news": [
    {
     "title": "Mirassol 0 x 0 Atlético-MG | Campeonato Brasileiro: melhores momentos",
@@ -313714,21 +313741,21 @@
     "source": "ge"
    },
    {
-    "title": "Mirassol x Atlético-MG: onde assistir ao vivo, horário e escalações",
-    "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-a/noticia/2026/11/14/mirassol-x-atletico-mg-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-    "source": "ge"
+    "title": "Atlético-MG tenta encerrar jejum de 6 jogos e buscar o G6 no Brasileirão",
+    "url": "https://prensamercosur.org/2026/11/14/atletico-mg-tenta-encerrar-jejum-de-6-jogos-e-buscar-o-g6-no-brasileirao/",
+    "source": "Prensa Mercosur"
    },
    {
-    "title": "Brasileirão tem dois jogos hoje e vai movimentar luta contra o rebaixamento",
-    "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/14/rodada-brasileirao-sabado-luta-rebaixamento.ghtm",
-    "source": "UOL"
+    "title": "Eduardo Domínguez destaca competitividade do Atlético-MG antes da final da Sul-Americana",
+    "url": "https://www.cartacapital.com.br/esporte/eduardo-dominguez-destaca-competitividade-do-atletico-mg-antes-da-final-da-sul-americana/",
+    "source": "CartaCapital"
    }
   ],
   "first": "2026-11-15T00:51:30.402854+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
    "UY": "2026-11-15T00:51:30.402854+00:00",
-   "BO": "2026-11-15T00:51:30.402854+00:00",
+   "BO": "2026-11-15T07:38:16.702062+00:00",
    "PY": "2026-11-15T00:51:30.402854+00:00"
   }
  },
@@ -313864,28 +313891,28 @@
  },
  "chapecoense-x-vasco-da-gama": {
   "term": "chapecoense x vasco da gama",
-  "traffic": "100+",
+  "traffic": "200+",
   "news": [
    {
-    "title": "Aos 35 min do 1º tempo - gol de cabeça de Bruno Duarte do Vasco contra a Chapecoense",
-    "url": "https://ge.globo.com/futebol/video/aos-35-min-do-1o-tempo-gol-de-cabeca-de-bruno-duarte-do-vasco-contra-a-chapecoense-15189576.ghtml",
+    "title": "Chapecoense 0 x 2 Vasco | Campeonato Brasileiro: melhores momentos",
+    "url": "https://ge.globo.com/sc/futebol/brasileirao-serie-a/jogo/14-11-2026/chapecoense-vasco.ghtml",
     "source": "ge"
    },
    {
-    "title": "Chapecoense x Vasco: onde assistir ao vivo e escalações do jogo do Brasileirão",
-    "url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17516837/chapecoense-x-vasco-onde-assistir-ao-vivo-escalacoes-jogo-brasileirao",
-    "source": "ESPN Brasil"
+    "title": "Decisivo, Bruno Duarte celebra gol e elogia Andrés Gómez: 'Especial'",
+    "url": "https://odia.ig.com.br/esporte/vasco/2026/11/7322533-decisivo-bruno-duarte-celebra-gol-e-elogia-andres-gomez-especial.html",
+    "source": "O Dia"
    },
    {
-    "title": "Vasco divulga boletim médico de Thiago Mendes, Nuno Moreira, Tchê Tchê e Sosa, que estão fora do jogo contra a Chapecoense, e os relacionados",
-    "url": "https://www.netvasco.com.br/n/396368/vasco-divulga-boletim-medico-de-thiago-mendes-nuno-moreira-tche-tche-e-sosa-que-estao-fora-do-jogo-contra-a-chapecoense-e-os-relacionados",
-    "source": "NETVASCO"
+    "title": "Chapecoense é derrotada no Brasileirão Série A",
+    "url": "https://fcf.com.br/chapecoense-e-derrotada-no-brasileirao-serie-a/",
+    "source": "Federação Catarinense de Futebol - FCF"
    }
   ],
   "first": "2026-11-15T00:51:30.402854+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "PY": "2026-11-15T00:51:30.402854+00:00"
+   "PY": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "whit-weeks": {
@@ -314206,25 +314233,26 @@
   "traffic": "200+",
   "news": [
    {
-    "title": "Polymarket Promo Code WSN: $25 Bonus for Bulls vs. Timberwolves (November 14)",
-    "url": "https://www.wsn.com/promos/kalshi-promo-code-nba-bulls-vs-timberwolves-11-14-2026/",
-    "source": "WSN.com"
+    "title": "Matas Buzelis News: Flirts with double-double in win",
+    "url": "https://www.rotowire.com/basketball/headlines/matas-buzelis-news-flirts-with-double-double-in-win-539196",
+    "source": "RotoWire"
    },
    {
-    "title": "Minnesota takes on Chicago, aims for 5th straight home win",
-    "url": "https://www.foxsports.com/articles/nba/minnesota-takes-on-chicago-aims-for-5th-straight-home-win",
-    "source": "FOX Sports"
+    "title": "NBA Recap: Bulls 117, Wolves 106: Play Stupid Games, Win Stupid Prizes",
+    "url": "https://www.canishoopus.com/timberwolves-scores-results/71994/game-recap-minnesota-timberwolves-chiacago-bulls-jonathan-kuminga",
+    "source": "Canis Hoopus"
    },
    {
-    "title": "Game Preview #13: Wolves vs Bulls",
-    "url": "https://sports.yahoo.com/articles/game-preview-13-wolves-vs-010000388.html",
-    "source": "Yahoo Sports"
+    "title": "Bulls vs Timberwolves: Prediction, Team News and Minnesota's Five-Game Run",
+    "url": "https://www.squawka.com/ca/news/nba/bulls-vs-timberwolves-prediction-team-news/",
+    "source": "Squawka"
    }
   ],
   "first": "2026-11-15T00:51:30.402854+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "MX": "2026-11-15T00:51:30.402854+00:00"
+   "MX": "2026-11-15T00:51:30.402854+00:00",
+   "VE": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "liga-femenil": {
@@ -314281,28 +314309,30 @@
  },
  "ciryl-gane": {
   "term": "ciryl gane",
-  "traffic": "100+",
+  "traffic": "2000+",
   "news": [
    {
-    "title": "UFC 334: Nunes en peso para su regreso, las peleas de campeonato son oficiales",
-    "url": "https://www.espn.com.mx/mma/nota/_/id/17511724/ufc-334-gane-vs-hokit-harrison-nunes-pesaje-oficiales",
-    "source": "ESPN México"
+    "title": "Licensable picture: MMA: UFC 334",
+    "url": "https://www.reutersconnect.com/item/mma-ufc-334/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTcwNzY",
+    "source": "Reuters Connect"
    },
    {
-    "title": "Ciryl Gane vs Josh Hokit EN VIVO: A qué hora empieza y dónde ver las peleas de UFC 334 HOY | Cartelera complet",
-    "url": "https://www.milenio.com/deportes/ufc/ciryl-gane-vs-josh-hokit-ver-en-vivo-ufc-334-cartelera",
-    "source": "Milenio"
+    "title": "UFC 334 post-fight press conference video",
+    "url": "https://sports.yahoo.com/articles/ufc-334-post-fight-press-060606552.html",
+    "source": "Yahoo Sports"
    },
    {
-    "title": "¡Un portento atlético! Conoce a Josh Hokit, el exjugador de origen mexicano de NFL que busca su primer cinturón en UFC",
-    "url": "https://www.telediario.mx/deportes/mas-deportes/quien-es-josh-hokit-exjugador-mexicoamericano-de-nfl-en-ufc",
-    "source": "Telediario"
+    "title": "Gane, Hokit, Amanda Nunes, Kayla Harrison's Next Best Fights After UFC 334 Results",
+    "url": "https://bleacherreport.com/articles/25533198-gane-hokit-amanda-nunes-kayla-harrisons-next-best-fights-after-ufc-334-results",
+    "source": "Bleacher Report"
    }
   ],
   "first": "2026-11-15T00:51:30.402854+00:00",
-  "seen": "2026-11-15T00:51:30.402854+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
   "geos": {
-   "MX": "2026-11-15T00:51:30.402854+00:00"
+   "MX": "2026-11-15T00:51:30.402854+00:00",
+   "AR": "2026-11-15T07:38:16.702062+00:00",
+   "CO": "2026-11-15T07:38:16.702062+00:00"
   }
  },
  "jamaica-vs-mexico": {
@@ -314433,6 +314463,1346 @@
   "seen": "2026-11-15T00:51:30.402854+00:00",
   "geos": {
    "CA": "2026-11-15T00:51:30.402854+00:00"
+  }
+ },
+ "24-de-noviembre": {
+  "term": "24 de noviembre",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Declaran feriado el lunes 16 y habrá un nuevo fin de semana largo en Buenos Aires para los trabajadores de Henderson",
+    "url": "https://www.cronista.com/informacion-gral/declaran-feriado-el-lunes-16-y-habra-un-nuevo-fin-de-semana-largo-en-buenos-aires-para-los-trabajadores-de-henderson/",
+    "source": "El Cronista"
+   },
+   {
+    "title": "Axel Kicillof avaló la Resolución 516/26 que otorga un super fin de semana largo de 4 días en Buenos Aires",
+    "url": "https://www.minutouno.com/sociedad/axel-kicillof-avalo-la-resolucion-51626-que-otorga-un-super-fin-semana-largo-4-dias-buenos-aires-n6345197",
+    "source": "Minutouno"
+   },
+   {
+    "title": "Feriados locales en noviembre 2026: qué municipios de la Provincia de Buenos Aires tienen asueto",
+    "url": "https://www.ambito.com/informacion-general/feriados-locales-noviembre-2026-que-municipios-la-provincia-buenos-aires-tienen-asueto-n6341896",
+    "source": "Ambito"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "AR": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "temblor-en-san-juan": {
+  "term": "temblor en san juan",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Temblor hoy en Perú EN VIVO: últimos sismos, epicentro y reporte del IGP del sábado 14 de noviembre de 2026",
+    "url": "https://www.infobae.com/peru/2026/11/14/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-sabado-14-de-noviembre-de-2026/",
+    "source": "Infobae"
+   },
+   {
+    "title": "Ica y otras regiones del Perú registran fuerte actividad sísmica",
+    "url": "https://www.identidadcorrentina.com.ar/noticia/46033_ica-y-otras-regiones-del-per-registran-fuerte-actividad-ssmica.htm",
+    "source": "Identidad Correntina"
+   },
+   {
+    "title": "Perú — Sismo de 5,9 en Perú, el sexto en menos de veinte horas",
+    "url": "https://prensamercosur.org/2026/11/13/peru-sismo-de-59-en-peru-el-sexto-en-menos-de-veinte-horas/",
+    "source": "Prensa Mercosur"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "AR": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "kevin-holland": {
+  "term": "kevin holland",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "UFC 334 live blog: Uros Medic vs. Kevin Holland",
+    "url": "https://www.mmafighting.com/ufc/521230/ufc-334-live-blog-uros-medic-vs-kevin-holland",
+    "source": "MMA Fighting"
+   },
+   {
+    "title": "UFC Judges Flamed Online After Mass Confusion at UFC 334",
+    "url": "https://heavy.com/sports/ufc/ufc-judges-flamed-online-after-mass-confusion-at-ufc-334/",
+    "source": "Heavy.com"
+   },
+   {
+    "title": "UFC 334 Main Card Odds, Picks & Predictions (2026)",
+    "url": "https://www.bettingpros.com/articles/ufc-334-main-card-odds-picks-predictions-2026/",
+    "source": "BettingPros"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "AR": "2026-11-15T07:38:16.702062+00:00",
+   "PE": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "dwayne-johnson": {
+  "term": "dwayne johnson",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Is Dwayne Johnson Sick? Fact Check On Viral Photos Of His Thin Appearance After 22 Kg Weight Loss",
+    "url": "https://www.bollywoodshaadis.com/articles/dwayne-johnson-sick-viral-photos-his-thin-appearance-22-kg-weight-loss-86666",
+    "source": "BollywoodShaadis"
+   },
+   {
+    "title": "Slow Horses Star Jack Lowden Was In Dwayne Johnson's Most Underrated Movie",
+    "url": "https://www.imdb.com/es/news/ni66111694/?ref_=nwc_art_perm",
+    "source": "IMDb"
+   },
+   {
+    "title": "Slow Horses Star Jack Lowden Was In Dwayne Johnson's Most Underrated Movie",
+    "url": "https://www.slashfilm.com/2316904/slow-horses-star-jack-lowden-dwayne-johnson-movie-fighting-with-my-family/",
+    "source": "SlashFilm"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "AR": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "bilal-hasan": {
+  "term": "bilal hasan",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Bilal Hasan Is Ready To Shine On The Big Stage",
+    "url": "https://www.ufc.com/news/bilal-hasan-is-ready-to-shine-on-the-big-stage-polymarket-ufc-334",
+    "source": "UFC.com"
+   },
+   {
+    "title": "UFC 334: Luis Gurule celebrates upset win over Bilal Hasan with AI callout: 'ChatGPT don't know s***'",
+    "url": "https://sports.yahoo.com/mma/article/ufc-334-luis-gurule-celebrates-upset-win-over-bilal-hasan-with-ai-callout-chatgpt-dont-know-s-032410806.html",
+    "source": "Yahoo Sports"
+   },
+   {
+    "title": "UFC 334 live blog: Bilal Hasan vs. Luis Gurule",
+    "url": "https://www.mmafighting.com/ufc/521229/ufc-334-live-blog-bilal-hasan-vs-luis-gurule",
+    "source": "MMA Fighting"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "AR": "2026-11-15T07:38:16.702062+00:00",
+   "CO": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "nacho-giron": {
+  "term": "nacho giron",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Nacho Girón descolocó a Hugo Alconada Mon con una pregunta inesperada en La noche de Mirtha: “Siempre te quise preguntar”",
+    "url": "https://www.eltrecetv.com.ar/la-noche-de-mirtha/2026/11/14/nacho-giron-descoloco-a-hugo-alconada-mon-con-una-pregunta-inesperada-en-la-noche-de-mirtha-siempre-te-quise-preguntar/",
+    "source": "eltrecetv"
+   },
+   {
+    "title": "Cristian, el joven que emocionó al papa León XIV en Palermo: \"Fue el abrazo con mi abuelo y mi hermano que ya no están\"",
+    "url": "https://www.clarin.com/sociedad/cristian-joven-emociono-papa-leon-xiv-palermo-abrazo-abuelo-hermano_0_3xyf0vOfip.html",
+    "source": "Clarin.com"
+   },
+   {
+    "title": "Una noche que encendió el alma y revivió el fervor adolescente, entre velas y las profundas palabras de León XIV",
+    "url": "https://www.lanacion.com.ar/salud/una-noche-que-encendio-el-alma-y-revivio-el-fervor-adolescente-entre-velas-y-las-profundas-palabras-nid12112026/",
+    "source": "La Nación"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "AR": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "jon-jones": {
+  "term": "jon jones",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Ciryl Gane, Josh Hokit transported to hospital following UFC 334 wild brawl",
+    "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486795/ciryl-gane-josh-hokit-transported-to-hospital-following-ufc-334-wild-brawl",
+    "source": "MMA Mania"
+   },
+   {
+    "title": "Jon Jones Reacts to Ciryl Gane vs. Josh Hokit Barnburner",
+    "url": "https://heavy.com/sports/ufc/jon-jones-ciryl-gane-josh-hokit-2/",
+    "source": "Heavy.com"
+   },
+   {
+    "title": "Josh Hokit inconsolable after losing to Ciryl Gane in frantic title fight at UFC 334",
+    "url": "https://www.irishstar.com/sport/other-sports/josh-hokit-ciryl-gane-ufc-37878522",
+    "source": "Irish Star"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "BR": "2026-11-15T07:38:16.702062+00:00",
+   "CA": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "loterias-sorteio-mega-sena": {
+  "term": "loterias sorteio mega sena",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Confira a partir das 11h deste domingo (15) o resultado do concurso 3086 da Mega-Sena",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-15-o-resultado-do-concurso-3086-da-mega-sena.shtml",
+    "source": "Folha de S.Paulo"
+   },
+   {
+    "title": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo",
+    "url": "https://oglobo.globo.com/economia/noticia/2026/11/15/mega-sena-sorteia-premio-de-r-27-milhoes-neste-domingo.ghtml",
+    "source": "O GLOBO"
+   },
+   {
+    "title": "Concurso 3086 da Mega-Sena pode pagar R$ 27 milhões neste domingo: horário e onde assistir",
+    "url": "https://veja.abril.com.br/economia/concurso-3086-da-mega-sena-pode-pagar-r-27-milhoes-neste-domingo-horario-e-onde-assistir/",
+    "source": "VEJA"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "BR": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "previsao-do-tempo-porto-alegre": {
+  "term": "previsão do tempo porto alegre",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "url": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "source": "G1"
+   },
+   {
+    "title": "Previsão do Tempo: Domingo chuvoso dá lugar a calor intenso nos próximos dias na Capital",
+    "url": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-domingo-chuvoso-da-lugar-a-calor-intenso-nos-proximos-dias-na-capital,8c685224806f14185f149bbede8a4c8ckn53iqsc.html",
+    "source": "Terra"
+   },
+   {
+    "title": "Confira a previsão do tempo para esta quarta-feira",
+    "url": "https://gauchazh.clicrbs.com.br/video/confira-a-previsao-do-tempo-para-esta-quarta-feira-cmwbye04x000x01dmyjotv6ad.html",
+    "source": "GZH"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "BR": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "viggo-mortensen": {
+  "term": "viggo mortensen",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Jamie Dornan Cried When He Was Cast as Aragorn in 'Lord of the Rings'",
+    "url": "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943/",
+    "source": "Variety"
+   },
+   {
+    "title": "Jamie Dornan Admits He ‘Cried’ When Cast as Aragorn in New Lord of the Rings Movie: ‘an Absolute Dream’",
+    "url": "https://people.com/jamie-dornan-cried-when-cast-as-aragorn-lord-of-the-rings-hunt-for-gollum-12249761",
+    "source": "People.com"
+   },
+   {
+    "title": "Seth Meyers Bluntly Tells Jamie Dornan He Doesn't Care About His 'Lord of the Rings' Movie",
+    "url": "https://www.thewrap.com/culture-lifestyle/culture/seth-meyers-jamie-dornan-lord-of-the-rings/",
+    "source": "TheWrap"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "BR": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "ronda-rousey": {
+  "term": "ronda rousey",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "UFC 334 star is ‘pretty sure I’m done fighting’ after suffering fourth loss in a row",
+    "url": "https://bloodyelbow.com/2026/11/14/ufc-334-star-is-pretty-sure-im-done-fighting-after-suffering-fourth-loss-in-a-row/",
+    "source": "Bloody Elbow"
+   },
+   {
+    "title": "Bia Mesquita Turns in Record-Breaking Performance in 334",
+    "url": "https://mmasucka.com/news/bia-mesquita-scores-another-fast-stoppage-in-ufc-334/",
+    "source": "MMA Sucka"
+   },
+   {
+    "title": "Macy Chiasson v Bia Mesquita Odds",
+    "url": "https://sportsbook.fanduel.com/mma/ufc-matches/macy-chiasson-v-bia-mesquita-36298468",
+    "source": "FanDuel Sportsbook"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "BR": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "myron-gardner": {
+  "term": "myron gardner",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "NHL: Calgary Flames at Los Angeles Kings",
+    "url": "https://www.reutersconnect.com/item/nhl-calgary-flames-at-los-angeles-kings/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTczMzA%3D?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+    "source": "Reuters Connect"
+   },
+   {
+    "title": "Devils pour in seven goals in road win over Capitals",
+    "url": "https://www.thesportsleader.com/2026/11/14/devils-pour-in-seven-goals-in-road-win-over-capitals/",
+    "source": "KNBR"
+   },
+   {
+    "title": "Licensable picture: MMA: UFC 334",
+    "url": "https://www.reutersconnect.com/item/mma-ufc-334/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTcwMjQ",
+    "source": "Reuters Connect"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "BR": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "banco-estado": {
+  "term": "banco estado",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "BancoEstado: ¿cómo obtener la gift card de $100 mil que ofrece en noviembre?",
+    "url": "https://www.elmostrador.cl/datos-utiles/2026/11/14/bancoestado-como-obtener-la-gift-card-de-100-mil-que-ofrece-en-noviembre/",
+    "source": "El Mostrador"
+   },
+   {
+    "title": "Banco Estado regala gift card de $100.000 en noviembre: revisa cómo solicitarla",
+    "url": "https://www.encancha.cl/enlahora/servicios/2026/11/4/banco-estado-regala-gift-card-de-100000-en-noviembre-revisa-como-solicitarla-324062.html",
+    "source": "En Cancha"
+   },
+   {
+    "title": "BancoEstado entrega gift card de $100.000: ¿Cómo acceder a ella?",
+    "url": "https://www.lanacion.cl/bancoestado-entrega-gift-card-de-100-000-como-acceder-a-ella/",
+    "source": "La Nación"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CL": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "gerard-depardieu": {
+  "term": "gerard depardieu",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Gérard Depardieu renuncia a recurrir su condena por agresiones sexuales tras video que lo muestra tocando a una extra",
+    "url": "https://www.emol.com/noticias/Espectaculos/2026/11/13/1217024/gerard-depardieu-renuncia-recurrir-condena.html",
+    "source": "Emol"
+   },
+   {
+    "title": "Gérard Depardieu renuncia a recurrir su condena por agresiones sexuales luego de surgir video que lo compromete",
+    "url": "https://elconquistadorfm.net/noticia/gerard-depardieu-renuncia-a-recurrir-su-condena-por-agresiones-sexuale-751103",
+    "source": "El Conquistador FM"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CL": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "uros-medic": {
+  "term": "uroš medić",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "NHL: Calgary Flames at Los Angeles Kings",
+    "url": "https://www.reutersconnect.com/item/nhl-calgary-flames-at-los-angeles-kings/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTczMzA%3D?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+    "source": "Reuters Connect"
+   },
+   {
+    "title": "Devils pour in seven goals in road win over Capitals",
+    "url": "https://www.thesportsleader.com/2026/11/14/devils-pour-in-seven-goals-in-road-win-over-capitals/",
+    "source": "KNBR"
+   },
+   {
+    "title": "Licensable picture: MMA: UFC 334",
+    "url": "https://www.reutersconnect.com/item/mma-ufc-334/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTcwMjQ",
+    "source": "Reuters Connect"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CL": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "toby-vega": {
+  "term": "toby vega",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Goles claves, un traspaso fallido a Asia y a la caza de Luis Mena: Marcos Bolados, el héroe inesperado de Colo Colo",
+    "url": "https://www.latercera.com/el-deportivo/noticia/goles-claves-un-traspaso-fallido-a-asia-y-a-la-caza-de-luis-mena-marcos-bolados-el-heroe-inesperado-de-colo-colo/",
+    "source": "La Tercera"
+   },
+   {
+    "title": "Así recibieron en su casa a Marcos Bolados tras anotar el gol que coronó campeón a Colo Colo",
+    "url": "https://www.tvn.cl/deportes/futbol-nacional/asi-recibieron-en-su-casa-a-marcos-bolados-colo-colo",
+    "source": "TVN"
+   },
+   {
+    "title": "Ex Colo Colo abre el debate sobre la renovación de Marcos Bolados tras gol histórico: “Hay que ser fríos”",
+    "url": "https://redgol.cl/colocolo/ex-colo-colo-abre-el-debate-sobre-la-renovacion-de-marcos-bolados-tras-gol-historico-hay-que-ser-frios",
+    "source": "RedGol"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CL": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "karina-garcia": {
+  "term": "karina garcia",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "El exclusivo accesorio de oro de 18 quilates y diamantes del hijo de Karina García y Kris R que llamó la atención en redes",
+    "url": "https://www.semana.com/gente/articulo/el-exclusivo-accesorio-de-oro-de-18-quilates-y-diamantes-del-hijo-de-karina-garcia-y-kris-r-que-llamo-la-atencion-en-redes/202607/",
+    "source": "Revista Semana"
+   },
+   {
+    "title": "\"Yo veré en qué me gasto la plata\": Kris R estalla ante críticas por chupete de oro y diamantes de Kairo",
+    "url": "https://telemedellin.tv/kris-r-criticas-chupete-de-oro-diamantes-de-kairo/",
+    "source": "Telemedellín"
+   },
+   {
+    "title": "Karina García desata críticas por mostrar su posparto y las primeras fotos de su bebé",
+    "url": "https://laopinion.co/entretenimiento/karina-garcia-desata-criticas-por-mostrar-su-posparto-y-las-primeras-fotos-de-su",
+    "source": "La Opinión Cúcuta"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CO": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "intolerancia": {
+  "term": "intolerancia",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "La intolerancia en pantalones cortos",
+    "url": "https://elpais.com/deportes/futbol/2026-11-14/la-intolerancia-en-pantalones-cortos.html",
+    "source": "EL PAÍS"
+   },
+   {
+    "title": "Depende",
+    "url": "https://www.diariocordoba.com/opinion/2026/11/15/depende-136437554.html",
+    "source": "Diario Córdoba"
+   },
+   {
+    "title": "Los errores de Mao",
+    "url": "https://www.larazon.es/opinion/errores-mao_202611156af8ef14ea8d897997860ed3.html",
+    "source": "La Razón"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CO": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "emiro": {
+  "term": "emiro",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "¿Emiro Navarro de ‘MasterChef’ tiene un tumor? Influencer habló antes del Stream Fighters 5",
+    "url": "https://www.elespectador.com/revista-vea/famosos/emiro-navarro-de-masterchef-tiene-un-tumor-influencer-hablo-antes-del-stream-fighters-5/",
+    "source": "El Espectador"
+   },
+   {
+    "title": "Emiro Navarro reveló si padece de un tumor cerebral y dio detalles de su salud: “Me pasó factura”",
+    "url": "https://www.semana.com/gente/articulo/emiro-navarro-revelo-si-padece-de-un-tumor-cerebral-y-dio-detalles-de-su-salud-me-paso-factura/202659/",
+    "source": "Revista Semana"
+   },
+   {
+    "title": "Emiro Navarro explicó qué ocurrió con su salud antes de su pelea con Valentino Lázaro y habló de un supuesto tumor cerebral: “Mi cuerpo me pasó factura”",
+    "url": "https://www.infobae.com/colombia/2026/11/14/emiro-navarro-explico-que-ocurrio-con-su-salud-antes-de-su-pelea-con-valentino-lazaro-y-hablo-de-un-supuesto-tumor-cerebral-mi-cuerpo-me-paso-factura/",
+    "source": "Infobae"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CO": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "millicom-entel-peru": {
+  "term": "millicom entel peru",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Entel vende filial de Perú a Millicom ¿Qué hará con los US$ 1.714 millones?",
+    "url": "https://www.df.cl/senal-df/el-deal/millicom-anuncia-compra-de-entel-peru-en-us-1-714-millones",
+    "source": "Diario Financiero"
+   },
+   {
+    "title": "Entel dice adiós a Perú: acuerda venta de su filial a Millicom por más de US$1.700 millones",
+    "url": "https://www.latercera.com/pulso/noticia/entel-acuerda-venta-de-sus-operaciones-en-peru-a-millicom-por-mas-de-us1700/",
+    "source": "La Tercera"
+   },
+   {
+    "title": "Entel vendió su operación peruana a Millicom, ¿cómo le iba en el país y qué decía su CEO hace pocos meses?",
+    "url": "https://elcomercio.pe/economia/entel-vendio-su-operacion-peruana-a-millicom-como-le-iba-en-el-pais-y-que-decia-su-ceo-hace-pocos-meses-apuesplan-noticia/",
+    "source": "El Comercio Perú"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "PE": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "westcol-stream-fighters-5": {
+  "term": "westcol stream fighters 5",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Resultados del Stream Fighters 5: cómo quedó la pelea Westcol vs. Blessd y todos los ganadores de la cartelera de boxeo",
+    "url": "https://elcomercio.pe/mag/usa/en-vivo-us/resultados-del-stream-fighters-5-en-vivo-hoy-como-quedo-la-pelea-westcol-vs-blessd-y-todos-los-ganadores-de-la-cartelera-de-boxeo-nnda-nnrt-noticia/",
+    "source": "El Comercio Perú"
+   },
+   {
+    "title": "Stream Fighters 5 2026: fecha, horario, cartelera completa, entradas y dónde ver EN VIVO",
+    "url": "https://depor.com/full-deportes/stream-fighters-5-2026-fecha-horario-cartelera-completa-entradas-y-donde-ver-en-vivo-nnda-nnrt-noticia/",
+    "source": "Depor"
+   },
+   {
+    "title": "¿Dónde ver Stream Fighters 5? Canal de TV y plataforma de transmisión por país",
+    "url": "https://depor.com/full-deportes/donde-ver-stream-fighters-5-en-vivo-hoy-canal-de-tv-y-plataforma-de-transmision-por-pais-nnda-nnrt-noticia/",
+    "source": "Depor"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "PE": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "milo-j": {
+  "term": "milo j",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Latin Grammy 2026: estos son los ganadores de los premios de la música en los que Rosalía ganó mejor álbum y mejor canción",
+    "url": "https://www.bbc.com/mundo/articles/cv8e0lplek1ro",
+    "source": "BBC"
+   },
+   {
+    "title": "Milo J, Rosalía, Karol G y muchos más: Lista completa de ganadores del Latin Grammy 2026",
+    "url": "https://es.rollingstone.com/milo-j-rosalia-karol-g-y-muchos-mas-lista-completa-de-ganadores-del-latin-grammy-2026/",
+    "source": "Rolling Stone en Español"
+   },
+   {
+    "title": "Rosalía, reina de los Latin Grammy: gana el premio a disco del año por ‘Lux’ y a canción del año por ‘La Perla’",
+    "url": "https://elpais.com/us/entretenimiento/2026-11-13/rosalia-reina-de-los-latin-grammy-gana-el-premio-a-disco-del-ano-por-lux-y-a-cancion-del-ano-por-la-perla.html",
+    "source": "EL PAÍS"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "PE": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "seleccion-de-futbol-de-pakistan": {
+  "term": "selección de fútbol de pakistán",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "(VIDEO) Nolberto Solano metió a Pakistán en la gran final del Campeonato de la SAFF 2026",
+    "url": "https://ovacion.pe/noticias/peruanos-mundo/video-nolberto-solano-metio-pakistan-gran-final-del-campeonato-saff-2026",
+    "source": "ovacion.pe"
+   },
+   {
+    "title": "¡Nolberto Solano hace historia con Pakistán! Clasificó por primera vez a la final de la Copa Asiática del Sur",
+    "url": "https://depor.com/futbol-peruano/peruanos-en-el-mundo/nolberto-solano-pakistan-historica-victoria-ante-bangladesh-para-clasificar-a-la-primera-final-de-la-copa-asiatica-del-sur-resumen-y-video-noticia/",
+    "source": "Depor"
+   },
+   {
+    "title": "Nolberto Solano podría conseguir un nuevo título con Pakistán",
+    "url": "https://www.futbolperuano.com/peruanos-en-el-exterior/noticias/nolberto-solano-metio-a-pakistan-en-la-final-de-la-saff-2026-y-ahora-va-por-otro-titulo-612689",
+    "source": "Futbolperuano.com"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "PE": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "catalina-fernandez": {
+  "term": "catalina fernández",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Muere Catalina Fernández a los 25 años",
+    "url": "https://as.com/tikitakas/famosos/muere-catalina-fernandez-a-los-25-anos-f202611-n/",
+    "source": "Diario AS"
+   },
+   {
+    "title": "Exnovia de la influencer Cata Amatista publicó emotiva carta de despedida tras su muerte: “Fuimos prueba de un amor real”",
+    "url": "https://www.infobae.com/colombia/2026/11/13/exnovia-de-la-influencer-cata-amatista-publico-emotiva-carta-de-despedida-tras-su-muerte-fuimos-prueba-de-un-amor-real/",
+    "source": "Infobae"
+   },
+   {
+    "title": "Ella era Catalina Fernández, la creadora de contenido que murió tras luchar contra el cáncer",
+    "url": "https://www.minuto60.com/entretenimiento-cultura/que-murio-catalina-fernandez-creadora-contenido-actriz/18888",
+    "source": "Minuto60"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "UY": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "supuesto-apagon-mundial": {
+  "term": "supuesto apagon mundial",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Noticias alarmistas convierten el miedo en falsa certeza",
+    "url": "https://www.elcomercio.com/opinion/editorial/noticias-alarmistas-miedo-desinformacion-redes-sociales/",
+    "source": "El Comercio Ecuador"
+   },
+   {
+    "title": "¿Habrá un apagón mundial el 17 de noviembre de 2026? Esto se sabe",
+    "url": "https://www.eltelegrafo.com.ec/noticias/tendencias/213/apagon-mundial-17-noviembre-2026-que-pasara",
+    "source": "El Telégrafo (por eliminar)"
+   },
+   {
+    "title": "Supuesto apagón global: ¿Cuál es la actitud que se espera de los cristianos?",
+    "url": "https://noticias.adventistas.org/es/supuesto-apagon-global-cual-es-la-actitud-que-se-espera-de-los-cristianos/",
+    "source": "Notícias Adventistas"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "EC": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "ufc-en-vivo": {
+  "term": "ufc en vivo",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Polymarket UFC 334: Previa En Vivo",
+    "url": "https://www.ufcespanol.com/video/161929",
+    "source": "UFCESPANOL.com"
+   },
+   {
+    "title": "Resumen, resultado y ganador del UFC 334: Ciryl Gane vs Josh Hokit, pelea por el cinturón del peso pesado",
+    "url": "https://as.com/masdeporte/polideportivo/ufc-334-hoy-en-directo-ciryl-gane-vs-josh-hokit-pelea-por-el-cinturon-del-peso-pesado-en-vivo-f202611-d/",
+    "source": "Diario AS"
+   },
+   {
+    "title": "UFC 334: análisis de las 13 peleas y las claves de los enfrentamientos",
+    "url": "https://www.extra.ec/noticia/deportes/ufc-334-analisis-13-peleas-claves-enfrentamientos-167915.html",
+    "source": "Diario Extra"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "EC": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "amanda-nunes": {
+  "term": "amanda nunes",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "‘Worst. Gameplan. Ever.’: Pros react to Amanda Nunes’ shocking submission loss to Kayla Harrison at UFC 334",
+    "url": "https://www.mmafighting.com/ufc/521481/worst-gameplan-ever-pros-react-to-amanda-nunes-shocking-submission-loss-to-kayla-harrison-at-ufc-334",
+    "source": "MMA Fighting"
+   },
+   {
+    "title": "Licensable picture: MMA: UFC 334",
+    "url": "https://www.reutersconnect.com/item/mma-ufc-334/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTY4MjU",
+    "source": "Reuters Connect"
+   },
+   {
+    "title": "Greatest Of All Time? Watch Harrison Choke Out ‘Lioness’",
+    "url": "https://sports.yahoo.com/articles/greatest-time-watch-harrison-choke-050340741.html",
+    "source": "Yahoo Sports"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "EC": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "el-universo": {
+  "term": "el universo",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "La esperanza que movilizó a millones",
+    "url": "https://www.eluniverso.com/opinion/editoriales/la-esperanza-que-movilizo-a-millones-nota/",
+    "source": "El Universo"
+   },
+   {
+    "title": "Estas son las frases más destacadas de la visita del papa León XIV a Uruguay y Argentina",
+    "url": "https://www.primicias.ec/internacional/papa-leon-uruguay-argentina-peru-frases-137138/",
+    "source": "Primicias"
+   },
+   {
+    "title": "Viaje Apostólico a Uruguay, Argentina Y Perú (del 6 al 17 de noviembre de 2026) - Perú",
+    "url": "https://www.vatican.va/content/photogallery/es/eventi/peru2026.html",
+    "source": "The Holy See"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "EC": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "peleas-de-stream-fighters-5": {
+  "term": "peleas de stream fighters 5",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Resultados de ‘Stream Fighters 5′: así quedaron las peleas de boxeo y el duelo de robots de Westcol y Blessd en el Coliseo Medplus",
+    "url": "https://www.infobae.com/colombia/2026/11/14/stream-fighters-5-en-vivo-no-se-pierda-todas-las-incidencias-del-combate-en-el-coliseo-medplus/",
+    "source": "Infobae"
+   },
+   {
+    "title": "¿A qué hora y dónde ver Stream Fighters 5 en Colombia? Horario y transmisión en vivo",
+    "url": "https://www.minuto60.com/entretenimiento-cultura/stream-fighters-5-horarios-combates-donde-ver-gratis-evento-hoy/18973",
+    "source": "Minuto60"
+   },
+   {
+    "title": "Jorge Barón le dio la patadita de la suerte a Westcol en Stream Fighters 5",
+    "url": "https://www.agenciapi.co/noticia/entretenimiento/jorge-baron-le-dio-la-patadita-de-la-suerte-westcol-en-stream-fighters-5",
+    "source": "Agencia de Periodismo Investigativo"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "VE": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "saime": {
+  "term": "saime",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Saime habilita actualización de correo electrónico sin consignar recaudos",
+    "url": "https://www.globovision.com/sociedad/64638/saime-habilita-actualizacion-de-correo-electronico-sin-consignar-recaudos",
+    "source": "Globovisión"
+   },
+   {
+    "title": "El Saime permite cambiar el correo electrónico en cualquier oficina sin recaudos",
+    "url": "https://finanzasdigital.com/el-saime-permite-cambiar-el-correo-electronico-en-cualquier-oficina-sin-recaudos/",
+    "source": "Finanzas Digital"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "VE": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "cavaliers-mavericks": {
+  "term": "cavaliers - mavericks",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "Aussie overcomes travel chaos in career-best NBA game",
+    "url": "https://aapnews.aap.com.au/news/aussie-overcomes-travel-chaos-in-career-best-nba-game",
+    "source": "https://aapnews.aap.com.au/"
+   },
+   {
+    "title": "Tyrese Proctor has finalized his ascent into the James Harden zone",
+    "url": "https://kingjamesgospel.com/tyrese-proctor-has-finalized-his-ascent-into-the-james-harden-zone-mavericks",
+    "source": "King James Gospel"
+   },
+   {
+    "title": "The Cavs MVP and LVP from Thrilling Victory Against Mavericks",
+    "url": "https://www.si.com/nba/cavaliers/onsi/the-cavs-mvp-and-lvp-from-thrilling-victory-against-mavericks-01m7dzh9m057",
+    "source": "Sports Illustrated"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "VE": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "wilfrido-vargas": {
+  "term": "wilfrido vargas",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Condenan a Wilfrido Vargas a pagar RD$14 millones a músico por coautoría de “El baile del perrito”",
+    "url": "https://listindiario.com/entretenimiento/musica/20261114/condenan-wilfrido-vargas-pagar-rd-14-millones-musico-coautoria-baile-perrito_930085.html",
+    "source": "Listín Diario"
+   },
+   {
+    "title": "Wilfrido Vargas enfrenta segunda condena por “El baile del perrito”",
+    "url": "https://diariodigitalrd.com/2026/11/14/wilfrido-vargas-enfrenta-segunda-condena-por-el-baile-del-perrito.html/",
+    "source": "DiarioDigitalRD"
+   },
+   {
+    "title": "Jueza se apoyó en testimonios y viejo casete para condenar a Wilfrido Vargas a pagar RD$14 millones",
+    "url": "https://www.diariolibre.com/revista/musica/2026/11/14/wilfrido-vargas-debera-pagar-indemnizacion-por-14-millones-de-pesos/3720759",
+    "source": "Diario Libre"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "VE": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "fitness": {
+  "term": "fitness",
+  "traffic": "2000+",
+  "news": [
+   {
+    "title": "‘I’m stronger than ever at 72 – these 3 factors are crucial for building strength in midlife and beyond’",
+    "url": "https://www.womenshealthmag.com/uk/fitness/strength-training/a74430186/70s-strength-training-powerlifting-midlife-muscle-transformation/",
+    "source": "Women's Health"
+   },
+   {
+    "title": "Fitness for Diabetics Pt I: Start exercising with confidence",
+    "url": "https://www.guardian.co.tt/article/fitness-for-diabetics-pt-i-start-exercising-with-confidence-6.2.2710537.944da89819",
+    "source": "Trinidad Guardian"
+   },
+   {
+    "title": "Mel Robbins Says She Wants to Be ‘Dancing Into My Late 90s.’ This Is How She Trains for It",
+    "url": "https://www.womenshealthmag.com/fitness/a74414587/mel-robbins-weight-training-routine/",
+    "source": "Women's Health"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "US": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "sa-vs-ban": {
+  "term": "sa vs ban",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "On-song South Africa host Bangladesh with an eye on another WTC final",
+    "url": "https://www.cricinfo.com/series/bangladesh-in-south-africa-2026-27-1525637/south-africa-vs-bangladesh-1st-test-1525662/match-preview",
+    "source": "Cricinfo"
+   },
+   {
+    "title": "Shanto backs pace attack to make impact",
+    "url": "https://www.dhakatribune.com/sport/cricket/424669/shanto-backs-pace-attack-to-make-impact",
+    "source": "Dhaka Tribune"
+   },
+   {
+    "title": "Bavuma backs Hamza at number three against Bangladesh",
+    "url": "https://novanews.co.za/zubayr-hamza-south-africa-bangladesh-first-test/",
+    "source": "https://novanews.co.za/"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "US": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "big-12-standings": {
+  "term": "big 12 standings",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "BYU Sweeps Big 12 Titles, Repeats as Tournament Champions",
+    "url": "https://byucougars.com/news/2026/11/14/byu-sweeps-big-12-titles-repeats-as-tournament-champions",
+    "source": "BYU Athletics"
+   },
+   {
+    "title": "Baylor women's soccer falls to BYU in thrilling Big 12 tournament championship game",
+    "url": "https://sports.yahoo.com/articles/baylor-womens-soccer-falls-byu-061535935.html",
+    "source": "Yahoo Sports"
+   },
+   {
+    "title": "Bears refuse to go quietly but BYU holds on for Big 12 crown",
+    "url": "https://wacotrib.com/sports/college/baylor/article_92f15516-78be-4dd0-8382-5b2a665e9a45.html",
+    "source": "Waco Tribune-Herald"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "US": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "dampier-utah": {
+  "term": "dampier utah",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Utah QB Devon Dampier has fourth-best Heisman Trophy odds after BYU performance",
+    "url": "https://www.sltrib.com/sports/utah-utes/2026/11/12/what-are-devon-dampiers-heisman/",
+    "source": "The Salt Lake Tribune"
+   },
+   {
+    "title": "Utah’s Devon Dampier Explains What Fans Have Wrong About Growing Heisman Attention",
+    "url": "https://sports.yahoo.com/articles/utah-devon-dampier-explains-fans-061117248.html",
+    "source": "Yahoo Sports"
+   },
+   {
+    "title": "Utah Star Devon Dampier Has His Heisman Moment",
+    "url": "https://sportsnaut.com/college-football/utah-star-devon-dampier-has-his-heisman-moment",
+    "source": "Sportsnaut"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "US": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "aiden-mizell": {
+  "term": "aiden mizell",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "No. 4 UCLA defeats Illinois, improves to 10-0 for first time since 1998",
+    "url": "https://www.latimes.com/sports/ucla/story/2026-11-13/ucla-defeats-illinois-improves-to-10-0-for-first-time-since-1998",
+    "source": "Los Angeles Times"
+   },
+   {
+    "title": "UCLA QB Ty Dieffenbach says first-half shoulder injury vs. Illinois not serious",
+    "url": "https://www.espn.com/college-football/story/_/id/50477249/ucla-qb-ty-dieffenbach-leaves-game-injury",
+    "source": "ESPN"
+   },
+   {
+    "title": "Postgame Quotes - UCLA vs. Illinois",
+    "url": "https://uclabruins.com/news/2026/11/13/postgame-quotes-ucla-vs-illinois",
+    "source": "UCLA Bruins"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "US": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "aidan-mizell": {
+  "term": "aidan mizell",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Aidan Mizell is giving UCLA the breakout Florida fans waited years to see",
+    "url": "https://hailfloridahail.com/aidan-mizell-is-giving-ucla-the-breakout-florida-fans-waited-years-to-see",
+    "source": "Hail Florida Hail"
+   },
+   {
+    "title": "Aidan Mizell grabs end-zone interception against Illinois",
+    "url": "https://www.fox.com/watch/clip/fmc-m7h1yvtc2l0xxwu9/aidan-mizell-grabs-end-zone-interception-against-illinois",
+    "source": "FOX One"
+   },
+   {
+    "title": "Competition breeds success for UCLA football’s Aidan Mizell, Scooter Jackson",
+    "url": "https://www.dailynews.com/2026/11/09/competition-breeds-success-for-ucla-footballs-aidan-mizell-scooter-jackson/",
+    "source": "Los Angeles Daily News"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "US": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "football-games-tomorrow": {
+  "term": "football games tomorrow",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "No flight, no problem: Ground stop doesn’t keep Aussie legend from watching son punt for Iowa",
+    "url": "https://www.nytimes.com/athletic/7781914/2026/11/14/faa-ground-stop-iowa-punter-peter-everitt/",
+    "source": "The New York Times"
+   },
+   {
+    "title": "FAA ground stop order impacting travel plans for Iowa, Purdue game",
+    "url": "https://www.kcrg.com/2026/11/14/faa-ground-stop-order-impacting-iowa-purdue-game/",
+    "source": "KCRG"
+   },
+   {
+    "title": "Purdue football team to take buses to Iowa City due to FAA ground stop",
+    "url": "https://www.hawkcentral.com/story/sports/college/iowa/football/2026/11/13/purdue-football-buses-iowa-city-faa-ground-stop/92767924007/",
+    "source": "Hawk Central"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "US": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "mike-perry": {
+  "term": "mike perry",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Mike Perry re-signs with UFC, officially returning more than 5 years after leaving promotion",
+    "url": "https://sports.yahoo.com/mma/article/mike-perry-re-signs-with-ufc-officially-returning-more-than-5-years-after-leaving-promotion-204136846.html",
+    "source": "Yahoo Sports"
+   },
+   {
+    "title": "UFC Reportedly Re-Signs Fan Favorite BKFC Star More Than 5 Years After UFC Exit",
+    "url": "https://www.si.com/fannation/mma/news/ufc-reportedly-re-signs-fan-favorite-bkfc-star-more-than-5-years-after-ufc-exit",
+    "source": "Sports Illustrated"
+   },
+   {
+    "title": "Mike Perry Re-Signs With UFC After Appearing in Anti-Doping Test Records",
+    "url": "https://mmasucka.com/news/mike-perry-re-signs-with-ufc-after-appearing-in-anti-doping-test-records/",
+    "source": "MMA Sucka"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "US": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "travis-barker": {
+  "term": "travis barker",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Phil Collins on health scare: ‘I live a simple life’",
+    "url": "https://apnews.com/video/phil-collins-on-health-scare-i-live-a-simple-life-85ab59482a504555b163ae05f3753658",
+    "source": "AP News"
+   },
+   {
+    "title": "Phil Collins Inducted Into Rock & Roll Hall of Fame: “You Haven’t Heard the Last from Me”",
+    "url": "https://consequence.net/2026/11/phil-collins-rock-hall-induction-solo-artist/",
+    "source": "Consequence of Sound"
+   },
+   {
+    "title": "Phil Collins, 75, considers touring again after years of health struggles",
+    "url": "https://www.usatoday.com/story/entertainment/music/2026/11/10/phil-collins-tour-return-health-update-rock-hall-of-fame/92711570007/",
+    "source": "USA Today"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "US": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "karina-torres": {
+  "term": "karina torres",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "EEUU le revoca la visa a Karina Torres durante viaje con Wendy Guevara: la influencer buscará aclarar su situación",
+    "url": "https://www.infobae.com/mexico/2026/11/14/eeuu-le-revoca-la-visa-a-karina-torres-durante-viaje-con-wendy-guevara-la-influencer-buscara-aclarar-su-situacion/",
+    "source": "Infobae"
+   },
+   {
+    "title": "Karina Torres pelea por recuperar su visa y revela cómo se enteró que se la revocaron",
+    "url": "https://www.tvynovelas.com/famosos/karina-torres-pelea-por-recuperar-su-visa-y-revela-como-se-entero-que-se-la-revocaron",
+    "source": "TVyNovelas"
+   },
+   {
+    "title": "Varada y perdida: Karina Torres confirma que le revocaron su visa; estaba en el AICM",
+    "url": "https://abcnoticias.mx/show/2026/11/13/varada-y-perdida-karina-torres-confirma-que-le-revocaron-su-visa-estaba-en-el-aicm-295446.html",
+    "source": "ABC Noticias"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "MX": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "catalina-fernandez-gomez": {
+  "term": "catalina fernández gómez",
+  "traffic": "1000+",
+  "news": [
+   {
+    "title": "Muere Catalina Fernández a los 25 años",
+    "url": "https://as.com/tikitakas/famosos/muere-catalina-fernandez-a-los-25-anos-f202611-n/",
+    "source": "Diario AS"
+   },
+   {
+    "title": "Muere querida actriz colombiana a los 25 años: documentó su lucha contra agresiva enfermedad",
+    "url": "https://www.univision.com/famosos/muere-querida-actriz-colombiana-a-los-25-anos-documento-su-lucha-contra-agresiva-enfermedad-video",
+    "source": "Univision"
+   },
+   {
+    "title": "Murió Cata Fernández. La actriz e influencer caleña tenía 24 años: \"Ha Partido\"",
+    "url": "https://www.elespectador.com/revista-vea/lo-ultimo/murio-cata-fernandez-la-actriz-e-influencer-calena-tenia-24-anos-ha-partido/",
+    "source": "El Espectador"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "MX": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "tris-clasico": {
+  "term": "tris clasico",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Lotería Nacional: lista completa de GANADORES de Gana Gato, Chispazo y Tris 12 de noviembre | RESULTADOS",
+    "url": "https://www.milenio.com/comunidad/ganadores-sorteo-loteria-nacional-12-noviembre-2026-gato-chispazo-tris",
+    "source": "MILENIO"
+   },
+   {
+    "title": "Resultados de la Lotería Nacional: todos los números ganadores del 9 noviembre",
+    "url": "https://www.sinembargo.mx/4901562/resultados-de-la-loteria-nacional-todos-los-numeros-ganadores-del-9-noviembre/",
+    "source": "Sin Embargo"
+   },
+   {
+    "title": "Resultados del sorteo Tris hoy 13 de noviembre",
+    "url": "https://www.debate.com.mx/economia/resultados-del-sorteo-tris-hoy-13-de-noviembre-20261113-0224.html",
+    "source": "Debate"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "MX": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "francia-vs-turquia": {
+  "term": "francia vs turquía",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Cuando juegan Francia vs. Turquía por la Nations League: equipo, fecha, hora y TV en vivo",
+    "url": "https://www.espn.com.mx/futbol/nota/_/id/17505731/francia-vs-turquia-uefa-nations-league-2026-2027-equipo-fecha-hora-tv-en-vivo",
+    "source": "ESPN México"
+   },
+   {
+    "title": "Las víctimas de la noche de San Siro: Zidane prepara una revolución correctiva en la selección de Francia",
+    "url": "https://es-us.noticias.yahoo.com/deportes/v%C3%ADctimas-noche-san-siro-zidane-102424117.html",
+    "source": "Yahoo"
+   },
+   {
+    "title": "¿Jugará Mbappé? La alineación prevista de Francia para el partido de revancha",
+    "url": "https://www.goal.com/es-mx/noticias/jugara-mbappe-la-alineacion-prevista-de-francia-para-el-partido-de-revancha/blt1a15b454580c15e2",
+    "source": "Goal.com"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "MX": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "spacex-starship-launch": {
+  "term": "spacex starship launch",
+  "traffic": "500+",
+  "news": [
+   {
+    "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+    "url": "https://www.bbc.com/news/videos/cwlym2gy3y3eo",
+    "source": "BBC"
+   },
+   {
+    "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+    "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+    "source": "The Guardian"
+   },
+   {
+    "title": "Highlights: SpaceX Starship soars in orbit, still aiming for ship catch in unprecedented test flight",
+    "url": "https://www.cnn.com/2026/11/13/science/live-news/spacex-starship-flight-15-ship-catch",
+    "source": "CNN"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CA": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "miami-international-airport": {
+  "term": "miami international airport",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Planes collide at Miami runway crossing a day after national grounding",
+    "url": "https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk",
+    "source": "CNN"
+   },
+   {
+    "title": "UPS plane, Copa Airlines jet collide at Miami International Airport, officials say",
+    "url": "https://www.cbsnews.com/miami/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/",
+    "source": "CBS News"
+   },
+   {
+    "title": "UPS plane, Copa Airlines flight collide on taxiway at Miami International Airport",
+    "url": "https://abcnews.com/US/ups-plane-copa-airlines-flight-collide-taxiway-miami/story?id=138152923",
+    "source": "ABC News - Breaking News, Latest News and Videos"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CA": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "simon-holmstrom": {
+  "term": "simon holmström",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Höjdpunkter: ANA-NYI 2-6",
+    "url": "https://www.nhl.com/sv/video/nyi-at-ana-recap-6408405755112",
+    "source": "NHL.com"
+   },
+   {
+    "title": "Holmströms första hattrick i NHL",
+    "url": "https://www.aftonbladet.se/sportbladet/hockey/a/qOLP1z/holmstroms-forsta-hattrick-i-nhl",
+    "source": "Aftonbladet"
+   },
+   {
+    "title": "NHL i natt: Holmströms hattrick och svenskarnas målshow",
+    "url": "https://www.tvmatchen.nu/sport/ishockey/nhl-i-natt-15-november-2026/",
+    "source": "TVmatchen.nu"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CA": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "brittany-renner": {
+  "term": "brittany renner",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "The photo that stole the show at the match! Anyone who saw the outfit was left open-mouthed.",
+    "url": "https://en.haberler.com/the-photo-that-stole-the-show-at-the-match-anyone-2336474/",
+    "source": "Haberler.com"
+   },
+   {
+    "title": "Brittany Renner Was Up To Her Old Tricks Last Night And Helped Create An All-Time Professional Photo That Now Has To Be Up For Awards",
+    "url": "https://www.barstoolsports.com/blog/3581097/brittany-renner-was-up-to-her-old-tricks-last-night-and-helped-create-an-all",
+    "source": "Barstool Sports"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CA": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "bruce-buffer": {
+  "term": "bruce buffer",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "UFC ring announcer Bruce Buffer, 69, has no plans of retirement any time soon; wants 'to keep going'",
+    "url": "https://www.foxnews.com/outkick-sports/ufc-ring-announcer-bruce-buffer-69-no-plans-retirement-soon-want-keep-going",
+    "source": "Fox News"
+   },
+   {
+    "title": "Bud Light Teams With Omaha Steaks For UFC 'Fight Night Feast' 11/12/2026",
+    "url": "https://www.mediapost.com/publications/article/419385/bud-light-teams-with-omaha-steaks-for-ufc-fight-n.html?edition=144461",
+    "source": "MediaPost"
+   },
+   {
+    "title": "Bud Light UFC Steak Feast / Good Robot Brewery Growth",
+    "url": "https://www.americancraftbeer.com/rumor-mill-bud-light-ufc-serve-up-omaha-steaks-canadian-brewery-bucks-growth-trend/",
+    "source": "American Craft Beer"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CA": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "mike-reilly": {
+  "term": "mike reilly",
+  "traffic": "100+",
+  "news": [
+   {
+    "title": "Staal returns for Hurricanes in Global Series finale against Kraken",
+    "url": "https://www.nhl.com/news/jordan-staal-returns-to-hurricanes-lineup-for-global-series-finale",
+    "source": "NHL.com"
+   },
+   {
+    "title": "Two NHL players placed on waivers for Nov. 14",
+    "url": "https://www.dailyfaceoff.com/news/two-nhl-players-placed-waivers-november-14-carolina-hurricanes-mike-reilly-new-york-islanders-kyle-maclean",
+    "source": "Daily Faceoff"
+   },
+   {
+    "title": "Hurricanes captain Jordan Staal activated from injured reserve",
+    "url": "https://www.sportsnet.ca/nhl/article/hurricanes-captain-jordan-staal-activated-from-injured-reserve/",
+    "source": "Sportsnet.ca"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CA": "2026-11-15T07:38:16.702062+00:00"
+  }
+ },
+ "ramit-sethi": {
+  "term": "ramit sethi",
+  "traffic": "200+",
+  "news": [
+   {
+    "title": "Virginia couple walks away from 2.7% mortgage on $595K house after Ramit Sethi maps out a $6.2M alternative",
+    "url": "https://finance.yahoo.com/real-estate/articles/virginia-couple-walks-away-2-174500879.html",
+    "source": "Yahoo Finance"
+   },
+   {
+    "title": "Ramit Sethi tackles dilemma facing homeowners with low rates",
+    "url": "https://www.thestreet.com/real-estate/ramit-sethi-should-homeowners-with-low-mortgage-rates-sell-house",
+    "source": "TheStreet"
+   },
+   {
+    "title": "Couple Has No Savings And Owes Over $428K, Yet Spends $1,029 A Month On Pets. Ramit Sethi Says, ‘Your Dog Doesn’t Deserve It’",
+    "url": "https://finance.yahoo.com/small-business/articles/couple-no-savings-owes-over-000006586.html",
+    "source": "Yahoo Finance"
+   }
+  ],
+  "first": "2026-11-15T07:38:16.702062+00:00",
+  "seen": "2026-11-15T07:38:16.702062+00:00",
+  "geos": {
+   "CA": "2026-11-15T07:38:16.702062+00:00"
   }
  }
 }
